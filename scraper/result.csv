@@ -1,0 +1,1901 @@
+"Basel Annex VIII, II or IX ",Y Code,National Code,"
+Type of waste ","
+Hazardous characteristics","Amount exported 
+ (use dots for decimals, e.g. 20.15)","
+Countries of  transit",Country of destination,"
+Final disposal operation",Recovery operation,Exporting_Country
+A4020,Y1,180108*,Cytotoxic and cytostatic medicines,H6.2,2.4,-,ES,D10,,Andorra
+A4010,Y3,"200132,180109,180208",Expired medicines,,5.021,-,ES,"D9,D5",,Andorra
+A4030,Y4,"200119*,020108*","Agrochemicals, pesticides and derivatives","H6.1,H13",0.188,-,ES,"D15,D10",,Andorra
+A3020,Y8,1302XX,Mineral oils,H12,195.44,-,ES,,"R13,R9",Andorra
+A3020,Y8,130307*,Transformer oils without PCB,H12,10.32,-,ES,,R9,Andorra
+,Y9,190205*,sludges from physico/chemical treatment containing dangerous substances,H13,49.2,-,ES,D5,,Andorra
+A4060,Y9,190207*,Oils and concentrates of Tanks,H3,75.0,-,ES,,R3,Andorra
+A1180,Y10,160209*,Transformers with PCB,H11,15.2,-,ES,D10,,Andorra
+A4130,Y12,150110*,contaminated packaging,H13,37.273,-,ES,"D15,D10","R13,R3,R4",Andorra
+A3050,Y13,"070216*,080409*",Adhesives and silicones,"H11,H3",1.25,-,ES,"D15,D10",,Andorra
+A4070,Y12,080312*,Printing inks,H3,0.386,-,ES,"D9,D15,D10",,Andorra
+"A3050,A4070","Y12,Y13,Y18","200127*,080111*,080119*","Paintings, inks, adhesives and resins","H3,H11,H13",63.958,-,ES,"D9,D15,D10","R13,R12,R1",Andorra
+A4140,Y16,"090101*,090102*,090103*,090104*,090105*",Photographic waste,"H3,H11,H13",2.902,-,ES,"D9,D10",,Andorra
+,Y16,90107.090108000004,photolits,H13,6.32,-,ES,"D15,D5",R13,Andorra
+A1010,Y17,120117,Abrasive materials,,0.716,-,ES,"D15,D5",,Andorra
+A4140,Y18,200129*,Detergents,"H8,H13",3.738,-,ES,"D9,D5",,Andorra
+A4140,Y18,150202*,Absorbents and filtration materials,H13,26.903,-,ES,"D15,D10","R13,R3",Andorra
+,Y18,"170503*,170504",Contaminated land,H13,72.6,-,ES,D5,,Andorra
+A4110,Y18,161105*,Waste of refractory material,H12,17.48,-,ES,D5,,Andorra
+A1180,Y29,200121*,Fluorescent tubes and tubes,H12,8.41,-,ES,D5,"R12,R5,R4",Andorra
+A1030,Y29,200133*,Batteries,H12,7.936,-,ES,,"R12,R4",Andorra
+A1160,Y31,160601*,Batteries,H8,224.624,-,ES,D9,"R13,R4,R6",Andorra
+A4090,Y34,"200114*,060101*,060102*,060103*,060104*,060105*,060106*",Acids and acidic aqueous solutions,"H8,H13",0.674,-,ES,"D9,D5",,Andorra
+A4140,"Y18,Y34","160506*,160507*,160509",Reactive laboratories ,"H8,H11,H13",3.747,-,ES,"D9,D15,D10",,Andorra
+A2050,Y36,"160111*,170601*,170605*",Asbests,H11,29.753,-,ES,D5,,Andorra
+A3150,Y41,"140602*,140604*,200113*",Halogenated solvents,"H3,H13",0.69,-,ES,"D15,D10","R13,R2",Andorra
+A3140,Y42,"140603*,200113*,140605*",Non-halogenated solvents and other similar waste,"H3,H13",8.606,-,ES,"D15,D10","R13,R2",Andorra
+A3140,Y42,160113*,Brake fluids,H13,3.587,-,ES,"D15,D10",,Andorra
+A3140,Y42,160114*,Hazardous antifreeze,H13,11.757,-,ES,"D15,D10",,Andorra
+A1180,"Y45,Y21",200123*,Refrigerators,H13,176.759,-,ES,"D15,D10","R12,R3,R4,R5,R9,R1",Andorra
+A4140,Y45,140601*,"Coolant gases (chlorofluorocarbons, HCFC, HFC)",H13,1.916,-,ES,,"R13,R4,R3,R1",Andorra
+A4130,"Y12,Y18,Y35,Y45","160504*,150111*",Aerosols and gases in pressure containers,H3,40.192,-,ES,,"R13,R4,R3,R1",Andorra
+A1180,"Y20,Y22,Y25,Y27,Y29,Y31,Y45",200135*,WEEE,H12,63.52,-,ES,,"R12,R4",Andorra
+A1010,Y29,180110*,amalgam waste from dental care,"H6.1,H11,H13",0.002,-,ES,,R13,Andorra
+A4140,Y18,120112*,spent waxes and fats,H13,0.242,-,ES,"D15,D10","R13,R12,R1",Andorra
+Y47,,190113*,Ashes,H12,1193.77,-,ES,D5,,Andorra
+Y47,,190113*,Ashes,H12,220.91,-,FR,D5,,Andorra
+A3180,Y10,Y10 and Y48/Y10,PCBs,"H11,H12",52.347,,FR,D10,R4,Argentina
+A1180,"Y20,Y21,Y22,Y23,Y25,Y26,Y29,Y31","Y48/Y21, Y48/Y22, Y48/Y23, Y48/Y25, Y48/Y26, Y48/Y29, Y48/Y31",E-waste: printed circuit boards.,"H11,H12",32.65,,BE,,R4,Argentina
+A1160,Y31,92110100 13 01 2,"Waste lead-acid batteries, whole or crushed","H11,H6.1",2700.0,,IR,,R4,Armenia
+A4100,Y23,A4100,Electric Arc furnace dust,"H11,H12,H13",30000.0,JP,KR,,R4,Australia
+A1170,"Y15,Y34,Y35",A1170,Used lithium ion batteries,"H8,H10,H13",10.0,"NZ,US",CA,,R4,Australia
+A1180,"Y15,Y34,Y35",A1180,Used lithium ion batteries in equipment,"H8,H10,H13",5.0,"NZ,US",CA,,R4,Australia
+A1020,Y31,A1020,Lead Waste and Scrap derived from Used Lead Acid Batteries,"H11,H12",12000.0,"SG,MY,SA,EG,IT,LK,MT",ES,,R4,Australia
+A3170,Y41,A3170,Hexachlorobenzene  and chlorinated waste,"H6.1,H12",1650.0,,FI,D10,,Australia
+A3170,Y41,A3170,Crushed and shredded packing contaminated with hexachlorobenzene and other chlorinated waste,"H6.1,H12",350.0,,FI,D10,,Australia
+A1160,Y31,A1160,Lead Waste and Scrap derived from Used Lead Acid Batteries,"H11,H12",5000.0,JP,KR,,R4,Australia
+A1160,Y31,A1160,Lead Waste and Scrap derived from Used Lead Acid Batteries,"H11,H12",9000.0,JP,KR,,R4,Australia
+A1020,Y31,A1020,Lead Waste and Scrap derived from Used Lead Acid Batteries,"H11,H12",18000.0,"SG,MY,LK,EG,GR,ES,GB,NL,DE",PL,,R4,Australia
+A1160,Y31,A1160,Lead Waste and Scrap derived from Used Lead Acid Batteries,"H11,H12",4200.0,JP,KR,,R4,Australia
+A2030,Y22,A2030,Spent catalyst contaning copper oxides,H12,20.0,"MY,EG,PT,BE,NL",DE,,R4,Australia
+A1160,Y31,A2030,Lead Waste and Scrap derived from Used Lead Acid Batteries,"H11,H12",3000.0,JP,KR,,R4,Australia
+A2030,"Y22,Y23",A2030,Spent catalyst contaning copper and zinc oxides,H12,150.0,"MY,EG,PT,BE,NL",DE,,R4,Australia
+A1020,Y31,A1020,Lead Waste and Scrap derived from Used Lead Acid Batteries,"H11,H12",18000.0,"SG,ID,MY",PH,,R4,Australia
+A1020,Y31,A1020,Lead Waste and Scrap derived from Used Lead Acid Batteries,"H11,H12",10000.0,"SG,MY,EG,TR",BG,,R4,Australia
+A1170,"Y18,Y35,Y42",A1170,Used lithium ion batteries,"H3,H8,H10,H13",360.0,,SG,,R4,Australia
+A1170,Y26,A1170,Spent nickel cadmium batteries,H8,260.0,,KR,,R4,Australia
+A3140,Y42,14 06 03*,solvents,,442.57,,DE ,,R1,Austria
+A3140,Y42,14 06 03*,solvents,H3,2680.3,,DE ,,R2,Austria
+,Y18,10 03 08*,salt slag,H12,17706.5,,DE ,,R5,Austria
+,Y45,14 06 01*,CFCs,H12,31.097,,DE,,R3,Austria
+A1050,Y17,19 02 05*,galvanic sludge,"H11,H12",93.55,,DE,,R4,Austria
+A1060,Y23,11 01 05*,etching solutions,"H8,H12",524.9,,DE,,R5,Austria
+A3020,Y8,13 02 05*,waste oil,H13,121.5,CZ,PL ,,R9,Austria
+A1050,Y17,11 01 09*,galvanic sludge,H11,70.08,"DE,NL",BE ,,R4,Austria
+A2030,Y22,16 08 07*,spent catalysts,"H12,H13",112.02,,DE,,R4,Austria
+A3150,Y41,14 06 02*,halogenated solvents,H6.1,407.149,,DE,,R2,Austria
+A4140,Y29,16 05 06*,test kits,H6.1,18.93,,DE,,R5,Austria
+A1050,Y17,11 01 09*,galvanic sludge,H12,99.08,DE,NL,,R4,Austria
+A1100,Y31,10 06 03*,filter dusts,"H11,H13",1914.09,"DE,NL",BE,,R4,Austria
+A1160,Y31,16 06 01*,LAB,"H8,H11",771.681,,DE,,R4,Austria
+A1030,Y29,18 01 10*,amalgam waste,H12,46.613,,DE,,R4,Austria
+A3140,Y2,07 05 04*,solvents,H3,622.17,"DE,NL",BE,,R2,Austria
+,Y18,17 06 03*,mineral fibers,H11,9.3,,DE,,R5,Austria
+A1160,Y31,16 06 01*,LAB,"H8,H11",258.305,"HU,RO",BG,,R4,Austria
+A1120,Y31,11 02 05*,metal sludge,H12,394.855,DE,BE ,,R4,Austria
+A3020,Y8,13 02 05*,waste oil,H12,649.54,,IT,,R9,Austria
+A4100,Y18,16 10 02,concentrates,H13,36.62,,DE,,R5,Austria
+A4100,Y23,10 02 07*,steelmill dust,"H11,H12",18761.44,CZ,PL,,R4,Austria
+,Y17,12 01 14*,metal sludge,H13,259.138,,DE,,R4,Austria
+A1060,Y17,06 03 13*,metal concentrates,H11,47.61,,DE,,R4,Austria
+,Y18,19 02 05*,C/P-sludge,"H11,H12",1151.62,"SK,PL",FI ,,R4,Austria
+A1160,Y31,16 06 01*,LAB,"H8,H11",3194.159,,SI,,R4,Austria
+A3140,Y2,07 05 04*,solvents,"H3,H12",412.2,,DE,,R2,Austria
+A1060,Y23,11 01 05*,pickling solution,"H8,H12",1103.24,,DE,,R4,Austria
+A4090,Y18,06 03 13*,heavy metal bearig waste,H11,114.2,DE,NL,,R4,Austria
+A1030,Y29,16 06 03*,mercury batteries ,"H8,H12",0.449,,DE,,R13,Austria
+A1010,Y29,18 01 10*,amalgam waste,H12,0.2,,DE,,R13,Austria
+A3180,Y10,16 02 09*,PCB containing equipment,H12,414.107,,DE,D9,,Austria
+,Y45,20 01 23*,CFC containing equipment,H12,34.74,,IT,,R4,Austria
+,Y18,10 01 04*,vanadium ash,H11,417.29,,DE,,R4,Austria
+A1050,Y17,11 01 09*,galvanic sludge,H11,2577.884,,DE,,R4,Austria
+,Y18,17 02 04*,creosote impregnated wood,H6.1,11331.05,,DE,,R1,Austria
+A4070,Y12,19 12 11*,mixed paint containing wastes,H4.1,47.0,,DE,,R3,Austria
+A4130,,16 05 04*,gas cylinders,H12,0.146,,DE,D10,,Austria
+A4130,Y45,16 05 04*,fire extiguisher,H12,35.3,,DE,D13,,Austria
+A1190,Y11,17 04 10*,cabel,H13,263.354,,DE,,R12,Austria
+A4160,Y45,15 02 02*,activated carbon,H12,102.38,DE,BE,,R7,Austria
+A4100,Y23,10 09 10,filter dust,H12,36.0,,DE,,R4,Austria
+,,10 08 10*,skimmings,H4.3,8.72,,DE,D12,,Austria
+A3050,Y13,16 03 05*,paint residues,H3,404.96,DE,BE ,,R12,Austria
+A1170,Y42,16 06 05,lithium batteries,H8,282.43,,DE,,R12,Austria
+A1170,Y26,16 06 02*,Ni-Cd-batteries,H8,2.476,,DE,,R4,Austria
+A3140,Y6,07 05 04*,solvents,H3,210.46,DE,FR ,,R2,Austria
+A4010,Y2,07 05 01*,concentrates,H12,13.86,,DE,,R5,Austria
+A3140,Y42,14 06 03*,solvents,H3,1113.09,,DE,D10,,Austria
+A3140,Y42,14 06 03*,solvents,H3,525.64,,DE,,R12,Austria
+A4080,Y15,16 01 10*,explosives,H1,5.513,,DE,D10,,Austria
+A4130,Y12,15 01 10*,packaging waste,H3,21.86,,DE,,R4,Austria
+A4090,Y34,06 01 01*,sulfuric acid,H8,530.64,,DE,,R6,Austria
+,Y18,19 12 11*,premixed wastes,H4.1,620.18,,DE,D10,,Austria
+A1170,Y42,16 06 05,lithium batteries,H3,113.226,,DE,,R4,Austria
+A1180,Y31,16 02 13*,E-waste,H13,1493.41,,DE,,R4,Austria
+A3140,Y42,15 02 02*,wipes,H4.1,1.653,,DE,,R4,Austria
+A4050,Y33,11 01 98*,cyanides,H6.1,0.164,,DE,,R4,Austria
+A3140,Y42,14 06 05*,metall bearing sludges,H3,0.241,,DE,,R4,Austria
+A4060,Y31,11 01 11*,rinsing water,H12,0.229,,DE,,R4,Austria
+A3020,Y8,13 02 05*,waste oil,H12,330.78,"HU,RO",BG,,R9,Austria
+A2010,Y18,16 02 15*,monitor glass,H13,1921.67,,DE,,R5,Austria
+A3140,Y12,07 01 04*,solvents,H3,38.54,,DE,,R2,Austria
+,Y18,15 02 02*,waste from craft shops,H4.1,1219.19,,DE,,R1,Austria
+,Y5,17 02 04*,impregnated wood,H11,4811.42,,DE,,R12,Austria
+,,10 10 03,Ni-slag,H11,63.092,,DE,,R4,Austria
+,Y18,19 12 11*,premixed wastes,H4.1,523.14,DE,BE,,R12,Austria
+,Y18,10 08 08*,salt slag,H4.3,303.36,,DE,,R4,Austria
+A3140,Y42,19 02 08*,solvents,H3,1425.96,,HU,,R1,Austria
+A1030,Y29,20 01 21*,flurescent tubes,H12,34.242,,DE,,R4,Austria
+A1080,Y23,10 10 09*,filter dusts,H11,46.53,,DE,,R4,Austria
+,Y18,10 03 08*,salt slag,H13,11860.39,DE,FR ,,R5,Austria
+A4060,Y31,11 01 11*,emulsions,H12,2.918,DE,NL,,R4,Austria
+A1020,Y31,16 03 03*,ceramics,H12,8.881,DE,NL,,R4,Austria
+A3050,Y13,08 04 09*,uncured resins,H3,427.21,,DE,,R1,Austria
+A1060,Y23,11 01 05*,pickling solution,H8,248.66,,IT,,R5,Austria
+A4130,Y36,15 01 11*,gas cylinders,H11,17.7,,DE,,R4,Austria
+A2030,,16 08 02*,catalysts,H11,68.038,,DE,,R4,Austria
+A4090,Y17,11 01 07*,pickling solution ,H8,1486.0,,DE,,R5,Austria
+,Y17,11 03 02*,hardening salts,H5.1,44.38,,DE,D12,,Austria
+A1170,,20 01 33*,batteries,H8,163.057,,DE,,R12,Austria
+A4100,Y18,16 05 07*,catalysts,H6.1,2.017,,DE,,R4,Austria
+A1100,Y31,10 06 03*,filter dusts,H13,1050.278,DE,BE,,R4,Austria
+A4070,Y12,08 01 13*,paint residues,H3,436.295,,DE,,R1,Austria
+A4070,Y12,19 02 09*,paint waste,H4.1,18.15,,HU,,R1,Austria
+,Y8,15 02 02*,waste from craft shops,H12,1300.8,,CH,,R1,Austria
+A4020,Y1,18 01 03*,infectious wasdtes,H6.2,271.87,,DE,D10,,Austria
+,Y16,09 01 04*,developer,H12,91.51,,DE,,R4,Austria
+,Y23,10 02 07*,steelmill dust,H13,61867.71,,DE,,R4,Austria
+A1170,Y23,20 01 34,mixed batteries,H8,2213.833,,DE,,R12,Austria
+,Y23,10 02 13*,top gas sludge,H12,1085.01,"DE,CZ",PL,,R4,Austria
+,Y31,19 08 13*,zink bearing sludge,H12,669.5,,DE,,R4,Austria
+A3140,Y42,19 02 08*,solvents,H3,186.54,,CH,,R1,Austria
+,Y18,19 10 05*,shredding residues,H13,117.28,,DE,,R1,Austria
+A1060,Y34,11 01 05*,pickling acid,H8,476.76,,DE,,R13,Austria
+A4020,Y1,20 01 32,unsorted medicines,H12,88.94,,CH,,R1,Austria
+A1180,Y31,16 02 13*,E-scrap,H11,12.022,,DE,,R5,Austria
+,,10 06 04,metal dust,H12,161.149,DE,NL,,R12,Austria
+A4070,Y12,08 01 11*,paint waste,H3,488.973,,DE,,R1,Austria
+A1170,Y26,16 06 02*,Ni-Cd-batteries,H8,262.863,DE,FR ,,R4,Austria
+,Y18,19 10 03*,shredding residues,H12,2362.2,,DE,,R5,Austria
+A3020,Y8,13 02 05*,waste oil,H13,714.94,SI,HR,,R1,Austria
+A1100,Y31,10 06 03*,filter dusts,H6.1,301.105,,IT,,R4,Austria
+A4100,Y23,10 02 13*,top gas sludge,H11,523.42,,DE,,R4,Austria
+A4140,Y18,16 05 06*,chemicals,H3,26.192,,DE,D15,,Austria
+A4010,Y3,18 01 08*,unsorted medicins,H3,45.74,,DE,D10,,Austria
+,Y3,19 02 04*,pharmeceutic waste,H4.1,120.86,,DE,D10,,Austria
+A4060,Y9,12 01 06*,metal sludge,H13,76.92,,DE,,R3,Austria
+A3140,Y42,07 01 08*,solvents,H3,5349.84,,DE,,R3,Austria
+A2030,Y18,16 08 02*,catalysts,H13,102.187,,DE,,R8,Austria
+A1170,Y23,16 06 05,mixed batteries,H8,417.28,,DE,,R4,Austria
+A1030,Y29,06 04 04*,amalgam waste,H12,0.829,,DE,,R4,Austria
+A1180,Y31,20 01 35*,monitors,H11,1231.7,,DE,,R5,Austria
+A1170,,16 06 05,Li-batteries,H12,88.92,DE,FI,,R4,Austria
+A1160,Y31,16 06 01*,LAB,H8,522.68,,CZ,,R4,Austria
+A3140,Y42,19 02 08*,solvents,H3,190.32,,DE,,R12,Austria
+A3150,Y41,07 01 08*,solvents,H12,83.389,,DE,,R5,Austria
+A2030,,16 08 07*,catalysts,H3,3.214,"DE,BE",GB,,R8,Austria
+,Y45,14 06 01*,CFCs,H12,31.223,DE,NL,,R3,Austria
+A3140,Y42,07 01 04*,solvents,H3,22.64,,DE,,R5,Austria
+A1100,Y23,10 06 03*,filter dusts,H13,28.959,,DE,,R4,Austria
+A1170,Y23,20 01 33*,mixed batteries,H8,46.882,,CH,,R4,Austria
+A1060,,11 01 06*,pickling acid,H8,37.655,,DE,,R4,Austria
+A1020,Y31,19 12 11*,contaminated plöastic,H12,142.04,,DE,,R1,Austria
+A3120,Y18,19 10 03*,shredding residues,H13,1788.3,,CH,,R1,Austria
+A4140,,16 05 06*,chemicals,H3,8.3,,DE,D10,,Austria
+A3150,Y41,14 06 02*,solvents,H3,115.0,,CH,,R1,Austria
+A4070,Y12,19 02 09*,paint sludge,H4.1,224.8,,DE,,R1,Austria
+A3140,Y42,15 02 02*,whiping paper,H4.1,2.73,DE,NL,,R4,Austria
+,Y42,16 01 13*,break fluid,H12,246.78,,DE,,R12,Austria
+A1170,Y26,16 06 02*,Ni-Cd-batteries,H11,23.33,,CZ,,R12,Austria
+,,12 01 04,metal dust,H12,23.691,,DE,,R4,Austria
+A2030,Y18,16 08 07*,catalysts,H4.3,11.874,,DE,D10,,Austria
+A3070,Y39,07 01 07*,phenoles,H6.1,151.84,,DE,,R1,Austria
+A3150,Y41,14 06 04*,solvent sludge,H6.1,12.32,"DE,NL",BE,,R2,Austria
+A3140,Y42,14 06 05*,solvent sludge,H13,7.241,"DE,NL",BE,,R2,Austria
+,Y18,16 01 07*,oil filter,H4.1,22.28,,IT,,R4,Austria
+,Y17,19 02 07*,oily sludge,H12,23.157,,DE,,R4,Austria
+A1180,Y31,20 01 35*,monitors,H11,233.51,,IT,,R5,Austria
+A2030,,16 08 07*,catalysts,H11,15.56,,DE,,R13,Austria
+A3150,Y41,14 06 02*,solvents,H3,43.22,,DE,,R1,Austria
+A4050,Y33,11 01 98*,paints,H6.1,0.105,DE,NL,,R4,Austria
+A4050,Y33,11 03 01*,hardening salts,H6.1,12.86,,DE,D12,,Austria
+,Y18,11 01 98*,concentrates,H12,0.53,,DE,,R4,Austria
+A4140,Y18,16 05 06*,mixed chemicals,H3,7.2,,DE,D10,,Austria
+,Y18,19 02 11*,conzentrates,H13,3905.97,,DE,D10,,Austria
+A1030,Y29,20 01 21*,fluorescent tubes,H12,753.336,,DE,,R5,Austria
+A3020,Y8,13 02 05*,waste oil,H12,17365.49,,DE,,R9,Austria
+A4100,,16 05 07*,catalysts,H6.1,0.85,,DE,D10,,Austria
+Y46,,20 03 01,MSW,,2021.34,,DE,,R1,Austria
+Y46,,20 03 07,bulky waste,,19.91,,DE,,R13,Austria
+Y46,,20 03 01,MSW,,3392.47,,CH,D10,,Austria
+Y46,,20 03 01,MSW,,82620.69,,CH,,R1,Austria
+Y47,,19 12 12,scrap from MSW incineration,,23.38,DE,BE ,,R12,Austria
+"A4100,Y47",,19 01 13*,fly ash,H13,733.44,,DE,D12,,Austria
+"A4100,Y47",,19 01 07*,flue gas cleaning residues,H13,1936.8,,DE,D12,,Austria
+"A4100,Y47",,19 01 13*,fly ash,H8,5501.12,,DE,,R5,Austria
+Y47,,19 12 03,scrap from MSW incineration,,1417.54,DE,NL,,R4,Austria
+"A4100,Y47",,19 01 13*,fly ash,H13,1852.3,,DE,D14,,Austria
+Y47,,19 12 03,scrap from MSW incineration,,159.68,DE,NL,,R12,Austria
+Y47,,19 12 03,scrap from MSW incineration,,2317.87,,DE,,R4,Austria
+A3180,Y10,,Obsolete Transformers,H12,30.0,GB,FR,D10,,Barbados
+"B1210,B1230",,,"Slag, drosses (except gran-ulated slag), scale and oth-ers, wastes of production of ferrous metals, gas cleaning dust and others",H13,37000.0,,RU,,R4,Belarus
+B1100,Y23,,"Slag, drosses, residues of substances (except pro-duction of ferrous metals), comprising metals, arsenic or their compounds, most-ly containing zinc (hard zinc)",H13,410.0,,LV,,R4,Belarus
+B1100,Y23,,"Slag, drosses, residues of substances (except pro-duction of ferrous metals), comprising metals, arsenic or their compounds, most-ly containing zinc (others), 
+zinc-containing slags",H13,20.02,,LV,,R4,Belarus
+B1100,Y23,,"Slag, drosses, residues of substances (except pro-duction of ferrous metals), comprising metals, arsenic or their compounds, most-ly containing zinc (others), 
+zinc-containing slags",H13,15.165,,LT,,R4,Belarus
+B1100,Y23,,"Slag, drosses, residues of substances (except pro-duction of ferrous metals), comprising metals, arsenic or their compounds, most-ly containing zinc (others),
+zinc ashes",H13,480.0,,LV,,R4,Belarus
+B1100,Y23,,"Slag, drosses, residues of substances (except pro-duction of ferrous metals), comprising metals, arsenic or their compounds, most-ly containing zinc (others), zinc dust",H13,100.0,,LV,,R4,Belarus
+B1100,Y23,,"Slag, drosses, residues of substances (except pro-duction of ferrous metals), comprising metals, arsenic or their compounds, most-ly containing zinc (others),
+Zinc-containing wastes",H13,10.39,,LV,,R4,Belarus
+B2040,Y22,,"Slag, drosses, residues of substances (except pro-duction of ferrous metals), comprising metals, arsenic or their compounds, most-ly containing brass, brass-containing slag",H13,20.02,PL,DE,,R4,Belarus
+B2040,Y22,,"Slag, drosses, residues of substances (except pro-duction of ferrous metals), comprising metals, arsenic or their compounds, most-ly containing brass, brass-containing slag",H13,110.1,,LV,,R4,Belarus
+B1100,,,"Slag, drosses, residues of substances (except pro-duction of ferrous metals), comprising metals, arsenic or their compounds, most-ly containing aluminium,
+aluminium alloy slag",H13,2500.0,,RU,,R4,Belarus
+B1120,,,"Slag, ash and residues of substances (except pro-duction of ferrous metals), comprising metals,, arsenic or their compounds, most-ly containing nickel, spent catalysts",H11,40.166,,LV,,R8,Belarus
+B3080,,,"Wastes, waste paring and scrap of rubber (other than hard rubber), powders and granules obtained from them), (scrap, cord-reinforced industrial rubber wastes)",H4.1,3001.0,"KZ,KG,TJ,UA",PK,,R3,Belarus
+B3080,,,"Wastes, waste paring and scrap of rubber (other than hard rubber), powders and granules obtained from them), (scrap, cord-reinforced industrial rubber wastes)",H4.1,200.0,"DE,PL",NL,,R3,Belarus
+B3080,,,"Wastes, waste paring and scrap of rubber (other than hard rubber), powders and granules obtained from them), (scrap, cord-reinforced industrial rubber wastes)",H4.1,40.0,,ET,,R3,Belarus
+B3140,,,"Other tires, pneumatic tires used",H4.1,600.0,RU,GE,,R3,Belarus
+"A1160,A1170,A1180",Y31,,Waste and scrap of prima-ry batteries and electric accumulators (others),H12,460.832,,LT,,R13,Belarus
+"A1180,A3180",Y10,,"Products of chemical and other related industries, not mentioned
+(capacitors contaminated with PCBs)",H12,25.0,"DE,PL",FR,,R13,Belarus
+A3180,Y10,160209,,,129.734,,FR,D10,,Belgium
+A3180,Y10,160209,,,12.26,,NL,D14,,Belgium
+A3050,Y12,80113,,,39.44,,FR,,R12,Belgium
+A4070,Y12,80111,,,125.77,,DE,,R12,Belgium
+A4130,Y12,150110,,,14.38,,DE,,R12,Belgium
+A4130,Y12,150110,,,253.999,,NL,,R12,Belgium
+A3050,Y13,80409,,,101.27,,DE,,R12,Belgium
+A3050,Y13,191211,,,242.3,,DE,,R12,Belgium
+A4140,Y14,160506,,,113.256,,DE,D10,,Belgium
+A4140,Y14,160506,,,10.953,,DK,D10,,Belgium
+A4080,Y15,160401,,,1.523,,DE,D10,,Belgium
+A4080,Y15,160401,,,2.322,,DE,D15,,Belgium
+A4080,Y15,160402,,,157.842,,DE,D15,,Belgium
+A4080,Y15,160504,,,49.993,,NL,,R12,Belgium
+A4060,Y16,70701,,,276.407,,NL,D10,,Belgium
+A1170,Y18,160121,,,6.2,,DE,,R13,Belgium
+A1190,Y18,170410,,,48.25,,FR,,R12,Belgium
+A4010,Y18,161001,,,594.04,,FR,D10,,Belgium
+A4090,Y18,190204,,,545.0,,DE,D10,,Belgium
+A4100,Y18,101115,,,30.82,,DE,D12,,Belgium
+A4110,Y18,190113,,,7486.168,,DE,,R12,Belgium
+A4140,Y18,160903,,,15.988,,DE,D10,,Belgium
+A4100,Y22,160507,,,16.398,,NL,D14,,Belgium
+A2030,Y23,160802,,,28.275,,NL,,R13,Belgium
+A1030,Y24,100606,,,2266.547,,DE,D12,,Belgium
+A1030,Y29,60404,,,158.214,,DE,D12,,Belgium
+A1030,Y29,200121,,,6.586,,DE,,R12,Belgium
+A1160,Y31,160601,,,99.539,,FR,,R12,Belgium
+A1160,Y31,160601,,,56.485,,NL,,R12,Belgium
+A1160,Y31,160601,,,3530.647,,NL,,R13,Belgium
+A1190,Y31,170409,,,20.0,,NL,,R13,Belgium
+A1180,Y32,160213,,,3.064,,FR,,R12,Belgium
+A4090,Y34,60106,,,14.11,,DE,D10,,Belgium
+A4090,Y34,160506,,,9.4,,DE,D10,,Belgium
+A4090,Y34,200114,,,5.784,,DE,D10,,Belgium
+A4140,Y34,160506,,,34.557,,DE,D10,,Belgium
+A4090,Y35,50111,,,7498.114,,NL,D10,,Belgium
+A4090,Y35,160506,,,2.94,,DE,D10,,Belgium
+A4090,Y35,200115,,,11.08,,DE,D10,,Belgium
+A4050,Y38,80501,,,101.21,,DE,,R12,Belgium
+A3150,Y41,70103,,,584.423,,DE,D10,,Belgium
+A3150,Y41,70503,,,25.92,,DE,D10,,Belgium
+A3170,Y41,70107,,,11741.985,,FR,D10,,Belgium
+A3140,Y42,70101,,,377.9,,FR,D10,,Belgium
+A3140,Y42,70104,,,297.1,,NL,D10,,Belgium
+A3140,Y42,70108,,,444.273,,DE,D10,,Belgium
+A3140,Y42,70204,,,610.818,,NL,,R12,Belgium
+A3140,Y42,70404,,,22.56,,FR,D10,,Belgium
+A3140,Y42,70704,,,18.28,,DE,D10,,Belgium
+A3140,Y42,150202,,,0.94,,DE,,R13,Belgium
+A3140,Y42,161001,,,2936.68,,FR,D10,,Belgium
+A3140,Y42,190208,,,1233.74,,FR,D10,,Belgium
+A4140,Y42,160508,,,96.055,,NL,,R12,Belgium
+A3120,,191004,,,3532.006,,FR,,R12,Belgium
+A3140,,161002,,,2004.4,,FR,D10,,Belgium
+,"Y12,Y13,Y41,Y45",,"sludges from paints and varnishes, halogenated solvents, packaging waste and filter materials",,199.06,,AT,D10,,Bosnia and Herzegovina
+,Y11,,0,,13.96,,AT,D9,,Bosnia and Herzegovina
+,"Y18,Y31",,sludges containing dangerous substances from other treatment of industrial waste water,,24.14,,AT,D10,,Bosnia and Herzegovina
+,Y1,,wastes whose collection and disposal is subject to special requirements in order to prevent infection,,13.2,,AT,D10,,Bosnia and Herzegovina
+A1160,"Y31,Y34",,0,"H12,H8",3483.37,,RS,,R4,Bosnia and Herzegovina
+A1160,"Y31,Y34",,lead acid batteries,,1571412.0,,SI,,R4,Bosnia and Herzegovina
+A1160,"Y31,Y34",,lead acid batteries,,889.54,,HR,,R4,Bosnia and Herzegovina
+A4070,Y12,,waste paint and varnish ,,73.0,,DE,D10,,Bosnia and Herzegovina
+,Y18,,mixed waste ,"H4.1,H6.1,H12",166.16,,DE,D10,,Bosnia and Herzegovina
+,"Y2,Y3",,Pharmaceutical waste,"H3,H4.1,H6.1,H12",37.16,,DE,D10,,Bosnia and Herzegovina
+A1160,Y31,,lead acid batteries,H12,912.43,,CZ,,R4,Bosnia and Herzegovina
+A1160,Y31,,lead acid batteries,H12,432.64,,AT,,R4,Bosnia and Herzegovina
+A1010,,060405*,Calcined material containing Pt,H12,0.35,,DE,,R4,Brazil
+A1020,Y18,110198*,Ashes from calcined slop/washcoat (from automotive catalyst production),H8,70.0,"ES,NL,GB,DE,FR",BE,,R4,Brazil
+A1020,Y18,110198*,Ashes from calcined slop/washcoat (from automotive catalyst production),H8,30.0,DE,BE,,R4,Brazil
+A4160,Y18,061302*,Carbon fines,,1200.0,"ES,GB,NL,DE",BE,,R4,Brazil
+A2030,,160807*,Palladium/carbon catalyst,"H11,H12",150.0,"ES,GB",NL,,R4,Brazil
+A1020,Y31,100815*,Sn Al residues,H12,50.0,"NL,GB,DE",BE,,R4,Brazil
+A1020,Y31,100815*,SnPb ashes and residues,H12,150.0,"NL,GB,DE",BE,,R4,Brazil
+A1020,Y18,010307*,Spent Au on Carbon containing precious metals,H12,250.0,"ES,NL,GB,DE,FR",BE,,R4,Brazil
+A2030,Y18,160802*,Exhausted Catalyst containing Rhodium,H3,100.0,"ES,NL,GB,DE,FR",BE,,R4,Brazil
+A2030,,160807*,"Spent catalyst, contains precious metals","H4.1,H4.2,H6.1",25.0,"MA,NL,GB",DE,,R13,Brazil
+A1180,,160605,"Used nickel metal hybride batteries, used lithium ion batteries","H8,H12",50.0,"NL,DE",SE,,R4,Brazil
+A4030,Y4,15 01 10*,obsolete pesticides,H6.1,14.742,"RO,HU,AT,DE",FR,D10,,Bulgaria
+A4030,Y4,20 01 19*,obsolete pesticides,H6.1,215.412,"RO,HU,AT,DE",FR,D10,,Bulgaria
+A4030,Y4,20 01 19*,obsolete pesticides,H6.1,788.705,"RO,HU,AT,DE",FR,D10,,Bulgaria
+A1010,Y29,06 04 04*,waste containing mercury,H8,3.425,"CZ,HU,RO,SK",DE,,R4,Bulgaria
+,,19 02 11*,mixed material contаining hazardous substances,H12,44.745,"CZ,HU,RO,SK",DE,D10,,Bulgaria
+A1030,Y29,20 01 21*,used fluorescent and other mercury containing lamps,H12,11.1,,RO,,"R12,R4,R5",Bulgaria
+A2030,,16 08 02*,VniMo-V spent catalysts,H12,2580.476,"HU,RO",AT,,R4,Bulgaria
+A2030,,16 08 02*,VniMo-V spent catalysts,H12,722.256,"RO,HU,SK,CZ",DE,,R4,Bulgaria
+,Y18,19 02 04*,premixed waste cont. hazardous substances,H4.1,51.24,"HU,RO",AT,D10,,Bulgaria
+A1050,Y17,11 01 09*,sludges/filter cake,H12,64.62,"RO,HU,SK,CZ",DE,,R4,Bulgaria
+A1020,Y31,19 12 11*,lead paste,H12,248.072,,RO,,R4,Bulgaria
+A1160,Y31,16 06 01*,spent lead-acid batteries,H8,534.66,,GR,,R4,Bulgaria
+A4030,Y4,02 01 08*,agrochemical waste containing dangerous substances,H6.1,21.16,"RO,HU,SK,CZ",DE,D10,,Bulgaria
+A4030,Y4,02 01 08*,agrochemical waste containing dangerous substances,H6.1,41.1,"RO,HU,AT,DE",CH,D10,,Bulgaria
+A4060,"Y8,Y9","130701, 130899",Used Minieral Oil,,978.6,,PT,,"R3,R9",Cabo Verde
+A1160,Y31,AA170,Lead Acid Battery,"H8,H11,H12",6998.0,,KR,,R4,China
+"A1020,A1180","Y20,Y27,Y31,Y45",AD220,Printed Circuit Board,"H6.1,H11,H12,H13",1952.0,,JP,,R4,China
+B1150,Y18,AA160,"Precious Metal Ash
+",H11,22.0,"CN,EG,GR,SG",IT,,R4,China
+B1150,Y18,AA160,"Precious Metal Ash
+",H11,1.0,,IT,,R4,China
+,,AD220,Recovered Refrigerant,"H11,H12",16.0,,SG,,R3,China
+A1020,Y22,AA160,"Integrated Circuit Powder
+",H11,122.0,"BE,CN,EG,MY,ES",DE,,R4,China
+A1020,Y22,AA160,"Integrated Circuit Powder
+",H11,69.0,"CN,EG,MY,PT",BE,,R4,China
+A1170,Y26,AA180,"Scraps of Li-ion Battery, Li-Polymer Battery, NI-MH Battery and NI-CD Battery
+",H11,24.0,,JP,,R4,China
+A1170,Y26,AA180,"Waste Rechargeable Lithium-ion, Lithium Polymer, Nickel Metal Hydride and Nickel Cadmium Batteries and Waste Primary Batteries
+",H11,83.0,,KR,,R4,China
+A1170,Y18,AA180,"Used Lithium-ion & Lithium Polymer Batteries
+",H11,25.0,"CN,EG,DE,NL,SG,LK,GB",BE,,R4,China
+B1110,Y17,HW900-045-49,Waste printed circuit board,H13,10.0,,SG,,R4,China
+A2030,Y_,HW261-160-50,Spent catalyst,H12,200.0,,DE,,R4,China
+A1020,Y18,HW772-003-18,Fly dust from incinerator,H12,20.0,,BE,,R4,China
+A1020,Y18,HW772-003-18,Sludge from waste water,H12,300.0,,BE,,R4,China
+B1100,"Y21,Y22,Y31",HW900-045-49	,Waste printed circuit board,H13,120.0,,JP,,R4,China
+A1050,"Y17,Y22",HW336-062-17	,Galvanic sludge,H11,70.0,"EG,NL",DE,,R4,China
+A1050,"Y17,Y22",HW336-063-17	,Galvanic sludge,H11,60.0,"EG,NL",DE,,R4,China
+A1050,"Y17,Y22",HW336-063-17	,Galvanic sludge,H11,120.0,EG,DE,,R4,China
+A1050,"Y17,Y22",HW336-063-17	,Galvanic sludge,H11,20.0,EG,DE,,R4,China
+B1110,"Y18,Y22",HW900-045-49	,Waste circuit boards,H13,366.0,,SG,,R4,China
+B1110,Y22,HW900-045-49	,Waste circuit boards,H13,185.0,,KR,,R4,China
+B1110,Y22,HW900-045-49	,Waste circuit boards,H13,50.0,,KR,,R4,China
+B1110,Y22,HW900-045-49	,Waste circuit boards,H13,80.0,,KR,,R4,China
+A1170,Y_,,Waste Lithium Metal Batteries,,3.92,US,CA,,R4,Colombia
+A4030,Y4,,Obsolete Pesticides,,21.48,"PA,
+PE,
+CL,
+BS,
+NL,
+BE,
+GB,
+DE",DK,D10,,Colombia
+,Y7,110301*,Gold and cyanide filters,H8,15.0,,US,,R4,Costa Rica
+,Y7,110301*,Resines with cyanide and gold,H8,2.25,,US,,R4,Costa Rica
+,Y7,110301*,Water with gold and cyanide (gold stripper process),H8,7.5,,US,,R4,Costa Rica
+,Y7,160307*,Sludge with cyanide and gold,H8,45.0,,US,,R4,Costa Rica
+"A1180,B1110","Y20,Y22,Y23,Y24,Y27,Y28,Y29,Y30,Y31",200135*,Electronic components from the waste of computer parts,H12,30.0,,US,,"R4,R12",Costa Rica
+A2010,Y31,"160213*, 160215*",Whole cathode ray tubes,H11,86.0,,US,,R4,Costa Rica
+A1030,Y29,200121*,Crushed fluorescent tubes with mercury and plastic,H11,45.0,,US,,R4,Costa Rica
+,Y_,03 01 05,AC170,,1427.54,SI,AT,,R3,Croatia
+,Y_,03 01 05,AC170,,376.38,"SI,HU",AT,,R3,Croatia
+,Y_,15 01 03,AC170,,460.2,SI,AT,,R3,Croatia
+,Y_,16 03 06,,,12.15,,HU,,R1,Croatia
+,Y_,17 02 01 ,AC170,,117.08,SI,AT,,R3,Croatia
+,Y_,18 01 09,,,52.92,"SI,AT",DE,,R1,Croatia
+,Y_,19 02 03,,,1680.0,SI,AT,,R1,Croatia
+,Y_,19 02 03,,,1086.146,SI,AT,,R1,Croatia
+,Y_,19 08 01,,,866.58,SI,AT,,R1,Croatia
+,Y_,19 08 12,AC270,,49.98,,HU,,R3,Croatia
+,Y_,19 12 04,Mixed plastics,,171.608,SI,AT,,R3,Croatia
+,Y_,19 12 07,AC170,,6292.04,SI,AT,,R3,Croatia
+,Y_,19 12 07,AC170,,4725.68,"SI,HU",AT,,R3,Croatia
+,Y_,19 12 10,RDF,,5025.38,,BA,,R1,Croatia
+,Y_,19 12 10,RDF,,596.62,SI,AT,,R1,Croatia
+,Y_,19 12 10,RDF,,202.0,SI,AT,,R1,Croatia
+,Y_,19 12 12,RDF,,784.28,SI,AT,,R1,Croatia
+,Y_,19 12 12,RDF,,775.28,SI,AT,,R1,Croatia
+,Y_,19 12 12,RDF,,300.2,SI,AT,,R1,Croatia
+,Y_,19 12 12,RDF,,299.18,SI,AT,,R1,Croatia
+,Y_,19 12 12,RDF,,61.56,SI,AT,,R1,Croatia
+,Y_,20 01 38,AC170,,352.52,SI,AT,,R3,Croatia
+,Y_,20 01 38,AC170,,205.62,"SI,HU",AT,,R3,Croatia
+,"Y12,Y13,Y17,Y18",19 12 11*,Mixed waste,,270.46,SI,AT,D10,,Croatia
+,"Y12,Y13,Y17,Y18,Y42",19 02 08*,Mixed waste,,122.7,SI,AT,D10,,Croatia
+,"Y12,Y18",19 12 11*,Mixed waste,,843.54,SI,AT,D10,,Croatia
+,"Y12,Y18",19 12 11*,Mixed waste,,166.88,SI,AT,D10,,Croatia
+,"Y12,Y18",19 12 11*,Mixed waste,,22.1,"SI,AT,DE",NL,D10,,Croatia
+,Y17,12 01 12*,,"H3,H4.1,H12,H13",48.42,"SI,AT",DE,D10,,Croatia
+,Y17,12 01 12*,,"H3,H4.1,H12,H13",23.8,"SI,AT",DE,D10,,Croatia
+,"Y17,Y34",11 01 05*,,H8,70.25,SI,AT,,R6,Croatia
+,Y18,04 02 20,AC270,,88.9,SI,AT,,R1,Croatia
+,Y18,04 02 20,AC270,,23.38,SI,AT,,R1,Croatia
+,Y18,12 01 12*,,"H3,H4.1,H11,H12,H13",17.814,"IT,FR,ES",PT,D9,,Croatia
+,Y18,19 02 04*,Mixed waste,"H3,H6.1,H11,H12",680.4,SI,AT,D10,,Croatia
+,Y18,19 02 04*,Mixed waste,"H3,H6.1,H11,H12,H13",554.68,SI,AT,D10,,Croatia
+,Y18,19 02 04*,Mixed waste,"H3,H6.1,H11,H12,H13",288.36,SI,AT,D10,,Croatia
+,Y18,19 02 04*,Mixed waste,"H3,H6.1,H11,H12",143.86,"SI,AT",DE,D10,,Croatia
+,Y18,19 02 04*,Mixed waste,"H3,H6.1,H11,H12",104.54,"SI,AT",DE,D10,,Croatia
+,Y18,19 02 04*,Mixed waste,"H3,H6.1,H11,H12",41.14,SI,AT,D10,,Croatia
+,Y18,19 02 09*,Mixed waste,"H4.1,H12,H13",70.94,SI,AT,D10,,Croatia
+,Y18,19 02 09*,Mixed waste,"H4.1,H12,H13",22.9,"SI,IT",FR,,"R12,R1",Croatia
+,Y18,19 12 11*,Mixed waste,"H4.1,H6.1,H11",732.68,"SI,AT",DE,D10,,Croatia
+,Y18,19 12 11*,Mixed waste,"H4.1,H6.1,H11,H12",556.26,SI,AT,D10,,Croatia
+,Y18,19 12 11*,Mixed waste,"H4.1,H6.1,H12",316.56,"SI,AT",DE,D10,,Croatia
+,Y18,19 12 11*,Mixed waste,"H4.1,H6.1,H12",314.22,"SI,AT",DE,D10,,Croatia
+,Y18,19 12 11*,Mixed waste,"H4.1,H6.1,H11,H12",289.66,SI,AT,D10,,Croatia
+,Y18,19 12 11*,Mixed waste,"H4.1,H6.1,H12",282.82,SI,AT,D10,,Croatia
+,Y18,19 12 11*,Mixed waste,"H4.1,H6.1,H11,H12",164.36,SI,AT,,"R3,R4",Croatia
+,Y18,19 12 11*,Mixed waste,"H4.1,H6.1,H12",73.48,SI,AT,D10,,Croatia
+,Y18,19 12 11*,Mixed waste,"H4.1,H6.1,H12,H11",24.32,SI,AT,,"R3,R4",Croatia
+,"Y18,Y41,Y42",19 02 08*,Mixed waste,"H3,H6.1,H13",64.06,SI,AT,D10,,Croatia
+,"Y18,Y45",14 06 01*,AC150,H12,11.254,"SI,AT",DE,D10,,Croatia
+,"Y2,Y4,Y5,Y12,Y13,Y17,Y18",19 12 11*,Mixed waste,,877.66,SI,AT,D10,,Croatia
+,"Y2,Y4,Y5,Y12,Y13,Y17,Y18",19 12 11*,Mixed waste,,265.6,SI,AT,D10,,Croatia
+,Y34,11 01 05*,,H8,186.98,SI,AT,,"R4,R5",Croatia
+,"Y41,Y18,Y42",19 02 08*,Mixed waste,"H3,H6.1,H13",454.62,SI,AT,D10,,Croatia
+,Y42,16 03 06,,H3,19.09,,HU,,R1,Croatia
+,"Y9,Y16,Y17,Y18",19 02 04*,Mixed waste,"H12,H13",158.61,SI,AT,D10,,Croatia
+,"Y9,Y16,Y17,Y18",19 02 04*,Mixed waste,"H12,H13",22.22,SI,AT,D10,,Croatia
+A1020,Y31,10 04 01*,,H11,25.72,SI,AT,"D9,D1",,Croatia
+A1020,Y31,10 04 05*,,H12,140.18,RS,BG,,R4,Croatia
+A1020,Y31,16 03 03*,,H12,1.442,"SI,AT",DE,,R4,Croatia
+A1020,Y31,16 03 03*,,H12,0.586,"SI,AT,DE",NL,,R4,Croatia
+A1060,Y34,11 01 05*,,,266.314,,SI,D9,,Croatia
+A1060,Y34,11 01 05*,,,191.22,SI,AT,,R4,Croatia
+A1060,Y34,11 01 05*,,,125.46,SI,AT,,R4,Croatia
+A1160,Y31,16 06 01*,,,141.168,,SI,,R4,Croatia
+A1160,"Y31,Y34",16 06 01*,,,1681.408,,SI,,R4,Croatia
+A1160,"Y31,Y34",16 06 01*,,,978.94,,SI,,R4,Croatia
+A1160,"Y31,Y34",16 06 01*,,"H8,H12",870.925,SI,AT,,R4,Croatia
+A1160,"Y31,Y34",16 06 01*,,H8,413.14,SI,AT,,R4,Croatia
+A1160,"Y31,Y34",16 06 01*,,"H8,H12",390.798,SI,AT,,R4,Croatia
+A1160,"Y31,Y34",16 06 01*,,,342.96,,SI,,R4,Croatia
+A1160,"Y31,Y34",16 06 01*,,,202.83,,SI,,R4,Croatia
+A1160,"Y31,Y34",16 06 01*,,,202.77,,SI,,R4,Croatia
+A1160,"Y31,Y34",16 06 01*,,,165.314,,SI,,R4,Croatia
+A1160,"Y31,Y34",16 06 01*,,H8,44.99,SI,AT,,R4,Croatia
+A1170,"Y22,Y23,Y26,Y29,Y31,Y34,Y35","16 06 02*, 16 06 03*, 16 06 04, 16 06 05, 20 01 33*, 20 01 34",,"H4.1,H5.1,H6.1,H8,H11,H12,H13",133.539,"SI,AT",DE,,R12,Croatia
+A1170,"Y26,Y29,Y31,Y34,Y35",20 01 33*,,H8,23.338,"SI,IT",FR,,R4,Croatia
+A1170,"Y26,Y29,Y31,Y34,Y35",20 01 33*,,H8,21.937,"SI,IT",FR,,R4,Croatia
+A2050,Y36,17 06 05*,,H11,22.62,"SI,AT",DE,D1,,Croatia
+A3140,Y17,15 01 10*,,H13,0.13,"SI,AT",DE,,R4,Croatia
+A3140,Y42,07 05 04*,,H3,138.82,,HU,,R2,Croatia
+A3140,Y42,07 05 04*,,H3,87.92,,HU,,R1,Croatia
+A3140,Y42,07 05 04*,,H3,64.5,,HU,,R1,Croatia
+A3140,Y42,15 02 02*,,H4.1,0.269,"SI,AT",DE,,R4,Croatia
+A3140,"Y6,Y16,Y42","04 02 14*, 07 01 04*, 07 02 04*, 07 03 04*, 07 04 04*, 07 05 04*, 07 06 04*, 07 07 04*, 09 01 03*, 14 06 03*, 20 01 13*",,"H3,H6.1",170.44,"SI,AT",DE,D10,,Croatia
+A3140,"Y6,Y16,Y42","04 02 14*, 07 01 04*, 07 02 04*, 07 03 04*, 07 04 04*, 07 05 04*, 07 06 04*, 07 07 04*, 09 01 03*, 14 06 03*, 20 01 13*",,"H3,H6.1",155.7,"SI,AT",DE,D10,,Croatia
+A3140,"Y6,Y16,Y42","04 02 14*, 07 01 04*, 07 02 04*, 07 03 04*, 07 04 04*, 07 05 04*, 07 06 04*, 07 07 04*, 09 01 03*, 14 06 03*, 20 01 13*",,"H3,H6.1",98.24,SI,AT,D10,,Croatia
+A3140,"Y6,Y16,Y42","04 02 14*, 07 01 04*, 07 02 04*, 07 03 04*, 07 04 04*, 07 05 04*, 07 06 04*, 07 07 04*, 09 01 03*, 14 06 03*, 20 01 13*",,,95.16,SI,AT,D10,,Croatia
+A3140,"Y6,Y42,Y16","04 02 14*, 07 01 04*, 07 02 04*, 07 03 04*, 07 04 04*, 07 05 04*, 07 06 04*, 07 07 04*, 09 01 03*, 14 06 03*, 20 01 13*",,,81.86,SI,AT,D10,,Croatia
+A3140,"Y6,Y42,Y16","04 02 14*, 07 01 04*, 07 02 04*, 07 03 04*, 07 04 04*, 07 05 04*, 07 06 04*, 07 07 04*, 09 01 03*, 14 06 03*, 20 01 13*",,"H3,H6.1",19.1,"SI,AT",DE,D10,,Croatia
+A3150,"Y41,Y2,Y4,Y5,Y12",14 06 02*,,"H3,H6.1,H8,H11,H12",37.85,"SI,AT",DE,,R2,Croatia
+A3180,Y10,16 02 09*,,"H11,H12",62.482,RS,RO,,"R12,R13",Croatia
+A3180,Y10,16 02 09*,,"H11,H12,H13",13.829,HU,RO,,"R12,R13",Croatia
+A4010,"Y2,Y3","07 05 13*, 07 05 14, 07 06 99, 16 03 03*, 16 03 05*, 16 03 06, 18 01 09, 18 02 08, 20 01 32",,"H4.1,H6.1,H12",9.28,"SI,AT",DE,D10,,Croatia
+A4010,"Y2,Y3",18 01 08*,,"H3,H6.1,H11,H12",3.1,SI,AT,D10,,Croatia
+A4010,"Y2,Y3","18 01 08*, 18 02 07*, 20 01 31*",,"H6.1,H11,H12",26.12,"SI,AT",DE,D10,,Croatia
+A4010,"Y2,Y3","18 01 08*, 18 02 07*, 20 01 31*",,"H6.1,H11,H12",9.46,"SI,AT",DE,D10,,Croatia
+A4010,"Y2,Y3","18 01 09, 18 02 08, 20 01 32",,,6.14,SI,AT,D10,,Croatia
+A4010,"Y2,Y3","18 01 09, 18 02 08, 20 01 32",,,5.86,,HU,,R1,Croatia
+A4030,Y4,20 01 19*,,"H3,H6.1,H11,H12",3.72,SI,AT,D10,,Croatia
+A4050,Y33,06 03 11*,,,8.4,"SI,AT",DE,D10,,Croatia
+A4060,Y31,11 01 11*,,H12,5.523,"SI,AT",DE,,R4,Croatia
+A4070,Y42,15 02 02*,,H4.1,0.107,"SI,AT,DE",NL,,R4,Croatia
+A4070,"Y6,Y12","04 02 16*, 04 02 17, 08 01 11*, 08 01 12, 08 01 13*, 08 01 15*, 08 01 16, 08 01 17*, 08 01 18, 08 01 19*, 08 01 20, 08 01 21*, 08 03 07, 08 03 08, 08 03 12*, 08 03 13, 08 03 14*, 08 03 15, 20 01 27*, 20 01 28",,"H3,H4.1,H12",190.12,"SI,AT",DE,D10,,Croatia
+A4070,"Y6,Y12","04 02 16*, 04 02 17, 08 01 11*, 08 01 12, 08 01 13*, 08 01 15*, 08 01 16, 08 01 17*, 08 01 18, 08 01 19*, 08 01 20, 08 01 21*, 08 03 07, 08 03 08, 08 03 12*, 08 03 13, 08 03 14*, 08 03 15, 20 01 27*, 20 01 28   ",,"H3,H12",373.94,"SI,AT",DE,D10,,Croatia
+A4090,"Y17,Y34",11 01 05*,,H8,106.26,SI,AT,,R6,Croatia
+A4090,"Y2,Y17,Y34","06 01 01*, 06 01 02*, 06 01 03*, 06 01 04*, 06 01 05*, 06 01 06*, 10 01 09*, 11 01 05*, 11 01 06*, 20 01 14*",,,100.2,SI,AT,D9,,Croatia
+A4090,"Y2,Y18,Y34","06 01 01*, 06 01 02*, 06 01 03*, 06 01 04*, 06 01 05*, 06 01 06*",,"H3,H6.1,H8,H12",104.38,"SI,AT",DE,D10,,Croatia
+A4090,"Y2,Y18,Y34","06 01 01*, 06 01 02*, 06 01 03*, 06 01 04*, 06 01 05*, 06 01 06*",,"H3,H6.1,H8,H12",41.42,"SI,AT",DE,D10,,Croatia
+A4090,"Y2,Y34","06 01 01*, 06 01 02*, 06 01 03*, 06 01 04*, 06 01 05*, 06 01 06*, 11 01 05*, 11 01 06*, 20 01 14*",,,189.74,SI,AT,D10,,Croatia
+A4090,Y34,"06 01 01*, 06 01 02*, 06 01 03*, 06 01 04*, 06 01 05*, 06 01 06*, 10 01 09*, 11 01 05*, 11 01 06*, 11 01 13*, 11 01 98*, 11 05 04*, 16 03 03*, 16 06 06*, 20 01 14*, 16 05 06*, 16 05 07*",,,641.4,SI,AT,D9,,Croatia
+A4090,Y34,"06 01 01*, 06 01 02*, 06 01 03*, 06 01 04*, 06 01 05*, 06 01 06*, 10 01 09*, 11 01 05*, 11 01 06*, 11 01 13*, 11 01 98*, 11 05 04*, 16 03 03*, 16 06 06*, 20 01 14*, 16 05 06*, 16 05 07*",,H8,94.7,SI,AT,D9,,Croatia
+A4090,Y35,05 01 11*,,"H8,H12",176.34,"SI,AT",DE,D10,,Croatia
+A4090,Y35,"06 02 01*, 06 02 03*, 06 02 04*, 06 02 05*, 11 01 07*, 20 01 15*",,,122.96,SI,AT,D10,,Croatia
+A4090,Y35,"06 02 01*, 06 02 03*, 06 02 04*, 06 02 05*, 11 01 07*, 20 01 15*",,,25.04,SI,AT,D10,,Croatia
+A4130,Y12,"15 01 10*, 15 02 02*, 16 01 07*",,H4.1,521.18,SI,AT,,"R3,R4",Croatia
+A4130,Y17,15 01 10*,,H12,0.073,"SI,AT,DE",NL,,R4,Croatia
+A4140,"Y16,Y17,Y18,Y34,Y35",16 05 06*,,"H6.1,H8",108.12,SI,AT,D9,,Croatia
+A4140,"Y16,Y17,Y18,Y34,Y35",16 05 06*,,"H6.1,H8",45.25,SI,AT,D9,,Croatia
+A4140,Y18,16 03 05*,,H12,25.8,"SI,AT",DE,"D14,D10",,Croatia
+A4140,"Y21,Y26",16 05 06*,,"H3,H4.1,H6.1,H8,H11,H12",11.82,"SI,AT",DE,D10,,Croatia
+A4140,"Y21,Y26,Y29,Y34,Y35",16 05 06*,,"H3,H4.1,H6.1,H8,H11,H12",3.28,SI,AT,D10,,Croatia
+A4160,"Y16,Y17,Y18,Y34,Y35",15 02 02*,,"H6.1,H8",87.22,SI,AT,,R7,Croatia
+A4160,"Y6,Y41",15 02 02*,,,22.74,SI,AT,,R7,Croatia
+A1160,Y31,Y31,Crushed Lead Acid Accumulators,"H11,H12",141.17,IT,IL,,R4,Cuba
+A1040,Y19,Y19,Ash from power generation plants,"H11,H12",90.37,PA,JP,,R4,Cuba
+A1160,Y31,16 06 01,Lead-Acid Car Batteries,H8,2115.97,,GR,,R4,Cyprus
+A1160,Y31,16 06 01,Lead-Acid Car Batteries,H8,71.89,,KR,,R4,Cyprus
+A1160,Y31,16 06 01,Lead-Acid Car Batteries,H8,533.49,IL,ES,,R4,Cyprus
+A1160,Y31,16 06 01,Lead-Acid Car Batteries,H8,342.82,,IL,,R4,Cyprus
+A4140,"Y34,Y35,Y39,Y40,Y41,Y42","16 05 06, 16 05 07, 16 05 08",Laboratory Waste,"H3,H11",10.023,"IL,IT,NL,ES,GB",DE,D10,,Cyprus
+A2050,Y36,"17 06 01, 17 06 05",Asbestos Waste,H12,620.3,"IL,IT,ES",GB,D1,,Cyprus
+A4140,Y12,"16 03 03, 16 03 05",Off specification batches and unused products containg dangerous substances,"H3,H6.1,H8,H12",6.628,"IL,IT,NL,ES,GB",DE,D10,,Cyprus
+A4010,Y3,"18 01 09, 20 01 39",Expired Medicines,H6.1,1.69,"IL,IT,NL,ES,GB",DE,D10,,Cyprus
+A1180,Y_,16 02 13,Waste Fridges,H12,1015.74,,GR,,R4,Cyprus
+A1030,Y29,20 01 21,Pre-crushed Fluorescent Lamps and Equipment Containing Mercury,H12,18.001,"IL,ES",GB,,R4,Cyprus
+A1170,"Y23,Y26,Y28",20 01 33,Mixed Porable Bateries,H12,70.562,"DE,IL,IT,NL,ES,GB",BE,,R4,Cyprus
+A3020,Y8,"130205, 130208",Waste oils,,1209.19,,DE,,R9,Czechia
+A3020,Y8,130205,Waste oils,,1557.15,,PL,,R9,Czechia
+A3020,Y8,130208,Waste oils,,2382.98, ,DE,,R9,Czechia
+A1050,Y17,190205,Metal-bearing sludges,,53.51,,DE,,R4,Czechia
+A1050,Y17,190813,Metal-bearing sludges,,8.54,,DE,,R4,Czechia
+A1050,Y17,110109,Metal-bearing sludges,,460.985,,DE,,R4,Czechia
+A1160,"Y31,Y34",160601,Waste lead acid batteries,,225.608,,DE,,"R4,R5",Czechia
+A1160,Y_,160601,Waste lead acid batteries,,259.0,,DE,,R4,Czechia
+A1160,Y31,160601,Waste lead acid batteries,,879.457,"SK,HU,RO",BG,,R4,Czechia
+A1160,Y31,160601,Waste lead acid batteries,,1237.961,"SK,HU,RO",BG,,"R12,R4,R5",Czechia
+A1160,Y31,160601,Waste lead acid batteries,,626.475,,PL,D9,"R12,R3,R4",Czechia
+,Y17,120116; AB030,Filter dust,,2.694,,DE,,R4,Czechia
+,Y_,120114,Powder and sludge containing dangerous substances,,12.677,,AT,,R4,Czechia
+A1170,Y22,160121,Li-Ion batteries,,11.551,,DE,,R4,Czechia
+A1170,Y26,160602,Ni-Cd batteries,,73.7,DE,FR,,R4,Czechia
+A1060,Y35,110107,Pickling bases,,226.27,,DE,,R5,Czechia
+A1130,Y17,110107,Pickling bases,,54.07,,DE,,"R13,R4",Czechia
+,Y_,"170204, 191206; AC170",Discarded railway sleepers,,1162.24,,DE,,R1,Czechia
+A1020,Y31,100402,Lead ashes,,116.52,DE,BE,,R4,Czechia
+A3140,Y6,080111,Paint and varnish containing organic solvents or other dangerous substances,,111.86,,SK,,R2,Czechia
+A2030,Y_,160802,Spent catalyst,,122.76,,DE,,R4,Czechia
+A3140,Y42,150202,"Absorbents, filter materials (including oil filters not otherwise specified), wiping cloths, protective clothing contaminated by dangerous substances",,1.657,DE,NL,,R4,Czechia
+A4070,Y_,150202,"Absorbents, filter materials (including oil filters not otherwise specified), wiping cloths, protective clothing contaminated by dangerous substances",,0.444,,DE,,R4,Czechia
+A4050,Y33,150202,"Absorbents, filter materials (including oil filters not otherwise specified), wiping cloths, protective clothing contaminated by dangerous substances",,0.694,,DE,,R4,Czechia
+A4160,Y_,150202,Activated carbon,,548.26,,AT,,R7,Czechia
+,Y_,140601; AC150,CFCs,,45.657,,DE,,R3,Czechia
+A2010,Y31,160215,Glass waste  ,,281.85,,DE,,R5,Czechia
+A2010,"Y18,Y31",160215,CRT screens,,477.8,,DE,,R5,Czechia
+,Y33,110116; AD120,Saturated or spent ion exchange resin containing precious metals,,0.694,,DE,,R4,Czechia
+A4070,Y_,150110,Packaging containing residues of or contaminated by dangerous substances,,0.181,,DE,,R4,Czechia
+A1020,Y31,100401,Tin and lead waste - residues from the surface of the soldering and plating bath,,50.806,,PL,,R4,Czechia
+,Y_,100308,Wastes from aluminium thermal metallurgy,,9189.98,,DE,,R5,Czechia
+,Y32,"100308, 100309, 100315, 101099ª, 100399ª",Salt slags and drosses containing aluminium,,453.682,,SK,,R4,Czechia
+,Y32,"120103ª, 120199ª, 170409","Aluminium waste - spills, filings and turnings contaminated with oil products",,57.21,,SK,,R4,Czechia
+A1170,Y26,191211,Negative electrodes from NiCd accumulators,,131.42,DE,KR,,R4,Czechia
+A1020,Y31,160303,Corundum containing silver,,5.09,DE,NL,,R4,Czechia
+A2030,Y2,160807,Spent catalysts containing precious metals (palladium),,0.978,,DE,,R4,Czechia
+A3190,Y11,190304,"Partially stabilized waste after distillation processes containing pollutants (heavy metals, oil substances)",,9551.67,,DE,,"R12,R1",Czechia
+A1010,Y29,180110,Amalgam waste from dental care,,2.05,,AT,,R4,Czechia
+A3140,Y_,140603,Other solvents and solvent mixtures,,21.6,,DE,,"R2,R1",Czechia
+A1010,Y29,160307,Mercury,,88.981,DE,CH,D9,,Czechia
+A1180,Y45,"160213, 200121","Fluorescent tubes, induction lamps, mercury lamps",,5.045,,SK,D1,"R12,R4",Czechia
+A3150,Y6,070503,Halogenated organic solvents ,,848.61,,PL,,R2,Czechia
+A3020,Y9,-,Huiles usées,H3,10.0,,UG,D_,R_,Democratic Republic of the Congo
+A3020,Y9,-,Huiles usées,H3,10.0,,UG,D_,R_,Democratic Republic of the Congo
+A2050,Y36,,"Asbestos, Anfibole",H11,40.0,US,CA,"D9,D15",,Dominican Republic
+A1160,Y31,,Waste Lead Acid Batteries,H11,6200.0,,US,,R4,Dominican Republic
+A1160,Y31,,Waste Lead Acid Batteries,H11,9820.0,,US,,R4,Dominican Republic
+A1010,Y29,,Mercury,"H6.1,H11,H12",20.0,"DE,NL",CH,D9,,Dominican Republic
+,Y45,,Chlorodifluoromethane,,0.6,"DE,NL",CH,D10,,Dominican Republic
+A3180,Y10,,Polychlorinated biphenyl,H11,51.0,"BE,DE,NL,GB",FR,D10,,Dominican Republic
+A1080,Y31," 20 01 35*, 16 02 13*,16 02 15*",Waste Cathode Ray Tube (CRT) Monitors ,"H11,H12",650.0,"CY,IT,LB,MT,SI,ES,TR",GR,,R12,Egypt
+A1080,Y31," 20 01 35*, 16 02 13*,16 02 15*",Waste Cathode Ray Tube (CRT) Monitors ,"H11,H12",800.0,"CY,IT,LB,MT,TR",GR,,R12,Egypt
+A1080,Y31," 20 01 35*, 16 02 13*,16 02 15*",Waste Cathode Ray Tube (CRT) Monitors,"H11,H12",100.0,"CY,IT,LB,MT,ES,SY,TR",GR,,R12,Egypt
+A1030,Y29,20 01 21*,Waste containing mercury,,22.99,,FI,D9,"R4,R5,R12",Estonia
+A1180,Y45,20 01 23*,Cooling appliances,,347.376,LV,LT,,"R4,R5",Estonia
+A3020,Y8,13 02 08*,Waste oil,,352.0,,FI,,R9,Estonia
+A4020,Y1,18 01 03*,Clinical waste,,270.09,,LV,,R12,Estonia
+A4070,Y12,"08 01 11*, 08 03 12*",Waste paint ,,163.0,,SE,,R12,Estonia
+A4130,,"15 01 10*, 15 02 02*",waste containing hazardous substances,,207.716,,SE,,R1,Estonia
+,,19 01 07*,Solid waste from gas treatment,H12,8030.3,,FI,"D9,D1",,Estonia
+Y46,,19 12 10,RDF,,4847.1,,LV,,R1,Estonia
+Y46,,19 12 12,RDF,,36.72,,LV,,R12,Estonia
+A4010,Y3, 20 01 32,"Wastes from the production, preparation and use of pharmaceutical products but excluding such wastes specified on list B",H12,132.34,,DE,D10,,Finland
+A4010,Y3," 18 01 09, 20 01 32","Wastes from the production, preparation and use of pharmaceutical products but excluding such wastes specified on list B",H6.1,68.24,,SE,D10,,Finland
+,Y5, 19 12 06*,Treated cork and wood wastes,H12,39964.75,,DE,,R1,Finland
+,Y5, 17 02 04*,Treated cork and wood wastes,H12,4711.01,,SE,D10,,Finland
+A2030,Y6, 16 08 07*,Waste catalysts but excluding such wastes specified on list B,H3,27.719,,DE,,R4,Finland
+A2030,Y6, 16 08 02*,Waste catalysts but excluding such wastes specified on list B,"H4.2,H11,H12",375.926,,DE,,R4,Finland
+A3020,Y8, 19 02 08*,Waste mineral oils unfit for their originally intended use,"H3,H12",2621.62,,EE,,R1,Finland
+A4070,Y12, 19 12 11*,"Wastes from the production, formulation and use of inks, dyes, pigments, paints, lacquers, varnish excluding any such waste specified on list B (note the related entry on list B, B4010)",H3,275.46,,DE,D10,,Finland
+A4070,Y12, 20 01 27*,"Wastes from the production, formulation and use of inks, dyes, pigments, paints, lacquers, varnish excluding any such waste specified on list B (note the related entry on list B, B4010)",H3,414.18,,DE,,R1,Finland
+A4070,Y12," 08 01 11*, 20 01 27*","Wastes from the production, formulation and use of inks, dyes, pigments, paints, lacquers, varnish excluding any such waste specified on list B (note the related entry on list B, B4010)","H3,H4.1",323.39,SE,NO,,"R1,R12",Finland
+A4070,Y12," 08 01 11*, 08 03 14*, 08 03 17*, 08 04 09*, 20 01 27*","Wastes from the production, formulation and use of inks, dyes, pigments, paints, lacquers, varnish excluding any such waste specified on list B (note the related entry on list B, B4010)",H4.1,283.06,,DE,D10,,Finland
+A4070,Y12," 08 01 11*, 08 03 14*, 08 03 17*, 08 04 09*, 20 01 27*","Wastes from the production, formulation and use of inks, dyes, pigments, paints, lacquers, varnish excluding any such waste specified on list B (note the related entry on list B, B4010)",H4.1,518.32,,DE,,R1,Finland
+A4080,Y15, 16 04 03*,Wastes of an explosive nature (but excluding such wastes specified on list B),"H1,H5.1",187.1,,SE,D10,,Finland
+A1050,Y17, 11 01 09*,Galvanic sludges,"H11,H12",70.24,,DE,,R4,Finland
+A1050,Y17," 11 01 09*, 11 01 10",Galvanic sludges,H12,46.124,,DE,,R4,Finland
+,Y18, 16 01 07*,"Oil filters, used",H12,144.0,DE,DK,,R12,Finland
+A4160,Y18, 07 04 09*,"Spent activated carbon not included on list B (note the related entry on list B, B2060)",H13,153.38,,BE,,R7,Finland
+,Y18," 13 05 01*, 13 05 02*, 15 01 10*, 15 02 02*, 20 01 26*","Oil waste, solid","H4.1,H12",30.06,,SE,D10,,Finland
+,Y18, 13 08 99*,"Oil waste, solid","H4.1,H12",24.34,,SE,D10,,Finland
+A1070,Y18, 06 04 05*,"Leaching residues from zinc processing, dust and sludges such as jarosite, hematite, etc.",H6.1,8.0,,SE,,R12,Finland
+,Y21, 16 07 08*,"Dross, scalings and other wastes from the iron and steel industry","H11,H12",430.77,,SE,,R4,Finland
+A1020,Y22," 10 06 01, 10 06 02, 10 06 04, 10 06 99","Waste having as constituents or contaminants, excluding metal waste in massive form, any of the following: Antimony; antimony compounds, Beryllium; beryllium compounds, Cadmium; cadmium compounds, Lead; lead compounds, Selenium; selenium compounds,Tellurium, tellurium compounds",H11,129.72,NL,BE,,R4,Finland
+A4100,Y23, 10 02 07*,Wastes from industrial pollution control devices for cleaning of industrial off-gases but excluding such wastes specified on list B,"H11,H12",21395.15,"SE,NL,BE",FR,,R4,Finland
+A4100,Y23, 10 02 07*,Wastes from industrial pollution control devices for cleaning of industrial off-gases but excluding such wastes specified on list B,"H11,H12",2579.924,,PL,,R4,Finland
+A4100,Y23, 10 02 07*,Wastes from industrial pollution control devices for cleaning of industrial off-gases but excluding such wastes specified on list B,"H11,H12",19637.33,,SE,,R4,Finland
+A1170,Y23, 19 12 11*,Unsorted waste batteries excluding mixtures of only list B batteries.  Waste batteries not specified on list B containing Annex I constituents to an extent to render them hazardous.,"H6.1,H8,H12",1326.2,,PL,,R4,Finland
+A1170,Y26, 16 06 02*,Unsorted waste batteries excluding mixtures of only list B batteries.  Waste batteries not specified on list B containing Annex I constituents to an extent to render them hazardous.,"H8,H11,H12",27.0,,SE,,R4,Finland
+A1170,Y26, 16 06 02*,Unsorted waste batteries excluding mixtures of only list B batteries.  Waste batteries not specified on list B containing Annex I constituents to an extent to render them hazardous.,"H8,H11,H12",41.71,DE,US,,R4,Finland
+A1030,Y29, 18 01 10*,"Wastes having as constituents or contaminants any of the following: Arsenic; arsenic compounds, Mercury; mercury compounds., Thallium; thallium compounds",H12,0.488,,DE,,R4,Finland
+A1180,Y29," 20 01 35*, 20 01 36","Waste electrical and electronic assemblies or scrap containing components such as accumulators and other batteries included on list A, mercury-switches, glass from cathode-ray tubes and other activated glass and PCBcapacitors, or contaminated with Annex I constituents (e.g., cadmium, mercury, lead, polychlorinated biphenyl) to an extent that they possess any of the characteristics contained in Annex III (note the related entry on list B, B1110)",H12,483.1,,EE,,R12,Finland
+A1030,Y29, 06 07 02*,"Wastes having as constituents or contaminants any of the following: Arsenic; arsenic compounds, Mercury; mercury compounds., Thallium; thallium compounds","H6.1,H11,H12",25.18,,DE,D12,,Finland
+A1030,Y29, 17 09 01*,"Wastes having as constituents or contaminants any of the following: Arsenic; arsenic compounds, Mercury; mercury compounds., Thallium; thallium compounds","H6.1,H11,H12",361.2,,DE,D12,,Finland
+A1030,Y29, 17 09 03*,"Wastes having as constituents or contaminants any of the following: Arsenic; arsenic compounds, Mercury; mercury compounds., Thallium; thallium compounds","H6.1,H11,H12",578.7,,DE,D12,,Finland
+A1030,Y29, 18 01 10*,"Wastes having as constituents or contaminants any of the following: Arsenic; arsenic compounds, Mercury; mercury compounds., Thallium; thallium compounds","H6.1,H12",0.873,DE,AT,,R4,Finland
+A1010,Y29, 16 03 07*,"Metal wastes and waste consisting of alloys of any of the following: Antimony, Arsenic, Beryllium, Cadmium, Lead, Mercury, Selenium, Tellurium, Thallium, but excluding such wastes specifically listed on list B.","H6.1,H8,H12",91.071,,DE,"D12,D9",,Finland
+A1030,Y29, 20 01 21*,"Wastes having as constituents or contaminants any of the following: Arsenic; arsenic compounds, Mercury; mercury compounds., Thallium; thallium compounds",H8,3.963,,DE,,R12,Finland
+A1020,Y31, 19 12 11*,"Waste having as constituents or contaminants, excluding metal waste in massive form, any of the following: Antimony; antimony compounds, Beryllium; beryllium compounds, Cadmium; cadmium compounds, Lead; lead compounds, Selenium; selenium compounds,Tellurium, tellurium compounds","H11,H12",3362.0,"DE,GR",IL,,R4,Finland
+A1020,Y31, 19 12 11*,"Waste having as constituents or contaminants, excluding metal waste in massive form, any of the following: Antimony; antimony compounds, Beryllium; beryllium compounds, Cadmium; cadmium compounds, Lead; lead compounds, Selenium; selenium compounds,Tellurium, tellurium compounds","H11,H12",2290.0,"GR,DE",IL,,R4,Finland
+A1020,Y31, 19 12 11*,"Waste having as constituents or contaminants, excluding metal waste in massive form, any of the following: Antimony; antimony compounds, Beryllium; beryllium compounds, Cadmium; cadmium compounds, Lead; lead compounds, Selenium; selenium compounds,Tellurium, tellurium compounds",H12,45.16,NL,BE,,R4,Finland
+A1020,Y31, 10 04 02*,"Waste having as constituents or contaminants, excluding metal waste in massive form, any of the following: Antimony; antimony compounds, Beryllium; beryllium compounds, Cadmium; cadmium compounds, Lead; lead compounds, Selenium; selenium compounds,Tellurium, tellurium compounds","H6.1,H11,H12",79.46,,SE,,R4,Finland
+A1160,Y31, 16 06 01*,"Waste lead-acid batteries, whole or crushed","H6.1,H8,H11,H12",7161.181,,EE,,R4,Finland
+A1160,Y31, 16 06 01*,"Waste lead-acid batteries, whole or crushed","H6.1,H8,H11,H12",25.218,"EE,LV",LT,,R12,Finland
+A1160,Y31, 16 06 01*,"Waste lead-acid batteries, whole or crushed","H6.1,H8,H11,H12",5085.349,,SE,,R4,Finland
+A1180,Y31, 16 02 13*,"Waste electrical and electronic assemblies or scrap containing components such as accumulators and other batteries included on list A, mercury-switches, glass from cathode-ray tubes and other activated glass and PCBcapacitors, or contaminated with Annex I constituents (e.g., cadmium, mercury, lead, polychlorinated biphenyl) to an extent that they possess any of the characteristics contained in Annex III (note the related entry on list B, B1110)",H12,19.2,,DE,,R4,Finland
+A4090,"Y31,Y34", 16 06 06*,"Waste acidic or basic solutions, other than those specified in the corresponding entry on list B (note the related entry on list B, B2120)","H6.1,H8,H11,H12",287.92,,SE,D9,,Finland
+A4090,Y34, 11 01 05*,"Waste acidic or basic solutions, other than those specified in the corresponding entry on list B (note the related entry on list B, B2120)",H8,81.18,,SE,D9,,Finland
+A4140,Y35, 16 05 07*,Waste consisting of or containing off-specification or out-dated chemicals corresponding to Annex I categories and exhibiting Annex III hazard characteristics,"H3,H8,H12",0.85,,DK,,R5,Finland
+A2030,Y42, 16 08 07*,Waste catalysts but excluding such wastes specified on list B,H12,3.0,BE,GB,,R8,Finland
+A3140,Y42, 07 07 04*,Waste non-halogenated organic solvents but excluding such wastes specified on list B,"H3,H6.1,H11",1067.3,,BE,,R2,Finland
+A1180,Y45, 20 01 23*,"Waste electrical and electronic assemblies or scrap containing components such as accumulators and other batteries included on list A, mercury-switches, glass from cathode-ray tubes and other activated glass and PCBcapacitors, or contaminated with Annex I constituents (e.g., cadmium, mercury, lead, polychlorinated biphenyl) to an extent that they possess any of the characteristics contained in Annex III (note the related entry on list B, B1110)",H12,286.76,,SE,,R12,Finland
+A1180,Y45, 20 01 23*,"Waste electrical and electronic assemblies or scrap containing components such as accumulators and other batteries included on list A, mercury-switches, glass from cathode-ray tubes and other activated glass and PCBcapacitors, or contaminated with Annex I constituents (e.g., cadmium, mercury, lead, polychlorinated biphenyl) to an extent that they possess any of the characteristics contained in Annex III (note the related entry on list B, B1110)",H12,6364.439,,SE,,"R3,R4",Finland
+,," 10 02 10, 12 01 02","Dross, scalings and other wastes from the iron and steel industry",H11,2158.9,,IS,,R4,Finland
+,," 10 02 10, 12 01 02","Dross, scalings and other wastes from the iron and steel industry",H11,2997.7,SE,IS,,R4,Finland
+,," 10 02 10, 12 01 02","Dross, scalings and other wastes from the iron and steel industry",H11,2500.8,,SE,,R4,Finland
+,, 10 02 11*,"Dross, scalings and other wastes from the iron and steel industry","H11,H12",2838.16,"SE,NL,BE",FR,,R4,Finland
+,," 10 02 10, 10 02 11*, 12 01 02","Dross, scalings and other wastes from the iron and steel industry","H11,H12",283.72,,SE,,R4,Finland
+,," 10 02 10, 10 02 11*, 12 01 02, 12 01 99","Dross, scalings and other wastes from the iron and steel industry","H11,H12",1607.18,,SE,,R4,Finland
+,, 10 02 11*,"Dross, scalings and other wastes from the iron and steel industry","H11,H12",1143.9,,SE,,R4,Finland
+,, 12 01 02,"Dross, scalings and other wastes from the iron and steel industry","H11,H12",850.48,,SE,,R4,Finland
+A2030,, 16 08 07*,Waste catalysts but excluding such wastes specified on list B,H12,2.006,,DE,,R4,Finland
+A1180,," 20 01 35*, 20 01 36","Waste electrical and electronic assemblies or scrap containing components such as accumulators and other batteries included on list A, mercury-switches, glass from cathode-ray tubes and other activated glass and PCBcapacitors, or contaminated with Annex I constituents (e.g., cadmium, mercury, lead, polychlorinated biphenyl) to an extent that they possess any of the characteristics contained in Annex III (note the related entry on list B, B1110)",H4.2,0.1,,EE,,R12,Finland
+A2030,, 16 08 02*,Waste catalysts but excluding such wastes specified on list B,"H4.2,H11,H12",87.44,DE,BE,,R8,Finland
+A2030,, 16 08 02*,Waste catalysts but excluding such wastes specified on list B,"H4.2,H11,H12",839.323,"DE,BE",NL,,R8,Finland
+,, 10 03 08*,Aluminium slag,H4.3,4820.57,,DE,,"R4,R5",Finland
+,, 10 03 15*,Unclassified;  Aluminium skimmings,H4.3,341.0,,DE,,R4,Finland
+,," 10 02 02, 12 01 02","Dross, scalings and other wastes from the iron and steel industry","H6.1,H11",411.346,,SE,,R4,Finland
+A2030,, 16 08 02*,Waste catalysts but excluding such wastes specified on list B,"H6.1,H11,H12",4118.38,DE,AT,,R8,Finland
+A2030,, 16 08 07*,Waste catalysts but excluding such wastes specified on list B,"H4.1,H12",1.731,,DE,,R4,Finland
+,, 15 01 02,"Unclassified. Plastic packaging, Y46",H_,4957.73,,DE,,"R12,R3",Finland
+,, 20 03 01,"Domestic waste, Y46",H_,20673.81,,EE,,R1,Finland
+,, 20 03 01,"Domestic waste, Y46",H_,30994.722,,SE,,R1,Finland
+,, 15 01 02,"Unclassified, plastic packaging, Y46",H_,3013.83,,SE,,R3,Finland
+,, 15 01 02,"Unclassified, plastic packaging waste from households, Y46",H_,21.4,,SE,,R3,Finland
+,, 19 10 02,NFR non-ferrous metal fraction from shredder operation,H_,159.14,,DE,,R4,Finland
+,, 19 10 06,"Unclassified,polystyrene fraction from shredding of cooling appliances",H_,205.78,,DE,,"R3,R4",Finland
+,, 19 10 06,Unclassified; polystyrene fraction from shredding of cooling appliances,H_,19.58,,DE,,"R3,R4",Finland
+,, 19 12 03,"Unclassified, non-ferrous metal concentrate",H_,118.4,SE,DK,,R12,Finland
+,, 17 09 04,Construction and demolition waste,H_,28245.106,,EE,,R12,Finland
+,, 17 09 04,Construction and demolition waste,H_,2620.88,,EE,,"R12,R5",Finland
+,, 20 03 01,Mixed municipal waste from commercial origin,H_,12266.02,,EE,,R1,Finland
+,, 19 12 10,RDF Refuse derived fuel,H_,5818.25,,EE,,R1,Finland
+,, 06 08 99,"Unclassified, exhausted slicing slurry",H_,213.54,"NL,DE,CH",IT,,R5,Finland
+,, 16 02 16,"Unclassified, mixed wee plastics",H_,359.58,"EE,LV",LT,,R12,Finland
+A1180,, 16 02 13*,"Waste electrical and electronic assemblies or scrap containing components such as accumulators and other batteries included on list A, mercury-switches, glass from cathode-ray tubes and other activated glass and PCBcapacitors, or contaminated with Annex I constituents (e.g., cadmium, mercury, lead, polychlorinated biphenyl) to an extent that they possess any of the characteristics contained in Annex III (note the related entry on list B, B1110)",H_,38.251,"EE,LV",LT,,"R3,R4",Finland
+,, 19 12 03,"Unclassified, non-ferrous metal concentrate",H_,142.58,,NL,,"R12,R4",Finland
+,, 19 12 03,"Unclassified, non-ferrous metal concentrate",H_,1167.4,,NL,,R4,Finland
+,, 19 12 03,"Unclassified, non-ferrous metal concentrate",H_,481.16,BE,NL,,"R4,R5",Finland
+,, 19 12 03,"Unclassified, non-ferrous metal concentrate",H_,1402.01,DE,NL,,"R12,R4",Finland
+,, 19 12 03,"Unclassified, non-ferrous metal concentrate extracted from MSWI slags",H_,292.88,,NL,,R4,Finland
+,, 19 12 03,Unclassified; non-ferrous metal concentrate extracted from waste incineration slags,H_,146.14,,NL,,R4,Finland
+,, 19 12 03,Unclassified; Non-ferrous metal concentrate from bottom ashes,H_,799.6,BE,NL,,"R12,R5",Finland
+A1030,, 17 04 09*,"Wastes having as constituents or contaminants any of the following: Arsenic; arsenic compounds, Mercury; mercury compounds., Thallium; thallium compounds",H_,606.0,,NL,,R4,Finland
+,, 19 10 04,Fluff - light fraction from shredding,H_,2859.05,,SE,,R1,Finland
+,, 19 10 04,Fluff - light fraction from shredding,H_,3100.0,,SE,,"R1,R4",Finland
+,," 19 12 10, 19 12 12, 20 03 01",Mixed municipal waste from commercial origin,H_,10159.59,,SE,,R1,Finland
+,, 20 03 01,Mixed municipal waste from commercial origin,H_,21061.2,,SE,,R1,Finland
+,, 19 10 02,NFR non-ferrous metal fraction from shredder operation,H_,17025.522,,SE,,"R1,R4",Finland
+,, 19 12 10,RDF Refuse derived fuel,H_,15142.75,,SE,,R1,Finland
+,," 19 12 10, 19 12 12",RDF Refuse derived fuel,H_,1838.5,,SE,,R1,Finland
+,, 20 03 04,Sewage sludge,H_,201.3,,SE,,R3,Finland
+,," 20 03 04, 20 03 06",Sewage sludge,H_,350.8,,SE,,R3,Finland
+,, 20 01 38,Treated cork and wood wastes,H_,388.68,,SE,,R12,Finland
+,, 20 03 07,"Unclassified - skrymmande blandavfall stoppade möbler, utemöbler, heltäckningsmattor",H_,19.44,,SE,,R12,Finland
+,, 19 12 10,"Unclassified, burnable fractions from commercial origin",H_,194.88,,SE,,R1,Finland
+,, 19 12 10,"Unclassified, crushed mixed waste from commercial origin",H_,1482.27,,SE,,R1,Finland
+,, 19 12 12,"Unclassified, sorted construction waste",H_,1966.21,,SE,,R1,Finland
+B4010,," 08 01 12, 20 01 28","Wastes consisting mainly of water-based/latex paints, inks and hardened varnishes not containing organic solvents, heavy metals or biocides to an extent to render them hazardous (note the related entry on list A, A4070)",H_,285.46,,SE,D10,,Finland
+A4070,," 08 01 12, 20 01 28","Wastes from the production, formulation and use of inks, dyes, pigments, paints, lacquers, varnish excluding any such waste specified on list B (note the related entry on list B, B4010)",H_,329.79,,SE,D10,,Finland
+A2030,,160807*,,,38.27,LV,LT,,R13,Georgia
+A2030,,160807*,,,5.3,TR,LT,,R13,Georgia
+A2030,,160807*,,,25.05,,IT,,R8,Georgia
+A2030,,160807*,,,27.1,,JP,,R4,Georgia
+,Y_,19 08 05,sludges from treatment of urban waste water (EWC 19 08 05),,3810.79,,CY,,R1,Greece
+,Y_,19 08 05,sludges from treatment of urban waste water (EWC 19 08 05),,4510.31,,CY,,R1,Greece
+,Y_,07 06 99,"off-specification and/or expired products (hair paints, face and bodycreams) (EWC 07 06 99)",,358.168,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece
+,Y3,20 01 32,expired medicines ( EWC 20 01 32) ,,135.646,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece
+,Y3,20 01 32,expired medicines ( EWC 20 01 32) ,,131.634,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece
+A1020,"Y18,Y31",19 12 11*,other wastes (including mixtures of materials) from mechanical treatment of waste containing hazardous substances - polyethylene separators (EWC 19 12 11*),H12,335.44,"BG,RO,HU,SK,CZ",DE,D10,,Greece
+A1020,Y31,10 04 01*,lead slag from secondary treatment (EWC 10 04 01*),H12,1473.57,"TR,PT",ES,D9,,Greece
+A1020,Y31,10 04 01*,lead slag from secondary treatment (EWC 10 04 01*),H12,1568.23,"TR,PT",ES,D9,,Greece
+A1020,Y31,19 12 11*,other wastes (including mixtures of materials) from mechanical treatment of waste containing dangerous substances (EWC 19 12 11*),H12,114.52,"TR,PT",ES,D9,,Greece
+A1020,Y31,19 12 11*,other wastes (including mixtures of materials) from mechanical treatment of waste containing dangerous substances (EWC 19 12 11*),H12,143.88,"TR,PT",ES,D9,,Greece
+A1020,Y31,17 09 03*,"debris contaminated with lead, that occurred during cleanup works after a fire-insident (EWC 17 09 03*)",H11,58.44,"TR,IT,ES,PT,FR,BE,GB,NL",DE,"D13,D1",,Greece
+A1020,Y31,10 04 05*,waste particulates and dust from lead thermal metallurgy (EWC 10 04 05*),H12,45.68,"TR,BE,IT,ES,GB,NL,FR",PT,D9,,Greece
+A1030,Y29,20 01 21*,mercury vapour lamps & mercury lamps (EWC 20 01 21*),,131.01,BG,RO,,"R4,R5",Greece
+A1040,Y17,06 01 06*,"chromic acids and chromic salts solutions (EWC 06 01 06*, 06 03 13*, 11 01 05*, 11 01 06*, 16 03 03*, 16 05 07*)",H8,15.64,"TR,PT,FR,GB,NL,IL,IT,ES,DE",BE,D9,,Greece
+A1100,Y22,10 06 03*,copper smeltr bag filter dust (EWC 10 06 03*),,356.24,"TR,FR,IT",ES,D9,,Greece
+A1170,"Y23,Y26,Y35",20 01 33*,mixted batteries & accumulators (EWC 20 01 33*),H12,19.875,BG,RO,,R4,Greece
+A1170,"Y23,Y26,Y35",20 01 33*,mixted batteries & accumulators (EWC 20 01 33*),H12,63.299,BG,RO,,R4,Greece
+A1180,Y31,19 12 11*,funnel lead glass (EWC 19 12 11*),H12,93.61,"BG,RO,HU,SK,CZ",DE,,R5,Greece
+A1180,Y31,19 12 11*,funnel lead glass (EWC 19 12 11*),H12,492.32,"BG,RO,HU,SK,CZ",DE,,R5,Greece
+A2030,Y9,16 08 02*,spent catalysts containing dangerous transition metals (17) or dangerous transition metal compounds (EWC 16 08 02*),H12,62.0,IT,FR,,R8,Greece
+A2030,,"16 08 02*, 16 08 07*","spent catalysts containing hazardous transition metals or hazardous transition metal compounds & spent catalysts contaminated with hazardous substances (EWC 16 08 02*, 16 08 07*)",H4.2,1602.4,"GR,IT,AT,DE",FR,,"R8,R4",Greece
+A2050,Y36,"17 06 01*, 17 06 05*","construction materials of asbestos cement & insulation materials containing asbestos (EWC 17 06 01*, 17 06 05*)",H11,97.37,"PT,GB,NL,BE",NO,D1,,Greece
+A2050,Y36,17 06 05*,waste construction materials containing asbestos (EWC 17 06 05*) ,H11,42.88,IT,ES,D5,,Greece
+A2050,Y36,"17 06 05*, 17 06 01*","waste construction and insulation materials containing asbestos (EWC 17 06 05*, EWC 17 06 01*) ",H11,156.228,"TR,GB,DE,NL,BE,ES,FR,IT,PT",NO,D1,,Greece
+A2050,Y36,17 06 05*,waste construction materials containing asbestos (EWC 17 06 05*) ,H11,92.602,"TR,GB,DE,NL,BE,ES,FR,IT,PT",NO,D1,,Greece
+A2050,Y36,"17 06 05*, 17 06 01*","waste construction and insulation materials containing asbestos (EWC 17 06 05*, EWC 17 06 01*) ",H11,170.406,"TR,GB,DE,NL,BE,ES,FR,IT,PT",NO,D1,,Greece
+A2050,Y36,"17 06 01*, 17 06 05*","construction materials of asbestos cement, pvc tiles & insulation materials containing asbestos (friable asbestos) (EWC 17 06 01*, 17 06 05*)",H11,662.033,"TR,PT,GB,NL",NO,D1,,Greece
+A2050,Y36,"17 06 05*, 17 06 01*","insulation and construction materials containig asbestos (EWC 17 06 01*, 17 06 05*)",,354.977,"PT,TR,IT,ES,NL,FR,GB",NO,D1,,Greece
+A2050,Y36,17 06 05*,safety boxes (EWC 17 06 05*),H11,22.85,"PT,ES,IT,FR,GB,NL,BE",GB,D1,,Greece
+A3020,Y8,13 05 08*,mixtures of wastes from grit chambers and oil/water separators,H12,248.32,BE,DE,,R12,Greece
+A3050,"Y12,Y13","08 04 11*, 08 01 17*, 16 03 05*","mixture of paints, varnishes, glues, sealants with organic solvents (EWC 08 01 15*, 08 01 17*, 08 01 21*, 08 04 11*, 08 04 13*, 08 04 15*, 16 03 05*)","H3,H6.1,H12",24.77,"TR,PT,GB,BE,IT,IL,ES,FR,DE",NL,,"R12,R1",Greece
+A3050,Y13,"08 04 09*, 08 04 09*, 08 04 11*, 08 04 13*, 08 04 15*, 08 04 17*","wastes from production, formulation and use of resins, latex, plasticizers, glues/adhesives (EWC 08 04 09*)","H3,H4.1,H8,H11,H12",41.272,"TR,IT,ES,PT,FR,NL,BE,GB",DE,D10,,Greece
+A3140,Y6,"14 06 03*, 14 06 05*","waste sovlents and sludge containing sovlents (EWC 14 06 03*, 14 06 05*) ",H3,1.34,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece
+A3150,"Y17,Y6,Y41","04 01 03*, 07 01 03*, 07 01 04*, 07 02 03*, 07 03 03*, 07 04 03*, 07 05 03*, 07 06 03*, 07 07 03*, 14 06 02*, 14 06 04*","other halogenated solvents and solvent mixtures (EWC 07 01 03*, 14 06 02*)","H8,H6.1,H11,H12",20.962,"TR,IT,ES,PT,FR,NL,BE,GB",DE,,R2,Greece
+A3150,Y6,"14 06 02*, 14 06 04*","waste sovlents and sludge (EWC 14 06 02*, 14 06 04*) ",H6.1,7.186,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece
+A3150,"Y6,Y41","14 06 02*, 14 06 04*, 04 01 03*","waste containing tetrachlorethylene and waste containing dichloromethane (EWC 14 06 02*, 14 06 04*, 04 01 03*)",H6.1,41.75,"TR,PT,FR,GB,NL",BE,,R2,Greece
+A3180,Y10,"13 03 01*, 15 02 02*, 16 02 09*, 16 02 10*","transformers, capacitors, solid and liquid waste contaminated with PCBs (EWC 13 03 01*, 15 02 02*, 16 02 09*, 16 02 10*, 17 09 02*)",H12,45.09,"TR,EG,IL,IT,ES",FR,D10,,Greece
+A3190,Y11,05 01 08*,"acidic and other tars (EWC 05 01 03*, 05 01 07*, 05 01 08*, 05 06 01*, 05 06 03*, 16 05 08*, 19 11 02*)",H11,245.118,"TR,BE,IT,ES,GB,NL,FR",PT,D9,,Greece
+A4010,Y_,20 01 29*,"waste off specification, unused and/or expired/outdated detergents/chemicals and raw materials containing dangerous substances (EWC 20 01 29*)",H12,34.539,"BG,RO",HU,,R1,Greece
+A4010,Y2,"07 05 13*, 16 05 06*, 16 03 05*, 16 05 08* ","solid wastes containing dangerous substances, laboratory chemicals, consisting of or containing dangerous substances, including mixtures of laboratory chemicals, organic wastes containing dangerous substances & discarded organic chemicals consisting of or containing dangerous substances (07 05 13*, 16 05 06*, 16 03 05*, 16 05 08*)","H3,H4.1,H5.1,H6.1,H8,H11,H12",39.985,"GR,IT,PT,ES,GB,FR,DE,NL,BE",DK,D10,,Greece
+A4010,"Y2,Y3",16 03 05*,off specification and/or out of date or expired products/medicines/raw materials from pharmaceutical industries (EWC 16 03 05*),H12,95.325,"BG,RO",HU,,R1,Greece
+A4010,"Y2,Y3",16 03 05*,off specification and/or out of date or expired products/medicines/raw materials from pharmaceutical industries (EWC 16 03 05*),H12,63.33,"BG,RO",HU,,R1,Greece
+A4010,"Y2,Y3","07 05 13*, 16 03 05*, 20 01 31*",off specifications & expired pharmaceutical products & other pharmaceutical waste (EWC 16 03 05*) ,H12,9.805,"TR,IT,ES,PT,FR,NL,BE,GB",DE,D10,,Greece
+A4010,"Y2,Y3","08 01 08*, 16 03 05*, 18 01 06*, 18 01 09*","out of specifications or expired pharmaceuticals (EWC 07 05 13*, 18 01 08*, 18 01 08*, 16 03 05*, 20 01 31*, 20 01 32)",H6.1,14.53,"TR,PT,FR,GB,NL",BE,D10,,Greece
+A4010,"Y2,Y3","16 03 05*, 18 01 06*, 18 01 08*","out of specifications or expired pharmaceuticals (EWC 07 05 13*, 16 03 03*, 16 03 05*, 18 01 06*, 18 01 08*, 20 01 31*, 20 01 32*)",H12,110.394,"TR,PT,ES,FR,GB,DE,NL,BE,LT,SE,LV,IT",DK,D10,,Greece
+A4010,"Y2,Y3","16 03 05*, 18 01 08*, 18 01 06*, 18 01 09*","out of specifications or expired pharmaceuticals (EWC 07 05 13*, 16 03 03*, 16 03 05*, 18 01 06*, 18 01 08*, 20 01 31*, 20 01 32*, 18 01 09*, 18 02 05*, 18 02 07*, 18 02 08*)","H12,H6.1",86.194,"TR,PT,FR,GB,NL,IL,IT,ES,DE",DK,D10,,Greece
+A4010,Y3,20 01 31*,wastes from pharmaceutical industries and distributors (EWC 20 01 31*),H6.1,0.656,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece
+A4010,Y3,"07 05 01*, 07 05 11*, 07 05 13*, 20 01 31*, 20 01 32","wastes from pharmaceutical industries and expired mediced (EWC 07 05 01*, 07 05 11*, 07 05 13*, 20 01 31*, 20 01 32)","H6.1,H11,H13",30.278,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece
+A4010,Y3,"07 05 01*, 07 05 11*, 07 05 13*, 20 01 31*, 20 01 32","wastes from pharmaceutical industries and expired mediced (EWC 07 05 01*, 07 05 11*, 07 05 13*, 20 01 31*, 20 01 32)","H6.1,H11,H13",12.52,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece
+A4030,Y4,"02 01 08*, 07 04 01*, 07 04 04*, 07 04 10*, 07 04 11*, 07 04 13*, 20 01 19*","expired pesticides/agrochemicals and liquid and solid wastes contianing dangerous substances from the MFS of organic plant protection products and other biocides (EWC 02 01 08*, 07 04 01*, 07 04 04*, 07 04 10*, 07 04 11*, 07 04 13*, 20 01 19*) ","H6.1,H11,H3",75.526,"PT,GB,NL,TR,BE,FR",DE,D10,,Greece
+A4030,Y4,"02 01 08*, 07 04 01*, 07 04 04*, 07 04 10*, 07 04 11*, 07 04 13*, 20 01 19*","expired pesticides/agrochemicals and liquid and solid wastes contianing dangerous substances from the MFS of organic plant protection products and other biocides (EWC 02 01 08*, 07 04 01*, 07 04 04*, 07 04 10*, 07 04 11*, 07 04 13*, 20 01 19*) ","H6.1,H11,H3",90.065,"PT,GB,NL,TR,BE,FR",DE,D10,,Greece
+A4030,Y4,"02 01 08*, 20 01 19*",expired pesticides (EWC 02 01 08*),,0.975,"TR,IT,ES,PT,FR,NL,BE,GB",DE,D10,,Greece
+A4030,Y4,02 01 08*,"pesticides, insesticides and chemicals (EWC 02 01 08*, 07 04 03*, 07 04 04*, 07 04 10*, 07 04 11*, 07 04 13*, 07 05 13*, 20 01 19*)","H12,H3,H6.1",28.297,"GB,TR,DE,NL,BE,LT,LV,PT,FR,IT,NO,DK,ES,IL",SE,D10,,Greece
+A4060,Y9,16 07 08*,wastes containing oil (EWC 16 07 08*),"H3,H4.1,H6.1,H12",209.84,"GR,PT,GB,NL,BE,FR",ES,D9,,Greece
+A4060,Y9,16 07 08*,wastes containing oil (EWC 16 07 08*),H12,807.9,,BG,,R9,Greece
+A4060,Y9,16 07 08*,wastes containing oil (EWC 160708*),H12,424.48,,BG,,"R13,R12,R9",Greece
+A4070,Y12,08 03 12*,waste ink containing dangerous substances (EWC 08 03 12*),"H3,H4.1,H6.1,H11,H12",35.46,"GR,PT,GB,NL,BE,FR",ES,D9,,Greece
+A4070,Y12,08 01 11*,waste paint and varnish containing organic solvents or other hazardous substances (EWC 08 01 11*),H3,171.996,IL,FR,,R1,Greece
+A4070,Y12,08 01 13*,waste paint and varnish containing organic solvents or other hazardous substances (EWC 08 01 13*),H3,82.2,IL,FR,,R1,Greece
+A4070,Y12,08 03 12*,waste ink containing hazardous substances (EWC 08 03 12*),H3,68.23,IL,FR,D10,,Greece
+A4070,Y12,"08 01 11*, 08 01 13*, 08 01 15*, 08 01 17*, 20 01 27*","wastes from production and use of paints and varnishes (EWC 08 01 11*, 08 01 13*, 08 01 15*, 08 01 17*) ","H3,H12",67.182,"PT,GB,NL,TR,BE,FR",DE,D10,,Greece
+A4070,Y12,"08 01 11*, 08 01 13*, 08 01 15*, 08 01 17*, 20 01 27*","wastes from production and use of paints and varnishes (EWC 08 01 11*, 08 01 13*, 08 01 15*, 08 01 17*) ","H3,H12",184.364,"PT,GB,NL,TR,BE,FR",DE,D10,,Greece
+A4070,Y12,"08 03 12*, 08 03 17*","wastes from the use of inks in printing industry (EWC 08 03 12*, 08 03 17*)","H3,H12",9.124,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece
+A4070,Y12,"08 03 12*, 08 03 17*","wastes from the use of inks in printing industry (EWC 08 03 12*, 08 03 17*)","H3,H12",4.448,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece
+A4070,Y12,"04 02 16*, 08 01 11*, 08 01 13*, 08 01 15*, 08 01 17*, 08 01 19*, 08 01 21*, 08 03 12*, 08 03 14*, 08 0317*, 08 05 01*, 20 01 27*","wastes from the production, formulation and use of inks, dyes, pigments, paints, lacquers, varnish (EWC 08 01 11*, 08 01 13*, 08 01 17*, 08 01 19*, 08 03 12*)",,63.18,"TR,IT,ES,PT,FR,NL,BE,GB",DE,D10,,Greece
+A4070,Y12,"08 04 09*, 08 01 11*","solidified paints (EWC 08 01 11*, 08 04 09*, 08 04 11*)","H4.1,H12",9.42,"TR,GB,DE,BE,CY,IL,ES,PT,IT,FR",NL,,R1,Greece
+A4070,Y12,"07 01 04*, 08 01 11*, 08 03 12*, 08 03 14*, 08 04 09*, 16 05 08*","non- halogonated solvents (EWC 07 01 04*, 07 07 04*, 08 01 11*, 0 01 13*, 08 03 12*, 08 03 14*, 08 04 09*, 14 06 03*, 16 05 08*)","H3,H6.1",50.681,"TR,GB,DE,CY,IL,ES,PT,IT,FR",NL,,"R12,R1",Greece
+A4070,Y12,15 02 02*,absorbent and filtered materials contaminated by dangerous substances (EWC 15 02 02*),H12,5.26,"TR,GB,NL,BE,LT,FR,ES,IL",PT,D9,,Greece
+A4070,Y12,15 02 02*,absorbing materials contaminated by dangerous substances (EWC 15 02 02*),H12,8.92,"GB,TR,DE,NL,BE,LT,LV,PT,FR,IT,NO,DK,ES,IL",SE,,R1,Greece
+A4090,"Y17,Y34","06 01 06*, 16 03 03*","acidic solutions (EWC 11 01 05*, 11 01 06*, 16 03 03*, 16 05 06*, 16 05 07*, 16 10 01*, 06 01 01*, 06 01 02*, 06 01 03*, 06 01 04*, 06 01 05*, 06 01 06*, 20 01 14*, 16 06 06*)","H8,H6.1",40.84,"TR,GB,NL,BE,IT,FR,ES",PT,D9,,Greece
+A4090,Y2,07 01 04*,wastes from basic organic substances manufacture (EWC 07 01 04*),"H3,H6.1,H8,H11,H13",18.347,"PT,GB,NL,TR,BE,FR",DE,D10,,Greece
+A4100,Y18,19 02 05*,sludges from physico/chemical treatment containing hazardous substances (EWC 19 02 05*),H12,39.043,"TR,IT,EG",ES,D9,,Greece
+A4100,Y18,19 01 13*,fly ashes (EWC 19 01 13*),H12,381.414,"TR,FR,IT",ES,D9,,Greece
+A4100,Y18,19 01 13*,fly ashes (EWC 19 01 13*),H12,39.836,"TR,GB,NL,BE,IT,FR,ES",PT ,"D9,D1",,Greece
+A4100,Y23,10 02 07*,solid waste from gas treatment containing hazardous substances (EWC 10 02 07*),H12,5500.05,NL,DE,,R4,Greece
+A4100,Y23,10 02 07*,solid waste from gas treatment containing hazardous substances (EWC 10 02 07*),H12,1529.27,,IT,,R4,Greece
+A4100,Y23,10 02 07*,solid waste from gas treatment containing hazardous substances (EWC 10 02 07*),H12,4093.14,NL,FR,,R4,Greece
+A4100,Y23,10 02 07*,solid waste from gas treatment containing hazardous substances (EWC 10 02 07*),H12,25121.23,,IT,,R13,Greece
+A4100,Y23,10 02 07*,solid waste from gas treatment containing hazardous substances (EWC 10 02 07*),H12,3522.128,NL,FR,,R4,Greece
+A4100,Y23,10 02 07*,steel mill dust ( EWC 10 02 07*),H12,5089.9,,IT,,R4,Greece
+A4130,Y12,15 01 10*,packaging containing residues of or contaminated by hazardous substances (EWC 15 01 10*),H12,30.0,IT,ES,,R3,Greece
+A4130,Y12,15 01 10*,waste packaging containing residues of or contaminated by dangerous substances (EWC 15 01 10*),H12,19.616,"GB,TR,IT,BE,ES,FR,NL,DE",PT,,R4,Greece
+A4130,"Y12,Y13,Y31,Y4",15 01 10*,packaging materials contaminated with dangerous substances (EWC 15 01 10*) ,"H5.2,H13",19.174,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece
+A4130,"Y12,Y13,Y31,Y4",15 01 10*,packaging materials contaminated with dangerous substances (EWC 15 01 10*) ,"H5.2,H13",40.632,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece
+A4130,,15 01 10*,packaging containing residues of or contaminated by hazardous substances (EWC 15 01 10*),H12,20.86,"GR,BG,RO,HU,SK",PL,,R1,Greece
+A4130,,15 01 10*, packaging containing residues of or contaminated by dangerous substances (EWC 15 01 10*),H12,18.79,"GR,BG,RO,HU,SK",PL,,R1,Greece
+A4130,,15 01 10*,packaging containing residues of or contaminated with dangerous substances (EWC 15 01 10*),"H4.1,H6.1,H8,H11,H12",51.301,"TR,IT,ES,PT,FR,NL,BE,GB",DE,D10,,Greece
+A4130,,16 05 04*,gases in pressure containers (excluding halons) containing dangerous substances (EWC 16 05 04*) ,,7.624,"BG,RO,HU,SK,CZ",DE,D10,,Greece
+A4140,Y12,"16 03 03*, 16 03 05*","off specification batches and unused products containing dangerous substances (EWC 16 03 03*, 16 03 05*) ","H3,H6.1,H8,H12",83.449,"PT,GB,NL,TR,BE,FR,IT,ES",DE,D10,,Greece
+A4140,Y12,"16 03 03*, 16 03 05*","off specification batches and unused products containing dangerous substances (EWC 16 03 03*, 16 03 05*) ","H3,H6.1,H8,H12",71.111,"PT,GB,NL,TR,BE,FR,IT,ES",DE,D10,,Greece
+A4140,"Y12,Y14","16 05 08*, 16 05 06*, 16 05 07*","laboratory waste & various chemicals (EWC 06 03 13*, 07 03 04*, 08 04 09*, 11 01 06*, 11 03 01*, 16 03 03*, 16 03 05*, 16 05 06*, 16 05 07*, 16 05 08*, 18 01 06*)","H3,H6.1,H8,H12",30.217,"TR,PT,FR,GB,NL,IL,IT,ES,DE",BE,D10,,Greece
+A4140,Y18,16 03 03*,inorganic wastes containing hazardous substances (EWC 16 03 03*),H12,15.145,IT,ES,D9,,Greece
+A4140,"Y2,Y14","16 03 03*, 16 05 06*, 16 05 07*, 16 05 08*","laboratory waste & various chemicals (EWC 06 03 13*, 07 03 04*, 08 04 09*, 11 01 06*, 11 03 01*, 16 03 03*, 16 03 05*, 16 05 06*, 16 05 07*, 16 05 08*, 18 01 06*)","H6.1,H12,H3,H8",148.952,"TR,PT,FR,GB,NL,BE,DE,LT,LV,SE",DK,D10,,Greece
+A4140,"Y2,Y3",16 03 05*,off specification and/or out of date or expired products and/or raw materials (EWC 16 03 05*),H12,48.914,"BG,RO",HU,,R1,Greece
+A4140,"Y2,Y3",16 03 05*,off specification and/or out of date or expired products and/or raw materials (EWC 16 03 05*),H12,34.169,"BG,RO",HU,,R1,Greece
+A4140,"Y2,Y3",16 03 05*,organic wastes containing hazardous substances (EWC 16 03 05*),H3,276.365,IL,FR,,R1,Greece
+A4140,"Y2,Y3",16 03 05*,organic wastes containing hazardous substances (EWC 16 03 05*),H3,101.712,"BG,RO,HU,SK,CZ",DE,D10,,Greece
+A4140,"Y2,Y3",16 03 05*,organic wastes containing hazardous substances (EWC 16 03 05*),H3,101.18,"BG,RO,HU,SK,CZ",DE,D10,,Greece
+A4140,"Y21,Y22,Y23,Y24,Y25,Y26,Y27,Y28,Y30,Y31,Y32,Y33,Y34,Y35",16 05 07*,"off-specification, outdated and discarded inorganic solid waste (EWC 16 05 07*)","H4.1,H4.2,H4.3,H6.1,H8,H12,H13",8.329,"TR,IT,ES,PT,FR,NL,BE,GB",DE,D10,,Greece
+A4140,"Y21,Y22,Y23,Y24,Y25,Y26,Y27,Y28,Y30,Y31,Y32,Y33,Y34,Y35",16 05 07*,"off-specification, outdated and discarded inorganic chemicals (EWC 16 05 07*)","H4.1,H4.2,H4.3,H6.1,H8,H12,H12",6.899,"TR,IT,ES,PT,FR,NL,BE,GB",DE,D10,,Greece
+A4140,Y3,16 05 06*,"laboratory chemicals, consisting of or containing hazardous substances, including mixtures of laboratory chemicals (EWC 16 05 06*)",H3,3.438,"BG,RO,HU,SK,CZ",DE,D10,,Greece
+A4140,"Y3,Y2","16 03 05*, 16 05 06*","off specification and/or out of date or expired products/medicines/raw materials/chemicals/laboratory residues (waste) (EWC 16 03 05*, 16 05 06*)","H12,H3",17.012,"PT,GB,DE,NL,BE,TR,FR,IT",DK,D10,,Greece
+A4140,"Y3,Y2","16 03 05*, 16 05 06*, 16 05 07*, 16 05 08*","off specification and/or out of date or expired products/medicines/raw materials/chemicals/laboratory residues (waste) (EWC 16 03 05*, 16 05 07*, 16 05 08*, 16 05 06*)","H12,H3,H8",244.862,"PT,GB,DE,NL,BE,TR,FR,IT",DK,D10,,Greece
+A4140,"Y34,Y35,Y39,Y40,Y41,Y42","16 05 06*, 16 05 07*, 16 05 08*","discarded chemicals (including lab smalls) containing dangerous substances (EWC 16 05 06*, 16 05 07*, 16 05 08*) ","H3,H4.1,H6.1,H8,H12",173.996,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece
+A4140,"Y34,Y35,Y39,Y40,Y41,Y42","16 05 06*, 16 05 07*, 16 05 08*","discarded chemicals (including lab smalls) containing dangerous substances (EWC 16 05 06*, 16 05 07*, 16 05 08*) ","H3,H4.1,H6.1,H8,H12",110.698,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece
+A4140,"Y34,Y35,Y37,Y38,Y39","16 03 05*, 16 05 08*","off-specification, outdated and discarded organic chemicals (EWC 16 03 05*, 16 05 08*)","H3,H4.1,H6.1,H8,H11,H12",12.705,"TR,IT,ES,PT,FR,NL,BE,GB",DE,D10,,Greece
+A4140,,16 05 08*,unused partly or completely polymerized styrene monomer mixed with water (EWC 16 05 08*),"H3,H4.1,H11,H12",49.925,"TR,IT,PT,GB,NL,BE,FR",ES,D9,,Greece
+A4150,Y14,07 05 11*,waste from physicochemical treatment of lab waste (EWC 07 05 11*),"H11,H12",8.441,"TR,IT,ES,PT,FR,NL,BE,GB",DE,D10,,Greece
+A4150,"Y21,Y22,Y23,Y24,Y25,Y26,Y27,Y28,Y30,Y31,Y32,Y33,Y34,Y35,Y37,Y38,Y39,Y40,Y41,Y42",16 05 06*,laboratory waste (EWC 16 05 06*),"H3,H4.1,H4.2,H4.3,H6.1,H8,H11,H12",2.334,"TR,IT,ES,PT,FR,NL,BE,GB",DE,D10,,Greece
+,Y12,16 01 07*,waste oil filters (EWC 16 01 07*),H12,16.225,"GB,TR,IT,BE,ES,PT,FR,NL",DE,,R4,Greece
+,Y16,"09 01 01*, 09 01 02*, 09 01 05*, 09 01 13*","wastes from photographic industry (EWC 09 01 01*, 09 01 02*, 09 01 05*, 09 01 13*)","H8,H12",59.511,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece
+,Y16,"09 01 01*, 09 01 02*, 09 01 05*, 09 01 13*","wastes from photographic industry (EWC 09 01 01*, 09 01 02*, 09 01 05*, 09 01 13*)","H8,H12",3.768,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece
+,Y17,"11 01 08*, 11 01 09*, 11 01 98*","wastes from chemical surface treatment and coating of metals-sludge and filter cakes containing dangerous substances ( EWC 11 01 08*, 11 01 09*, 11 01 98*)","H12,H13",3.745,"PT,GB,NL,TR,FR",BE,,"R12,R5",Greece
+,Y18,"19 02 05*, 19 02 11*","sludge from physic-chemical treatment containing dangerous substances (EWC 19 02 05*, 19 02 11*) ","H12,H13",13.059,"PT,GB,NL,TR,FR,ES,IT",BE,,"R12,R5",Greece
+,Y18,"19 02 05*, 19 02 11*","sludge from physic-chemical treatment containing dangerous substances (EWC 19 02 05*, 19 02 11*) ","H12,H13",22.65,"PT,GB,NL,TR,FR,ES,IT",BE,,"R12,R5",Greece
+,Y18,"19 02 05*, 19 02 11*","sludge from physic-chemical treatment containing dangerous substances (EWC 19 02 05*, 19 02 11*) ","H12,H13",15.421,"PT,GB,NL,TR,FR,ES,IT",BE,,"R12,R5",Greece
+,Y18,"19 02 05*, 19 02 11*","sludge from physic-chemical treatment containing dangerous substances (EWC 19 02 05*, 19 02 11*) ","H12,H13",6.66,"PT,GB,NL,TR,FR,ES,IT",BE,,"R12,R5",Greece
+,Y18,"19 02 05*, 19 02 11*","wastes from physico-chemical treatment contianing dangerous substances (EWC 19 02 05*, 19 02 11*) ","H12,H13",20.557,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece
+,"Y34,Y35",16 10 01*,"wastewater from cleaning of metals and metal parts, destined for off-site treatment (EWC 16 10 01*)","H8,H13",19.935,"PT,GB,NL,TR,FR",BE,,R12,Greece
+,Y36,17 06 05*,construction and insulation materials containing asbestos (asbestos cement materials) (EWC 17 06 05*) ,,186.32,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D1,,Greece
+,Y45,14 06 01*,"chlorofluorocarbons, HCFC, HFC (EWC 14 06 01*)",H12,45.3,"TR,IL,IT,ES",GB,D10,,Greece
+,Y8,15 02 02*,"absorbents, filter materials (including oil filters not otherwise specified), wiping cloths, protective clothing contaminated by hazardous substances (EWC 15 02 02*)",H12,100.6,IT,ES,D9,,Greece
+,Y8,15 02 02*,"absorbents, filter materials (including oil filters not otherwise specified), wiping cloths, protective clothing contaminated by hazardous substances (EWC 15 02 02*)",H12,188.07,IT,ES,D9,,Greece
+,Y8,15 02 02*,"absorbents, filter materials (including oil filters not otherwise specified), wiping cloths, protective clothing contaminated by hazardous substances (EWC 15 02 02*)",H12,34.64,IT,ES,,R3,Greece
+,Y8,15 02 02*,"absorbents, filter materials (including oil filters not otherwise specified), wiping cloths, protective clothing contaminated by hazardous substances (EWC 15 02 02*)",H12,22.51,"BG,RO,HU,SK,CZ,DE",DK,D10,,Greece
+,"Y9,Y16",15 02 02*,"absorbents, filters, wiping cloths and protective cloths contaminated by dangerous substances (EWC 15 02 02*) ","H4.1,H13",45.777,"PT,GB,NL,TR,BE,FR",DE,D10,,Greece
+,"Y9,Y16",15 02 02*,"absorbents, filters, wiping cloths and protective cloths contaminated by dangerous substances (EWC 15 02 02*) ","H4.1,H13",46.593,"PT,GB,NL,TR,BE,FR",DE,D10,,Greece
+,"Y9,Y12",15 02 02*,"absorbents, filter materials (including oil filters not otherwise specified), wiping cloths, protective clothing contaminated by hazardous substances (EWC 15 02 02*)","H4.1,H12",52.52,"GR,IL",FR,,"R12,R1",Greece
+,,"19 08 09*, 19 08 10*, 19 08 11*, 19 08 13* ",waste from wastewater treatment facilities (EWC 19 08 10*),"H12,H13",9.106,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece
+,,16 10 01*,liquid aqueous wastes contaminated with organic matter destined for off-site treatment (EWC 16 10 01*),H13,2.066,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece
+,,12 01 12*,mineral or synthetic grease waste (EWC 12 01 12*),"H11,H12",6.457,"TR,IT,ES,PT,FR,NL,BE,GB",DE,D10,,Greece
+,,"15 02 02*, 16 01 07*","oil absorbing materials, oil & diesel filters, ventilation filters, wipping clothes, protective clothing (EWC 15 02 02*, 16 01 07*)","H4.1,H8,H12",74.141,"TR,IT,ES,PT,FR,NL,BE,GB",DE,D10,,Greece
+,,16 01 13*,"brake fluids produced from end-of-life car recycling centers, workshops, during common repair works, car services etc. (EWC 16 01 13*)",H12,1.24,"TR,IT,ES,PT,FR,NL,BE,GB",DE,D10,,Greece
+,,"16 01 14*, 16 05 08*","antifreeze liquids produced from various operations (EWC 16 01 14*, 16 05 08*)",H12,16.354,"TR,IT,ES,PT,FR,NL,BE,GB",DE,D10,,Greece
+,,16 01 04*,end - of - life ship (ΕWC 16 01 04*),"H12,H13",58515.0,,TR,,"R12,R13,R4",Greece
+,"Y31,Y34",8548101000,Baterías acido plomo usadas,"H8,H11",29.0,,KP,D14,R4,Guatemala
+A1160,Y31,,Used Lead Acid Batteries,H8,316.0,,KR,,R4,Guyana
+A1020,Y31,06 04 05 *,wastes containing other heavy metals,H6.1,2.792,SK,PL,,R4,Hungary
+A3160,Y18,07 01 07 *,halogenated still bottoms and reaction residues,"H3,H6.1,H11,H12",15.74,"AT,DE",FR,D10,,Hungary
+A4070,Y12,08 01 11 *,waste paint and varnish containing organic solvents or other hazardous substances,H4.1,2.35,"AT,DE",NL,,R4,Hungary
+A4100,Y23,10 02 07 *,solid wastes from gas treatment containing hazardous substances,H13,3800.08,SK,PL,,R4,Hungary
+,Y18,10 03 08 *,salt slags from secondary production,,183.7,"SK,CZ",DE,,R5,Hungary
+,Y45,10 03 08 *,salt slags from secondary production,,3335.52,"SK,CZ",DE,,R5,Hungary
+A1010,Y31,10 04 01 *; 16 03 03 *,slags from primary and secondary production; inorganic wastes containing hazardous substances,H12,0.302,"SI,IT,FR",ES,,R4,Hungary
+A1010,Y31,10 04 02 *,dross and skimmings from primary and secondary production,H13,18.6,"SI,IT,FR",ES,,"R13,R4",Hungary
+A1020,Y31,10 04 02 *,dross and skimmings from primary and secondary production,H6.1,6.431,SK,PL,,R4,Hungary
+A1010,Y31,10 04 02 *,dross and skimmings from primary and secondary production,H12,17.601,"AT,DE,NL,BE",US,,R4,Hungary
+A1060,"Y17,Y34",11 01 05 *,pickling acids,H8,635.9,,AT,,R4,Hungary
+A1060,"Y17,Y34",11 01 05 *,pickling acids,H8,245.92,SK,CZ,,R4,Hungary
+A1050,Y17,11 01 09 *,sludges and filter cakes containing hazardous substances,"H11,H12",65.075,"SK,CZ",DE,,R4,Hungary
+,Y17,12 01 04 *,nonferrous metal dust and particles,H12,41.118,,AT,,R4,Hungary
+A3020,Y8,13 01 10 *; 13 01 11 *; 13 01 13 *; 13 02 05 *; 13 02 06 *; 13 02 08 *; 13 03 07 *; 13 03 10 *,"mineral based nonchlorinated hydraulic oils; synthetic hydraulic oils; other hydraulic oils; mineralbased nonchlorinated engine, gear and lubricating oils; synthetic engine, gear and lubricating oils; readily biodegradable engine, gear and lubricating oils; other engine, gear and lubricating oils; mineralbased nonchlorinated insulating and heat transmission oils; other insulating and heat transmission oils",,103.2,RO,BG,,R9,Hungary
+A4070,,15 01 10 *,packaging containing residues of or contaminated by hazardous substances,H13,0.314,AT,DE,,R4,Hungary
+,,16 01 04 *,end-of-life vehicles,H12,65.52,AT,DE,,"R12,R4,R5",Hungary
+A1170,,16 01 21 *,hazardous components other than those mentioned in 16 01 07 to 16 01 11 and 16 01 13 and 16 01 14,H4.1,2.4,AT,DE,,R4,Hungary
+A2010,Y31,16 02 15 *,hazardous components removed from discarded equipment,H12,1235.34,"AT,CZ",DE,,R5,Hungary
+A1160,Y31,16 06 01 *,lead batteries,H8,263.18,,AT,,R4,Hungary
+A1160,"Y31,Y34",16 06 01 *,lead batteries,"H8,H11",51.2,,AT,,R4,Hungary
+A1160,"Y31,Y34",16 06 01 *,lead batteries,"H8,H12",99.02,,AT,,R4,Hungary
+A1160,"Y31,Y34",16 06 01 *,lead batteries,H8,286.6,,AT,,R4,Hungary
+A1160,"Y31,Y34",16 06 01 *,lead batteries,"H8,H11",186.174,,AT,,"R4,R6",Hungary
+A1160,"Y31,Y34",16 06 01 *,lead batteries,"H8,H11,H12",2344.86,RO,BG,,R4,Hungary
+A1160,"Y31,Y34",16 06 01 *,lead batteries,H8,483.726,RO,BG,,"R4,R5,R12",Hungary
+A1160,"Y31,Y34",16 06 01 *,lead batteries,H8,285.24,SK,CZ,,R4,Hungary
+A1160,"Y31,Y34",16 06 01 *,lead batteries,"H8,H12",189.58,SK,CZ,,R4,Hungary
+A1160,Y31,16 06 01 *,lead batteries,H8,121.84,,RO,,R4,Hungary
+A1160,"Y31,Y34",16 06 01 *,lead batteries,H8,198.58,,RO,,R4,Hungary
+A1160,"Y31,Y34",16 06 01 *,lead batteries,"H8,H12",4433.74,,RO,,R4,Hungary
+A1160,"Y31,Y34",16 06 01 *,lead batteries,"H6.1,H8,H11,H12",264.225,,RO,,"R4,R6",Hungary
+A1160,"Y31,Y34",16 06 01 *,lead batteries,"H6.1,H8",47.398,,SI,,R4,Hungary
+A1160,"Y31,Y34",16 06 01 *,lead batteries,"H6.1,H8,H11,H12",889.949,,SI,,R4,Hungary
+A1160,"Y31,Y34",16 06 01 *,lead batteries,"H8,H12",190.46,,SI,,R4,Hungary
+A2030,"Y21,Y22,Y26",16 08 02 *,spent catalysts containing hazardous transition metals or hazardous transition metal compounds,H4.2,847.182,SK,CZ,,"R13,R4",Hungary
+A2030,Y2,16 08 02 *; 16 08 07 *,spent catalysts containing hazardous transition metals or hazardous transition metal compounds; spent catalysts contaminated with hazardous substances,H4.2,43.291,AT,DE,,R8,Hungary
+A2030,,16 08 07 *,spent catalysts contaminated with hazardous substances,"H6.1,H11,H12",39.58,AT,DE,,"R13,R4",Hungary
+A2030,,16 08 07 *,spent catalysts contaminated with hazardous substances,"H4.2,H11,H12",61.011,AT,DE,,R4,Hungary
+A2030,,16 08 07 *,spent catalysts contaminated with hazardous substances,"H6.1,H11,H12",75.22,"SK,CZ,DE,GB,BE,FR",US,,R4,Hungary
+A1030,Y29,17 09 01 *,construction and demolition wastes containing mercury ,H6.1,31.38,"SK,CZ",DE,D12,,Hungary
+A1030,Y29,20 01 21 *,fluorescent tubes and other mercurycontaining waste,H13,120.284,,RO,,R5,Hungary
+A1180,,"16 02 14*,20 01 36*",Electrical and electronic equipment and mixed metals,,13.82,,NL,,"R4,R5",Iceland
+A1180,,16 02 14*,Small electrical appliances,,639.07,DK,NL,,"R13,R4",Iceland
+A1180,"Y19,Y22",20 01 35*,Plasma and LCD televisions and monitors containing CRT glass,,68.86,"DK,NL,DE,DK",SE,,R12,Iceland
+A1180,"Y31,Y22,Y29",20 01 35*,TV sets and monitors,H11,10.39,"DK,NL",DE,,R5,Iceland
+A4070,Y12,20 01 27*,Paint- and print-related materials,H3,127.51,"DK,GB,NL,DE,SE",DK,D10,,Iceland
+A3150,,20 01 13*,"Solvents, may contain halogens",H3,93.8,"DK,GB,SE,DE",DK,D10,,Iceland
+A1160,"Y31,Y34",16 06 01*,"Scrap batteries, Wet",H8,751.84,"NL,DE,DK,DK",SE,,R4,Iceland
+,,10 03 04*,Aluminium skimmings,H4.3,249.96,NL,GB,,R4,Iceland
+,Y32,10 03 21*,Carbon dust,"H11,H12",201.15,NL,GB,,"R4,R5",Iceland
+A1180,,16 02 14*,Small electrical appliances,,90.0,,NL,,"R13,R4",Iceland
+A1180,,"16 02 13*,20 01 35*",Small electrical appliances,H12,441.66,"DK,GB,NL,DE,DK",SE,D10,"R12,R1,R3,R4,R5",Iceland
+,,20 03 01,Mixed municipal waste,H3,3078.0,GB,NL,,R1,Iceland
+A1160,Y31,16 06 01*,"Scrap batteries, Wet","H8,H12",117.34,,GB,,R4,Iceland
+A1160,"Y31,Y34",16 06 01*,"Scrap batteries, Wet",H8,104.54,,GB,,"R13,R4",Iceland
+A4050,Y33,"16 11 01*,16 11 03*","Spent pot lining, spent pot lining insulation",H4.3,2471.4,NL,NO,D5,,Iceland
+,Y18,10 03 04*,Aluminium skimmings,H4.3,458.44,NL,GB,,R4,Iceland
+A3150,Y45,20 01 23*,"Used refridgerators, may include C.F.C",H12,329.38,"DK,NL,DE,SE",DK,,R12,Iceland
+,,10 03 04*,Aluminium pot pads,"H11,H12",1347.74,NL,GB,,R4,Iceland
+A2060,,19 01 13*,Fly-ash containing heavy metals,H13,1298.3,,NO,,R5,Iceland
+A1180,Y29,16 02 13*,CRT / LCD tubes and displays,H12,65.94,"NL,DE",SE,,R12,Iceland
+,,19 12 10,Combustible waste,H3,12427.0,"NL,DE",DK,,"R13,R1",Iceland
+A2030,"Y22,Y23","16 08 02*,07 01 10*","Spent metal oxides/ sulfides (Cu/Zn/Al/Mg), catalysts/ absorbents",H12,14.37,"NL,DK,DE,SE",DK,D10,,Iceland
+A1180,"Y31,Y22,Y29",20 01 35*,TV sets and monitors,H11,246.43,"DK,NL",DE,,R5,Iceland
+A1160,"Y31,Y34",16 06 01*,Batteries wet filled with sulphuric acid,H8,367.6,DK,NL,,"R13,R4",Iceland
+A1170,"Y35,Y31,Y34",20 01 33*,Mixed household batteries,"H4.1,H8",109.34,DK,NL,,"R13,R4",Iceland
+,,10 09 11*,Slag from induction furnaces (Iron Oxide),H11,502.23,NL,GB,,"R4,R5",Iceland
+A4100,,"10 03 19*,10 03 20,10 03 21*,10 03 22,10 03 23*",Flue-gas dust,,87.0,,DK,D10,,Iceland
+,,19 12 10,Combustible waste,H3,1161.0,,NO,,R1,Iceland
+,Y32,10 03 21*,Carbon dust,"H11,H12",1625.91,NL,GB,,"R4,R5",Iceland
+,,10 03 04*,Aluminum skim and dross,H4.3,1882.94,NL,GB,,R4,Iceland
+A1170,"Y23,Y26,Y31",20 01 33*,"Batteries, dry, containing potassium hydroxide solid",H8,141.08,"DK,GB,NL,BE",FR,,R4,Iceland
+,"Y41,Y32","14 06 02*,14 06 04*,10 03 23*,15 02 02*",Organic waste containing halogens,"H6.1,H12",23.67,"DK,NL,DE,SE",DK,D10,,Iceland
+A4090,Y35,"16 03 05*,16 05 08*",Formaldehyde solution and precipitate,H8,30.05,"DK,NL,DE,SE",DK,D10,,Iceland
+A4050,Y33,"16 11 01 *,16 11 03*","Spent pot lining, spent pot lining insulation",H4.3,3720.65,NL,NO,D5,,Iceland
+A3150,"Y41,Y45","14 06 01*,16 05 04*",Refrigerant and fire extinguisher gases n.o.s,H12,3.19,"DK,NL,DE,SE",DK,D10,,Iceland
+A1010,,10 03 04*,Aluminium re-melting by-products,H4.3,91.85,,GB,,R4,Iceland
+,,10 03 04*,Aluminium pot pads,"H11,H12",613.23,NL,GB,,R4,Iceland
+,Y18,10 03 08*,Aluminium smelting by-products,H4.3,3055.89,,DE,,R5,Iceland
+A1180,"Y22,Y31",,Printed Circuit Board (PCB),H11,5642.3,,KR,D_,R_,Indonesia
+A1180,Y_,,Calcium Hydroxide Sludge (SW 427),H13,929.0,,MY,D_,R_,Indonesia
+A1050,Y23,,Copper cake,H13,36.0,,JP,D_,R_,Indonesia
+,Y_,,Zinc Dust Collector,H_,53.0,,KR,D_,R_,Indonesia
+A1180,"Y22,Y31",,"Electronic waste (PCB, IC Chips, mobile handset components)",H11,312816.0,,JP,D_,R_,Indonesia
+,Y19,,Spent DeH-11 Catalyst,H4.1,5.0,,JP,D_,R_,Indonesia
+A1180,"Y22,Y31",,Printed Circuit Board (PCB),H11,5.0,,KR,D_,R_,Indonesia
+,Y19,,Spent DeH-11 Catalyst,H4.1,10800.0,,JP,D_,R_,Indonesia
+A1180,Y_,,Calcium Hydroxide Sludge,H13,963.0,,MY,D_,R_,Indonesia
+A1050,Y23,,Bag Filter Ash,H13,35.0,,JP,D_,R_,Indonesia
+A1180,"Y22,Y31",,Printed circuit board (PCB),H11,456.0,,JP,D_,R_,Indonesia
+A1050,Y23,,Bag Filter Ash,H13,55.0,,JP,D_,R_,Indonesia
+A1050,Y23,,Copper Cake,H13,27.0,,JP,D_,R_,Indonesia
+A1180,"Y22,Y31",,Used Printed Circuit Boards for Metal Recycling,H11,24.0,,JP,D_,R_,Indonesia
+,Y19,,Spent Catalyst,H4.1,18.0,,IT,D_,R_,Indonesia
+A1030,Y29,,Elemental Mercury Waste,H6.1,2342.0,,JP,D_,R_,Indonesia
+A1030,Y29,,Liquid Waste Contaminated by Mercury,"H6.1,H8,H11",0.262,,JP,D_,R_,Indonesia
+A1030,Y29,,Solid Waste Contaminated by Mercury,H6.1,0.169,,JP,D_,R_,Indonesia
+,Y20,,Used Catalyst DeH-11,H4.2,54.0,,JP,D_,R_,Indonesia
+A1020,Y31,,EAF Dust,H11,21800.0,,KR,D_,R_,Indonesia
+A1020,Y31,,EAF Dust,H11,200790.0,,KR,D_,R_,Indonesia
+A1020,Y31,,EAF Dust,H11,78980.0,,KR,D_,R_,Indonesia
+A1020,Y31,,EAF Dust,H11,89010.0,,KR,D_,R_,Indonesia
+A1020,Y31,,EAF Dust,H11,86190.0,,KR,D_,R_,Indonesia
+A1020,Y31,,EAF Dust,H11,86478.0,,KR,D_,R_,Indonesia
+A1020,Y32,,Mill Scale,H12,25385.0,,JP,D_,R_,Indonesia
+A1180,"Y22,Y31",,Electronic Waste,H11,1247.0,,SG,D_,R_,Indonesia
+A1180,"Y22,Y31",,Electronic Waste,H11,1077.0,,SG,D_,R_,Indonesia
+A1180,"Y22,Y31",,Electronic Waste,H11,1480.0,,SG,D_,R_,Indonesia
+A1020,Y32,,Mill Scale,H12,34633.0,,VN,D_,R_,Indonesia
+,Y_,,Silver Paste,H_,0.55,,JP,D_,R_,Indonesia
+,Y_,,Silver Paste,H_,0.22,,JP,D_,R_,Indonesia
+,Y20,,Used Catalyst DeH-11,H4.2,10.8,,JP,D_,R_,Indonesia
+,Y20,,Used Catalyst DeH-11,H4.2,10.8,,JP,D_,R_,Indonesia
+,Y20,,Used Catalyst DeH-11,H4.2,5.4,,JP,D_,R_,Indonesia
+A1020,Y32,,Mill Scale,H12,24261.85,,JP,D_,R_,Indonesia
+A1180,"Y22,Y31",,"Electronic waste (PCB, IC Chips, mobile handset components)",H11,1343.71,,JP,D_,R_,Indonesia
+,Y_,,Spent Bleaching Earth (SBE),H_,3569.43,,MY,D_,R_,Indonesia
+,Y_,,Spent Bleaching Earth (SBE),H_,3215.21,,MY,D_,R_,Indonesia
+,Y_,,Spent Bleaching Earth (SBE),H_,2510.81,,MY,D_,R_,Indonesia
+,Y_,,Spent Bleaching Earth (SBE),H_,1992.73,,MY,D_,R_,Indonesia
+A1030,Y29,,Waste contaminated by mercury,H6.1,46385.0,,JP,D_,R_,Indonesia
+A1180,"Y22,Y31",,"Electronic waste (PCB, IC Chips, mobile handset components)",H11,3046.0,,JP,D_,R_,Indonesia
+A1030,Y29,,Elemental mercury waste,H6.1,0.084,,JP,D_,R_,Indonesia
+A1030,Y29,,Solid waste contaminated by mercury,H6.1,0.052,,JP,D_,R_,Indonesia
+A1030,Y29,,Filter waste contaminated by mercury,H6.1,1101.0,,JP,D_,R_,Indonesia
+A1030,Y29,,Spent catalyst contaminated by mercury,H6.1,36564.0,,JP,D_,R_,Indonesia
+A1180,Y_,,Calcium Hydroxide Sludge (SW 427),H13,963.0,,MY,D_,R_,Indonesia
+,Y_,,Spent Bleaching Earth (SBE),H_,3294.46,,MY,D_,R_,Indonesia
+,Y_,,Spent Bleaching Earth (SBE),H_,3693.33,,MY,D_,R_,Indonesia
+,Y_,,Spent Bleaching Earth (SBE),H_,3501.89,,MY,D_,R_,Indonesia
+,Y_,,Spent Bleaching Earth (SBE),H_,3630.86,,MY,D_,R_,Indonesia
+,Y_,,Spent Bleaching Earth (SBE),H_,3677.93,,MY,D_,R_,Indonesia
+A1180,"Y22,Y31",,"Electronic waste (PCB, IC Chips, mobile handset components)",H11,1247.06,,SG,D_,R_,Indonesia
+A1180,"Y22,Y31",,"Electronic waste (PCB, IC Chips, mobile handset components)",H11,1976.69,,SG,D_,R_,Indonesia
+A1180,"Y22,Y31",,"Electronic waste (PCB, IC Chips, mobile handset components)",H11,1482.73,,SG,D_,R_,Indonesia
+A1180,"Y22,Y31",,Printed Circuit Board (PCB),H11,7096.2,,KR,D_,R_,Indonesia
+A1050,Y23,,Zinc Metal,H13,37.78,,JP,D_,R_,Indonesia
+,Y_,,Lithium Mettal bateries,H_,4125.68,,CA,D_,R_,Indonesia
+A1180,"Y22,Y31",,"Electronic waste (PCB, IC Chips, mobile handset components)",H11,26033.0,,JP,D_,R_,Indonesia
+A1180,"Y22,Y31",,"Electronic waste (PCB, IC Chips, mobile handset components)",H11,0.026,,JP,D_,R_,Indonesia
+A1180,"Y22,Y31",,"Electronic waste (PCB, IC Chips, mobile handset components)",H11,0.025,,JP,D_,R_,Indonesia
+A1180,"Y22,Y31",,"Electronic waste (PCB, IC Chips, mobile handset components)",H11,0.026,,JP,D_,R_,Indonesia
+A1180,"Y22,Y31",,"Electronic waste (PCB, IC Chips, mobile handset components)",H11,0.026,,JP,D_,R_,Indonesia
+A1180,"Y22,Y31",,"Electronic waste (PCB, IC Chips, mobile handset components)",H11,0.051,,JP,D_,R_,Indonesia
+A4100,Y23,,metal dust,H12,201.3,"ES,GB,NL",DE,,R4,Israel
+,Y45,,Halogenated still bottoms and reaction residues,"H4.1,H6.1,H3
+",23.05,FR,ES,D10,,Israel
+A4020,Y1,,Cytotoxic waste.,H6.1,57.786,,FR,D10,,Israel
+A4140,"Y19,Y27,Y29,Y31,Y33,Y37,Y38,Y45",,Off-specification/outdated chemicals,,8.06725,"ES,GB,NL",DE,D10,,Israel
+A4100,Y23,,metal dust,H12,1293.08,,KR,,R4,Israel
+A4130,"Y2,Y6",,"Waste packages and containers containing Annex I
+substances in concentrations sufficient to exhibit Annex III
+hazard characteristics",H12,45.828,"IT,ES,GB,NL",DE,,"R3,R4",Israel
+A1170,,,"Discarded batteries and accumulators, unsorted","H8,H12",49.731,"ES,GB,NL",DE,,"R4,R12‎",Israel
+A4010,Y2,,solid wastes containing dangerous substances,"H4.1,H6.1,H11",63.881,"ES,GB,NL",DE,,R1,Israel
+A4070,Y12,,Waste paint and varnish containing organic solvents or other dangerous substances,,385.982,"ES,GB,NL",DE,,R1,Israel
+A4160,Y2,,Waste Activated carbon,H4.2,23.687,"ES,GB,NL",DE,,R1,Israel
+A3150,"Y2,Y6,Y41",,"Halogenated solvents
+solvents","H3,H6.1‎",92.465,"ES,GB,NL",DE,D10,,Israel
+,"Y11,Y18",,solid wastes containing dangerous substances,"H4.1,H6.1,H12
+",118.025,,ES,,"R12,R1,R13",Israel
+A4130,,,"Packages containing small residues of dangerous chemicals or were contaminated by dangerous chemicals, inside or outside",H12,47.687,,ES,,"R12,R1,R13",Israel
+A3150,"Y2,Y6,Y41",,"Waste halogenated (up to 15%)
+organic solvents","H3,H6.1,H12‎",172.06,"ES,GB,NL",DE,,R1,Israel
+,Y6,,solid wastes containing dangerous substances,"H4.1,H6.1,H12
+",754.661,"ES,GB,NL",DE,,R1,Israel
+A4140,"Y19,Y27,Y29,Y31,Y33,Y37,Y38,Y45",,Off-specification/outdated chemicals,,9.114,"ES,GB,NL",DE,,R1,Israel
+A4010,Y2,,solid wastes containing dangerous substances,"H4.1,H6.1,H11",170.36,"ES,GB,NL",DE,,R1,Israel
+A4070,Y12,,Waste paint and varnish containing organic solvents or other dangerous substances,,875.39,"ES,GB,NL",DE,,R1,Israel
+A1170,,,"Discarded batteries and accumulators, unsorted","H8,H12",38.845,"ES,GB,NL",DE,,"R4,R12‎",Israel
+A4100,Y23,,metal dust,H12,1473.04,,KR,,R4,Israel
+A4100,Y23,,metal dust,H12,1383.585,,KR,,R4,Israel
+A3150,"Y2,Y6,Y41",,"Halogenated solvents
+solvents","H3,H6.1‎",41.226,"ES,GB,NL",DE,D10‎,,Israel
+A3150,"Y2,Y6,Y41",,"Halogenated solvents
+solvents","H3,H6.1‎,H12",20.54,"ES,GB,NL",DE,,R1,Israel
+,Y6,,"solid wastes containing dangerous substances -Wastes from the production, formulation and use of organic solvents","H4.1,H6.1,H12
+",268.716,"ES,GB,NL",DE,,R1,Israel
+A3020,"Y8,Y11,Y17",,oily sludge,H12,79.3,ES,PT,,R1,Israel
+,Y18,,contaminated materials,H12,60.3,ES,PT,,R1,Israel
+A3140,"Y6,Y42",,non haloganated organic solvents,H3,280.0,,ES,,R1,Israel
+A4070,Y12,,paint waste,"H3,H6.1,H12",404.0,,ES,,R1,Israel
+A3020,"Y8,Y11,Y17",,oily sludge,H12,119.3,,ES,,R1,Israel
+,Y34,,benzoic acids,,554.6,,FR,,R1,Israel
+A4160,,,activated carbon,H6.1,232.3,,ES,,R1,Israel
+A4130,,,hazardous materials,H12,73.0,,ES,,R1,Israel
+,Y34,,benzoic acids,,105.4,,FR,,R1,Israel
+A1020,Y31,,Electronic capacitor manufacturer,H13,3.6,,GB,,R4,Israel
+A1170,Y26,,Li-ion Li Polymer and NiMH batteries,H12,16.6,,FI,,R4,Israel
+A1170,Y26,,Li ion EV  batteries for recycling,H13,4.0,,GR,,R4,Israel
+A1020,Y31,,Electronic capacitor manufacturer,H13,24.44,,GB,,R4,Israel
+A1020,Y31,,Electronic capacitor manufacturer,H13,0.311,,GB,,R4,Israel
+A1020,Y31,,Electronic capacitor manufacturer,H13,25.9,,GB,,R4,Israel
+A1020,Y26,,Spent lithium batteries,H12,30.8,,GR,,R4,Israel
+A1170,Y26,,Li-ion Li Polymer and NiMH batteries,H12,14.5,,FI,,R4,Israel
+A1020,Y31,,Electronic capacitor manufacturer,H13,3.8,,GB,,R4,Israel
+,Y18,,sludge containing waste salts,H13,1648.0,"ES,GB,NL",DE,D12,,Israel
+A4060,Y9,,Emulsion Oil,H12,447.0,,FR,,"R12,R1",Israel
+A4060,Y9,,Sulfur Oil,H12,140.8,,FR,,"R12,R1",Israel
+A4060,Y9,,Black Oil,H12,85.6,,FR,,"R12,R1",Israel
+A3020,Y8,,used oil filters,,683.6,"GR,IT",ES,,R4,Israel
+A1030,Y4,,Salt Mixture ,H13,3441.9,"ES,GB,NL",DE,,R5,Israel
+A1030,Y4,,Salt Mixture,H13,15.775,"ES,GB,NL",DE,D12,,Israel
+B1120,Y18,,Cuirct boards electronic scrap,H13,100.0,SA,DE,,"R4,R13",Jordan
+A4100,Y18,,Electric Arc Furnace Dust,H12,20000.0,,KR,,R4,Jordan
+B1010,"Y31,Y34",,used lead acid batteries,"H8,H11",1200.0,,IN,,R4,Jordan
+A1160,Y31,"H11, H12","USED LEAD BATTERIES
+","H11,H12",30000.0,,KR,,"R4,R5",Kenya
+"A1070,A1080",Y23,"H11, H12",ZINC DROSS,"H11,H12",10.0,,BE,D1,R4,Kenya
+"A1170,A1180,A1190","Y10,Y22,Y24,Y26,Y29,Y31","H11, H12","USED TELECOMMUNICATION EQUIPMENT(E-WASTE) - PCBAs,MODULES,CABLES,ANTENNAS,BATTERIES
+","H11,H12",600.0,,MY,,"R4,R5",Kenya
+A1160,Y31,160601*,lead batteries,"H6.1,H8,H11",1818.95,,LT,,"R3,R4,R5,R12,R13",Latvia
+A1160,Y31,160601*,lead batteries,H8,3124.67,,EE,,"R4,R12,R13",Latvia
+A4060,Y9,"130502*, 130702*, 130402*, 130506*, 130507*, 130403*, 160708*, 130701*",waste oils,H3,1773.58,,EE,,R3,Latvia
+A4060,Y9,130208*,other oils,H3,793.56,,LT,,R9,Latvia
+A4070,Y12,080111*,waste paint and varnish containing organic solvents or other dangerous substances,H3,60.249,,EE,,"R1,R12",Latvia
+A3180,Y10,"160209*, 130301*
+",transformers and capacitators containing PCBs,H_,9.357,,EE,"D_,D10,D13",,Latvia
+A3150,Y41,070703*,"organic halogenated solvents, washing liquids and mother liquors",H_,58.64,,EE,,R1,Latvia
+A4010,"Y2,Y3",180106*,chemicals consisting of or containing dangerous substances,,1.476,,EE,,R1,Latvia
+A3020,Y8,130208*,waste mineral oils,"H11,H12",220.15,EE,FI,,R9,Latvia
+A4140,"Y2,Y14","160506*, 160305*
+",waste laboratory chemicals,"H3,H4.1,H6.1",67.671,,EE,,"R1,R12",Latvia
+,Y5,170204*,"glass, plastic and wood containing or contaminated with hazardous substances",H12,34.84,,LT,,"R12,R13",Latvia
+,Y44,140601*,"chlorofluorocarbons, HCFC, HFC",H12,0.447,,EE,D10,,Latvia
+,Y_,191212,other wastes (including mixtures of materials) from mechanical treatment of wastes other,,402.18,,EE,,"R1,R12",Latvia
+,Y_,020304,materials unsuitable for consumption or processing,,278.27,,LT,,R12,Latvia
+,Y_,191211*,other wastes (including mixtures of materials) from mechanical treatment of waste containing hazardous substances,,20.1,,EE,,"R1,R12",Latvia
+A4010,Y3,,expired pharmaceutical,"H6.1,H11",25.0,,CY,"D8,D9",,Lebanon
+A4010,Y3,,expired pharmaceuticals,"H6.1,H11",14.5,,FR,D10,,Lebanon
+A4130,Y9,,packaging waste contaminated with hazardous substances,H12,3.48,,CY,,R12,Lebanon
+A3180,Y10,,transformers and capacitors contaminated with PCB,H11,308.0,,FR,D10,,Lebanon
+A4060,Y8,,oily sludge,H11,20.0,,GR,,"R1,R12",Lebanon
+A4060,Y9,,drillings and cuttings contaminated with oils,H12,399.0,,CY,,"R3,R5,R12",Lebanon
+A4060,Y9,,cuttings and slops contaminated with oils,H12,1262.0,,CY,,"R3,R5,R12",Lebanon
+,Y17,110109,,,19.8,,DE,,R4,Lithuania
+A1030,,60404,,,5.46,"PL,CZ,AT",CH,,R4,Lithuania
+A3020,,130208,,,866.5,PL,DE,,R9,Lithuania
+,Y5,170204,,,79.9,PL,DE,,R1,Lithuania
+,"Y12,Y8",150110,,,50.0,,PL,,R1,Lithuania
+,Y31,191211,,,97.58,PL,DE,,R4,Lithuania
+,Y8,130208,,,655.69,,PL,,R9,Lithuania
+,Y8,130310,,,19.94,,PL,,R9,Lithuania
+,Y31,160601,,,47.485,LV,EE,,R4,Lithuania
+,Y31,191211,,,2412.293,,PL,,R4,Lithuania
+,Y12,150111,,,5.0,LV,EE,D10,,Lithuania
+,Y31,191211,,,1355.74,PL,CZ,,R4,Lithuania
+,Y9,50106,,,75.96,,LV,,R3,Lithuania
+,,170204,Wood contained or contaminated with dangerous substances,H_,3269.96,PL,DE,,R1,Lithuania
+,Y31,191211,,,384.306,PL,DE,,R4,Lithuania
+,"Y12,Y8",150110,,,100.34,,PL,,R1,Lithuania
+,Y8,130310,,,189.84,,PL,,R9,Lithuania
+,Y9,130208,,,891.63,,PL,,R9,Lithuania
+,Y31,191211,,,506.169,,PL,,R4,Lithuania
+,Y9,50106,,,18.0,,LV,,R3,Lithuania
+,Y45,200123,,,173.1,,LV,,R12,Lithuania
+A2030,,160807,,,16.0755,"PL,CZ,SK",IT,,R8,Lithuania
+A2030,,160807,,,16.65382,"PL,CZ,SK",IT,,R8,Lithuania
+,Y18,140601,,,7.034,,DE,,R3,Lithuania
+,Y31,160601,,,247.127,LV,EE,,R4,Lithuania
+B3010,,191204,Plastics,H_,190.145,"PL,CZ",AT,,R3,Lithuania
+,Y31,160215,,,585.14,PL,DE,,R5,Lithuania
+,Y31,160601,,,271.84,LV,EE,,R4,Lithuania
+,"Y31,Y34",160601,,,208.566,LV,EE,,R4,Lithuania
+,Y31,191211,,,72.952,PL,DE,,R4,Lithuania
+,Y31,191211,,,524.937,PL,DE,,R4,Lithuania
+,"Y12,Y42,Y6",80312,,,14.737,,LV,,R2,Lithuania
+,"Y12,Y42,Y6",90102,,,6.033,,LV,,R2,Lithuania
+,"Y12,Y42,Y6",140603,,,3.11,,LV,,R2,Lithuania
+,"Y12,Y42,Y6",80312,,,53.19,,LV,,R2,Lithuania
+,"Y12,Y42,Y6",90102,,,27.935,,LV,,R2,Lithuania
+,"Y12,Y42,Y6",140603,,,18.765,,LV,,R2,Lithuania
+Y47,,190113,,,4199.4,,NO,,R5,Lithuania
+,Y31,191211,,,1098.332,PL,CZ,,R4,Lithuania
+A1020,,191211,,,219.274,PL,CZ,,R4,Lithuania
+,Y31,160215,,,118.91,PL,DE,,R5,Lithuania
+,Y29,200121,,,0.76,,LV,D5,"R12,R5,R4",Lithuania
+,Y31,160601,,,137.006,LV,EE,,R4,Lithuania
+A2030,,160802,,,105.894,PL,CZ,,R4,Lithuania
+,,170204,railway sleepers,H_,561.28,PL,DE,,R1,Lithuania
+,,170204,railway sleepers,H_,649.69,PL,DE,,R1,Lithuania
+,,170204,railway sleepers,H_,929.02,PL,DE,,R1,Lithuania
+Y47,,190113,,,11800.0,,NO,,R5,Lithuania
+,"Y31,Y34",191211,,,2007.11002,PL,CZ,,R4,Lithuania
+,"Y31,Y34",191211,,,596.693,PL,CZ,,R4,Lithuania
+A1160,,160601,,,71.76,LV,EE,,R4,Lithuania
+,Y8,130208,,,95.56,PL,DE,,R9,Lithuania
+,Y8,130208,,,656.65,"LV,EE",FI,,R9,Lithuania
+,Y29,200121,,,59.85,,LV,,"R12,R4,R5",Lithuania
+,Y29,200121,,,95.83,,LV,,"R12,R4,R5",Lithuania
+A4140,,191211,,,906.07,"PL,CZ,SK",SI,,R3,Lithuania
+,Y22,191211,,,117.103,"PL,CZ,SK",SI,,R3,Lithuania
+,Y29,160215,,,29.6,,SE,"D1,D10,D5,D9","R1,R12,R4,R5",Lithuania
+A1020,,191211,,,160.28,,LV,,"R12,R13",Lithuania
+A4100,Y23,SW 104,Aluminium Dross,,1800.0,,JP,,R4,Malaysia
+,Y29,SW103,Lithium Battery,,180.0,,SG,,R4,Malaysia
+,Y29,SW103,Lithium Battery,,10.0,,US,,"R13,R4",Malaysia
+A1180,"Y22,Y31",SW110,Electronic Waste,,70.0,,JP,,R4,Malaysia
+A1180,"Y22,Y31",SW110,Copper Waste and Scrap Kit,,200.0,,US,,R4,Malaysia
+A1180,"Y22,Y31",SW110,Electronic Waste,,300.0,"SG,JP",US,,R4,Malaysia
+A1180,"Y22,Y31",SW110,Electronic Waste,,500.0,"SG,JP",US,,R4,Malaysia
+A1180,"Y22,Y31",SW110,Electronic Waste,,450.0,"PT,ES,EG",BE,,R4,Malaysia
+A1180,"Y22,Y31",SW110,Electronic Waste,,90.0,,US,,R4,Malaysia
+A1180,"Y22,Y31",SW110,Electronic Waste,,70.0,,US,,R5,Malaysia
+A1050,Y17,SW204,Sludge,,160.0,,JP,,R4,Malaysia
+A4060,Y9,SW311,Coal Tar,,54000.0,,CN,,R3,Malaysia
+A4060,Y9,SW311,Coal Tar,,54000.0,,CN,,R3,Malaysia
+A4060,Y9,SW311,Coal Tar,,54000.0,,CN,,R3,Malaysia
+A3140,"Y6,Y42",SW322,Waste of Non-halogenated Organic Solvent,,240.0,SG,DE,,R4,Malaysia
+A3140,"Y6,Y42",SW322,Waste of Non-halogenated Organic Solvent,,240.0,SG,DE,,R4,Malaysia
+A3010,Y12,SW418,HP Scrap Inkjet Cartridges,,500.0,,CA,D13,R13,Malaysia
+A3190,,SW501,Dried Silicon Carbide Mixture,,180.0,,JP,,R5,Malaysia
+A1160,Y31,(none),Lead Acid Battery Scrap,H11,750.0,,IN,,R4,Maldives
+A4110,"Y23,Y31,Y43,Y44",19 01 13*; 19 01 15*,Fly ashes from combustion process or residues from scrubbing treatment/ filter cake from gas treatment & boiler washings,H12,74.74,,ES,D9,,Malta
+A4110,"Y23,Y31,Y22",12 01 16*,Grit waste,H12,115.314,PT,ES,D9,,Malta
+"A1040,A1020","Y19,Y31,Y21",17 05 03*,Contaminated soils,H12,95.727,PT,ES,D9,,Malta
+A3150,Y2,07 07 03*,Halogenated solvents,"H3,H6.1,H12",29.913,ES,PT,,R2,Malta
+A4010,Y2,07 07 04*; 16 10 01*,Non-halogenated solvents,"H3,H6.1,H12",122.22116,ES,PT,,R2,Malta
+A4010,"Y2,Y3",16 05 06*; 16 05 08*,Laboratory reagents,"H3,H6.1,H8,H12",11.161,ES,PT,D10,,Malta
+"A4010,A4020","Y1,Y2,Y3",18 01 03*; 18 01 06*; 18 01 08*,Cytotoxic and cytostatic medicines,"H3,H6.1",45.53764,ES,PT,D10,,Malta
+A4010,Y2,07 05 13*,Solid pharmaceutical waste,"H11,H12",38.76,ES,PT,D10,,Malta
+Y46,,19 12 12,"Refuse derived fuel, paper and plastic",,962.12,"ES,NL",PT,D1,,Malta
+A2050,Y36,17 06 05*,Construction material containing asbestos,H11,81.34,ES,PT,D1,,Malta
+A4130,Y18,15 01 10*,Contaminated packaging,H12,55.6,ES,PT,,"R3,R4",Malta
+A4010,Y2,07 05 01*; 07 05 03*; 07 05 04*; 07 07 04*,Liquid pharmaceutical waste and other solvents,"H3,H6.1,H12",15.06,ES,PT,,"R12,R1",Malta
+Y46,,19 12 12,"Refuse derived fuel, paper and plastic",,6633.171,"ES,NL",PT,D1,,Malta
+A1180,Y45,20 01 23*; 16 02 11*,"Discarded equipment containing chlorofluorocarbons. Discarded equipment containing chlorofluorocarbons, HCFC, HFC","H_,H_",234.36,,IT,,R4,Malta
+A3140,Y45,16 02 11*; 20 01 23*,Cooling/heating equipment,H12,94.14,,IT,,R4,Malta
+A2010,Y31,16 02 15*,Waste from cathode ray tubes,H13,108.72,GB,NL,,"R12,R5",Malta
+A4090,Y34,06 01 01*; 06 01 02*; 06 01 03*; 06 01 04*; 06 01 05*; 06 01 06*,Acid waste,"H8,H3",71.809,ES,PT,D9,,Malta
+A4070,Y12,08 01 11*; 08 01 13*; 08 03 12*; 08 03 14*,Paint and ink waste,"H3,H12",155.45039,ES,PT,D9,,Malta
+A4060,Y9,16 10 03*,Coolant waste,H12,2.167,ES,PT,D9,,Malta
+A3150,Y2,07 07 03*,Halogenated solvents,"H_,H_,H_",106.756,"ES,NL",PT,,R2,Malta
+A4010,Y2,07 07 04*,"Organic solvents, washing liquids and mother Liquors","H3,H6.1,H12",230.238,ES,PT,,R2,Malta
+A1160,Y31,16 06 01*,"Lead acid batteries whole, crushed or drained",H8,22.29,,ES,,"R4,R5,R6",Malta
+A2050,Y36,17 06 05*; 17 06 01*,Construction and insulation materials containing asbestos,H11,157.07594,,ES,"D13,D5",,Malta
+A4010,Y2,07 05 13*,Solid pharamceutical waste,"H6.1,H12",46.926,,IT,"D13,D14,D10",,Malta
+A1120,Y18,17 05 05*,Dredged material,H12,170.518,,ES,D9,,Malta
+A1180,Y10,16 02 11*; 20 01 23*; 16 02 13*; 20 01 35*,Refrigerators and water heaters,H12,104.52,,IT,,R4,Malta
+A4060,Y9,19 08 13*,Scrubber waste,H8,46.208,ES,PT,D9,,Malta
+A4060,"Y8,Y9",16 07 08*,Waste containing oil,H12,367.614,ES,PT,"D9,D1",,Malta
+A4010,Y2,07 07 10*,Filter cake and spent absorbents,H4.1,55.449,ES,PT,D9,,Malta
+,Y18,15 02 02*,Contaminated rags/filters,H12,69.816,ES,PT,D9,,Malta
+A2050,Y36,17 06 05*; 17 06 01*,Construction material containing asbestos and insultation material containing asbestos,H11,116.7,,ES,"D14,D5",,Malta
+A4010,"Y2,Y42",07 05 04*,"Organic  solvents, washing liquids and mother liquors waste","H3,H6.1,H12",397.92,"IT,AT",DE,D10,,Malta
+,"Y3,Y6,Y12,Y13",19 12 11*,Other waste (including mixtures of materials) from mechanical treatment of waste containing dangerous substances,"H3,H4.1,H6.1",887.08,IT,FR,"D13,D10",,Malta
+,Y45,16 02 11*; 20 01 23*,"WEEE containing chlorofluorocarbons (CFC), hydrochlorofluorocarbons (HCFC) and hydrofluorocarbons (HFC)",H12,480.926,,IT,,R4,Malta
+A1030,Y29,20 01 21*,Fluorescent tubes and other mercury containing waste,H8,26.121,,IT,,R5,Malta
+A1160,Y31,16 06 01*,Batteries wet filled with acid,H8,1088.68,IT,ES,,R4,Malta
+Y46,,19 12 12,Waste from mechanical treatment,,9927.075,"ES,NL",PT,D1,,Malta
+A4060,Y9,13 07 03*,Waste of liquid fuels (including mixtrues),H3,3923.87,,ES,,R3,Malta
+A4010,Y2,07 05 01*; 07 07 01*; 16 10 01*,Liquid pharmaceutical waste,"H3,H6.1,H12",577.72,,ES,D9,,Malta
+A4010,Y2,07 07 04*; 07 07 03*; 07 05 04*; 07 05 03*; 14 06 03* 16 03 05*,Liquid pharmaceutical waste and other solvents,"H3,H6.1,H12",660.777,,ES,,R2,Malta
+A4110,"Y23,Y31,Y43,Y44",19 01 13*; 19 01 15*,"Fly ashes from combustion process or residues from scrubbing treatment, filter cake from gas treatment and boiler washings",H12,231.568,,ES,D9,,Malta
+A4110,"Y23,Y31,Y22",12 01 16*,Grit waste,H12,2906.891,PT,ES,D9,,Malta
+A1020,"Y31,Y25,Y26,Y28,Y20",17 05 03*,Contaminated soils,H12,21.998,PT,ES,D9,,Malta
+A4010,Y3,16 05 06*; 16 05 07*; 16 05 08*,Laboratory reagents,"H3,H6.1,H8,H12",4.17,"ES,GB,NL,DE",BE,D10,,Malta
+A4020,"Y1,Y2,Y3",18 01 08*; 18 01 03*; 18 01 06*,Cytotoxic and cytostatic medicines,"H3,H6.1",5.897,"ES,GB,NL,DE",BE,D10,,Malta
+A4010,Y2,07 05 13*,Solid pharmaceutical waste,"H11,H12",12.907,"ES,GB,NL,DE",BE,D10,,Malta
+A4010,Y2,16 10 01*,Aqueous liquid waste,"H3,H6.1,H12",76.546,ES,PT,,R2,Malta
+A4010,Y2,07 05 04*,"Other organic solvents, washing liquids and mother liquors","H3,H6.1",59.13,,IT,"D13,D15,D10",,Malta
+A4130,Y18,15 02 02*,Contaminated rags/filters,H12,27.46,ES,PT,,"R12,R1",Malta
+A4010,Y2,16 05 06*; 16 05 08*,Laboratory reagents,"H3,H6.1,H8,H12",5.152,ES,PT,D10,,Malta
+A4020,"Y1,Y3",18 01 08*; 18 01 03*; 18 01 06*,Cytotoxic and cytostatic medicines,"H3,H6.1",4.821,ES,PT,D10,,Malta
+A4010,Y2,07 05 13*; 07 05 14,Solid pharmaceutical waste,"H11,H12",6.88232,ES,PT,D10,,Malta
+,,16 01 04*,M.V. Seven Pelican (IMO: 8420244),H6.1,4892.0,,TR,,R4,Malta
+,"Y3,Y6,Y12,Y13",19 12 11*,Other waste (including mixtures of materials) from mechanical treatment of waste containing dangerous substances,"H3,H4.1,H6.1",1122.033,IT,FR,"D13,D10",,Malta
+,Y34,"06 01 01*, 06 01 02*,06 01 03*,06 01 04*,06 01 05*,06 01 06*",Acid related waste,"H3,H8",22.201,ES,PT,"D9,D1",,Malta
+A4070,Y12,"08 01 11*, 08 01 13*, 08 03 12*, 08 03 14*",Paint and ink waste,"H3,H12",46.78074,ES,PT,"D9,D1",,Malta
+,"Y8,Y9",16 07 08*,Waste containing oil,H12,33.259,ES,PT,"D9,D1",,Malta
+A4010,Y2,07 07 10*,Filter cake and spent absorbents,H4.1,10.179,ES,PT,"D9,D1",,Malta
+A4060,Y9,16 10 03*,Coolant waste,H12,28.854,ES,PT,"D9,D1",,Malta
+A2050,Y36,"17 06 01*, 17 06 05*",Construction and insulation materials containing asbestos,H11,33.05,,ES,"D13,D5",,Malta
+,Y18,15 02 02*,Contaminated rags/filters,H12,11.416,ES,PT,D9,,Malta
+Y46,,19 12 12,Waste from mechanical treatment,,339.68,ES,PT,D1,,Malta
+A4010,"Y2,Y42",07 05 04*,"Organic  solvents, washing liquids and mother liquors waste","H3,H6.1,H12",365.01,"IT,AT",DE,D10,,Malta
+B1120,Y34,,Spent motor vehicle catalysts,H11,780.0,,US,,"R4,R8",Mexico
+A1170,,,Lithium batteries,,25.0,,US,,R4,Mexico
+B1010,,,Waste electronic components,H12,500.0, ,US,,R4,Mexico
+A4070,,,Empty plastic and/or metal containers previously contaminated,,4000.0, ,US,D1,,Mexico
+,,RP7/08,Tin/Silver Solder Slag,H11,47.4,,US,,R4,Mexico
+,,RP7/08,Tin/Lead Solder Slag,H11,110.6,,US,,R4,Mexico
+A1050,Y17,RP5/01,"Copper sludge, filter paper, impregnated",H12,80.0,,US,,R4,Mexico
+A1050,Y17,,Sludge from electroplating wastewater,H12,6771.0,,US,,R4,Mexico
+A1050,Y17,,Sludge from nickel plating baths,H12,120.0,,US,,R4,Mexico
+,,RP7/08,Tin / Silver solder paste,H12,15.8,,US,,R4,Mexico
+,,RP7/08,Tin / Lead solder paste,H12,47.4,,US,,R4,Mexico
+A1010,,,Plastics with Sn and Pb solder residues,H12,116.48,,US,,R4,Mexico
+A1080,Y23,,Electric furnace emission control equipment dusts,H11,14400.0,,US,,R4,Mexico
+A1180,,,Technological Waste,H12,1200.0,,US,,R4,Mexico
+A1180,,,Technological Waste,H12,620.0,,JP,,R4,Mexico
+A1010,Y31,,Leaded tin solder waste Sn63/Pb37,H12,233.0,,US,,R4,Mexico
+B1010,,,Lead free tin solder waste,H12,700.0,,US,,R4,Mexico
+B1010,,,Electronic card scrap with and without components,H12,250.0,,US,,R4,Mexico
+A4060,,,"Solids with hydrocarbons, grease and paint",H12,7500.0,,US,D1,,Mexico
+A1050,,SO4,Nickel impregnated solids,H12,200.0,,US,,R4,Mexico
+A1180,,,Complete or crushed electronic boards,H12,650.0,,BE,,R4,Mexico
+A1180,,,Complete or crushed electronic boards,H12,960.0,,US,,R4,Mexico
+A1180,,,Electronic Cards (Electronic Scrap),H12,2000.0,,JP,,R4,Mexico
+B1110,Y34,,Electronic cards,H12,287.0,,JP,,R4,Mexico
+B1010,Y31,RP7/08,Textiles with heavy metal welding slag,H12,116.48,,US,,R4,Mexico
+Y46,,,Déchets issus du tri des emballages ménagers recyclables triés à la source,,982.0,,FR,,"R4,R5,R12",Monaco
+Y47,,,Mâchefers issus du traitement thermique des déchets ménagers et assimilés de l'unité nationale,,8454.4,,FR,D5,,Monaco
+Y47,,,Cendres volantes issues de l'épuration des fumées du traitement thermique des déchets ménagers et assimilés traités dans l'unité de valorisation thermique nationale,,1178.0,,FR,D9,,Monaco
+Y47,,,Boues issues du lavage des fumées issues du traitement thermique des déchets ménagers et assimilés dans l'unité de valorisation énergétique nationale,,30.82,,FR,D9,,Monaco
+,Y_,,Boues issue de la station d'épuration des eaux usées issues de la commune française de Beausoleil et de la Principauté de Monaco. L'unité d'épuration est sur le territoire monégasque.,,4781.0,,FR,,R3,Monaco
+,Y_,,Etanchéité - Calendrite,,1.625,,FR,"D5,D13",,Monaco
+A4130,"Y2,Y3,Y4",,Emballages souillés,,50.57,,FR,,"R1,R3,R4,R12,R13",Monaco
+A3020,Y8,,Huiles usagées,H12,47.07,,FR,,"R9,R13",Monaco
+A4060,Y9,,Eaux souillées,"H8,H11,H12",160.56,,FR,"D10,D13",,Monaco
+A1030,,,Ampoules et néons,H11,4.02,,FR,,"R4,R5,R13",Monaco
+"A1170,Y46",Y10,,Piles et accumulateurs en mélange,H4.1,5.0,,FR,,"R4,R12",Monaco
+A1160,Y31,,Batterie Plomb,"H8,H12",7.655,,FR,,"R4,R13",Monaco
+A1020,Y31,,Déchets contenant du plomb,,0.141,,FR,"D5,D13",,Monaco
+,Y_,,Déchets d'équipements électriques et électroniques,H12,1.5,,FR,,"R4,R13",Monaco
+A1180,,,Déchet d'Equipements électriques et électroniques,"H4.1,H12",3.05,,FR,,"R4,R13",Monaco
+A3140,"Y6,Y42",,Solvants non halogénés,H3,32.65,,FR,,"R1,R13",Monaco
+A2050,Y36,,Déchets amiante,,12.34,,FR,"D1,D5,D15",,Monaco
+A3140,"Y6,Y41",,Produits de laboratoire,H11,6.54,,FR,,"R1,R13",Monaco
+A4090,"Y14,Y34,Y35",,Acides Bases,"H8,H12",10.37,,FR,"D9,D13",,Monaco
+"A1020,A4130","Y12,Y13",,Eléments sous pression,"H1,H3",3.62,,FR,"D10,D13",,Monaco
+A4060,Y4,,Produits de laboratoire,,4.5,,FR,"D10,D13",,Monaco
+A1030,Y29,,Produits mercuriels,H11,0.004,,FR,,"R3,R13",Monaco
+,"Y2,Y3,Y4,Y5,Y6,Y8,Y9,Y13,Y14,Y16,Y17",,Filtres imprégnés,"H4.1,H12",6.26,,FR,,"R1,R13",Monaco
+A4160,"Y2,Y3,Y4,Y5,Y6,Y8,Y9,Y13,Y14,Y16,Y17",,Charbons actifs,H12,0.18,,FR,,"R1,R12,R13",Monaco
+A4070,"Y12,Y13",,Pâteux non halogénés peintures vernis colles résines,H4.1,34.2,,FR,,"R1,R13",Monaco
+A3050,"Y12,Y13",,Isocyanates,H4.1,2.24,,FR,,"R1,R13",Monaco
+A4140,"Y1,Y2,Y3,Y4,Y14",,Comburants ,"H3,H4.1,H4.2,H4.3,H5.1,H5.2,H6.1,H8",0.88,,FR,"D10,D13",,Monaco
+A4030,Y4,,Produits phytosanitaires,"H6.1,H12",0.025,,FR,"D10,D13",,Monaco
+A4010,Y3,,Médicaments,,0.007,,FR,,"R1,R13",Monaco
+,Y3,,Radiographies,,0.6,,FR,,"R4,R13",Monaco
+"A1020,A1030","Y2,Y9",976,,"H1,H3,H4.1,H5.1,H6.2,H8,H11,H12",,"KP,JP",KR,"D4,D5,D6,D15","R5,R6,R7",Mongolia
+"A1020,A1030","Y2,Y9",976,,"H1,H3,H4.1,H5.1,H6.2,H8,H11,H12",,"KP,JP",KR,"D4,D5,D6,D15","R5,R6,R7",Mongolia
+A1160,Y31,,Lead Acid Battery Scrap,"H1,H6.1,H8",1989.68,,KR,,R4,Myanmar
+A4020,Y1,,Cytotoxic Waste,"H6.1,H11",200.74,,AU,D10,,New Zealand
+A4030,Y4,,Mixed Pesticides,H6.1,28.231,,AU,,"R1,R13",New Zealand
+A4030,Y4,,Waste pesticides,H6.1,9.94,"BE,NL,PA,GB,US",DE,D10,,New Zealand
+A3140,Y6,,Non-halogenated solvents,H3,19.829,,AU,,"R1,R13",New Zealand
+A3150,Y6,,Waste solvents (tetrachloroethylene),H6.1,14.06,"BE,NL,PA,GB,US",FR,D10,,New Zealand
+A1180,Y22,,Mixed e-waste,H12,302.929,JP,KR,,R4,New Zealand
+,Y31,,Mixed e-waste,H11,105.787,,JP,,R4,New Zealand
+A4140,Y45,,PFAS Fire Fighting and Industrial PFAS containing chemicals,H12,120.04,"BE,NL,PA,GB,US",FR,D10,,New Zealand
+"A1020,A1180,B1090,B1100","Y20,Y27,Y31,Y45",,Mixed e-waste,"H11,H12,H13",137.804,,JP,,"R4,R5",New Zealand
+A1180,"Y22,Y23,Y31",,Mixed e-waste,"H12,H13",131.79971,MY,SG,,R4,New Zealand
+A1180,"Y22,Y26,Y33",,Mixed e-waste,"H12,H13",49.386,"NL,PA,GB,US",BE,,R4,New Zealand
+A1160,"Y31,Y34",,Used lead acid batteries,"H8,H11",18227.988,JP,KR,,R4,New Zealand
+A4050,"Y32,Y33",,Spent pot liner,"H4.3,H6.1",1147.685,"EG,IT,MY,NL,SG,ES,GB",DE,,"R1,R12",New Zealand
+A4050,"Y32,Y33",,Spent pot liner,"H4.3,H6.1",2144.948,"EG,IT,MY,MT,SG,LK",ES,,"R4,R5",New Zealand
+A1160,"Y31,Y34",NI,Baterías Usadas con Acido Plomo,"H8,H11",1162.0,,CR,D10,"R4,R6",Nicaragua
+A1160,"Y31,Y34",NI,Baterias Usadas Acido Plomo,"H8,H11",2000.0,"MX,PA",KR,D10,R4,Nicaragua
+A1160,"Y31,Y34",NI,Baterias Usadas Acido Plomo,"H8,H11",1525.0,MX,KR,D10,R4,Nicaragua
+"A1080,A1160",Y_,NI,"Residuos de Aparatos Eléctricos y Electrónicos, RAEE","H8,H11",20.0,,CR,"D14,D15",R4,Nicaragua
+A1160,Y31,,Battery Waste,H8,4.9,,KR,,R4,Nigeria
+A1160,Y31,,Battery Waste,H8,2.0,,BG,,R4,Nigeria
+A1160,Y31,,Battery Waste,H8,0.5,,IR,,R4,Nigeria
+A1160,Y31,,Battery Waste,H8,0.25,,CA,,R4,Nigeria
+A1160,Y31,,Battery Waste,H8,0.3,,BE,,R4,Nigeria
+B1010,Y22,,"Copper, Iron, Brass, and Aluminium Waste",H11,1.5,,DE,,R4,Nigeria
+A1180,Y_,,E-waste,H11,5.0,,DE,,R4,Nigeria
+A1180,Y_,,E-waste,,0.168,,FR,,R4,Nigeria
+B1010,Y22,,copper waste,H11,0.5,,BE,,R4,Nigeria
+B1010,Y22,,brass waste,H11,0.5,,CN,,R4,Nigeria
+A4160,Y42,-,150202,,28.35,"SE,DE",NL,,R7,Norway
+A4150,Y14,7083,160506,H3,2.398,SE,DK,D10,,Norway
+A4140,Y35,7122,160903,H5.1,4.82,,SE,D10,,Norway
+A4140,Y18,-,160506,H3,57.36,SE,DK,D10,,Norway
+A4140,Y13,-,80501,H3,48.0,,SE,,R1,Norway
+A4140,Y18,-,160507,,1.418,,SE,D10,,Norway
+A4130,Y18,7091,160507,H5.1,26.295,,SE,D10,,Norway
+A4120,Y13,-,160903,H5.2,5.5,,SE,D10,,Norway
+A4120,Y23,-,100207,H12,7820.26,NL,DE,,R4,Norway
+A4100,Y5,-,161001,H6.1,1515.9,,DK,,R1,Norway
+A4100,Y35,-,60201,H6.1,117.0,SE,DK,D10,,Norway
+A4090,Y35,-,60204,H8,6334.0,,DK,,R5,Norway
+A4090,Y35,7135,70601,H8,59.222,,SE,D10,,Norway
+A4090,Y34,-,60101,H6.1,191.0,SE,DK,D10,,Norway
+A4090,Y34,-,60106,H8,31.937,,SE,D10,,Norway
+A4090,Y34,7134,70101,H8,18.66,,SE,D10,,Norway
+A4090,Y34,7134,110106,H8,31.251,,SE,D10,,Norway
+A4090,Y18,-,20108,H6.1,21.0,,SE,D9,,Norway
+A4090,Y18,-,60101,H8,15.5,,SE,D9,,Norway
+A4090,Y18,-,70601,H6.1,337.2,,SE,D10,,Norway
+A4090,Y17,-,160508,,23.3,NL,ES,D9,R3,Norway
+A4090,Y17,7131,60101,H8,64.01,,SE,D9,,Norway
+A4090,Y14,-,160506,H8,48.4,,SE,,R1,Norway
+A4090,Y12,7132,60201,H8,44.77,,SE,D13,,Norway
+A4090,Y12,7132,60201,H8,211.11,,SE,D9,,Norway
+A4090,Y6,-,130503,H4.1,112.14,,SE,,R1,Norway
+A4090,Y18,-,160504,H3,309.96,,SE,,R12,Norway
+A4070,Y13,-,80111,H3,348.03,,SE,,R1,Norway
+A4070,Y13,7121,80501,H3,41.6,,SE,,R1,Norway
+A4070,Y12,-,80111,,1611.32,,SE,,R1,Norway
+A4070,Y12,-,80111,H3,197.0,,SE,,R1,Norway
+A4070,Y12,-,80117,H3,121.6,,SE,D10,,Norway
+A4070,Y12,-,80409,H3,49.0,,DK,D10,,Norway
+A4070,Y12,-,200127,,311.28,,SE,,R1,Norway
+A4070,Y12,7165,70214,,364.12,,SE,,R1,Norway
+A4070,Y12,7165,80119,,2962.6,,SE,,R3,Norway
+A4070,Y12,7051,70308,H3,217.99,,SE,D10,,Norway
+A4070,Y12,7051,80111,H3,18.9,,SE,,R1,Norway
+A4070,Y12,7051,80111,H3,152.806,,SE,D10,,Norway
+A4070,Y12,7051,200127,H3,78.45,,SE,,R1,Norway
+A4070,Y9,-,130105,,179.3,,SE,D9,,Norway
+A4070,Y9,-,130205,H3,17847.33,,GB,,R9,Norway
+A4070,Y9,-,130506,H12,1854.009,,DK,,R9,Norway
+A4060,Y9,-,130802,H12,40463.3,,DK,,R12,Norway
+A4060,Y9,-,161001,,4178.525,,NL,,R1,Norway
+A4060,Y9,-,161001,H11,101034.0,,DK,D8,,Norway
+A4060,Y9,7012,130205,H11,2411.954,,SE,D10,,Norway
+A4060,Y9,7042,160114,H11,636.52,,SE,,R3,Norway
+A4060,Y9,7023,130703,H3,524.48,,SE,,R9,Norway
+A4060,Y18,-,70101,,3992.8,,DK,,R3,Norway
+A4060,Y18,7030,130802,H4.1,3577.6,,SE,,R12,Norway
+A4060,Y18,7042,160114,H11,871.52,SE,DK,,R3,Norway
+A4060,Y7,-,60311,H6.1,0.6,SE,DK,D10,,Norway
+A4060,Y33,7100,110301,H6.1,7.974,,SE,D10,,Norway
+A4060,Y18,-,60313,H6.1,87.0,,DK,D10,,Norway
+A4050,Y5,-,170204,H12,211.18,,SE,,R1,Norway
+A4050,Y5,7154,170204,H12,1248.87,,SE,,R1,Norway
+A4040,Y4,-,20108,H6.1,3.68,,DK,D10,,Norway
+A4040,Y4,-,20108,H6.1,8.89,SE,DK,D10,,Norway
+A4040,Y4,7111,20108,H6.1,27.193,,SE,D10,,Norway
+A4030,Y3,7152,180106,H6.1,5.134,,SE,D10,,Norway
+A4030,Y1,-,180101,H6.2,15.32,SE,DK,D10,,Norway
+A4030,Y1,-,180103,H6.2,26.978,,SE,D10,,Norway
+A4020,Y1,-,180103,H6.2,76.27,SE,DK,,R1,Norway
+A4020,Y1,6003,180103,H6.2,658.39,,SE,D10,,Norway
+A4020,Y41,7151,70103,H3,47.0,"DK,SE",DE,D10,,Norway
+A4020,Y2,-,70101,H12,49.0,,DK,,R1,Norway
+A4020,Y2,-,70101,H12,1144.36,,SE,,R1,Norway
+A4010,Y11,-,70108,H11,348.0,,DK,D10,,Norway
+A4010,Y11,-,100317,H3,24.6,,SE,D10,,Norway
+A4010,Y11,7152,100317,H3,7.582,,SE,D10,,Norway
+A3190,Y11,7152,170303,,186.8,,DK,D10,,Norway
+A3190,Y11,7152,170303,H3,11.159,,SE,D10,,Norway
+A3190,Y10,-,130101,H12,1.0,,DK,D10,,Norway
+A3190,Y10,-,130101,H12,349.0,,SE,D10,,Norway
+A3190,Y10,-,160209,H11,0.5,,SE,D10,,Norway
+A3180,Y10,-,170902,H12,59.75,"DK,SE",DE,D10,,Norway
+A3180,Y10,7211,170903,H6.1,75.3,,SE,,R1,Norway
+A3180,Y10,7210,150202,H12,4.908,,SE,D10,,Norway
+A3180,Y10,7210,160209,H12,9.63,,SE,,R1,Norway
+A3180,Y41,7151,70207,H6.1,322.86,DK,DE,D10,,Norway
+A3180,Y6,-,160508,H3,5.8,,SE,D10,,Norway
+A3170,Y45,7240,140601,H12,96.533,"BE,NL",FR,D10,,Norway
+A3170,Y18,-,70107,,7.2,,DK,D10,,Norway
+A3160,Y6,-,70103,H3,23.0,,DK,D10,,Norway
+A3160,Y41,-,80409,H3,18.5,,SE,D10,,Norway
+A3160,Y41,7151,70207,H6.1,1.513,,SE,D10,,Norway
+A3150,Y41,7151,70707,H6.1,2.397,,SE,D10,,Norway
+A3150,Y6,-,80111,,12.0,,SE,D10,,Norway
+A3150,Y6,-,160508,H3,51.77,,SE,D10,,Norway
+A3150,Y45,-,170903,,1.428,,SE,D10,,Norway
+A3140,Y18,-,191003,H11,9944.7,,SE,,R1,Norway
+A3140,Y18,-,160508,H3,394.0,,DK,D10,,Norway
+A3120,Y13,-,70208,,39.26,SE,DE,D10,,Norway
+A3120,Y13,7121,70208,H3,109.68,SE,DE,,R1,Norway
+A3070,Y13,7121,80409,H3,61.585,,SE,D10,,Norway
+A3050,Y13,7121,80501,,8.045,SE,DK,D10,,Norway
+A3050,Y13,7121,80501,H3,78.859,,SE,D10,,Norway
+A3050,Y13,7121,80501,H3,14.166,SE,DK,D10,,Norway
+A3050,Y8,-,130899,H4.1,435.57,,SE,,R1,Norway
+A3050,Y8,-,150202,H4.1,125.0,,SE,D10,,Norway
+A3050,Y8,7012,130205,H12,800.64,SE,DK,,R9,Norway
+A3020,Y8,7012,130307,H12,367.8,,DE,,R9,Norway
+A3020,Y8,7022,130899,H4.1,397.953,,SE,D10,,Norway
+A3020,Y8,7022,150110,H4.1,218.96,,SE,,R1,Norway
+A3020,Y18,7012,190207,H3,3504.2,,BE,,R9,Norway
+A3020,Y34,-,160805,H4.2,50.6,,GB,,R5,Norway
+A3020,Y34,-,160805,H8,149.545,,GB,,R5,Norway
+A3020,Y18,-,160807,H4.2,818.648,DK,DE,,R4,Norway
+A2030,Y31,1519,160215,H11,482.0,,SE,,R4,Norway
+A2030,Y31,1504,170410,,275.7,SE,DE,,R4,Norway
+A2030,Y22,-,160216,H12,2658.32,,SE,,R4,Norway
+A2030,Y22,1504,160216,H12,862.98,,SE,,R4,Norway
+A1190,Y41,1599,200135,H12,94.78,,SE,,R4,Norway
+A1180,Y29,-,200121,H11,896.006,,SE,,R4,Norway
+A1180,Y22,1599,200135,H11,349.84,,SE,,R4,Norway
+A1180,Y18,-,200135,,1072.472,,SE,,R11,Norway
+A1180,Y18,-,200135,H12,1925.188,"LV,SE",LT,,R13,Norway
+A1180,Y10,-,200135,,289.6,,SE,,R12,Norway
+A1180,Y27,7084,160602,H8,168.4,NL,DE,,R4,Norway
+A1180,Y26,-,160602,H8,34.5,,SE,,R4,Norway
+A1180,Y34,-,160601,H8,152.337,,SE,,R4,Norway
+A1180,Y34,7092,160601,H8,3479.953,,SE,,R4,Norway
+A1170,Y31,-,160601,,81.505,,SE,,R4,Norway
+A1170,Y31,-,160601,H8,16423.0,,GB,,R4,Norway
+A1170,Y31,7092,160601,H8,287.0,,DE,,R4,Norway
+A1160,Y31,7092,160601,H8,1019.0,,SE,,R4,Norway
+A1160,Y23,7083,100505,H8,42.5,"NL,SE",BE,,R4,Norway
+A1160,Y18,-,110202,H8,24.4,SE,FI,,R4,Norway
+A1160,Y17,7131,60101,H8,1.05,,SE,D13,,Norway
+A1160,Y29,-,60404,H8,1.642,"DK,SE",DE,D12,,Norway
+A1160,Y29,7081,50701,H8,8.1,"NL,DE",CH,D9,,Norway
+A1080,Y24,7154,191206,H6.1,329.3,,SE,,R1,Norway
+A1060,Y31,-,60405,,14.364,,BE,,R4,Norway
+A1030,Y31,-,170409,,24.0,"DK,DE",AT,,R4,Norway
+A1030,Y18,-,100207,H12,132.1,DE,CA,,R4,Norway
+A1030,Y18,-,191212,,716.55,DK,DE,,R12,Norway
+A1030,Y18,-,191212,,421.75,DK,DE,,R4,Norway
+A1010,Y9,-,160113,,75.25,NL,BE,,R3,Norway
+A1010,Y9,7023,130702,H3,55.63,,SE,,R1,Norway
+A1010,Y8,7022,160708,H12,12.64,,SE,,R1,Norway
+A1010,Y6,-,70704,H3,185.549,,SE,,R1,Norway
+A1010,Y5,-,170204,,852.0,,SE,,R1,Norway
+A1010,Y5,-,170204,H12,171.66,,SE,,R1,Norway
+A4070,Y12,,waste paints and varnishes wit organic solvents ,"H3,H6.1,H8,H12",250.0,AE,GR,,"R1,R12",Oman
+A2030,Y18,,spent catalysts & adsorbents (Molsieve) ,"H4.1,H4.2,H6.2,H12",200.0,,GR,,"R5,R12",Oman
+A4030,Y4,,pesticides & solids contaminated with pesticides,,100.0,,FR,D10,,Oman
+A3020,Y8,"H11, H12, H13",Used lube oil,"H11,H12,H13",20000.0,,BH,,R9,Oman
+A4100,Y23,,Electric arc furnace dust,H12,15000.0,,SA,,R4,Oman
+B1080,,,Zinc Ash,,2400.0,,KR,,R4,Pakistan
+A2050,Y_,,Asbestos waste,,2.0,,FR,D_,,Pakistan
+A1010,Y29,_,Liquid metallic mercury,"H8,H11",25.0,"BE,CR,PA",SE,D2,,Peru
+A3180,Y10,_,Liquid polychlorinated biphenyls (PCBs) and PCB transformers,"H6.1,H10,H11,H12",900.0,"BE,NL,PA",ES,"D9,D10",,Peru
+A3180,Y10,L404,Polychlorinated Biphenyls (PCB) wastes,H12,113.1,,FR,D10,,Philippines
+,Y22,,Copper bearing sludge,,3000.0,,KR,,R4,Philippines
+,Y31,M506,PRINTED CIRCUIT BOARD,H11,1.2,,JP,,R4,Philippines
+A1050,Y22,,CU SLUDGE,H12,1.5,,JP,,R4,Philippines
+,"Y22,Y31",M506,ASSORTED PCB WITH COMPONENTS,"H11,H12",500.0,,JP,,R4,Philippines
+A1180,Y31,M506,PRINTED CIRCUIT BOARD,H11,3600.0,,KR,,R4,Philippines
+,Y9,,HAZARDOUS SLUDGE,H12,224.0,,SE,,R4,Philippines
+,"Y12,Y13",,HEAVY METAL CONTAINING WASTE,H12,60.0,,SE,,R4,Philippines
+,"Y12,Y13",,WASTE IMPREGNATION RESIN,H12,60.0,,SE,,R4,Philippines
+,Y41,,WASTE PERCHOLOROETHYLENE,,2.0,,SE,,R4,Philippines
+A1180,"Y22,Y31",M506,PRINTED WIRING BOARD,H11,1000.0,,JP,,R4,Philippines
+A1180,"Y22,Y31",M506,PRINTED WIRING BOARD,H11,1000.0,,JP,,R4,Philippines
+A1180,"Y22,Y31",M506,PRINTED WIRING BOARD,H11,250.0,,SG,,R4,Philippines
+A1180,Y31,M506,PRINTED CIRCUIT BOARD,H11,1500.0,,KR,,R4,Philippines
+A1180,"Y22,Y31",M506,WEEE,H11,300.0,,KR,,R4,Philippines
+A1180,Y31,M506,WEEE,H11,1000.0,,JP,,R4,Philippines
+A1180,Y31,M506,PRINTED CIRCUIT BOARD,H11,500.0,,JP,,R4,Philippines
+,Y31,M506,PRINTED CIRCUIT BOARD,H11,200.0,,JP,,R4,Philippines
+A1180,Y31,M506,PRINTED CIRCUIT BOARD,H11,2400.0,,JP,,R4,Philippines
+,Y18,M506,TONERS AND INK CARTRIDGES,H13,200.0,,SG,,R4,Philippines
+A1180,"Y22,Y31",M506,PRINTED CIRCUIT BOARD,H11,200.0,,JP,,R4,Philippines
+A1180,Y18,M506,WEEE,H13,300.0,,SG,,R4,Philippines
+A1180,Y31,M506,WEEE,H11,1000.0,,JP,,R4,Philippines
+A4050,Y33,,CIRCLING FILTER OF EG GOLD SOLUTION,H11,20.0,,JP,,R4,Philippines
+,Y22,,COPPER SLUDGE,H11,250.0,,KR,,R4,Philippines
+A4050,Y33,,AU ABSORPTION RESIN,H11,5.0,,JP,,R4,Philippines
+A1180,Y31,,RECHARGEABLE LITHIUM ION BATTERY SCRAP,H11,300.0,,JP,,R4,Philippines
+,Y22,,COPPER SLUDGE,H11,3000.0,,KR,,R4,Philippines
+A1180,"Y22,Y31",,ASSORTED E-WASTE,H11,500.0,,JP,,R4,Philippines
+A1170,Y42,,SPENT LITHIUM ION BATTERY,"H10,H13",27.0,,AU,,R4,Philippines
+A1050,Y17,,SLUDGE WITH AU,H11,100.0,,JP,,R4,Philippines
+A1050,Y17,,SLUDGE WITH AG,H11,100.0,,JP,,R4,Philippines
+A1050,Y17,,SLUDGE WITH AUPD,H11,100.0,,JP,,R4,Philippines
+,Y31,M506,WEEE,H11,16.0,,JP,,R4,Philippines
+,Y31,M506,PRINTED CIRCUIT BOARD,H11,1800.0,,KR,,R4,Philippines
+,"Y22,Y31",M506,PRECIOUS METAL BEARING E-WASTES,H11,200.0,,JP,,R4,Philippines
+A3020,Y8,"130205*,130206*,130206*,130110*",,H12,1307.02,,DE,,R9,Poland
+A1050,Y17,110109*,,"H11,H12",79.22,,DE,,R4,Poland
+A2030,,160802*,Spent catalysts,"H4.2,H11",5735.833,CZ,AT,,R4,Poland
+,Y5,170204*,Wooden sleepers,H12,3513.52,DE,GB,,R3,Poland
+A3020,Y8,"130205*,130208*,130206*,130110*",,H12,5966.684,,DE,,R9,Poland
+Y47,,190107*,Solid wastes from gas treatment,H12,1896.7,,DE,,R5,Poland
+A2030,,"160801[PL],160807*[IT]",Spent catalysts car,,108.331,"DE,AT",IT,,R4,Poland
+A1030,Y29,170503*,,H8,329.94,,DE,D12,,Poland
+A4100,"Y23,Y26,Y31",100815*,,"H11,H12",118.92,DE,BE,,R12,Poland
+A4070,"Y6,Y12,Y13,Y42",080111*,,H3,14.54,,DE,,R2,Poland
+A1020,Y31,100402*,,H6.1,154.248,DE,BE,,R4,Poland
+A2030,,"160801[PL],160807*[IT]",Spent catalysts car,,28.7785,"DE,AT",IT,,R4,Poland
+A1030,Y17,110198*,,H12,17.1436,DE,BE,,R4,Poland
+,,100308*,Salt slags   ,H4.3,2224.5,,DE,,R5,Poland
+A2030,Y11,160802*,,H4.2,61.6,DE,FR,,R8,Poland
+,,100308*,Salt slags   ,H4.3,6856.08,,DE,,R5,Poland
+,,150202*,"Absorbents, filter materials (including oil filters not otherwise specified), wiping cloths, protective clothing contaminated by dangerous substances",H12,8.429,CZ,AT,,R4,Poland
+A1130,Y17,110107*,,H6.1,87.0,DE,BE,,R6,Poland
+A4100,"Y23,Y26,Y31",100815*,,"H11,H12",314.76,DE,BE,,R12,Poland
+A2050,Y36,150111*,,H11,139.7,,CZ,,R4,Poland
+Y47,,190107*,,H12,5238.887,,DE,,R5,Poland
+A1030,Y29,170503*,,H8,235.72,,DE,D12,,Poland
+A2030,,160807*,Spent catalysts,H12,58.261,,DE,,R4,Poland
+A2030,,160807*,Spent catalysts,H12,0.685,,DE,,R4,Poland
+A2030,Y11,160807*,,H4.2,24.3,,DE,,R4,Poland
+A2030,,160802*,Nickel spent catalysts,H12,15.955,,DE,,R4,Poland
+A3020,Y8,"130205*,130208*,130206*,130110*",,H12,829.54,,DE,,R9,Poland
+,,191211*,Wastes from mechanical treatment of waste containing dangerous substances,H12,452.54,,DE,,R1,Poland
+A2030,Y11,160802*,,,12.59,,DE,,R4,Poland
+,,100308*,Salt slags   ,H4.3,4995.24,,DE,,R5,Poland
+A4140,"Y29,Y33,Y34,Y35",160506*,,"H6.1,H8",9.988,,DE,,R4,Poland
+,,100308*,Salt slags   ,H4.3,177.36,,DE,,R5,Poland
+A3020,Y8,"130205*,130208*,130206*,130307*",,H12,454.48,,DE,,R9,Poland
+A1030,Y24,060403*,,"H8,H11,H12",52.36,,DE,D12,,Poland
+,,100308*,Salt slags   ,H4.3,741.7,,DE,,R5,Poland
+A1050,Y17,"110109*,190813*,190205*",,"H11,H12",529.964,,DE,,R4,Poland
+,,100308*,Salt slags   ,H4.3,254.24,,DE,,R5,Poland
+,Y18,100308*,Salt slags   ,H4.3,705.46,,DE,,R5,Poland
+A1030,Y29,170901*,,H8,62.46,,DE,D12,,Poland
+A3020,Y8,"130205*,130208*,130206*,130110*",,H12,7976.6,,DE,,R9,Poland
+,Y45,100308*,Salt slags   ,,101.54,"DE,LU",FR,,R5,Poland
+,Y45,100308*,Salt slags   ,,960.38,DE,FR,,R5,Poland
+,Y5,170204*,Wooden sleepers,H12,439.72,DE,GB,,R1,Poland
+A3190,Y11,190117*,,H3,169.02,"DE,NL",GB,,R9,Poland
+A2030,,160807*,Spent catalysts,H11,3.9368,,GB,,R4,Poland
+A2030,,160802*,Spent catalysts,H4.2,315.48,DE,NL,,R8,Poland
+A4070,Y12,080111*,,,0.09,DE,NL,,R4,Poland
+A4050,"Y7,Y17,Y33",110198*,,H6.1,4.23,DE,NL,,R4,Poland
+A4130,Y12,150110*,,"H3,H4.1,H12",1.97,DE,NL,,R4,Poland
+A4070,"Y12,Y17",150202*,,"H4.1,H12",4.94,DE,NL,,R4,Poland
+A2030,,"160801,160807*",Spent catalysts,H4.1,61.782,DE,US ,,R8,Poland
+A4130,,150110*,Packaging containing residues of or contaminated by dangerous substances,H12,1.3545,"DE,BE,NL,FR,GB",US ,,R8,Poland
+A4030,Y4,020108,Resíduos agroquímicos contendo substâncias perigosas (pesticidas),,109.24,"ES,FR",BE,D10,,Portugal
+A3050,Y13,070107,"Resíduos de destilação e resíduos de reacção halogenados_x000D_
+",,103.52,NL,DE,D10,,Portugal
+A3050,Y13,070108,resíduos de destilação e resíduos de reação,,17.86,NL,BE,D10,,Portugal
+A4100,Y23,100207,,,36521.17,,ES,,R4,Portugal
+,,100308,Escórias salinas da produção secundária,H4.3,1108.04,,ES,,R4,Portugal
+A1020,Y23,101003,escórias do forno,,126.24,,ES,,R4,Portugal
+A1010,Y11,101011,Outras partículas contendo substâncias perigosas,,245.28,,ES,,R4,Portugal
+A1050,Y17,110109,lamas e bolo de filtração contendo substancias perigosas,,225.788,"ES,FR",DE,,R4,Portugal
+A3020,Y3,130204,,,23.54,NL,BE,D10,,Portugal
+A3020,Y8,130204,óleos minerais clorados ,,68.4,"ES,FR",BE,D10,,Portugal
+A3020,Y8,130208,"óleos de motores, transmissões e lubrificação",,778.09,,ES,,R9,Portugal
+,Y45,140601,"clorofluorocarbonetos, HCFC, HFC",,39.414,ES,FR,D10,,Portugal
+A3140,Y12,140603,solventes e misturas de solventes,,136.4,,ES,,R2,Portugal
+,Y42,140603,solventes e misturas de solventes,,35.567,,ES,,R2,Portugal
+A4130,Y4,150110,RESÍDUOS DE EMBALAGENS CONTENDO OU CONTAMINADAS POR RESÍDUOS DE SUBSTÂNCIAS PERIGOSAS,,214.539,,ES,,"R3,R4",Portugal
+A4130,Y15,150111,"Embalagens de metal, incluindo recipientes vazios sob pressão, com uma matriz porosa sólida perigosa - Aerossóis",,19.86,NL,BE,D10,,Portugal
+A3180,Y10,160209,"Transformadores e condensadores contendo_x000D_
+PCB",,24.817,,ES,,"R12,R4",Portugal
+,"Y20,Y26,Y29,Y31",160213,"Equipamentos fora de uso, contendo componentes perigosos não abrangidos em 16 02 09 a 16 02 12",,67.646,ES,FR,,"R4,R5,R12",Portugal
+A2010,Y31,160215,,,121.4,"ES,FR",DE,,"R12,R5",Portugal
+A4140,Y18,160504,"gases em recipientes sob pressão (incluindo halons), contendo substâncias perigosas",,7.022,"BE,ES,FR",DE,D10,,Portugal
+A4010,Y2,160506,"Produtos químicos de laboratório, contendo ou compostos por substâncias perigosas, incluindo misturas de produtos químicos de laboratório (LER – 16 05 06*)",,77.08,,BE,D10,,Portugal
+A1160,Y31,160601,acumuladores de chumbo,,10956.235,,ES,,R4,Portugal
+A2030,,160802,catalisadores usados,,600.023,ES,FR,,R4,Portugal
+A1170,"Y34,Y35",200133,"Pilhas e acumuladores abrangidos em 16 06 01, 16 06 02 ou 16 06 03 e pilhas e acumuladores não triados contendo desses acumuladores ou pilhas",,113.376,,ES,,"R12,R4",Portugal
+A1170,"Y26,Y29,Y31",200133,"pilhas e acumuladores abrangidos em 16 06 01, 16 06 02 ou 16 06 03 e pilhas e acumuladores, não triados, contendo desses acumuladores ou pilhas",,123.13,,ES,,"R12,R4",Portugal
+A3150,Y6,"070103,070503,140602","solventes, líquidos de lavagem e licores-mãe halogenados",,76.485,NL,BE,D10,,Portugal
+A4010,Y3,"070513,200131,200132",Resíduos farmacêuticos,,674.483,NL,BE,D10,,Portugal
+A4010,Y3,"070513,200131,200132",Resíduos farmacêuticos,,300.582,"ES,FR",BE,D10,,Portugal
+A1180,Y10,"130101,160209",Resíduos contendo PCB's (condensadores e óleos removidos de equipamentos fora de uso),,59.738,"ES,FR",BE,D10,,Portugal
+A4130,Y18,"140601,150111,160504",Gases e recipientes sob pressão contendo substâncias perigosas,,14.7,,ES,,"R12,R4",Portugal
+A1180,Y31,"160213,200135",CRT - Tubos de Raios Catódicos /TV's e Monitores,,277.2,,ES,,"R12,R5",Portugal
+A3020,Y8,12 01 07*; 12 01 10*; 13 01 10*; 13 01 11*; 13 01 13*; 13 02 05*; 13 02 06*; 13 02 08*; 13 03 07*; 13 03 08*; 13 03 10*; 13 04 01*; 13 05 06*,waste mineral oils,H3,1852.09,,BG,,R9,Romania
+A1120,Y17,12 01 14*,machining sludges containing dangerous substances,H11,10.632,"CZ,HU,SK",DE,,R4,Romania
+A1030,Y29,20 01 21*,used fluorescent tubes containing mercury,H12,92.357,,HU,,"R4,R5",Romania
+A1170,Y26,16 06 02*,used Ni-Cd batteries ,"H8,H12",25.527,"AT,HU",DE,,R4,Romania
+A2010,Y31,16 02 15*,funnel glass from CRT,H12,23.0,"CZ,HU,SK",DE,,R5,Romania
+A2010,Y31,19 12 11*,funnel glass from CRT,H12,644.581,"AT,CZ,HU",DE,,R5,Romania
+A2010,Y31,19 12 11*,funnel glass from CRT,H12,64.68,"CZ,HU,SK",DE,,R5,Romania
+,Y45,"16 02 11*, 20 01 23*","discarded equipment containing HCFC, HFC ",H13,783.92,,HU,,R12,Romania
+,Y45,"16 02 11*, 20 01 23*",used not treated fridges containing HCFC,H12,46.38,"HU,SK",PL,,R12,Romania
+A1020,Y31,10 04 01*,lead slag,H12,288.21,,BG,,R4,Romania
+A1160,Y31,16 06 01*,waste lead acid batteeries,H8,15602.947,,BG,,R4,Romania
+,Y18,10 03 08*,salty slug fronm alluminium inedustry,"H8,H10",237.08,"CZ,HU,SK",DE,,R5,Romania
+A1020,Y31,"06 04 05*, 16 03 03*",expired solder paste containg lead,"H11,H12",13.863,"FR,HU,IT,SI",ES,,R4,Romania
+A1020,Y31,10 10 09*,flue gas dust containing hazardous substances,H12,435.72,,BG,,R4,Romania
+A1010,Y31,10 04 02*,solder dross,H12,15.5919,,HU,,R12,Romania
+A2030,,16 08 02*,spent catalyst,H4.2,154.91,"HU,IT,SK",FR,,R8,Romania
+A3050,Y13,16 03 03*,inorganic waste containing hazardous substances (adhesives) ,H12,1.0,"AT,HU",DE,,"R4,R13",Romania
+A1130,Y22,11 01 05*,spent itching sollution containg disolved copper,H8,432.84,"AT,HU",DE,,R4,Romania
+A1050,Y17,11 01 09*,sludge and filter cake contain dangerous substances,H12,39.025,"CZ,HU,SK",DE,,R4,Romania
+,Y_,10 08 11*,tin slug,,12.814,"FR,HU,IT,SI",EE,,R4,Romania
+,Y_,02 01 03*,tobaco stems,,3692.4,,BE,,R13,Romania
+,Y_,10 08 09*,tin slug,,14.62,"FR,HU,IT,SI",EE,,R4,Romania
+A1010,"Y31,Y34",Not applicable,Used lead-acid batteries,,183.0,JM,KR,,R4,Saint Lucia
+A3020,,13 01 11*,synthetichydraulic oils,,69.412,"HR,SI",AT,D10,,Serbia
+A3020,,15 01 10*,packaging containing residues of or contaminated by dangerous substances,,3.261,"HR,SI",AT,D10,,Serbia
+A3020,,15 02 02*,"absorbents, filter materials (including oil filters not otherwise specified), wiping cloths, protective clothing contaminated by dangerous substances",,8.876,"HR,SI",AT,D10,,Serbia
+A3020,,16 01 07*,oil filters,,5.351,"HR,SI",AT,D10,,Serbia
+A4010,,07 05 13*,solid wastes containing dangerous substances,,182.913,"HR,SI",AT,D10,,Serbia
+A4010,,15 01 10*,packaging containing residues of or contaminated by dangerous substances,,8.205,"HR,SI",AT,D10,,Serbia
+A4010,,16 03 03*,inorganic wastes containing dangerous substances,,0.102,"HR,SI",AT,D10,,Serbia
+A4010,,16 03 05*,organic wastes containing dangerous substances,,0.119,"HR,SI",AT,D10,,Serbia
+A4010,,18 01 08*,cytotoxic and cytostatic medicines,,3.424,"HR,SI",AT,D10,,Serbia
+A4010,,18 02 07*,cytotoxic and cytostatic medicines,,0.11,"HR,SI",AT,D10,,Serbia
+A4010,"Y2,Y3",16 03 05*,organic wastes containing dangerous substances,,25.777,"HR,SI",AT,D10,,Serbia
+A4010,"Y2,Y3",18 01 08*,cytotoxic and cytostatic medicines,,59.11,"HR,SI",AT,D10,,Serbia
+A4010,"Y2,Y3",07 05 13*,solid wastes containing dangerous substances,,13.45,"HR,SI",AT,D10,,Serbia
+A4030,,16 03 05*,organic wastes containing dangerous substances,,15.105,"HR,SI",AT,D10,,Serbia
+A4030,,20 01 19*,pesticides,,0.335,"HR,SI",AT,D10,,Serbia
+A4030,Y4,16 03 05*,organic wastes containing dangerous substances,,11.19,"HR,SI",AT,D10,,Serbia
+A4070,Y12,08 01 13*,sludges from paint or varnish containing organic solvents or other dangerous substances,,129.02,"HR,SI",AT,D10,,Serbia
+A4070,Y12,08 01 13*,sludges from paint or varnish containing organic solvents or other dangerous substances,,41.44,"HR,SI",AT,D10,,Serbia
+A4070,Y12,08 01 17*,wastes from paint or varnish removal containing organic solvents or other dangerous substances,,68.66,"HR,SI",AT,D10,,Serbia
+A4070,Y12,08 01 17*,wastes from paint or varnish removal containing organic solvents or other dangerous substances,,4.18,"HR,SI",AT,D10,,Serbia
+A4140,,16 03 05*,organic wastes containing dangerous substances,,14.536,"HR,SI",AT,D10,,Serbia
+A4140,,16 05 06*,"laboratory chemicals, consisting of or containing dangerous substances, including mixtures of laboratory chemicals",,7.438,"HR,SI",AT,D10,,Serbia
+A4140,,16 05 08*,discarded organic chemicals consisting of or containing dangerous substances,,1.986,"HR,SI",AT,D10,,Serbia
+A4140,"Y14,Y2",16 05 06*,"laboratory chemicals, consisting of or containing dangerous substances, including mixtures of laboratory chemicals",,0.33,"HR,SI",AT,D10,,Serbia
+A4140,"Y14,Y2",18 01 06*,chemicals consisting of or containing dangerous substances,,8.4,"HR,SI",AT,D10,,Serbia
+A4140,"Y2,Y6,Y18",16 05 06*,"laboratory chemicals, consisting of or containing dangerous substances, including mixtures of laboratory chemicals",,6.16,"HR,SI",AT,D10,,Serbia
+A4140,Y40,16 03 05*,organic wastes containing dangerous substances,,1.75,"HR,SI",AT,D10,,Serbia
+A4140,Y40,16 05 06*,"laboratory chemicals, consisting of or containing dangerous substances, including mixtures of laboratory chemicals",,6.63,"HR,SI",AT,D10,,Serbia
+A4140,Y40,18 01 06*,chemicals consisting of or containing dangerous substances,,30.96,"HR,SI",AT,D10,,Serbia
+A1060,"Y17,Y34",11 01 05*,pickling acids,,669.66,HU,AT,,R4,Serbia
+A1020,Y31,10 04 01*,slags from primary and secondary production,,530.14,,BG,,R4,Serbia
+A3020,Y8,13 01 10*,mineral based non-chlorinated hydraulic oils,,21.917,,BG,,R9,Serbia
+A3020,Y8,13 01 13*,other hydraulicoils,,5.542,,BG,,R9,Serbia
+A3020,Y8,13 02 05*,"mineral-based non-chlorinated engine, gear and lubricating oils",,116.464,,BG,,R9,Serbia
+A3020,Y8,13 02 05*,"mineral-based non-chlorinated engine, gear and lubricating oils",,404.98,,BG,,R9,Serbia
+A3020,Y8,13 02 08*,"other engine, gear and lubricating oils",,80.386,,BG,,R9,Serbia
+A3020,Y8,13 03 07*,mineral-based non-chlorinated insulating and heat transmission oils,,1.1,,BG,,R9,Serbia
+A3020,Y8,13 03 10*,other insulating and heat transmission oils,,1.481,,BG,,R9,Serbia
+A3020,Y8,13 08 99*,wastes not otherwise specified related to oil wastes not otherwise specified,,22.37,,BG,,R9,Serbia
+A3020,Y8,19 02 07*,oil and concentrates from separation,,28.38,,BG,,R9,Serbia
+A3180,,13 03 01*,insulating or heat transmission oils containing PCBs,,55.948,"AT,DE,HR,SI",CH,D10,,Serbia
+A3180,,15 01 10*,packaging containing residues of or contaminated by dangerous substances,,3.086,"AT,DE,HR,SI",CH,D10,,Serbia
+A3180,,15 02 02*,"absorbents, filter materials (including oil filters not otherwise specified), wiping cloths, protective clothing contaminated by dangerous substances",,4.606,"AT,DE,HR,SI",CH,D10,,Serbia
+A4140,,20 01 17*,photochemicals,,2.805,"AT,DE,HR,SI",CH,D10,,Serbia
+A4140,,16 05 07*,discarded inorganic chemicals consisting of or containing dangerous substances,,6.583,"AT,DE,HR,SI",CH,D10,,Serbia
+A4140,,16 05 08*,discarded organic chemicals consisting of or containing dangerous substances,,13.962,"AT,DE,HR,SI",CH,D10,,Serbia
+A4140,,16 05 06*,"laboratory chemicals, consisting of or containing dangerous substances, including mixtures of laboratory chemicals",,10.694,"AT,DE,HR,SI",CH,D10,,Serbia
+A4140,,07 01 07*,halogenated still bottoms and reaction residues,,23.83,"AT,DE,HR,SI",CH,D10,,Serbia
+A4140,,07 01 08*,other still bottoms and reaction residues,,6.63,"AT,DE,HR,SI",CH,D10,,Serbia
+A4140,,07 07 08*,other still bottoms and reaction residues,,2.1,"AT,DE,HR,SI",CH,D10,,Serbia
+A4140,,15 01 10*,packaging containing residues of or contaminated by dangerous substances,,5.296,"AT,DE,HR,SI",CH,D10,,Serbia
+A4140,,16 03 03*,inorganic wastes containing dangerous substances,,6.088,"AT,DE,HR,SI",CH,D10,,Serbia
+A4140,,16 03 05*,organic wastes containing dangerous substances,,70.796,"AT,DE,HR,SI",CH,D10,,Serbia
+A1020,"Y31,Y22,Y23",10 04 02*,dross and skimmings from primary and secondary production,,1694.33,"AT,HR,SI",DE,,R4,Serbia
+A1030,Y29,06 04 04*,wastes containing mercury,,0.011,"AT,HR,SI",DE,D9,,Serbia
+A1030,Y29,16 02 15*,hazardous components removed from discarded equipment,,0.555,"AT,HR,SI",DE,D9,,Serbia
+A1030,Y29,20 01 21*,fluorescent tubes and other mercury-containing waste,,0.211,"AT,HR,SI",DE,D9,,Serbia
+A1170,"Y23,Y26,Y29",20 01 33*,"batteries and accumulators included in 16 06 01, 16 06 02 or 16 06 03 and unsorted batteries and accumulators containing these batteries",,17.173,"AT,HR,SI",DE,,R12,Serbia
+A1180,Y10,16 02 15*,hazardous components removed from discarded equipment,,25.157,"AT,HR,SI",DE,D10,,Serbia
+A2010,"Y18,Y31",16 02 15*,hazardous components removed from discarded equipment,,1781.015,"AT,HR,SI",DE,,R5,Serbia
+A2010,Y40,16 02 15*,hazardous components removed from discarded equipment,,816.75,"AT,HR,SI",DE,,R5,Serbia
+A3150,"Y41,Y18",07 01 03*,"organichalogenated solvents, washing liquids and mother liquors",,19.2,"AT,HR,SI",DE,,R2,Serbia
+A3150,"Y41,Y18",14 06 02*,other halogenated solvents and solvent mixtures,,0.52,"AT,HR,SI",DE,,R2,Serbia
+A4070,Y12,08 01 21*,waste paint or varnish remover,,1.054,"AT,HR,SI",DE,D10,,Serbia
+A4070,Y12,16 03 05*,organic wastes containing dangerous substances,,0.308,"AT,HR,SI",DE,D10,,Serbia
+A4070,Y12,08 01 17*,wastes from paint or varnish removal containing organic solvents or other dangerous substances,,4.653,"AT,HR,SI",DE,D10,,Serbia
+A4070,,08 01 11*,waste paint and varnish containing organic solvents or other dangerous substances,,44.244,"AT,HR,SI",DE,D10,,Serbia
+A4070,,08 01 13*,sludges from paint or varnish containing organic solvents or other dangerous substances,,13.676,"AT,HR,SI",DE,D10,,Serbia
+A4070,,08 01 17*,wastes from paint or varnish removal containing organic solvents or other dangerous substances,,16.98,"AT,HR,SI",DE,D10,,Serbia
+A4070,Y12,08 01 11*,waste paint and varnish containing organic solvents or other dangerous substances,,0.375,"AT,HR,SI",DE,D10,,Serbia
+A4090,Y34,06 01 01*,sulphuric acid and sulphurous acid,,229.02,"AT,HR,SI",DE,,R6,Serbia
+A4090,Y34,06 01 04*,phosphoricand phosphorous acid,,120.4,"AT,HU",DE,D9,,Serbia
+A4010,Y2,16 03 05*,organic wastes containing dangerous substances,,327.14,"CZ,HU,RO,SK",DE,D10,,Serbia
+A1170,"Y26,Y29,Y31",20 01 33*,"batteries and accumulators included in 16 06 01, 16 06 02 or 16 06 03 and unsorted batteries and accumulators containing these batteries",,5.736,"HR,IT,SI",FR,,R4,Serbia
+A4090,Y34,11 01 05*,pickling acids,,234.18,MK,GR,,R5,Serbia
+A1020,Y31,19 12 11*,other wastes (including mixtures of materials) from mechanical treatment of waste containing dangerous substances,,46.664,,HR,,R12,Serbia
+A1160,Y31,16 06 01*,lead batteries,,793.889,,HR,,R13,Serbia
+A1160,Y31,16 06 01*,lead batteries,,1745.4585,,HR,,R4,Serbia
+A1160,Y31,16 06 01*,lead batteries,,777.382,,MK,,R4,Serbia
+A1160,"Y31,Y34",16 06 01*,lead batteries,,941.236,,MK,,R4,Serbia
+A2030,"Y22,Y41",16 08 07*,spent catalysts contaminated with dangerous substances,,5.358,,RO,,R2,Serbia
+A2030,"Y26,Y40,Y22",16 08 06*,spent liquids used as catalysts,,56.709,,RO,,R2,Serbia
+A3180,,16 02 09*,transformers and capacitors containing PCBs,,123.223,,RO,,R13,Serbia
+,Y35,,Calcium Carbide Sludge (Calcium Hydroxide Sludge),"H4.3,H8",4264.3,,MY,,R4,Singapore
+A1160,Y31,,"Drained Battery Scrap ""Rains""",H11,2224.174,,KR,,R4,Singapore
+A1160,Y31,,"Waste Lead Acid Batteries (Lead Sulphide, Polypropylene)",H11,49.085,,KR,,R4,Singapore
+A1160,Y31,,"Lead Acid Batteries, Lead Compounds",H11,2134.535,,KR,,R4,Singapore
+A1160,Y31,,Used/Waste Lead Acid Battery / Lead Acid Battery Scrap,H11,10426.353,,KR,,R4,Singapore
+A1160,Y31,,"Lead Acid Battery Scrap ""Rains""",H11,1271.16,,IN,,R4,Singapore
+"A1020,A1180",Y26,,Used Nickel Cadmium Batteries,"H8,H11",54.54,,KR,,R4,Singapore
+A2030,Y9,,Spent Catalyst,H4.2,4.698,"LB,MT,IT",FR,,R8,Singapore
+A2030,Y2,,Spent Nickel Catalyst,H4.2,38.0,"EG,GB,NL",DE,,R4,Singapore
+A1020,Y31,,Tin Dust,H11,57.531,,BE,,R4,Singapore
+,Y22,,Metallic Waste,H11,19.974,,KR,,R4,Singapore
+A1170,Y26,,Lithium Metallic Oxide Powder,H13,156.943,,KR,,R4,Singapore
+A1120,Y22,,Copper Sludge,H12,15.885,,JP,,R4,Singapore
+B2040,Y6,,"Multi-Wire Saw Slurry (Silicon Carbide, Dipropylene Glycol)",H13,4161.0,,IT,,"R5,R13",Singapore
+B1010,Y23,,EAF Zinc Dust,"H11,H12",1508.48,,KR,,R4,Singapore
+A4120,Y15,,Empty Containers Containing (30%-35%) Hydrogen Peroxide Residues,H5.2,19.24,,TH,,R13,Singapore
+Y47,,,Incinerator Bottom Ash / Non-Ferrous Metal Concentrate,,17741.66,"GB,ES,FR,DE,GR,EG",NL,,"R4,R5,R12",Singapore
+Y47,,,Processed Ash,,1719.92,"GB,ES,FR,DE,GR,EG",NL,,"R5,R12",Singapore
+A1010,Y23,10 06 03,"HP6, HP14",H_,777.61,"CZ,DE,NL",BE,,R4,Slovakia
+A1010,Y23,10 06 03,"HP6, HP14",H_,1612.55,"CZ,DE",BE,,R4,Slovakia
+A1020,Y_,11 01 98,-,H12,286.511,"HU,RO",BG,,R4,Slovakia
+A1160,"Y31,Y34",16 06 01,-,"H8,H12",23.12,"HU,RO",BG,,"R4,R12",Slovakia
+A1160,"Y31,Y34",16 06 01,-,"H8,H12",1484.763,"HU,RO",BG,,"R3,R4,R5",Slovakia
+A1030,Y24,06 04 03,-,"H6.1,H10,H12",10.8,,CZ,,R5,Slovakia
+A3140,"Y12,Y42",07 01 04,-,"H3,H4.1,H5.1,H6.1",111.3,,CZ,,R1,Slovakia
+,Y17,"10 03 08, 10 03 09",-,H12,97.85,,CZ,,R4,Slovakia
+A1180,Y45,"16 02 11, 20 01 23",-,H12,804.6,,CZ,,"R3,R4,R12",Slovakia
+A1160,"Y31,Y34","16 06 01, 20 01 33",-,"H8,H12",229.65,,CZ,,R4,Slovakia
+A3140,Y6,14 06 03,-,H3,47.483,"CZ,DE",NL,,R2,Slovakia
+A1060,Y17,11 01 05,HP8,H_,271.2,,HU,,R4,Slovakia
+A4020,Y42,14 06 03,"HP3-HP228, HP14, HP12",H_,28.407,HU,HU,,R2,Slovakia
+A4020,Y1,18 01 03,-,H6.2,107.992,,HU,,R1,Slovakia
+A1060,Y35,06 02 04,-,H8,569.9,AT,DE,,R5,Slovakia
+A3010,Y8,"13 01 10, 13 02 05, 13 02 06, 13 02 08, 13 03 07",HP14,H_,206.23,CZ,DE,,R9,Slovakia
+A1050,Y17,19 02 05,-,"H11,H12",20.094,CZ,DE,,R4,Slovakia
+A1050,Y17,"19 02 05, 11 01 09",-,"H11,H12",38.592,CZ,DE,,R4,Slovakia
+A1030,Y24,06 04 03,-,"H6.1,H10,H12",178.924,CZ,DE,D12,,Slovakia
+A1030,Y24,06 04 03,"H6.1, H10, H12",H_,178.924,CZ,DE,D12,,Slovakia
+A1130,Y17,11 01 07,"HP6,HP14",H_,21.18,CZ,DE,,R13,Slovakia
+A1050,Y17,11 01 09,-,H11,0.375,CZ,DE,,R4,Slovakia
+A1050,Y17,11 01 09,-,"H11,H12",218.541,CZ,DE,,R4,Slovakia
+A1030,Y17,12 01 18,-,H4.2,19.78,CZ,DE,,R4,Slovakia
+A1060,Y17,11 01 05,-,H8,3337.2,CZ,PL,,R5,Slovakia
+A4060,Y9,"05 01 03, 05 01 06, 05 01 09",-,"H12,H13",609.24,,AT,D10,,Slovakia
+A2030,Y_,16 08 02,,"H6.1,H11,H12",2895.74,,AT,,R4,Slovakia
+A1180,"Y31,Y34,Y35","16 02 13, 20 01 35",-,H8,35.4,,AT,,R4,Slovakia
+A3160,"Y12,Y42",07 07 08,HP14,H_,98.88,,AT,,R1,Slovakia
+A1100,Y23,10 06 03,"HP6, HP14",H_,1182.64,,AT,,R13,Slovakia
+"A1180,Y46",,16 02 13,"H15, HP14, HP7","H11,H12",19.6835,,AT,,R4,Slovakia
+A1160,Y31,16 06 01,-,"H8,H12",3053.848,HU,RO,,R4,Slovakia
+,Y18,19 12 12,-,,232.9,,AT,,R4,Slovakia
+,"Y2,Y12",19 02 04*,"Wastes from the production and preparation of pharmaceutical products + Wastes from production, formulation and use of inks,dyes, pigments, paints, lacques, varnish","H4.1,H11,H12",611.0,,AT,D10,,Slovenia
+,"Y2,Y12",19 02 04*,"Wastes from the production and preparation of pharmaceutical products + Wastes from production, formulation and use of inks,dyes, pigments, paints, lacques, varnish","H4.1,H12,H13",66.16,"AT,DE",BE,,"R12,R1",Slovenia
+,"Y2,Y12",19 02 04*,"Wastes from the production and preparation of pharmaceutical products + Wastes from production, formulation and use of inks,dyes, pigments, paints, lacques, varnish","H4.1,H11",49.54,AT,DE,D10,,Slovenia
+,"Y2,Y12",19 02 04*,"Wastes from the production and preparation of pharmaceutical products + Wastes from production, formulation and use of inks,dyes, pigments, paints, lacques, varnish","H4.1,H11,H12",173.0,AT,DE,D10,,Slovenia
+,Y5,17 02 04*,"Wastes from the manufacture, formulation and use of wood preserving chemicals",H11,2782.06,,AT,,"R12,R1",Slovenia
+,Y5,17 02 04*,"Wastes from the manufacture, formulation and use of wood preserving chemicals",H12,1666.98,,AT,,"R12,R1",Slovenia
+,"Y5,Y11",17 02 04*,"Wastes from the manufacture, formulation and use of wood preserving chemicals + Waste tarry resudues arising from refining, distillation and any pyrolytic treatment",H11,983.24,,AT,,"R12,R1",Slovenia
+,"Y8,Y18",19 02 04*,Waste mineral oils unfit for their originally intended use + Resudues arising from industrial waste disposal operations,"H11,H12",132.66,,AT,D10,,Slovenia
+,"Y8,Y18",19 02 04*,Waste mineral oils unfit for their originally intended use + Resudues arising from industrial waste disposal operations,"H4.1,H11,H12",218.46,,AT,D10,,Slovenia
+,"Y8,Y18",19 02 04*,Waste mineral oils unfit for their originally intended use + Resudues arising from industrial waste disposal operations,"H4.1,H10,H12",63.04,AT,DE,D10,,Slovenia
+,"Y8,Y9",17 05 03*,"Waste mineral oils unfit for their originally intended use + Waste oils/water, hydrocarbons/water mixtures, emulsions","H3,H11,H12",1081.44,,AT,D8,,Slovenia
+,"Y12,Y13",19 02 04*,"Wastes from production, formulation and use of inks,dyes, pigments, paints, lacques, varnish + Wastes from production, formulation and use of resins, latex, plasticizers, glues/adhesives","H4.1,H11,H12",163.8,,AT,D10,,Slovenia
+,"Y12,Y18",19 02 04*,"Wastes from production, formulation and use of inks,dyes, pigments, paints, lacques, varnish + Resudues arising from industrial waste disposal operations","H4.1,H11,H12",913.22,AT,DE,D10,,Slovenia
+,Y18,19 02 04*,Resudues arising from industrial waste disposal operations,"H11,H12,H13",2262.24,,AT,D10,,Slovenia
+,Y18,19 02 04*,Resudues arising from industrial waste disposal operations,"H4.1,H11,H12",243.46,,AT,D10,,Slovenia
+,Y18,19 02 09*,Resudues arising from industrial waste disposal operations,"H4.1,H11,H12",2263.76,,AT,,R3,Slovenia
+,Y18,19 02 09*,Resudues arising from industrial waste disposal operations,"H4.1,H11,H12",648.38,,AT,D10,,Slovenia
+,Y18,19 02 09*,Resudues arising from industrial waste disposal operations,"H4.1,H11,H12",241.0,,AT,"D15,D10",,Slovenia
+,Y18,19 02 09*,Resudues arising from industrial waste disposal operations,"H4.1,H11,H12",47.23,AT,DE,,R1,Slovenia
+,Y18,19 02 09*,Resudues arising from industrial waste disposal operations,"H4.1,H11,H12",1402.35,,HU,,R1,Slovenia
+,Y18,19 02 11*,Resudues arising from industrial waste disposal operations,"H12,H13",1473.26,,AT,D9,,Slovenia
+,Y18,19 03 04*,Resudues arising from industrial waste disposal operations,"H11,H12",194.14,,AT,,R5,Slovenia
+,Y18,19 03 04*,Resudues arising from industrial waste disposal operations,H12,3889.7,,AT,D9,,Slovenia
+,Y18,19 03 04*,Resudues arising from industrial waste disposal operations,H4.1,1477.28,,AT,D10,,Slovenia
+,Y18,19 03 04*,Resudues arising from industrial waste disposal operations,"H4.1,H11,H12",458.6,,AT,D10,,Slovenia
+,Y18,19 03 04*,Resudues arising from industrial waste disposal operations,"H4.1,H12,H13",514.02,,AT,D10,,Slovenia
+,Y18,19 03 06*,Resudues arising from industrial waste disposal operations,"H6.1,H8,H12",444.52,,AT,D9,,Slovenia
+,"Y18,Y23",19 02 04*,Resudues arising from industrial waste disposal operations + Zinc compounds,"H4.1,H10,H12",1709.44,AT,DE,D10,,Slovenia
+,"Y18,Y23",19 02 04*,Resudues arising from industrial waste disposal operations + Zinc compounds,"H4.1,H6.1,H11",191.13,AT,DE,D10,,Slovenia
+,Y32,16 11 01*,Inorganic fluorine compounds excluding calcium fluoride,"H12,H13",635.04,"AT,CZ",PL,,R5,Slovenia
+,Y42,15 02 02*,Organic solvents excluding halogenated solvents,H11,1.139,AT,DE,,R4,Slovenia
+,Y45,14 06 01*,"Organohalogen compounds other than substances referred to this Annex (eg. Y39, Y41, Y42, Y43, Y44)",H12,1.826,AT,DE,D10,,Slovenia
+A4160,Y18,15 02 02*,Resudues arising from industrial waste disposal operations,"H4.1,H6.1,H12",38.1,,AT,D9,,Slovenia
+A4140,Y14,16 05 06*,Waste chemical substances arising from research and development or teaching activities wich are not intended and/or are new and whose effets on man and/or the environment are not known,"H10,H11,H12",5.6,,AT,"D15,D10",,Slovenia
+A4130,Y13,15 01 10*,"Wastes from production, formulation and use of resins, latex, plasticizers, glues/adhesives",H3,46.08,,AT,D10,,Slovenia
+A4130,"Y14,Y45",16 05 04*,Waste chemical substances arising from research and development or teaching activities wich are not intended and/or are new and whose effets on man and/or the environment are not known + Organohalogen compounds other than substances referred to this Annex,"H3,H5.1,H6.1",0.195,AT,DE,D10,,Slovenia
+A4100,Y18,19 01 07*,Resudues arising from industrial waste disposal operations,H12,239.4,,AT,D9,,Slovenia
+A4100,Y18,19 01 07*,Resudues arising from industrial waste disposal operations,"H12,H13",895.94,,AT,D9,,Slovenia
+A4100,"Y21,Y23",10 02 07*,Hexsavalent chromium compounds + Zinc compounds,"H11,H12,H13",5952.46,"AT,CZ",PL,,R4,Slovenia
+A4100,"Y21,Y23",10 02 07*,Hexsavalent chromium compounds + Zinc compounds,"H12,H13",2600.09,"AT,CZ",PL,,R4,Slovenia
+A4100,"Y21,Y35",10 02 07*,Hexsavalent chromium compounds + Basic solutions or bases in solid form,"H8,H11,H12",1472.06,,AT,D9,,Slovenia
+A4100,"Y23,Y31",10 02 07*,Zinc compounds + Lead; lead compounds,"H11,H11,H13",1069.52,"AT,CZ",PL,,R4,Slovenia
+A4100,"Y23,Y41",10 02 07*,Zinc compounds + Halogenated organic solvents,"H11,H12,H13",850.43,"AT,CZ",PL,,R4,Slovenia
+A4070,"Y12,Y42",07 03 04*,"Wastes from production, formulation and use of inks,dyes, pigments, paints, lacques, varnish + Organic solvents excluding halogenated solvents","H3,H13",309.0,AT,DE,D10,,Slovenia
+A4070,"Y12,Y42",08 01 13*,"Wastes from production, formulation and use of inks,dyes, pigments, paints, lacques, varnish + Organic solvents excluding halogenated solvents","H4.1,H11,H12",187.64,AT,DE,D10,,Slovenia
+A4060,"Y8,Y9",13 04 03*,"Waste mineral oils unfit for their originally intended use + Waste oils/water, hydrocarbons/water mixtures, emulsions","H11,H12,H13",691.24,,AT,"D15,D10",,Slovenia
+A4060,Y9,13 05 02*,"Waste oils/water, hydrocarbons/water mixtures, emulsions",H12,134.86,,AT,D9,,Slovenia
+A4030,Y4,20 01 19*,"Wastes from the production, formulation and use of biocides and phytopharmaceuticals","H6.1,H11,H12",6.1,AT,DE,D10,,Slovenia
+A4020,Y1,18 01 03*,"Clinical wastes from medical care in hospitals, medical centres and clinics",H6.2,183.13,,IT,D10,,Slovenia
+A4020,Y1,18 01 08*,"Clinical wastes from medical care in hospitals, medical centres and clinics","H6.1,H6.2,H11",6.72,,HU,,R1,Slovenia
+A3160,"Y6,Y42",14 06 05*,"Wastes from the production, formulation and use of organic solvent + Organic solvents excluding halogenated solvents",H12,13.19,AT,DE,D10,,Slovenia
+A3150,"Y2,Y41",07 05 03*,Wastes from the production and preparation of pharmaceutical products + Halogenated organic solvents,"H3,H11",24.82,AT,DE,,R2,Slovenia
+A3150,"Y2,Y41",07 05 03*,Wastes from the production and preparation of pharmaceutical products + Halogenated organic solvents,"H3,H11,H12",399.94,AT,DE,,R2,Slovenia
+A3150,"Y2,Y6",07 05 03*,"Wastes from the production and preparation of pharmaceutical products + Wastes from the production, formulation and use of organic solvent","H3,H6.1,H11",82.8,AT,DE,,R2,Slovenia
+A3150,"Y18,Y41",19 02 08*,Resudues arising from industrial waste disposal operations + Halogenated organic solvents,"H3,H11,H12",1992.9,,AT,D10,,Slovenia
+A3140,"Y2,Y42",07 05 04*,Wastes from the production and preparation of pharmaceutical products + Organic solvents excluding halogenated solvents,"H3,H11,H12",1903.56,,AT,,"R13,R1",Slovenia
+A3140,"Y2,Y42",07 05 04*,Wastes from the production and preparation of pharmaceutical products + Organic solvents excluding halogenated solvents,"H3,H5.2,H12",1170.74,,AT,,"R12,R1",Slovenia
+A3140,"Y2,Y42",07 05 04*,Wastes from the production and preparation of pharmaceutical products + Organic solvents excluding halogenated solvents,"H3,H6.1,H11",21.38,,AT,,R1,Slovenia
+A3140,"Y2,Y6",19 02 08*,"Wastes from the production and preparation of pharmaceutical products + Wastes from the production, formulation and use of organic solvent","H3,H11,H12",393.77,,AT,,"R13,R1",Slovenia
+A3140,"Y2,Y6",19 02 08*,"Wastes from the production and preparation of pharmaceutical products + Wastes from the production, formulation and use of organic solvent","H3,H11,H12",75.2,"AT,DE",CH,,"R13,R1",Slovenia
+A3140,"Y2,Y6",19 02 08*,"Wastes from the production and preparation of pharmaceutical products + Wastes from the production, formulation and use of organic solvent","H3,H6.1,H11",75.16,"AT,DE",CH,,"R13,R1",Slovenia
+A3140,"Y6,Y42",07 05 04*,"Wastes from the production, formulation and use of organic solvent + Organic solvents excluding halogenated solvents","H3,H6.1,H12",959.54,,AT,,"R12,R1",Slovenia
+A3140,"Y12,Y18",19 02 04*,"Wastes from production, formulation and use of inks,dyes, pigments, paints, lacques, varnish + Resudues arising from industrial waste disposal operations","H3,H12,H13",3138.68,,AT,D10,,Slovenia
+A3140,"Y12,Y42",07 03 04*,"Wastes from production, formulation and use of inks,dyes, pigments, paints, lacques, varnish + Organic solvents excluding halogenated solvents","H3,H8,H11",484.34,,AT,D10,,Slovenia
+A3140,"Y12,Y42",07 03 04*,"Wastes from production, formulation and use of inks,dyes, pigments, paints, lacques, varnish + Organic solvents excluding halogenated solvents","H3,H8,H12",25.3,,AT,D10,,Slovenia
+A3140,"Y12,Y42",08 01 19*,"Wastes from production, formulation and use of inks,dyes, pigments, paints, lacques, varnish + Organic solvents excluding halogenated solvents",H12,502.64,"AT,DE",CH,D9,,Slovenia
+A3140,"Y12,Y42",19 02 04*,"Wastes from production, formulation and use of inks,dyes, pigments, paints, lacques, varnish + Organic solvents excluding halogenated solvents","H3,H12,H13",1044.62,,AT,D10,,Slovenia
+A3140,"Y18,Y42",19 02 08*,Resudues arising from industrial waste disposal operations + Organic solvents excluding halogenated solvents,"H3,H11,H11",403.56,,AT,,"R13,R1",Slovenia
+A3140,"Y18,Y42",19 02 08*,Resudues arising from industrial waste disposal operations + Organic solvents excluding halogenated solvents,"H3,H11,H12",1456.88,,AT,,"R13,R1",Slovenia
+A3140,"Y18,Y42",19 02 08*,Resudues arising from industrial waste disposal operations + Organic solvents excluding halogenated solvents,"H3,H11,H12",434.76,,AT,D10,,Slovenia
+A3140,"Y18,Y42",19 02 08*,Resudues arising from industrial waste disposal operations + Organic solvents excluding halogenated solvents,"H3,H11,H13",75.52,,AT,D10,,Slovenia
+A3140,"Y18,Y42",19 02 08*,Resudues arising from industrial waste disposal operations + Organic solvents excluding halogenated solvents,"H3,H11,H12",1555.8,AT,DE,,"R12,R1",Slovenia
+A3140,"Y18,Y42",19 02 08*,Resudues arising from industrial waste disposal operations + Organic solvents excluding halogenated solvents,"H3,H11,H12",47.68,AT,DE,D10,,Slovenia
+A3140,"Y18,Y42",19 02 08*,Resudues arising from industrial waste disposal operations + Organic solvents excluding halogenated solvents,"H3,H6.1,H11",50.36,AT,DE,,"R12,R1",Slovenia
+A3140,"Y18,Y42",19 02 08*,Resudues arising from industrial waste disposal operations + Organic solvents excluding halogenated solvents,"H3,H11,H12",2881.76,,HU,,R1,Slovenia
+A3140,Y42,07 05 04*,Organic solvents excluding halogenated solvents,"H3,H6.1,H12",414.62,,AT,,R1,Slovenia
+A3140,Y42,07 05 04*,Organic solvents excluding halogenated solvents,"H3,H11,H12",1410.14,,HU,,R1,Slovenia
+A3020,Y8,13 02 05*,Waste mineral oils unfit for their originally intended use,"H11,H11,H13",1469.28,AT,DE,,R9,Slovenia
+A3020,Y8,13 02 05*,Waste mineral oils unfit for their originally intended use,"H11,H12,H13",439.76,AT,DE,,R9,Slovenia
+A3020,Y8,13 02 05*,Waste mineral oils unfit for their originally intended use,"H11,H12",462.58,,HR,,R1,Slovenia
+A3020,Y8,19 02 07*,Waste mineral oils unfit for their originally intended use,"H11,H12",387.22,,AT,D10,,Slovenia
+A3020,"Y8,Y18",19 02 07*,Waste mineral oils unfit for their originally intended use + Resudues arising from industrial waste disposal operations,"H11,H12,H13",2575.9,,AT,,"R13,R1",Slovenia
+A2010,Y31,16 02 15*,Lead; lead compounds,"H11,H12",26.619,AT,DE,,R5,Slovenia
+A2010,Y31,16 02 15*,Lead; lead compounds,H12,276.76,AT,DE,,R5,Slovenia
+A2010,Y31,16 02 15*,Lead; lead compounds,"H6.1,H11,H13",336.88,AT,DE,,R5,Slovenia
+A1180,"Y9,Y45",20 01 23*,"Waste oils/water, hydrocarbons/water mixtures, emulsions + Organohalogen compounds other than substances referred to this Annex (eg. Y39, Y41, Y42, Y43, Y44)",H13,418.22,,AT,,"R3,R4",Slovenia
+A1180,Y45,20 01 23*,"Organohalogen compounds other than substances referred to this Annex (eg. Y39, Y41, Y42, Y43, Y44)",H11,610.05,,AT,,"R3,R4",Slovenia
+A1180,Y45,20 01 23*,"Organohalogen compounds other than substances referred to this Annex (eg. Y39, Y41, Y42, Y43, Y44)",H12,447.18,,AT,,"R3,R4",Slovenia
+A1180,Y45,20 01 23*,"Organohalogen compounds other than substances referred to this Annex (eg. Y39, Y41, Y42, Y43, Y44)",H12,471.29,,IT,,"R3,R4",Slovenia
+A1170,Y23,20 01 33*,Zinc compounds,"H8,H13",128.72,IT,FR,,R4,Slovenia
+A1170,"Y23,Y26",20 01 33*,Zinc compounds + Cadmium; cadmium compounds,"H6.1,H8,H11",123.515,AT,DE,,R12,Slovenia
+A1170,Y26,16 06 02*,Cadmium; cadmium compounds,H8,20.79,IT,FR,,R4,Slovenia
+A1160,"Y31,Y34",16 06 01*,Lead; lead compounds + Acidic solutions or acids in solid form,"H6.1,H8,H11",399.929,,HR,,R4,Slovenia
+A1130,Y22,11 01 07*,Copper compounds,"H6.1,H8,H12",58.364,,IT,,R5,Slovenia
+A1060,Y17,11 01 98*,Wastes resulting from surface treatment of metals and plastics,"H11,H12",2.725,AT,DE,,R4,Slovenia
+A1060,"Y17,Y23",11 01 05*,Wastes resulting from surface treatment of metals and plastics + Zinc compounds,"H8,H12",393.78,,AT,,R4,Slovenia
+A1050,Y17,11 01 09*,Wastes resulting from surface treatment of metals and plastics,"H11,H12",37.105,AT,DE,,R4,Slovenia
+A1050,Y17,19 02 05*,Wastes resulting from surface treatment of metals and plastics,"H11,H11",12.965,AT,DE,,R4,Slovenia
+A1050,Y17,19 02 05*,Wastes resulting from surface treatment of metals and plastics,"H11,H12",262.472,AT,DE,,R4,Slovenia
+A1050,Y17,19 02 05*,Wastes resulting from surface treatment of metals and plastics,H12,1.41,AT,DE,,R4,Slovenia
+A1050,Y17,19 02 05*,Wastes resulting from surface treatment of metals and plastics,"H8,H11",55.745,AT,DE,,R4,Slovenia
+A1050,"Y17,Y23",11 01 08*,Wastes resulting from surface treatment of metals and plastics + Zinc compounds,"H6.1,H11,H13",96.02,,AT,D9,,Slovenia
+A1040,Y21,11 01 98*,Hexsavalent chromium compounds,"H4.3,H6.1,H8",23.36,AT,DE,,R5,Slovenia
+A1030,Y29,20 01 21*,Mercury; mercury compounds,H12,140.08,AT,DE,,"R4,R5",Slovenia
+A1020,"Y18,Y31",19 12 11*,Resudues arising from industrial waste disposal operations + Lead; lead compounds,"H6.1,H11,H13",239.28,,AT,D10,,Slovenia
+A1030,"Y22,Y25,Y27,Y31",,Waste containing arsenic,H6.1,10.0,,GB,,"R4,R13",South Africa
+A1050,Y17,,,"H11,H12",71.94,,JP,,R_,Thailand
+A1050,Y17,,,"H11,H12",0.4,,SG,,R_,Thailand
+A1030,"Y24,Y29",,,"H11,H12",244.0,,JP,,R_,Thailand
+A1020,Y31,,,"H11,H12",466.96,,DE,,R_,Thailand
+A1020,Y31,,,"H11,H12",15.06,,PH,,R_,Thailand
+A1020,Y31,,,"H11,H12",2434.52,,JP,,R_,Thailand
+A1020,Y31,,,"H11,H12",20250.14,,KR,,R_,Thailand
+A1020,Y31,,,"H11,H12",1.5,,SG,,R_,Thailand
+A1020,Y31,,,"H11,H12",71.49,,BE,,R_,Thailand
+A1010,"Y24,Y25,Y26,Y27,Y29,Y31",,,"H11,H12",20.92,,JP,,R_,Thailand
+A1170,"Y29,Y31",,,"H11,H12",104.97,,JP,,R_,Thailand
+A1170,"Y29,Y31",,,"H11,H12",21.49,,BE,,R_,Thailand
+A1170,"Y29,Y31",,,"H11,H12",24.72,,SG,,R_,Thailand
+A1150,"Y10,Y22,Y29,Y31",,,"H11,H12",326.57,,JP,,R_,Thailand
+A1180,"Y10,Y22,Y29,Y31",,,"H11,H12",785.38,,KR,,R_,Thailand
+A1180,"Y10,Y22,Y29,Y31",,,"H11,H12",1435.91,,JP,,R_,Thailand
+A1180,"Y10,Y22,Y29,Y31",,,"H11,H12",11.32,,BE,,R_,Thailand
+A1180,"Y10,Y22,Y29,Y31",,,"H11,H12",299.34,,SG,,R_,Thailand
+A4070,Y12,,,"H11,H12",23.98,,SG,,R_,Thailand
+A4050,Y38,,,"H11,H12",0.05,,SG,,R_,Thailand
+"A1030,A1180,A2050,A4060,A4070,A4090","Y9,Y29,Y31,Y45",,"Waste end-of-life vehicle: Ultra-Deepwater Drillship ""Discoverer Enterprise"" (IMO No: 9186793)","H3,H5.1,H6.1,H11",34135.0,,TR,D5,"R4,R12,R13",Trinidad and Tobago
+A1100,Y22,120303.0,Cooper dirt-slag-oxides and copper ash,"H1,H12",49.77,,ES,,R4,Tunisia
+A1130,Y_,130104.0,spent alkaline solution containing copper,H8,741.9,,IT,,R5,Tunisia
+A4130,Y_,,"Absorbents, rags, materials and packaging containing hazardous substances",H13,342.13,,FR,,"R1,R12",Tunisia
+A4140,Y_,20202.0,Chemicals of laboratories containing hazardous substances,H_,229.28,,FR,,"R1,R12",Tunisia
+A2030,Y18,16 08 02*,spent catalysts,H8,15.249,"GR,IL,IT,NL,ES",DE,,R8,Turkey
+A4030,Y4,02 01 08*,agrochemical waste ,"H6.1,H12",478.12,"GR,IL,IT,ES",FR,D10,,Turkey
+A2030,Y18,16 08 02*,spent catalysts,H8,1016.1394,"DE,ES,GB",NL,,R8,Turkey
+A1050,Y17,11 01 09*,sludges and filter cakes,H12,327.43,"FR,PT,GB",DE,,R4,Turkey
+A4030,Y4,,,"H6.1,H12",420.89,"GR,IL,TR",FR,D10,,Ukraine
+A1160,Y31,,,H8,300.0,,RO,,R4,Ukraine
+A1160,Y31,,"Used Lead Acid Battery (Rains, Rinks, Rails)",H11,3000.0,,KR,,R4,United Arab Emirates
+A1160,"Y31,Y34",,"Used Car Battery, Rink ,Rain,Rails",H11,5000.0,,KR,,R1,United Arab Emirates
+A1160,Y31,,Used Lead Acid Battery,H11,10000.0,,KR,,R4,United Arab Emirates
+A1160,Y31,,USED LEAD ACID BATTERIES,H11,10000.0,,KR,,R4,United Arab Emirates
+A1160,"Y31,Y34",,SPENT LEAD BATTERIES ,H11,5000.0,,KR,,R4,United Arab Emirates
+A1180,Y22,,Printed Circuit Board (Electronic scrap contained precious metal),H13,1000.0,,KR,,R4,United Arab Emirates
+A1170,Y18,, NiMH (Nickel-Metal Hydride) batteries for recycling ,H12,100.0,"EG,GB,GR,NL,SG,FR",BE,,"R12,R13",United Arab Emirates
+A1160,Y31,,"Used Lead Acid Battery (Rink, Rains)",H11,5000.0,,KR,,R4,United Arab Emirates
+"A1170,A1180",,,"UN3090 Lithium metal batteries, UN3091 Lithium metal batteries in equipment",,25.0,US,CA,,R4,United Arab Emirates
+A1160,Y31,,Used Lead Acid Battery,H11,4000.0,,KR,,R4,United Arab Emirates
+A1160,"Y31,Y34",,Used Lead Acid Battery (Rink/Rains),H8,3000.0,,KR,,"R4,R6",United Arab Emirates
+A1160,"Y31,Y34",,Spent Lead Batteries,H11,5000.0,,KR,,R4,United Arab Emirates
+A1160,"Y31,Y34",,SPENT LEAD BATTERIES ,H11,1000.0,,KR,,R4,United Arab Emirates
+A1160,"Y31,Y34",,Spent Lead Batteries,H11,5000.0,,KR,,R4,United Arab Emirates
+A1160,Y31,,"USED LEAD ACID BATTERY (RINK ,RAINS ) ",H11,5000.0,,KR,,R4,United Arab Emirates
+A1160,Y31,,"Used Lead Acid Battery (RAINS, RINKS, RAILS)",H11,5000.0,,KR,,R4,United Arab Emirates
+A1160,Y31,,"USED LEAD ACID BATTERY (RINK ,RAINS ) ",H11,2000.0,,KR,,R4,United Arab Emirates
+A1160,Y31,,Used Lead Acid Battery,H11,6000.0,,KR,,R4,United Arab Emirates
+A4010,Y2,,Out-of-Date Pharmaceutical and Cosmetic Preparations,"H3,H6.1,H12",85.0,"ES,SA,OM,MA,EG,GB,GR,BE,NL",FR,D10,,United Arab Emirates
+A1160,Y31,,Used Lead Acid Battery,H11,15000.0,,KR,,R4,United Arab Emirates
+A1160,"Y31,Y34",,Spent lead batteries,H11,3000.0,,KR,,R4,United Arab Emirates
+A1160,Y31,,"USED LEAD ACID BATTERY (RAINS, RINKS, RAILS)",H11,5000.0,,KR,,R4,United Arab Emirates
+A1160,"Y31,Y34",,"USED  BATTERY SCRAP ,RINK,RAIN,RAILS",H11,4000.0,,KR,,R4,United Arab Emirates
+A1160,"Y31,Y34",,Used lead acid batteries,H11,5000.0,,KR,,R4,United Arab Emirates
+"A4030,A1010",Y4,,Redundent and obselete pecticides,"H3,H4.3,H6.1,H10,H11,H12,H13",50.0,,DE,D10,,United Arab Emirates
+A1160,"Y31,Y34",,SPENT LEAD BATTERIES ,H11,1000.0,,KR,,R4,United Arab Emirates
+A4010,Y2,,Out-of-Date Pharmaceutical and Cosmetic Preparations,"H3,H6.1,H12",750.0,"OM,SA,EG,MA,ES,GB,BE,NL,DE",FR,D1,,United Arab Emirates
+A1160,Y31,,Used Lead Acid Battery,H11,10000.0,,KR,,R4,United Arab Emirates
+A1160,Y31,,"Used Lead Acid Batteries (RINKS,RAILS,RAINS)",H11,3000.0,,KR,,R4,United Arab Emirates
+A1160,Y31,,USED LEAD ACID BATTERY ,H11,4000.0,,KR,,R4,United Arab Emirates
+A1180,"Y22,Y31",,Circuitos Impresos,H11,34.1,PA,JP,,R4,Venezuela (Bolivarian Republic of)

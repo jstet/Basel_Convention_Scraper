@@ -1,6 +1,7 @@
-## Data
-### 2020
-http://ers.basel.int/ERS-Extended/FeedbackServer/webreportprint.aspx?reportid=ce3701bd61c4a2ea8d1e8fb5cb14a1e&startdate=&enddate=&filterid=38&filterlanguage=&reportlanguage=
+## Helpful
+https://ewastemonitor.info/wp-content/uploads/2022/06/Global-TBM_webversion_june_2_pages.pdf p.22
+https://en.wikipedia.org/wiki/Global_waste_trade
+https://toxicwasteroutes.github.io/
 
 
 
