@@ -67,7 +67,7 @@ def get_dfs(url, driver, dl_folder, country, year, count, maxi):
         element.click()
         
         try:
-            time.sleep(4)
+            time.sleep(5)
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight)")
             element = WebDriverWait(driver, 4).until(
             EC.element_to_be_clickable((By.XPATH, "//*[contains(text(), 'Export to Excel')]")))
