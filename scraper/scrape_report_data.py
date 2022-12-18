@@ -169,4 +169,4 @@ def download(reports):
     driver.close()
     
 reports = pd.read_csv("../output/national_reports.csv")
-download(reports[:2])
+download(reports)
