@@ -156,7 +156,7 @@ def download(reports):
                 {"year": year, "country": country, "link": link, "reason": i["error"], "kind": kind})
             else:
                 i["df"].to_csv(f"../output/single/{kind}/{year}_{country.replace(' ','_')}_{kind}.csv")
-                exec(f"frames_{kind}.append(exports['df'])")
+                exec(f"frames_{kind}.append({kind}['df'])")
        
     for i in ["exports","imports"]:
                 df = eval(f"pd.concat(frames_{i})")
