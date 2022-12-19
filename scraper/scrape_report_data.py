@@ -48,18 +48,17 @@ op.add_argument('--headless')
 def get_dfs(url, driver, dl_folder, country, year, count, maxi):
     console.log(
         f"trying national report {count}/{maxi}. Url: {url} belonging to {country} in year {year}")
-
-    driver.get(url)
     
     results = []
     
     for i in ["Export", "Import"]:
+        driver.get(url)
         driver.implicitly_wait(2)
         
         dct = {}
         dct["error"] = ""
         try:
-            element = WebDriverWait(driver, 5).until(
+            element = WebDriverWait(driver, 15).until(
                 EC.element_to_be_clickable((By.XPATH, f"//*[contains(text(), '{i} of hazardous wastes and other wastes')]")))
         except TimeoutException:
             raise NoData("Category button not clickable")
@@ -67,10 +66,10 @@ def get_dfs(url, driver, dl_folder, country, year, count, maxi):
         element.click()
         
         try:
-            time.sleep(4)
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight)")
-            element = WebDriverWait(driver, 4).until(
+            element = WebDriverWait(driver, 15).until(
             EC.element_to_be_clickable((By.XPATH, "//*[contains(text(), 'Export to Excel')]")))
+            
         except Exception as e:
             console.log(f"Couldnt find excel button of {i}")
             dct["error"] = "Couldnt find excel button"
