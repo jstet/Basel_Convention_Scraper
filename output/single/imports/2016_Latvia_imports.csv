@@ -1,0 +1,19 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_origin,annex_4_a_code,annex_4_b_code,country,year
+0,Y46,,191210,Combustible waste (refuse derived fuel),,57702.4,DE,GB,,R1,Latvia,2016
+1,Y46,,191210,Combustible waste (refuse derived fuel),,2077.04,,GB,,R12,Latvia,2016
+2,Y46,,191212,Other waste (including mixtures of material) from mechancial treatment of waste,,9656.62,,IE,,R12,Latvia,2016
+3,A4020,Y1,180103*,Wastes whose collection and disposal is subject to special requirements in order to prevent infection,H6.2,132.5,,LT,,R12,Latvia,2016
+4,A4020,Y1,180103*,Wastes whose collection and disposal is subject to special requirements in order to prevent infection,H6.2,214.65,,EE,,R12,Latvia,2016
+5,A1030,Y29,200121*,Fluorescent tubes and other mercury-containing waste,H11,59.81,,LT,,"R4,R5,R12",Latvia,2016
+6,A1030,Y29,200121*,Fluorescent tubes and other mercury-containing waste,"H6.1,H11,H12",95.65,,EE,,"R4,R5,R12",Latvia,2016
+7,,Y4,170503*,Soil and stones containing hazardous substances,H12,55.84,,LT,,R5,Latvia,2016
+8,A4070,Y12,080111*,Waste paint and varnish containing organic solvents or other hazardous substances,H3,44.74,,LT,,"R12,R13",Latvia,2016
+9,A4070,"Y6,Y12,Y42",080312*; 140603*,Waste ink containing hazardous substances; other solvents and solvent mixtures,H3,146.03,,LT,,R2,Latvia,2016
+10,A1180,,160215*; 200123*,Hazardous components removed from discarded equipment; discarded equipment containing chlorofluorocarbons,,245.29,,EE,,"R3,R4,R5,R12",Latvia,2016
+11,A1180,Y45,200123*,Discarded equipment containing chlorofluorocarbons,H12,9.83,,LT,,"R3,R4,R12",Latvia,2016
+12,A4140,Y14,160506*; 160305*,"Laboratory chemicals, consisting of or containing hazardous substances, including mixtures of laboratory chemicals; organic wastes containing hazardous substances","H3,H4.1,H6.1,H8",17.55,,LT,,"R12,R13",Latvia,2016
+13,,Y_,190204*,Premixed wastes composed of at least one hazardous waste,,5843.48,,NO,,R1,Latvia,2016
+14,,Y_,160104*,End-of-life vehicles,,19.04,LT,NL,,R12,Latvia,2016
+15,,Y_,191211*,Other wastes (including mixtures of materials) from mechanical treatment of waste containing hazardous substances,,21.58,,LT,,"R3,R4,R12,R13",Latvia,2016
+16,A4090,,160303*,Inorganic wastes containing hazardous substances,H8,17.977,,LT,,"R5,R13",Latvia,2016
+17,A4090,,110105*,Pickling acids,H8,40.0,,EE,,R5,Latvia,2016

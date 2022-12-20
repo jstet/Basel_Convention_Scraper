@@ -1,0 +1,9 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A1030,Y29,20 01 21*,waste containing mercury,,3,SE,DE,,R4,Estonia,2019
+1,A1030,Y29,20 01 21*,waste containing mercury,,107,,FI,D9,R4,Estonia,2019
+2,A4020,Y1,18 01 03*,clinical waste,,270,,LV,,R12,Estonia,2019
+3,,,19 01 07*,Solid waste from municipal waste incineration gas treatment ,H12,7971,,FI,D9,,Estonia,2019
+4,A1180,Y31,16 02 15*,CTR glass,,22,,LV,,R12,Estonia,2019
+5,A1180,Y45,20 01 35*,WEEE,,262,LV,LT,,"R4,R5,R12",Estonia,2019
+6,A1180,Y45,20 01 23*,cooling appliances,,499,LV,LT,,"R4,R5",Estonia,2019
+7,A1180,Y45,20 01 23*,cooling appliances,,6,,LV,,"R3,R4",Estonia,2019

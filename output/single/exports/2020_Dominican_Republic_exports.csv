@@ -1,0 +1,7 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A2050,Y36,,"Asbestos, Anfibole",H11,40.0,US,CA,"D9,D15",,Dominican Republic,2020
+1,A1160,Y31,,Waste Lead Acid Batteries,H11,6200.0,,US,,R4,Dominican Republic,2020
+2,A1160,Y31,,Waste Lead Acid Batteries,H11,9820.0,,US,,R4,Dominican Republic,2020
+3,A1010,Y29,,Mercury,"H6.1,H11,H12",20.0,"DE,NL",CH,D9,,Dominican Republic,2020
+4,,Y45,,Chlorodifluoromethane,,0.6,"DE,NL",CH,D10,,Dominican Republic,2020
+5,A3180,Y10,,Polychlorinated biphenyl,H11,51.0,"BE,DE,NL,GB",FR,D10,,Dominican Republic,2020

@@ -1,0 +1,12 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A4140,"Y2,Y14",160506*; 160305*,waste laboratory chemicals,"H3,H4.1,H6.1",11.43,,EE,D10,"R1,R12,R13",Latvia,2016
+1,A4140,Y3,200131*,expired cytostatic medicines,"H6.1,H11",0.23,,EE,,R1,Latvia,2016
+2,A1160,Y31,160601*,lead batteries,H8,1432.55,,LT,,"R4,R5,R12,R13",Latvia,2016
+3,A1160,"Y31,Y34",160601*,lead batteries,"H8,H12",5434.41,,EE,,"R13,R4",Latvia,2016
+4,A4060,Y9,130506*; 130507*; 130403*,waste oils,H3,1131.52,,EE,,R3,Latvia,2016
+5,A4060,Y9,150202*,waste absorbents containing oil,H4.1,10.38,,EE,,R12,Latvia,2016
+6,A4070,Y12,080111*,waste paint and varnish containing organic solvents or other dangerous substances,"H3,H12",84.53,,EE,,"R1,R12,R13",Latvia,2016
+7,A3150,"Y6,Y45",070703*,"organic halogenated solvents, washing liquids and mother liquors",H11,42.85,,EE,,"R1,R12,R13",Latvia,2016
+8,A3140,"Y12,Y14,Y41,Y42",200113*,solvents,"H3,H12",100.04,,EE,,"R1,R12,R13",Latvia,2016
+9,A3150,Y44,140601*,"chlorofluorocarbons, HCFC, HFC",H12,0.76,,EE,D10,,Latvia,2016
+10,A4010,Y2,160305*,"organic waste from production, preperation and use of pharmaceutical products",,2.82,,EE,D10,"R1,R12,R13",Latvia,2016

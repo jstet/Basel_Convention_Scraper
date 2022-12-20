@@ -1,0 +1,328 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_origin,annex_4_a_code,annex_4_b_code,country,year
+0,,Y_,,Ecotoxic,H12,2352.18018,,US      ,,R1,Canada,2017
+1,,Y_,,Ecotoxic,H12,6884.4292,,US      ,D1,,Canada,2017
+2,A2030,Y_,,Ecotoxic,H12,20304.08203,,US      ,,R8,Canada,2017
+3,,Y_,,Miscellaneous waste dangerous,H_,0.053,,US      ,D_,,Canada,2017
+4,,Y_,,Miscellaneous waste dangerous,H_,0.058,,US      ,D9,,Canada,2017
+5,A4140,Y_,,Miscellaneous waste dangerous,H_,0.077,,US      ,D15,,Canada,2017
+6,,Y_,,Miscellaneous waste dangerous,H_,0.084,,US      ,D9,,Canada,2017
+7,A4140,Y_,,Miscellaneous waste dangerous,H_,0.53,,US      ,D9,,Canada,2017
+8,,Y_,,Miscellaneous waste dangerous,H_,0.134,,US      ,D13,,Canada,2017
+9,A4140,Y_,,Miscellaneous waste dangerous,H_,0.054,,US      ,D_,,Canada,2017
+10,A4140,Y_,,Miscellaneous waste dangerous,H_,0.08,,US      ,D_,,Canada,2017
+11,,Y_,,Miscellaneous waste dangerous,H_,0.049,,US      ,D9,,Canada,2017
+12,,Y_,,Miscellaneous waste dangerous,H_,0.385,,US      ,D10,,Canada,2017
+13,,Y_,,Miscellaneous waste dangerous,H_,0.049,,US      ,D15,,Canada,2017
+14,A4140,Y_,,Miscellaneous waste dangerous,H_,0.103,,US      ,D13,,Canada,2017
+15,,Y_,,Miscellaneous waste dangerous,H_,0.02,,US      ,D15,,Canada,2017
+16,,Y_,AB120                                   ,Miscellaneous waste dangerous,H_,0.001,,US      ,D9,,Canada,2017
+17,,Y_,AB120                                   ,Miscellaneous waste dangerous,H_,0.098,,US      ,D13,,Canada,2017
+18,A4140,Y_,,Miscellaneous waste dangerous,H_,11.684,,US      ,D10,,Canada,2017
+19,A4140,Y_,,Miscellaneous waste dangerous,H_,0.042,,US      ,D9,,Canada,2017
+20,A4140,Y_,,Toxic (Poisonous),H6.1,6.908,,US      ,D10,,Canada,2017
+21,A4140,Y_,,Flammable Liquids,H3,19.767,,US      ,D10,,Canada,2017
+22,A4140,Y_,,Flammable solids,H4.1,72.77499,,US      ,D10,,Canada,2017
+23,A2030,Y_,,Flammable solids,H4.1,13.958,,US      ,,R8,Canada,2017
+24,A4160,Y_,,Spontaneous Combustion,H4.2,0.72,,US      ,D10,,Canada,2017
+25,,Y_,AA190                                   ,Spontaneous Combustion,H4.2,0.002,,US      ,D10,,Canada,2017
+26,A4140,Y_,,Flammable Gases in contact with wate,H4.3,4.513,,US      ,D10,,Canada,2017
+27,,Y_,AA190                                   ,Flammable Gases in contact with wate,H4.3,0.407,,US      ,D10,,Canada,2017
+28,,Y_,,Oxidizing,H5.1,0.201,,US      ,D10,,Canada,2017
+29,A4120,Y_,,Oxidizing,H5.1,112.97997,,US      ,D10,,Canada,2017
+30,A4140,Y_,,Oxidizing,H5.1,2.413,,US      ,D10,,Canada,2017
+31,A4140,Y_,,Corrosive,H8,0.991,,US      ,D10,,Canada,2017
+32,,Y_,AB120                                   ,Toxic (Poisonous),H6.1,3.147,,US      ,D10,,Canada,2017
+33,,Y_,AA190                                   ,Flammable solids,H4.1,0.007,,US      ,D10,,Canada,2017
+34,A4140,Y_,,Spontaneous Combustion,H4.2,0.165,,US      ,D10,,Canada,2017
+35,,Y_,,Miscellaneous waste dangerous,H_,0.027,,US      ,D_,,Canada,2017
+36,A3170,Y_,,Toxic (Poisonous),H6.1,0.045,,US      ,D10,,Canada,2017
+37,A3060,Y_,,Flammable Liquids,H3,0.002,,US      ,D10,,Canada,2017
+38,,Y_,,Toxic (Poisonous),H6.1,6.146,,US      ,D10,,Canada,2017
+39,A4140,Y_,,Miscellaneous waste dangerous,H_,0.006,,US      ,D_,,Canada,2017
+40,A4140,Y_,,Flammable Liquids,H3,0.003,,US      ,D13,,Canada,2017
+41,A4140,Y_,,Flammable Liquids,H3,0.001,,US      ,D9,,Canada,2017
+42,A3050,Y_,,Corrosive,H8,2.555,,US      ,D10,,Canada,2017
+43,A3150,Y_,,Toxic (Poisonous),H6.1,0.458,,US      ,D10,,Canada,2017
+44,A1030,Y_,,Toxic (Poisonous),H6.1,6.245,,US      ,D10,,Canada,2017
+45,A2030,Y_,,,H11,3318.58032,,US      ,,R8,Canada,2017
+46,A4140,Y_,,Ecotoxic,H12,15.212,,US      ,D10,,Canada,2017
+47,A4060,Y_,,Ecotoxic,H12,260.57501,,US      ,D1,,Canada,2017
+48,,Y_,AA060      ,Ecotoxic,H12,209.69002,,US      ,,R4,Canada,2017
+49,A2030,Y_,,Leachate,H13,30.123,,US      ,,R8,Canada,2017
+50,,Y_,,Ecotoxic,H12,87.1,,US      ,D3,,Canada,2017
+51,,Y_,,Ecotoxic,H12,160.09401,,US      ,D9,,Canada,2017
+52,A4140,Y_,,Ecotoxic,H12,0.2,,US      ,,R_,Canada,2017
+53,,Y_,,Leachate,H13,285.34399,,US      ,D9,,Canada,2017
+54,A1170,Y_,,Miscellaneous waste dangerous,H_,36.571,,US      ,,R4,Canada,2017
+55,A4120,Y_,,Organic Peroxides,H5.2,17.239,,US      ,D10,,Canada,2017
+56,,Y_,,Spontaneous Combustion,H4.2,137.10899,,US      ,,R8,Canada,2017
+57,,Y_,,Flammable Gases in contact with wate,H4.3,134.5101,,US      ,,R4,Canada,2017
+58,A4140,Y_,,Flammable solids,H4.1,0.8,,US      ,,R_,Canada,2017
+59,A2030,Y_,,Spontaneous Combustion,H4.2,2.688,,US      ,,R_,Canada,2017
+60,A4140,Y_,,Spontaneous Combustion,H4.2,0.006,,US      ,D13,,Canada,2017
+61,,Y_,,Flammable Gases in contact with wate,H4.3,15.201,,US      ,D10,,Canada,2017
+62,A4140,Y_,,Flammable Gases in contact with wate,H4.3,0.004,,US      ,D_,,Canada,2017
+63,A1170,Y_,,Ecotoxic,H12,15.862,,US      ,,R13,Canada,2017
+64,A4020,Y1,"Clinical wastes from medical care in hospitals, medical centres, and clinics",Infectious substances,H6.2,10711.60938,,US      ,D10,,Canada,2017
+65,A4020,Y1,"Clinical wastes from medical care in hospitals, medical centres, and clinics",Infectious substances,H6.2,1051.26892,,US      ,D9,,Canada,2017
+66,A4020,Y1,"Clinical wastes from medical care in hospitals, medical centres, and clinics",Infectious substances,H6.2,41.557,,US      ,D14,,Canada,2017
+67,A4010,Y2,Wastes from the production and preparation of pharmaceutical products,Miscellaneous waste dangerous,H_,0.002,,US      ,D10,,Canada,2017
+68,A4010,Y2,Wastes from the production and preparation of pharmaceutical products,Flammable Gases in contact with wate,H4.3,0.047,,US      ,D10,,Canada,2017
+69,A4010,Y3,"Waste pharmaceuticals, drugs, and medicines",Miscellaneous waste dangerous,H_,34.4575,,US      ,D10,,Canada,2017
+70,A4030,Y4,"Wastes from the production, formulation, and use of biocides and phytopharmaceuticals",Flammable Liquids,H3,1.92,,US      ,D10,,Canada,2017
+71,A4140,Y6,Wastes from the production and use of organic solvents,Flammable Liquids,H3,626.01105,,US      ,,R13,Canada,2017
+72,A4070,Y6,Wastes from the production and use of organic solvents,Flammable Liquids,H3,783.47406,,US      ,,R13,Canada,2017
+73,A3140,Y6,Wastes from the production and use of organic solvents,Flammable Liquids,H3,1438.31799,,US      ,,R2,Canada,2017
+74,A3150,Y6,Wastes from the production and use of organic solvents,Flammable Liquids,H3,87.11,,US      ,,R13,Canada,2017
+75,A4140,Y6,Wastes from the production and use of organic solvents,Flammable Liquids,H3,0.184,,US      ,D10,,Canada,2017
+76,A3140,Y6,Wastes from the production and use of organic solvents,Flammable solids,H4.1,30.39,,US      ,D10,,Canada,2017
+77,A4060,Y9,Waste oil;  water,Ecotoxic,H12,7562.00049,,US      ,D5,,Canada,2017
+78,A4060,Y9,Waste oil;  water,Ecotoxic,H12,146.56999,,US      ,D1,,Canada,2017
+79,,Y9,Waste oil;  water,Ecotoxic,H12,3538.94897,,US      ,,R1,Canada,2017
+80,A4060,Y9,Waste oil;  water,Ecotoxic,H12,2022.96008,,US      ,D9,,Canada,2017
+81,A4060,Y9,Waste oil;  water,Ecotoxic,H12,6947.66113,,US      ,,R9,Canada,2017
+82,A4060,Y9,Waste oil;  water,Leachate,H13,17.688,,US      ,D9,,Canada,2017
+83,A4060,Y9,Waste oil;  water,Ecotoxic,H12,132.8,,US      ,,R1,Canada,2017
+84,A4060,Y9,Waste oil;  water,Flammable Liquids,H3,107.324,,US      ,,R9,Canada,2017
+85,A4070,Y12,"Wastes from production, formulation, and use of inks, dyes, pigments, paints, lacquers, and varnishes",Flammable Liquids,H3,28.103,,US      ,D10,,Canada,2017
+86,A4070,Y12,"Wastes from production, formulation, and use of inks, dyes, pigments, paints, lacquers, and varnishes",Flammable Liquids,H3,55.46301,,US      ,,R_,Canada,2017
+87,A4070,Y12,"Wastes from production, formulation, and use of inks, dyes, pigments, paints, lacquers, and varnishes",Flammable Liquids,H3,5.632,,US      ,D13,,Canada,2017
+88,A4070,Y12,"Wastes from production, formulation, and use of inks, dyes, pigments, paints, lacquers, and varnishes",Flammable Liquids,H3,5.6,,US      ,,R_,Canada,2017
+89,A4070,Y12,"Wastes from production, formulation, and use of inks, dyes, pigments, paints, lacquers, and varnishes",Flammable Liquids,H3,0.021,,US      ,,R3,Canada,2017
+90,A4070,Y12,"Wastes from production, formulation, and use of inks, dyes, pigments, paints, lacquers, and varnishes",Ecotoxic,H12,0.417,,US      ,,R3,Canada,2017
+91,,Y12,"(AD090)  Wastes from production, formulation, and use of inks, dyes, pigments, paints, lacquers, and varnishes",Flammable Liquids,H3,10.66,,US      ,,R2,Canada,2017
+92,A3050,Y13,"Wastes from production, formulation, and use of resins, latex, plasticizers, and glues/adhesives",Flammable Liquids,H3,25.963,,US      ,D10,,Canada,2017
+93,A3050,Y13,"Wastes from production, formulation, and use of resins, latex, plasticizers, and glues/adhesives",Flammable Liquids,H3,0.4,,US      ,,R_,Canada,2017
+94,A3050,Y13,"Wastes from production, formulation, and use of resins, latex, plasticizers, and glues/adhesives",Flammable Liquids,H3,0.8,,US      ,,R_,Canada,2017
+95,A3050,Y13,"Wastes from production, formulation, and use of resins, latex, plasticizers, and glues/adhesives",Corrosive,H8,580.0,,US      ,D10,,Canada,2017
+96,A3050,Y13,"Wastes from production, formulation, and use of resins, latex, plasticizers, and glues/adhesives",Corrosive,H8,160.0,,US      ,,R3,Canada,2017
+97,,Y15,Waste of an explosive nature not subject to other legislation,Flammable Gases in contact with wate,H4.3,387.14499,,US      ,,R4,Canada,2017
+98,,Y17,Wastes resulting from the surface treatment of metals and plastics,Flammable solids,H4.1,302.08304,,US      ,,R4,Canada,2017
+99,,Y17,(AB030) Wastes resulting from the surface treatment of metals and plastics,Corrosive,H8,10.896,,US      ,,R4,Canada,2017
+100,A4050,Y17,Wastes resulting from the surface treatment of metals and plastics,Toxic (Poisonous),H6.1,4.76,,US      ,,R4,Canada,2017
+101,A1130,Y17,Wastes resulting from the surface treatment of metals and plastics,Corrosive,H8,781.96008,,US      ,,R_,Canada,2017
+102,A1060,Y17,Wastes resulting from the surface treatment of metals and plastics,Corrosive,H8,1008.07306,,US      ,D9,,Canada,2017
+103,A4090,Y17,Wastes resulting from the surface treatment of metals and plastics,Corrosive,H8,13.204,,US      ,D3,,Canada,2017
+104,B1110,Y18,Residues arising from industrial waste-disposal operations,Ecotoxic,H12,2.493,,US      ,,R4,Canada,2017
+105,,Y18,Residues arising from industrial waste-disposal operations,Ecotoxic,H12,0.691,,US      ,,R4,Canada,2017
+106,,Y18,Residues arising from industrial waste-disposal operations,Leachate,H13,359.63004,,US      ,D13,,Canada,2017
+107,A4140,Y18,Residues arising from industrial waste-disposal operations,Leachate,H13,169.27,,US      ,D13,,Canada,2017
+108,A1170,Y18,Residues arising from industrial waste-disposal operations,Miscellaneous waste dangerous,H_,9.336,,US      ,,R4,Canada,2017
+109,,Y18,Residues arising from industrial waste-disposal operations,Spontaneous Combustion,H4.2,1.406,,US      ,D10,,Canada,2017
+110,A4030,Y18,Residues arising from industrial waste-disposal operations,Toxic (Poisonous),H6.1,33.44,,US      ,D5,,Canada,2017
+111,A1080,Y18,Residues arising from industrial waste-disposal operations,Flammable solids,H4.1,2.001,,US      ,,R4,Canada,2017
+112,A1030,Y18,Residues arising from industrial waste-disposal operations,Leachate,H13,5.958,,US      ,,R4,Canada,2017
+113,A4090,Y18,Residues arising from industrial waste-disposal operations,Corrosive,H8,114.30499,,US      ,D3,,Canada,2017
+114,A1170,Y18,Residues arising from industrial waste-disposal operations,Corrosive,H8,1.476,,US      ,,R4,Canada,2017
+115,A3150,Y18,Residues arising from industrial waste-disposal operations,Flammable Liquids,H3,348.71201,,US      ,,R13,Canada,2017
+116,A2030,Y18,Residues arising from industrial waste-disposal operations,Spontaneous Combustion,H4.2,204.57362,,US      ,,R4,Canada,2017
+117,A4140,Y18,Residues arising from industrial waste-disposal operations,Flammable Liquids,H3,0.1,,US      ,D10,,Canada,2017
+118,A1040,Y19,Metal carbonyls,Spontaneous Combustion,H4.2,0.707,,US      ,D10,,Canada,2017
+119,A1040,Y19,Metal carbonyls,Spontaneous Combustion,H4.2,0.001,,US      ,D13,,Canada,2017
+120,A1040,Y19,Metal carbonyls,Flammable solids,H4.1,2.04151,,US      ,,R4,Canada,2017
+121,A1020,Y20,"Beryllium, beryllium compounds",Flammable Gases in contact with wate,H4.3,6732.53076,,US      ,,R4,Canada,2017
+122,A4090,Y21,Hexavalent chromium compounds,Corrosive,H8,0.515,,US      ,D10,,Canada,2017
+123,A1040,Y21,Hexavalent chromium compounds,Flammable solids,H4.1,96.249,,US      ,D10,,Canada,2017
+124,A1040,Y21,Hexavalent chromium compounds,Ecotoxic,H12,396.34692,,US      ,,R4,Canada,2017
+125,A1040,Y21,Hexavalent chromium compounds,Toxic (Poisonous),H6.1,111.841,,US      ,,R4,Canada,2017
+126,A1040,Y21,Hexavalent chromium compounds,Toxic (Poisonous),H6.1,1.003,,US      ,D10,,Canada,2017
+127,A1040,Y21,Hexavalent chromium compounds,Leachate,H13,3.351,,US      ,D9,,Canada,2017
+128,A1040,Y21,Hexavalent chromium compounds,Ecotoxic,H12,26.134,,US      ,D3,,Canada,2017
+129,A1040,Y21,Hexavalent chromium compounds,Leachate,H13,15.2,,US      ,D3,,Canada,2017
+130,A1040,Y21,Hexavalent chromium compounds,Leachate,H13,26.411,,US      ,,R4,Canada,2017
+131,,Y22,Copper,Ecotoxic,H12,3.161,,US      ,,R4,Canada,2017
+132,,Y22,Copper,Ecotoxic,H12,24.972,,US      ,D9,,Canada,2017
+133,,Y22,Copper,Flammable Gases in contact with wate,H4.3,1808.62988,,US      ,,R4,Canada,2017
+134,,Y22,(AD120)  Copper,Ecotoxic,H12,0.023,,US      ,,R4,Canada,2017
+135,A1130,Y22,Copper,Corrosive,H8,98.0,,US      ,,R_,Canada,2017
+136,,Y22,(AD100)  Copper,Corrosive,H8,18.36,,US      ,,R_,Canada,2017
+137,,Y23,Zinc,Ecotoxic,H12,92.272,,US      ,,R4,Canada,2017
+138,,Y23,Zinc,Ecotoxic,H12,34.852,,US      ,,R4,Canada,2017
+139,A4140,Y23,Zinc,Spontaneous Combustion,H4.2,0.014,,US      ,D10,,Canada,2017
+140,A4140,Y23,Zinc,Flammable Gases in contact with wate,H4.3,0.293,,US      ,D10,,Canada,2017
+141,A1170,Y23,Zinc,Corrosive,H8,0.192,,US      ,,R4,Canada,2017
+142,,Y23,Zinc,Ecotoxic,H12,19.514,,US      ,,R4,Canada,2017
+143,A4040,Y23,Zinc,Flammable solids,H4.1,0.588,,US      ,D10,,Canada,2017
+144,A4140,Y23,Zinc,Spontaneous Combustion,H4.2,0.003,,US      ,D9,,Canada,2017
+145,,Y23,Zinc,Ecotoxic,H12,140.495,,US      ,D9,,Canada,2017
+146,A1080,Y23,Zinc,Ecotoxic,H12,11332.479,,US      ,,R4,Canada,2017
+147,A4100,Y23,Zinc,Leachate,H13,16264.00781,,US      ,,R4,Canada,2017
+148,A4090,Y23,Zinc,Corrosive,H8,0.001,,US      ,D10,,Canada,2017
+149,A4090,Y24,Arsenic,Oxidizing,H4.3,0.089,,US      ,D10,,Canada,2017
+150,A1030,Y24,Arsenic,Leachate,H13,15.8,,US      ,D9,,Canada,2017
+151,A1030,Y24,Arsenic,Toxic (Poisonous),H6.1,54.249,,US      ,D10,,Canada,2017
+152,A1010,Y25,Selenium,Leachate,H13,0.221,,US      ,,R4,Canada,2017
+153,A1020,Y25,Selenium,Ecotoxic,H12,263.254,,US      ,D5,,Canada,2017
+154,A1010,Y26,Cadmium,Corrosive,H8,9.175,,US      ,,R4,Canada,2017
+155,A1020,Y26,Cadmium,Corrosive,H8,93.555,,US      ,,R4,Canada,2017
+156,A1170,Y26,Cadmium,Ecotoxic,H12,146.321,,US      ,,R4,Canada,2017
+157,A1010,Y26,Cadmium,Leachate,H13,49.633,,US      ,,R4,Canada,2017
+158,A1020,Y26,Cadmium,Leachate,H13,55.5098,FR,DE      ,,R4,Canada,2017
+159,A1020,Y26,Cadmium,Ecotoxic,H12,1005.703,US,KR      ,,R4,Canada,2017
+160,A1020,Y26,Cadmium,Ecotoxic,H12,863.08795,US,US      ,,R4,Canada,2017
+161,A1170,Y26,Cadmium,Corrosive,H8,152.86299,,US      ,,R13,Canada,2017
+162,A1170,Y26,Cadmium,Corrosive,H8,15.255,,US      ,,R13,Canada,2017
+163,A1020,Y27,Antimony,Corrosive,H8,0.003,,US      ,D13,,Canada,2017
+164,A1030,Y29,Mercury,Toxic (Poisonous),H6.1,16.1,,US      ,,R4,Canada,2017
+165,A1030,Y29,Mercury,Corrosive,H8,1.213,,US      ,D9,,Canada,2017
+166,,Y29,(AD090)  Mercury,Corrosive,H8,0.259,,US      ,,R4,Canada,2017
+167,A1010,Y29,Mercury,Corrosive,H8,1.57,,US      ,,R4,Canada,2017
+168,A1030,Y29,Mercury,Corrosive,H8,1.714,,US      ,,R4,Canada,2017
+169,A1030,Y29,Mercury,Ecotoxic,H12,2.496,,US      ,,R4,Canada,2017
+170,A1030,Y29,Mercury,Toxic (Poisonous),H6.1,7.259,,US      ,D10,,Canada,2017
+171,A1170,Y29,Mercury,Corrosive,H8,14.414,,US      ,,R13,Canada,2017
+172,A1170,Y29,Mercury,Ecotoxic,H12,1.22,,US      ,,R4,Canada,2017
+173,A2010,Y29,Mercury,Leachate,H13,0.131,,US      ,,R4,Canada,2017
+174,A1180,Y29,Mercury,Corrosive,H8,2.101,,US      ,,R4,Canada,2017
+175,A1010,Y29,Mercury,Leachate,H13,2.871,,US      ,,R4,Canada,2017
+176,A1020,Y31,Lead,Oxidizing,H4.3,0.055,,US      ,D10,,Canada,2017
+177,A1160,Y31,Lead,Corrosive,H8,20308.86914,,US      ,,R4,Canada,2017
+178,A1020,Y31,Lead,Ecotoxic,H12,3.835,,US      ,,R4,Canada,2017
+179,A2010,Y31,Lead,Leachate,H13,2586.09033,,US      ,,R4,Canada,2017
+180,A1020,Y31,Lead,Leachate,H13,145.677,,US      ,,R_,Canada,2017
+181,A1160,Y31,Lead,Leachate,H13,2667.39404,,US      ,,R_,Canada,2017
+182,A1020,Y31,Lead,Leachate,H13,250.55299,,US      ,D9,,Canada,2017
+183,,Y31,Lead,Ecotoxic,H12,8.0,,US      ,D9,,Canada,2017
+184,A1020,Y31,Lead,Ecotoxic,H12,9.6,,US      ,D9,,Canada,2017
+185,A1020,Y31,Lead,Ecotoxic,H12,14.552,,US      ,D3,,Canada,2017
+186,,Y31,Lead,Leachate,H13,3.6,,US      ,D9,,Canada,2017
+187,A2030,Y31,Lead,Leachate,H13,12.885,,US      ,,R4,Canada,2017
+188,A1020,Y31,Lead,Ecotoxic,H12,0.05,,US      ,D10,,Canada,2017
+189,A1020,Y31,Lead,Toxic (Poisonous),H6.1,1128.96899,GB,DE      ,,R4,Canada,2017
+190,A1020,Y31,Lead,Toxic (Poisonous),H6.1,927.55017,,US      ,,R4,Canada,2017
+191,A1020,Y31,Lead,Toxic (Poisonous),H6.1,1481.22,,BE      ,,R4,Canada,2017
+192,A1020,Y31,Lead,Ecotoxic,H12,5794.82373,US,MX      ,,R4,Canada,2017
+193,A1020,Y31,Lead,Flammable Gases in contact with wate,H4.3,7450.24512,,US      ,,R4,Canada,2017
+194,A1020,Y31,Lead,Ecotoxic,H12,105.2,,BE      ,,R4,Canada,2017
+195,A1160,Y31,Lead,Corrosive,H8,2311.40161,JP,KR      ,,R4,Canada,2017
+196,A1060,Y31,Lead,Corrosive,H8,90.874,,US      ,D9,,Canada,2017
+197,A1020,Y31,Lead,Ecotoxic,H12,420.12296,,US      ,D5,,Canada,2017
+198,,Y31,(AC080) Lead,Ecotoxic,H12,127.99199,,US      ,,R3,Canada,2017
+199,A1020,Y31,Lead,Flammable Liquids,H3,14.551,,US      ,D10,,Canada,2017
+200,A1020,Y31,Lead,Flammable Liquids,H3,0.01,,US      ,D10,,Canada,2017
+201,A4140,Y32,Inorganic fluorine compounds,Miscellaneous waste dangerous,H_,0.002,,US      ,D9,,Canada,2017
+202,,Y32,(AB120) Inorganic fluorine compounds,Toxic (Poisonous),H6.1,129.99001,,US      ,D1,,Canada,2017
+203,,Y32,Inorganic fluorine compounds,Miscellaneous waste dangerous,H_,0.001,,US      ,D9,,Canada,2017
+204,,Y32,(AB120) Inorganic fluorine compounds,Miscellaneous waste dangerous,H_,0.002,,US      ,D13,,Canada,2017
+205,A4100,Y32,Inorganic fluorine compounds,Leachate,H13,329.03598,,US      ,,R1,Canada,2017
+206,,Y32,(AB120) Inorganic fluorine compounds,Leachate,H13,2189.22974,,US      ,,R5,Canada,2017
+207,A4100,Y32,Inorganic fluorine compounds,Leachate,H13,7908.375,,US      ,D5,,Canada,2017
+208,,Y32,(AB120) Inorganic fluorine compounds,Leachate,H13,7982.33838,,US      ,D1,,Canada,2017
+209,,Y32,Inorganic fluorine compounds,Miscellaneous waste dangerous,H_,20.633,,US      ,,R_,Canada,2017
+210,,Y32,Inorganic fluorine compounds,Flammable Gases in contact with wate,H4.3,1009.65308,,US      ,,R4,Canada,2017
+211,,Y32,Inorganic fluorine compounds,Flammable Gases in contact with wate,H4.3,3477.38037,,US      ,D5,,Canada,2017
+212,A4100,Y32,Inorganic fluorine compounds,Leachate,H13,316.81403,,US      ,D5,,Canada,2017
+213,A1020,Y32,Inorganic fluorine compounds,Leachate,H13,1914.37195,,US      ,,R4,Canada,2017
+214,A4050,Y32,Inorganic fluorine compounds,Flammable Gases in contact with wate,H4.3,14665.91895,,US      ,,R5,Canada,2017
+215,A4050,Y33,Inorganic cyanides,Toxic (Poisonous),H6.1,3.928,,US      ,D10,,Canada,2017
+216,A4050,Y33,Inorganic cyanides,Toxic (Poisonous),H6.1,1.511,,US      ,,R4,Canada,2017
+217,A4050,Y33,Inorganic cyanides,Miscellaneous waste dangerous,H_,3.4,,US      ,,R4,Canada,2017
+218,A4050,Y33,Inorganic cyanides,Ecotoxic,H12,16.4,,US      ,,R4,Canada,2017
+219,,Y34,Acidic solutions (or solids),Corrosive,H8,0.024,,US      ,D10,,Canada,2017
+220,A4010,Y34,Acidic solutions (or solids),Ecotoxic,H12,686.10095,,US      ,D5,,Canada,2017
+221,A4030,Y34,Acidic solutions (or solids),Corrosive,H8,0.21,,US      ,D10,,Canada,2017
+222,,Y34,(AB030) Acidic solutions (or solids),Corrosive,H8,827.05829,,US      ,D3,,Canada,2017
+223,,Y34,(AB030) Acidic solutions (or solids),Corrosive,H8,96.444,,US      ,,R4,Canada,2017
+224,A1130,Y34,Acidic solutions (or solids),Corrosive,H8,280.039,,US      ,,R_,Canada,2017
+225,A1060,Y34,Acidic solutions (or solids),Corrosive,H8,52.855,,US      ,D3,,Canada,2017
+226,A1060,Y34,Acidic solutions (or solids),Corrosive,H8,231.354,,US      ,D9,,Canada,2017
+227,A4090,Y34,Acidic solutions (or solids),Flammable Liquids,H3,0.025,,US      ,D10,,Canada,2017
+228,A3050,Y34,Acidic solutions (or solids),Corrosive,H8,0.002,,US      ,D10,,Canada,2017
+229,A4090,Y34,Acidic solutions (or solids),Toxic (Poisonous),H6.1,1.354,,US      ,D10,,Canada,2017
+230,A4090,Y34,Acidic solutions (or solids),Ecotoxic,H12,36.5,,US      ,D9,,Canada,2017
+231,A4090,Y34,Acidic solutions (or solids),Flammable Gases in contact with wate,H4.3,0.017,,US      ,D10,,Canada,2017
+232,A4140,Y34,Acidic solutions (or solids),Flammable Gases in contact with wate,H4.3,0.151,,US      ,D10,,Canada,2017
+233,,Y34,Acidic solutions (or solids),Corrosive,H8,0.6,,US      ,D9,,Canada,2017
+234,,Y34,(AB120) Acidic solutions (or solids),Miscellaneous waste dangerous,H_,0.019,,US      ,D_,,Canada,2017
+235,A2030,Y34,Acidic solutions (or solids),Corrosive,H8,0.007,,US      ,D10,,Canada,2017
+236,A4090,Y34,Acidic solutions (or solids),Corrosive,H8,164.5769,,US      ,D10,,Canada,2017
+237,A4140,Y34,Acidic solutions (or solids),Corrosive,H8,0.92,,US      ,D10,,Canada,2017
+238,A4090,Y34,Acidic solutions (or solids),Corrosive,H8,4123.8335,,US      ,D3,,Canada,2017
+239,A4090,Y34,Acidic solutions (or solids),Corrosive,H8,118434.75781,,US      ,,R6,Canada,2017
+240,,Y34,(AB120) Acidic solutions (or solids),Toxic (Poisonous),H6.1,0.081,,US      ,D10,,Canada,2017
+241,A4140,Y34,Acidic solutions (or solids),Oxidizing,H5.1,6.219,,US      ,D10,,Canada,2017
+242,A4090,Y34,Acidic solutions (or solids),Oxidizing,H5.1,0.102,,US      ,D10,,Canada,2017
+243,A4120,Y34,Acidic solutions (or solids),Oxidizing,H5.1,5.979,,US      ,D10,,Canada,2017
+244,,Y34,Acidic solutions (or solids),Miscellaneous waste dangerous,H_,0.003,,US      ,D9,,Canada,2017
+245,A4090,Y34,Acidic solutions (or solids),Corrosive,H8,7164.90332,,US      ,D9,,Canada,2017
+246,A4140,Y34,Acidic solutions (or solids),Flammable Liquids,H3,11.517,,US      ,D10,,Canada,2017
+247,A4140,Y34,Acidic solutions (or solids),Flammable solids,H4.1,0.01,,US      ,D10,,Canada,2017
+248,,Y35,Basic solutions (or solids),Miscellaneous waste dangerous,H_,0.056,,US      ,D13,,Canada,2017
+249,A4090,Y35,Basic solutions (or solids),Flammable Liquids,H3,6.962,,US      ,D10,,Canada,2017
+250,A4090,Y35,Basic solutions (or solids),Flammable Liquids,H3,0.16,,US      ,D10,,Canada,2017
+251,A4140,Y35,Basic solutions (or solids),Flammable Gases in contact with wate,H5.1,0.106,,US      ,D10,,Canada,2017
+252,A4140,Y35,Basic solutions (or solids),Spontaneous Combustion,H4.2,1.981,,US      ,D10,,Canada,2017
+253,A4050,Y35,Basic solutions (or solids),Toxic (Poisonous),H6.1,0.823,,US      ,D10,,Canada,2017
+254,A4050,Y35,Basic solutions (or solids),Corrosive,H8,0.454,,US      ,,R4,Canada,2017
+255,A3050,Y35,Basic solutions (or solids),Corrosive,H8,0.656,,US      ,D10,,Canada,2017
+256,A4090,Y35,Basic solutions (or solids),Oxidizing,H5.1,3.746,,US      ,D10,,Canada,2017
+257,A4140,Y35,Basic solutions (or solids),Oxidizing,H5.1,3.206,,US      ,D10,,Canada,2017
+258,A4140,Y35,Basic solutions (or solids),Toxic (Poisonous),H6.1,0.029,,US      ,D10,,Canada,2017
+259,A4090,Y35,Basic solutions (or solids),Corrosive,H8,14730.27441,,US      ,,R6,Canada,2017
+260,A4090,Y35,Basic solutions (or solids),Corrosive,H8,71.24996,,US      ,D10,,Canada,2017
+261,A4140,Y35,Basic solutions (or solids),Corrosive,H8,5.126,,US      ,D10,,Canada,2017
+262,A4090,Y35,Basic solutions (or solids),Corrosive,H8,705.94006,,US      ,D9,,Canada,2017
+263,,Y35,Basic solutions (or solids),Corrosive,H8,0.23,,US      ,D10,,Canada,2017
+264,,Y35,(AB030) Basic solutions (or solids),Corrosive,H8,1317.33276,,US      ,,R_,Canada,2017
+265,A1160,Y35,Basic solutions (or solids),Corrosive,H8,3.149,,US      ,,R4,Canada,2017
+266,A1170,Y35,Basic solutions (or solids),Corrosive,H8,25.04,,US      ,,R4,Canada,2017
+267,A4090,Y35,Basic solutions (or solids),Ecotoxic,H12,1165.31006,,US      ,D9,,Canada,2017
+268,A4140,Y35,Basic solutions (or solids),Ecotoxic,H12,0.091,,US      ,D10,,Canada,2017
+269,A4090,Y35,Basic solutions (or solids),Ecotoxic,H12,14.0,,US      ,D3,,Canada,2017
+270,A4090,Y35,Basic solutions (or solids),Toxic (Poisonous),H6.1,0.015,,US      ,D10,,Canada,2017
+271,A1170,Y35,Basic solutions (or solids),Miscellaneous waste dangerous,H_,72.752,,US      ,,R4,Canada,2017
+272,A4070,Y35,Basic solutions (or solids),Oxidizing,H5.1,3.526,,US      ,D10,,Canada,2017
+273,A4090,Y35,Basic solutions (or solids),Corrosive,H8,512.67096,,US      ,D3,,Canada,2017
+274,A1170,Y35,Basic solutions (or solids),Ecotoxic,H12,281.31198,,US      ,,R4,Canada,2017
+275,A1020,Y35,Basic solutions (or solids),Corrosive,H8,21.34,,US      ,,R4,Canada,2017
+276,A4050,Y38,Organic cyanides,Toxic (Poisonous),H6.1,0.002,,US      ,D10,,Canada,2017
+277,,Y39,"(AC170)   Phenols, phenol compounds, including chlorophenols",Ecotoxic,H12,291.20001,,US      ,,R_,Canada,2017
+278,A3070,Y39,"Phenols, phenol compounds, including chlorophenols",Flammable solids,H4.1,0.01,,US      ,D10,,Canada,2017
+279,A4140,Y39,"Phenols, phenol compounds, including chlorophenols",Flammable solids,H4.1,0.008,,US      ,D10,,Canada,2017
+280,A4140,Y39,"Phenols, phenol compounds, including chlorophenols",Toxic (Poisonous),H6.1,0.01,,US      ,D10,,Canada,2017
+281,A3070,Y39,"Phenols, phenol compounds, including chlorophenols",Toxic (Poisonous),H6.1,0.005,,US      ,D10,,Canada,2017
+282,,Y39,"(AC170)  Phenols, phenol compounds, including chlorophenols",Ecotoxic,H12,9260.65137,,US      ,,R_,Canada,2017
+283,A4040,Y39,"Phenols, phenol compounds, including chlorophenols",Ecotoxic,H12,2469.09082,,US      ,,R1,Canada,2017
+284,A3080,Y40,Ethers,Corrosive,H8,0.129,,US      ,D10,,Canada,2017
+285,A3150,Y41,Halogenated organic solvents,Miscellaneous waste dangerous,H_,0.007,,US      ,D9,,Canada,2017
+286,A4140,Y41,Halogenated organic solvents,Flammable Liquids,H3,0.867,,US      ,D10,,Canada,2017
+287,A3150,Y41,Halogenated organic solvents,Toxic (Poisonous),H6.1,31.755,,US      ,D10,,Canada,2017
+288,A4140,Y41,Halogenated organic solvents,Miscellaneous waste dangerous,H_,0.459,,US      ,D13,,Canada,2017
+289,A4140,Y41,Halogenated organic solvents,Corrosive,H8,0.003,,US      ,D10,,Canada,2017
+290,A3150,Y41,Halogenated organic solvents,Flammable Liquids,H3,460.11902,,US      ,,R13,Canada,2017
+291,A4140,Y41,Halogenated organic solvents,Toxic (Poisonous),H6.1,21.104,,US      ,D10,,Canada,2017
+292,A4140,Y41,Halogenated organic solvents,Flammable solids,H4.1,15.366,,US      ,D10,,Canada,2017
+293,A3150,Y41,Halogenated organic solvents,Flammable Liquids,H3,50.367,,US      ,D10,,Canada,2017
+294,A4060,Y41,Halogenated organic solvents,Ecotoxic,H12,0.265,,US      ,D10,,Canada,2017
+295,A4070,Y41,Halogenated organic solvents,Flammable Liquids,H3,1.222,,US      ,D10,,Canada,2017
+296,A4070,Y41,Halogenated organic solvents,Flammable solids,H4.1,16.8,,US      ,D10,,Canada,2017
+297,A3050,Y41,Halogenated organic solvents,Flammable Liquids,H3,0.53,,US      ,D10,,Canada,2017
+298,A4060,Y41,Halogenated organic solvents,Flammable Liquids,H3,0.243,,US      ,D10,,Canada,2017
+299,A3150,Y41,Halogenated organic solvents,Flammable Gases in contact with wate,H5.1,0.085,,US      ,D10,,Canada,2017
+300,A4140,Y42,Organic solvents,Flammable Liquids,H3,9.8,,US      ,,R_,Canada,2017
+301,A3060,Y42,Organic solvents,Flammable solids,H4.1,0.008,,US      ,D10,,Canada,2017
+302,A3140,Y42,Organic solvents,Miscellaneous waste dangerous,H_,0.006,,US      ,D_,,Canada,2017
+303,A4140,Y42,Organic solvents,Flammable Liquids,H3,50.505,,US      ,,R_,Canada,2017
+304,A3140,Y42,Organic solvents,Flammable Liquids,H3,585.0921,,US      ,D10,,Canada,2017
+305,A4140,Y42,Organic solvents,Flammable Liquids,H3,281.74908,,US      ,D10,,Canada,2017
+306,A4070,Y42,Organic solvents,Flammable Liquids,H3,36.964,,US      ,D13,,Canada,2017
+307,A3140,Y42,Organic solvents,Flammable Liquids,H3,0.007,,US      ,D9,,Canada,2017
+308,A4140,Y42,Organic solvents,Flammable solids,H4.1,33.354,,US      ,D10,,Canada,2017
+309,A4140,Y42,Organic solvents,Flammable solids,H4.1,1.0,,US      ,,R_,Canada,2017
+310,A3140,Y42,Organic solvents,Spontaneous Combustion,H4.2,0.016,,US      ,D10,,Canada,2017
+311,A3140,Y42,Organic solvents,Toxic (Poisonous),H6.1,1.495,,US      ,D10,,Canada,2017
+312,A3140,Y42,Organic solvents,Flammable Liquids,H3,1050.026,,US      ,,R1,Canada,2017
+313,A4070,Y42,Organic solvents,Flammable Liquids,H3,751.22423,,US      ,D10,,Canada,2017
+314,A3140,Y42,Organic solvents,Flammable Liquids,H3,0.001,,US      ,D15,,Canada,2017
+315,A3140,Y42,Organic solvents,Corrosive,H8,0.78,,US      ,D10,,Canada,2017
+316,A3140,Y42,Organic solvents,Flammable Liquids,H3,0.4,,US      ,,R_,Canada,2017
+317,,Y45,Organohalogen Coumpount,Miscellaneous waste dangerous,H_,0.03,,US      ,D13,,Canada,2017
+318,A3170,Y45,Organohalogen Coumpount,Miscellaneous waste dangerous,H_,0.001,,US      ,D13,,Canada,2017
+319,A3170,Y45,Organohalogen Coumpount,Miscellaneous waste dangerous,H_,0.004,,US      ,D_,,Canada,2017
+320,A4140,Y45,Organohalogen Coumpount,Toxic (Poisonous),H6.1,4.812,,US      ,D10,,Canada,2017
+321,A4140,Y45,Organohalogen Coumpount,Flammable Liquids,H3,0.015,,US      ,D10,,Canada,2017
+322,A4140,Y45,Organohalogen Coumpount,Ecotoxic,H12,0.12,,US      ,D10,,Canada,2017
+323,A4140,Y45,Organohalogen Coumpount,Miscellaneous waste dangerous,H_,0.021,,US      ,D9,,Canada,2017
+324,,Y45,(AC150)   Organohalogen Coumpount,Miscellaneous waste dangerous,H_,27.044,,US      ,D10,,Canada,2017
+325,A4030,Y45,Organohalogen Coumpount,Toxic (Poisonous),H6.1,10.791,,US      ,D10,,Canada,2017
+326,A3130,Y45,Organohalogen Coumpount,Toxic (Poisonous),H6.1,107.129,,US      ,D10,,Canada,2017

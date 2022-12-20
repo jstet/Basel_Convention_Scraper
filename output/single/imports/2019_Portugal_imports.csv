@@ -1,0 +1,129 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_origin,annex_4_a_code,annex_4_b_code,country,year
+0,,Y_,"150107,191201,191202,191203,191204,191205,200102",container glass,,7773.093,,GB,,R5,Portugal,2019
+1,A1020,Y_,191211,,,2824.04,,FR,,R4,Portugal,2019
+2,A1020,Y31,191211,,,5884.43,,GB,,R4,Portugal,2019
+3,A1020,Y31,191211,,,263.16,NL,GB,,R4,Portugal,2019
+4,A1020,Y31,100405,,,49.428,"BE,ES,FR,GB,IL,IT,NL,TR",GR,D9,,Portugal,2019
+5,A1030,Y29,200121,,,19.281,,BR,,R12,Portugal,2019
+6,A1060,Y17,"060106,110105",,,23.5,"ES,GB",IE,D9,,Portugal,2019
+7,A1060,"Y17,Y34","110111,110113,110115,110198",,,6.48,"BE,DE,ES,FR,GB,IT,NL,TR",GR,D9,,Portugal,2019
+8,A1160,"Y31,Y34",160601,,,146.55,,ES,,R4,Portugal,2019
+9,A1160,"Y34,Y35",160601,,,2580.75,"ES,GB",IE,,R4,Portugal,2019
+10,A2030,Y18,160807,,,37.48,ES,IL,,"R12,R1",Portugal,2019
+11,A2050,Y11,170605,,,375.17,"BE,ES,FR,GB,IT,NL,TR",GR,D1,,Portugal,2019
+12,A2050,Y36,"160111,170601,170605",,,14.86,TR,GR,D1,,Portugal,2019
+13,A2050,Y36,170605,,,232.82,ES,MT,D1,,Portugal,2019
+14,A2050,Y36,170605,,,1057.61,ES,NG,D1,,Portugal,2019
+15,A2050,Y36,170605,,,6.16,"AE,EG,ES,MA,MT,SA",OM,D1,,Portugal,2019
+16,A3050,"Y12,Y13","080409,080411,080413,080415,200127",,,46.12,"ES,GB",IE,"D1,D9",,Portugal,2019
+17,A3050,Y13,"070108,070208,070210,080409,080411,080413,080415,140605,150202,200127",,,1129.64,"ES,FR,IE,NL",GB,,"R12,R1",Portugal,2019
+18,A3050,Y13,"080409,080411,080413,080415,080417",,,8.59,"BE,DE,ES,FR,GB,IT,NL,TR",GR,D9,,Portugal,2019
+19,A3050,Y13,080409,,,51.68,"ES,FR",IT,"D1,D9",,Portugal,2019
+20,A3140,"Y2,Y6,Y12,Y13,Y42","070104,080111,140603,200127",,,655.26,,GB,,R2,Portugal,2019
+21,A3150,Y2,070703,,,53.385,ES,MT,,R2,Portugal,2019
+22,A3150,Y41,"070503,070703",,,89.74,,GB,,R2,Portugal,2019
+23,A3160,Y6,"070104,070304,070504,140603,190208,200127",,,141.92,,IE,,R2,Portugal,2019
+24,A3190,Y_,"050107,050601,170503",,,2.3,"BE,DE,ES,FR,GB,NL,TR",GR,"D1,D9",,Portugal,2019
+25,A3190,Y11,"050103,050107,050108,050601,050603,160508,191102",,,1063.742,"BE,ES,FR,GB,IT,NL,TR",GR,D9,,Portugal,2019
+26,A4010,Y2,070513,,,14.22,ES,MT,D10,,Portugal,2019
+27,A4010,Y2,"070704,161001",,,309.465,ES,MT,,R2,Portugal,2019
+28,A4010,Y2,070710,,,16.238,ES,MT,"D1,D9",,Portugal,2019
+29,A4010,"Y2,Y18",070513,,,199.74,"ES,IT",IL,,"R12,R1",Portugal,2019
+30,A4020,Y1,180103,,,359.135,,ES,D9,,Portugal,2019
+31,A4020,Y1,"180103,180202",,,209.261,,ES,D9,,Portugal,2019
+32,A4020,,"180108,180109,180207",,,750.027,,ES,D10,,Portugal,2019
+33,A4020,Y1,"180103,180202",,,20.869,,ES,D10,,Portugal,2019
+34,A4040,Y5,030104,,,3.75,"ES,IT,TR",GR,,"R12,R1",Portugal,2019
+35,A4060,Y_,"050113,130507,160708",,,143.51,,IE,"D1,D9",,Portugal,2019
+36,A4060,Y34,"060101,060102,060103,060104,060105,060106",,,42.48,ES,MT,"D1,D9",,Portugal,2019
+37,A4060,Y8,190207,,,3667.759,,BE,,R9,Portugal,2019
+38,A4060,Y8,"130403,190207",,,9928.04,NL,BE,,R9,Portugal,2019
+39,A4060,"Y8,Y9","130701,130899",,,532.82,"ES,GW,MR",CV,,"R3,R9",Portugal,2019
+40,A4060,"Y8,Y9","130701,130899",,,1521.86,"GM,GN,GW",CV,,"R3,R9",Portugal,2019
+41,A4060,Y9,130703,,,21299.06,,ES,,R9,Portugal,2019
+42,A4060,Y9,130703,,,72.54,ES,FR,,R2,Portugal,2019
+43,A4060,Y9,"130502,130503,130506,130507,130508",,,124.22,,GB,,"R1,R3",Portugal,2019
+44,A4060,Y9,130703,,,21629.61,,GB,,R9,Portugal,2019
+45,A4060,Y9,190207,,,887.763,,GR,,"R13,R9",Portugal,2019
+46,A4060,Y9,161003,,,255.98,,IE,D9,,Portugal,2019
+47,A4060,Y9,"050103,160708",,,12.56,"ES,GB",IE,"D1,D9",,Portugal,2019
+48,A4060,Y9,161003,,,0.638,ES,MT,"D1,D9",,Portugal,2019
+49,A4060,Y9,190207,,,23892.23,,NL,,R9,Portugal,2019
+50,A4070,Y_,"060502,070108,070208,070308,070310,080111,080113,080115,080117,080118,080119,080121,080312,080314,140605,150110,150202,160305,190204,200127",,,53.1,"ES,FR",IT,"D1,D9",,Portugal,2019
+51,A4070,Y_,070208,,,210.69,"ES,FR",IT,,"R12,R1",Portugal,2019
+52,A4070,Y12,"080111,080112,080113,080114,080115,080117,080118,080109,080121,080312,080314,080413,140605,200127,150202",,,4953.53,,GB,,"R12,R1",Portugal,2019
+53,A4070,Y12,"070108,070208,070210,070308,070310,070311,080111,080113,080115,080117,080121,080312,080314,140605,150202,200127",,,2375.98,"ES,FR,IE,NL",GB,,"R12,R1",Portugal,2019
+54,A4070,Y12,"070308,070310,070311,080111,080112,080113,080114,080115,080117,080118,080119,080121,080312,080313,080314,190205",,,63.08,"ES,IE",GB,,"R12,R1",Portugal,2019
+55,A4070,Y12,"080111,080113,080115,080117,080119,080121,080312,080314,080317",,,20.07,"BE,DE,ES,FR,GB,NL,TR",GR,"D1,D9",,Portugal,2019
+56,A4070,Y12,150202,,,24.436,"BE,ES,FR,GB,IT,NL,TR",GR,D9,,Portugal,2019
+57,A4070,Y12,"040216,080111,080113,080115,080117,080119,080121,080312,080314,080317,080501,200127",,,53.74,"ES,IT,TR",GR,"D1,D9",,Portugal,2019
+58,A4070,Y12,"080111,080112,080113,080114,080115,080117,080118,080119,080121,080312,080313,080314,080409,080410,200127,200128",,,43.96,"ES,FR,IT",HR,"D1,D9",,Portugal,2019
+59,A4070,Y12,"080111,080115,150202",,,875.5,"ES,IT",IL,,"R12,R1",Portugal,2019
+60,A4070,Y12,"060502,070108,070208,070308,070310,080111,080112,080113,080114,080115,080117,080118,080119,080121,080308,080312,080313,080314,140605,150110,150202,150203,160305,190204,200127,200128",,,1296.15,"ES,FR",IT,D9,,Portugal,2019
+61,A4070,Y12,"070108,070208,070308,070310,080111,080112,080113,080114,080115,080117,080118,080119,080121,080312,080313,080314",,,1551.48,"ES,FR",IT,"D1,D9",,Portugal,2019
+62,A4070,Y12,"080111,080113,080312,080314",,,75.248,ES,MT,"D1,D9",,Portugal,2019
+63,A4070,Y12,"080111,080113,080312,080409",,,86.0,"AE,EG,ES,IL,IN,IT,MA,MT,PK,SA",OM,,"R12,R1",Portugal,2019
+64,A4070,"Y12,Y13","080111,080113,080115,080117,080119,080121,080312,080314,080317,200127",,,296.43,,IE,D9,,Portugal,2019
+65,A4070,"Y12,Y13","080111,080113,080115,080117,080119,080121,080312,080314,080317,200127",,,278.68,"ES,GB",IE,"D1,D9",,Portugal,2019
+66,A4090,Y_,"060101,060102,060103,060104,060105,060106,110105,110106,160303,160506,160507,160606,161001,200114",,,285.765,"BE,ES,FR,GB,IT,NL,TR",GR,D9,,Portugal,2019
+67,A4090,Y_,"060101,060102,060104,060105,060106,200114",,,90.66,"ES,GB",IE,D9,,Portugal,2019
+68,A4090,Y17,"060101,060102,060103,060106,060203,060205,070101",,,71.6,NL,NO,D9,,Portugal,2019
+69,A4090,"Y17,Y34","060101,060102,060103,060104,060105,060106,110105,110106,160303,160505,160507,160606,161001,200114",,,64.834,"BE,ES,FR,GB,IT,NL,TR",GR,"D1,D9",,Portugal,2019
+70,A4090,"Y17,Y35","060201,060203,060204,060205,110107,160303,160506,160507,161001,200115",,,32.344,"BE,ES,FR,GB,IT,NL,PT,TR",GR,D9,,Portugal,2019
+71,A4090,Y34,"060101,060102,060104,060105,060106,200114",,,74.24,,IE,,R10,Portugal,2019
+72,A4090,Y35,"060201,060204,060205,110107,200115",,,93.22,"ES,GB",IE,D9,,Portugal,2019
+73,A4100,Y18,190113,,,188.92,"BE,ES,FR,GB,IT,NL,TR",GR,"D1,D9",,Portugal,2019
+74,A4130,Y12,"150110,150202",,,677.48,,GB,,"R12,R1",Portugal,2019
+75,A4130,Y12,150110,,,41.89,"BE,DE,ES,FR,GB,IT,NL,TR",GR,,"R3,R4",Portugal,2019
+76,A4130,Y12,150110,,,11.6,"BE,DE,ES,FR,GB,NL,TR",GR,,"R3,R4",Portugal,2019
+77,A4130,Y17,120116,,,4.06,"BE,DE,ES,FR,GB,IT,NL,TR",GR,D9,,Portugal,2019
+78,A4130,Y18,150110,,,7.389,"BE,ES,FR,GB,IT,NL,TR",GR,,"R3,R4",Portugal,2019
+79,A4140,"Y21,Y22,Y23,Y24,Y25,Y30,Y31,Y32,Y33,Y34,Y35,Y37,Y38,Y39,Y41,Y42","160303,160305,160507,160508,200129",,,61.84,"ES,IT,TR",GR,D9,,Portugal,2019
+80,A4140,"Y34,Y35","200114,200115,200127,200129",,,35.2,"BE,DE,ES,FR,GB,IT,NL,TR",GR,D9,,Portugal,2019
+81,A4140,Y6,"160303,160305,160508",,,17.33,"BE,DE,ES,FR,GB,IT,NL,TR",GR,"D1,D9",,Portugal,2019
+82,A4140,Y9,160305,,,182.16,"ES,FR",IT,"D1,D9",,Portugal,2019
+83,Y46,,191210,solid recovered fuel (SRF),,26853.91,,GB,,R1,Portugal,2019
+84,Y46,,191212,"Mechanical treatment of wastes other  than those_x000D_
+Not listed",,5608.36,,IT,D1,,Portugal,2019
+85,Y46,,191212,Other wastes (including mixtures of materials) from mechanical treatment of wastes other than those mentioned in 191211,,78303.45,"ES,FR",IT,D1,,Portugal,2019
+86,Y46,,191212,"refused derived fuel, Paper and plastic",,42168.22,ES,MT,D1,,Portugal,2019
+87,Y46,,191212,"Outros resíduos (incluindo misturas de materiais) do tratamento mecânico de resíduos, não abrangidos em 19 12 11",,5099.86,"ES,NL",MT,D1,,Portugal,2019
+88,,Y_,191204,mixed plastics,,12005.58,,DE,,R5,Portugal,2019
+89,,Y_,191210,CDR,,1313.12,,ES,,R1,Portugal,2019
+90,,Y_,191210,solid recovered fuel (SRF),,3633.5,,GB,,R1,Portugal,2019
+91,,Y_,190205,Wastes sludge's contaminated with petroleoun hydrocarbones including oil and other oil related materials,,965.82,"ES,IE",GB,,"R12,R1",Portugal,2019
+92,,Y_,190205,Wastes sludge's contaminated with petroleoun hydrocarbones including oil and other oil related materials,H12,515.27,IE,GB,,"R12,R1",Portugal,2019
+93,,Y_,150202,.,"H4.1,H12,H11",59.66,,GR,"D1,D9",,Portugal,2019
+94,,Y_,160113,Fluidos de travões,H12,3.02,"BE,DE,ES,FR,GB,NL,TR",GR,"D1,D9",,Portugal,2019
+95,,Y_,160107,oil filters wastes from automobile equipment,H12,19.13,"ES,IT,TR",GR,,R4,Portugal,2019
+96,,Y_,160114,Não listado.,H12,21.38,"ES,IT,TR",GR,,R2,Portugal,2019
+97,,Y_,"150110,150202",waste packages/containers and absorbants materials,"H3,H4.1,H8,H12",65.93,,IE,,"R12,R1",Portugal,2019
+98,,Y_,190204,Premixed wastes composed of at least one hazardous waste,,2308.68,,IE,"D1,D9",,Portugal,2019
+99,,Y_,190205,Filtercake containing hydrocarbons from Industrial Waste Water treatment process,,525.5,,IE,D9,,Portugal,2019
+100,,Y_,191210,solid recovered fuel (SRF),,13777.32,,IE,,R1,Portugal,2019
+101,,Y_,"150110,150202",waste packages/containers and absorbants materials,"H3,H4.1,H8,H12",575.92,"ES,GB",IE,,"R12,R1",Portugal,2019
+102,,Y_,190205,Filtercake containing hydrocarbons from Industrial Waste Water treatment process,,246.94,"ES,GB",IE,"D1,D9",,Portugal,2019
+103,,Y_,191212,"Mechanical treatment of wastes other  than those_x000D_
+Not listed",,3027.36,,IT,D1,,Portugal,2019
+104,,Y_,191210,solid recovered fuel (SRF),,13604.85,"ES,FR,GB",IT,,"R12,R1",Portugal,2019
+105,,Y_,191212,Other waste from mechanical treatment of waste packaged in bales,,20898.78,"ES,FR,GB",IT,D1,,Portugal,2019
+106,,Y_,191212,"Outros resíduos (incluindo misturas de materiais) do tratamento mecânico de resíduos, não abrangidos em 19 12 11",,49809.86,"ES,FR,GB",IT,,"R12,R1",Portugal,2019
+107,,Y_,191212,"resíduos (incluindo misturas de materiais) do tratamento mecânico de resíduos, não abrangidos em 19 12 11",,31219.12,"ES,MA",IT,D1,,Portugal,2019
+108,,Y_,191212,"resíduos (incluindo misturas de materiais) do tratamento mecânico de resíduos, não abrangidos em 19 12 11",,18648.06,MA,IT,D1,,Portugal,2019
+109,,Y_,191210,energy pellets/combustable waste,,4914.36,,NL,,R1,Portugal,2019
+110,,Y_,191212,Tratamento mecânico de residuos,,2164.79,,NL,,R1,Portugal,2019
+111,,"Y11,Y18","010506,050103,050106,070110,070111",,,1192.56,"ES,IT",IL,,"R12,R1",Portugal,2019
+112,,Y12,160305,organic wastes containing dangerous substances(resines and additives),,31.6,"ES,FR",IT,D9,,Portugal,2019
+113,,Y16,"090101,090102,090103,090104,090105,090106,090113",waste water based developper/activator/fixer solutions,,3.4,"BE,DE,ES,FR,GB,IT,NL,TR",GR,D9,,Portugal,2019
+114,,Y17,"190205,190211","Lamas de tratamento físico-químico, contendo substâncias perigosas e outros resíduos contendo substâncias perigosas",,7.96,"BE,DE,ES,FR,GB,NL,TR",GR,"D1,D9",,Portugal,2019
+115,,Y18,150202,"mixed rags, PPE, absorbants withmixed hazardous residues",,274.42,,GB,,"R12,R1",Portugal,2019
+116,,Y18,101209,"10 12 09* Resíduos sólidos do tratamento de gases, contendo substâncias perigosas_x000D_
+",,63.46,"ES,FR,IT",HR,"D1,D9",,Portugal,2019
+117,,Y18,190204,Premixed wastes composed of at least one hazardous waste,,15933.08,"ES,FR",IT,"D1,D9",,Portugal,2019
+118,,Y18,190204,"Misturas de resíduos, contendo, pelo menos, um resíduo perigoso",,213.1,"ES,FR",IT,,"R12,R1",Portugal,2019
+119,,Y18,190204,"Misturas de resíduos contendo, pelo menos, um resíduo perigoso.",,17823.4,"ES,FR,GB",IT,D9,,Portugal,2019
+120,,Y18,190304,wastes marked as hazardous partly stabilised,,13040.3,"ES,FR,GB",IT,D1,,Portugal,2019
+121,,Y18,190304,"Resíduos assinalados como perigosos, parcialmente estabilizados",,2054.16,"ES,FR,GB",IT,"D1,D9",,Portugal,2019
+122,,Y18,150202,contaminated rags/filters,,21.376,ES,MT,"D1,D9",,Portugal,2019
+123,,Y18,150202,contaminated rags/filters,,163.0,ES,MT,,"R12,R1",Portugal,2019
+124,,"Y8,Y12","150202,160107","absorbents, filters, materials, wiping clothes, protetive clothing contaminated by dangerous substances and oil filters",,52.71,"BE,DE,ES,FR,GB,NL,TR",GR,,"R12,R4,R1",Portugal,2019

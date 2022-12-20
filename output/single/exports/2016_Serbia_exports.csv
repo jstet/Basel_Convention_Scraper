@@ -1,0 +1,69 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A1010,Y31,19 12 11*,other wastes (including mixtures of materials) from mechanical treatment of waste containing dangerous substances,"H11,H12,H13",2824.5,,RO,,R4,Serbia,2016
+1,A1020,Y31,19 12 11*,other wastes (including mixtures of materials) from mechanical treatment of waste containing dangerous substances,"H11,H12,H13",3711.85,,BG,,R4,Serbia,2016
+2,A1060,Y27,11 01 05*,pickling acids,H8,447.16,,BG,,R5,Serbia,2016
+3,A1100,"Y22,Y23,Y31",10 06 03*,flue-gas dust,"H11,H12",46.22,"AT,HR,SI",DE,,R4,Serbia,2016
+4,A1120,Y8,13 01 11*,synthetichydraulic oils,"H3,H4.1,H13",2.79,"HR,SI",AT,D10,,Serbia,2016
+5,A1160,Y37,16 06 01*,lead batteries,"H8,H11",276.87,,BG,,R4,Serbia,2016
+6,A1160,Y31,16 06 01*,lead batteries,"H8,H11",153.67,,HR,,R4,Serbia,2016
+7,A1160,Y31,16 06 01*,lead batteries,"H8,H12",360.38,,MK,,R4,Serbia,2016
+8,A1160,Y31,16 06 01*,lead batteries,"H8,H11",20.0,,RO,,R4,Serbia,2016
+9,A1160,Y31,16 06 01*,lead batteries,"H8,H12",4438.45,HR,SI,,R4,Serbia,2016
+10,A1180,"Y18,Y40",16 02 15*,hazardous components removed from discarded equipment,H12,76.74,"HR,SI",AT,D10,,Serbia,2016
+11,A1180,Y10,16 02 09*,transformers and capacitors containing PCBs,"H11,H12,H13",32.99,,RO,,R13,Serbia,2016
+12,A2010,Y31,16 02 15*,hazardous components removed from discarded equipment,H12,988.54,"AT,HR,SI",DE,,R5,Serbia,2016
+13,A2010,Y18,16 02 15*,hazardous components removed from discarded equipment,H10,954.8,"AT,HR,DE,SI",NL,,R5,Serbia,2016
+14,A3020,,13 01 11*,synthetichydraulic oils,,89.7,"HR,SI",AT,D10,,Serbia,2016
+15,A3020,Y8,19 02 07*,oil and concentrates from separation,H12,93.72,,BG,,R9,Serbia,2016
+16,A3030,Y7,11 03 01*,wastes containing cyanide,"H12,H13",21.72,"AT,HR,SI",DE,D12,,Serbia,2016
+17,A3040,,14 06 01*,"chlorofluorocarbons, HCFC, HFC",H5.2,23.0,"AT,HR,SI",DE,,R3,Serbia,2016
+18,A3140,Y18,16 03 05*,organic wastes containing dangerous substances,"H3,H4.1",46.0,"AT,HR,SI",DE,D10,,Serbia,2016
+19,A3150,,07 04 03*,"organichalogenated solvents, washing liquids and mother liquors",,0.11,"HR,SI",AT,D10,,Serbia,2016
+20,A3150,,16 03 05*,organic wastes containing dangerous substances,,41.7,"HR,SI",AT,D10,,Serbia,2016
+21,A3150,,14 06 01*,"chlorofluorocarbons, HCFC, HFC",H12,0.27,"AT,HR,SI",DE,D10,,Serbia,2016
+22,A3180,Y10,16 02 09*,transformers and capacitors containing PCBs,"H11,H12,H13",34.99,,RO,,R12,Serbia,2016
+23,A3180,Y10,16 09 09*,transformers and capacitors containing PCBs,"H11,H12,H13",45.2,,RO,D10,,Serbia,2016
+24,A3180,Y10,13 03 01*,insulating or heat transmission oils containing PCBs,"H11,H12,H13",23.33,"AT,HR,DE,SI",CH,D10,,Serbia,2016
+25,A3180,Y10,16 02 09*,transformers and capacitors containing PCBs,"H11,H12,H13",3.86,"AT,HR,DE,SI",CH,D10,,Serbia,2016
+26,A3180,Y10,16 02 10*,discarded equipment containing or contaminated by PCBs other than those mentioned in 16 02 09,"H11,H12,H13",0.42,"AT,HR,DE,SI",CH,D10,,Serbia,2016
+27,A3180,Y10,15 01 10*,packaging containing residues of or contaminated by dangerous substances,"H11,H12,H13",0.08,"AT,HR,DE,SI",CH,D10,,Serbia,2016
+28,A3180,Y10,15 02 02*,"absorbents, filter materials (including oil filters not otherwise specified), wiping cloths, protective clothing contaminated by dangerous substances","H11,H12,H13",0.41,"AT,HR,DE,SI",CH,D10,,Serbia,2016
+29,A4010,"Y2,Y3",07 05 13*,solid wastes containing dangerous substances,"H6.1,H12,H13",17.94,"HR,SI",AT,D10,,Serbia,2016
+30,A4010,Y2,16 03 05*,organic wastes containing dangerous substances,"H6.1,H13",155.8,"CZ,HU,RO,SK",DE,D10,,Serbia,2016
+31,A4020,Y2,07 05 13*,solid wastes containing dangerous substances,"H3,H6.1,H12",97.02,"HR,SI",AT,D10,,Serbia,2016
+32,A4020,,15 02 02*,"absorbents, filter materials (including oil filters not otherwise specified), wiping cloths, protective clothing contaminated by dangerous substances",,0.39,"HR,SI",AT,D10,,Serbia,2016
+33,A4020,,16 03 03*,inorganic wastes containing dangerous substances,,0.63,"HR,SI",AT,D10,,Serbia,2016
+34,A4020,,18 01 06*,chemicals consisting of or containing dangerous substances,,0.42,"HR,SI",AT,D10,,Serbia,2016
+35,A4020,Y2,18 01 08*,cytotoxic and cytostatic medicines,,3.81,"HR,SI",AT,D10,,Serbia,2016
+36,A4020,Y2,18 01 08*,cytotoxic and cytostatic medicines,"H3,H6.1,H12",0.3,"HR,SI",AT,D10,,Serbia,2016
+37,A4020,,18 02 07*,cytotoxic and cytostatic medicines,,0.19,"HR,SI",AT,D10,,Serbia,2016
+38,A4030,Y4,06 13 01*,"inorganic plant protection products, wood-preserving agents and other biocides","H6.1,H12",53.54,"HR,SI",AT,D10,,Serbia,2016
+39,A4030,Y4,16 03 03*,inorganic wastes containing dangerous substances,"H6.1,H12",4.52,"HR,SI",AT,D10,,Serbia,2016
+40,A4030,Y4,16 03 05*,organic wastes containing dangerous substances,"H6.1,H12",71.79,"HR,SI",AT,D10,,Serbia,2016
+41,A4030,Y4,20 01 19*,pesticides,"H6.1,H12",0.07,"HR,SI",AT,D10,,Serbia,2016
+42,A4060,Y8,15 01 10*,packaging containing residues of or contaminated by dangerous substances,"H3,H4.1,H13",6.15,"HR,SI",AT,D10,,Serbia,2016
+43,A4060,"Y12,Y13",19 02 08*,liquid combustible wastes containing dangerous substances,"H3,H12,H13",231.98,"HR,SI",AT,D10,,Serbia,2016
+44,A4070,Y12,08 01 11*,waste paint and varnish containing organic solvents or other dangerous substances,"H3,H4.1,H12",111.39,"HR,SI",AT,D10,,Serbia,2016
+45,A4070,Y12,08 01 13*,sludges from paint or varnish containing organic solvents or other dangerous substances,"H3,H4.1,H12",160.99,"HR,SI",AT,D10,,Serbia,2016
+46,A4070,Y12,08 01 17*,wastes from paint or varnish removal containing organic solvents or other dangerous substances,,47.15,"HR,SI",AT,D10,,Serbia,2016
+47,A4070,Y12,08 01 19*,aqueous suspensions containing paint or varnish containing organic solvents or other dangerous substances,,15.02,"HR,SI",AT,D10,,Serbia,2016
+48,A4070,Y12,08 01 21*,waste paint or varnish remover,,3.36,"HR,SI",AT,D10,,Serbia,2016
+49,A4070,Y12,15 01 10*,packaging containing residues of or contaminated by dangerous substances,"H3,H4.1,H6.1",21.47,"HR,SI",AT,D10,,Serbia,2016
+50,A4070,Y12,15 02 02*,"absorbents, filter materials (including oil filters not otherwise specified), wiping cloths, protective clothing contaminated by dangerous substances","H12,H13",13.02,"HR,SI",AT,D10,,Serbia,2016
+51,A4070,Y12,15 02 02*,"absorbents, filter materials (including oil filters not otherwise specified), wiping cloths, protective clothing contaminated by dangerous substances","H12,H13",43.45,"CZ,HU,SK",PL,D10,,Serbia,2016
+52,A4070,Y12,19 02 05*,sludges from physico/chemical treatment containing dangerous substances,,42.88,"HR,SI",AT,D10,,Serbia,2016
+53,A4070,"Y8,Y9,Y12",19 12 11*,other wastes (including mixtures of materials) from mechanical treatment of waste containing dangerous substances,"H3,H4.1,H6.1",70.06,"HR,SI",AT,D10,,Serbia,2016
+54,A4090,"Y26,Y34",06 01 01*,sulphuric acid and sulphurous acid,H8,266.3,"AT,HR,SI",DE,,R6,Serbia,2016
+55,A4090,Y34,11 01 05*,pickling acids,H8,266.52,,BG,,R13,Serbia,2016
+56,A4130,"Y8,Y12,Y18",15 01 10*,packaging containing residues of or contaminated by dangerous substances,"H12,H13",29.08,"HR,SI",AT,D10,,Serbia,2016
+57,A4130,Y12,15 01 10*,packaging containing residues of or contaminated by dangerous substances,H12,29.4,"CZ,HU,SK",PL,D10,,Serbia,2016
+58,A4130,,15 01 11*,"metallic packaging containing a dangerous solid porous matrix (for example asbestos), including empty pressure containers",,0.29,"HR,SI",AT,D10,,Serbia,2016
+59,A4130,,15 02 02*,"absorbents, filter materials (including oil filters not otherwise specified), wiping cloths, protective clothing contaminated by dangerous substances",,0.41,"HR,SI",AT,D10,,Serbia,2016
+60,A4140,,06 06 02*,wastes containing dangerous sulphides,,54.56,"HR,SI",AT,D10,,Serbia,2016
+61,A4140,Y2,16 03 05*,organic wastes containing dangerous substances,"H3,H6.1,H12",7.48,"HR,SI",AT,D10,,Serbia,2016
+62,A4140,"Y18,Y40",16 05 06*,"laboratory chemicals, consisting of or containing dangerous substances, including mixtures of laboratory chemicals","H3,H4.1,H6.1",38.17,"HR,SI",AT,D10,,Serbia,2016
+63,A4140,"Y18,Y40",16 05 08*,discarded organic chemicals consisting of or containing dangerous substances,"H3,H4.1,H6.1",2.47,"HR,SI",AT,D10,,Serbia,2016
+64,A4140,Y40,16 05 08*,discarded organic chemicals consisting of or containing dangerous substances,"H3,H4.1,H6.1",42.58,MK,GR,,R12,Serbia,2016
+65,A4150,Y18,16 05 06*,"laboratory chemicals, consisting of or containing dangerous substances, including mixtures of laboratory chemicals","H8,H11,H12",4.66,"HR,SI",AT,D10,,Serbia,2016
+66,A4150,Y18,16 05 08*,discarded organic chemicals consisting of or containing dangerous substances,"H8,H11,H12",5.78,"HR,SI",AT,D10,,Serbia,2016
+67,A4150,Y18,16 03 05*,organic wastes containing dangerous substances,"H8,H11,H12",27.88,"HR,SI",AT,D10,,Serbia,2016

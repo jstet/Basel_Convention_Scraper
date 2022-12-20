@@ -1,0 +1,215 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_origin,annex_4_a_code,annex_4_b_code,country,year
+0,,Y1   ,16 02 13*,discarded equipment containing hazardous components (2) other than those mentioned in 16 02 09 to 16 02 12,H6.2,13.496,"DE,DK",CH,,R4,Sweden,2017
+1,A4030,Y4,20 01 19*,pesticides,"H3,H6.1",27.48,,DE,D10,,Sweden,2017
+2,A3140,Y6,14 06 03*,other solvents and solvent mixtures,H3,21.92,,DE,,R2,Sweden,2017
+3,A3140,Y6,07 05 04*,"other organicsolvents, washing liquids and mother liquors",H3,386.52,,DK,,R1,Sweden,2017
+4,A3140,Y6,07 05 04*,"other organicsolvents, washing liquids and mother liquors",H3,1708.175,,DK,,R1,Sweden,2017
+5,,Y6,16 01 14*,antifreeze fluids containing dangerous substances,H12,54.1,DK,DE,,R9,Sweden,2017
+6,A3020,Y8,13 03 07*,mineral-based non-chlorinated insulating and heat transmission oils,H12,283.52,DK,DE,,R9,Sweden,2017
+7,A3020,Y8,13 02 05*,"mineral-based non-chlorinated engine, gear and lubricating oils",H3,6903.47,DK,DE,,R9,Sweden,2017
+8,A3020,Y8,"13 02 05*, 13 02 08*","mineral-based non-chlorinated engine, gear and lubricating oils, other engine, gear and lubricating oils",H3,4609.72,DK,DE,,R9,Sweden,2017
+9,A3020,Y8,13 03 07*,mineral-based non-chlorinated insulating and heat transmission oils,H12,1589.67,DK,DE,,R9,Sweden,2017
+10,A3020,Y8,13 02 05*,"mineral-based non-chlorinated engine, gear and lubricating oils",H3,425.65,DK,DE,,R9,Sweden,2017
+11,A3020,Y8,13 02 05*,"mineral-based non-chlorinated engine, gear and lubricating oils",H3,269.88,,DE,,R9,Sweden,2017
+12,A3020,Y8,"13 02 05*, 13 02 08*","mineral-based non-chlorinated engine, gear and lubricating oils, other engine, gear and lubricating oils",H3,111.5,DK,DE,,R9,Sweden,2017
+13,A3020,Y8,"13 02 05*, 13 02 08*","mineral-based non-chlorinated engine, gear and lubricating oils, other engine, gear and lubricating oils",H3,1707.42,,DK,,R9,Sweden,2017
+14,A3020,Y8,13 02 05*,"mineral-based non-chlorinated engine, gear and lubricating oils",H3,312.95,DK,DE,,R9,Sweden,2017
+15,A3020,Y8,13 02 08*,"other engine, gear and lubricating oils",H12,333.5,,FI,,R9,Sweden,2017
+16,A3020,Y8,16 01 07*,oil filters,H12,182.726,,DK,,"R1,R12,R4,R9",Sweden,2017
+17,A3020,Y8,12 01 06*,mineral-based machining oils containing halogens (except emulsions and solutions),H12,73.4,,DE,D10,,Sweden,2017
+18,A3020,Y8,"13 02 05*, 13 02 08*","mineral-based non-chlorinated engine, gear and lubricating oils, other engine, gear and lubricating oils",H3,1559.0,DK,DE,,R9,Sweden,2017
+19,A3020,Y8,13 07 03*,other fuels (including mixtures),"H12,H3",2312.099,,EE,,R9,Sweden,2017
+20,A3020,Y8,13 03 07*,mineral-based non-chlorinated insulating and heat transmission oils,H12,378.0,DK,DE,,R9,Sweden,2017
+21,A3020,Y8,"13 02 05*, 13 02 08*","mineral-based non-chlorinated engine, gear and lubricating oils, other engine, gear and lubricating oils",H3,537.0,DK,DE,,R9,Sweden,2017
+22,A4060,Y8,13 02 05*,"mineral-based non-chlorinated engine, gear and lubricating oils",H3,2019.7,,NO,,R1,Sweden,2017
+23,A4060,Y8,13 02 05*,"mineral-based non-chlorinated engine, gear and lubricating oils",H3,4173.6,,NO,,R1,Sweden,2017
+24,A4060,Y8,13 02 08*,"other engine, gear and lubricating oils",H12,270.096,,FI,,R9,Sweden,2017
+25,A4060,Y8,13 02 08*,"other engine, gear and lubricating oils",H12,372.55,,FI,,R9,Sweden,2017
+26,A4060,Y8,13 02 05*,"mineral-based non-chlorinated engine, gear and lubricating oils",H3,2500.0,,NO,,R1,Sweden,2017
+27,A3020,Y9,13 02 05*,"mineral-based non-chlorinated engine, gear and lubricating oils",H3,494.6,DK,DE,,R9,Sweden,2017
+28,A3020,Y9,"13 03 01*, 13 03 06*, 13 03 07*, 13 03 10*","insulating or heat transmission oils containing PCBs, mineral-based chlorinated insulating and heat transmission oils other than those mentioned in 13 03 01, mineral-based non-chlorinated insulating and heat transmission oils, other insulating and heat transmission oils",H11,69.3,,DK,D10,,Sweden,2017
+29,A3020,Y9,13 07 01*,fuel oil and diesel,H12,758.68,,NO,,R1,Sweden,2017
+30,A3020,Y9,"13 03 01*, 13 03 06*, 13 03 07*, 13 03 10*","insulating or heat transmission oils containing PCBs, mineral-based chlorinated insulating and heat transmission oils other than those mentioned in 13 03 01, mineral-based non-chlorinated insulating and heat transmission oils, other insulating and heat transmission oils",H11,21.6,,DK,D10,,Sweden,2017
+31,A3020,Y9,13 02 05*,"mineral-based non-chlorinated engine, gear and lubricating oils",H3,118.5,DK,DE,,R9,Sweden,2017
+32,A4060,Y9,13 05 07*,oily water from oil/water separators,H12,6767.0,,DK,,"R3,R5",Sweden,2017
+33,A4060,Y9,16 10 01*,aqueous liquid wastes containing dangerous substances,H12,3437.0,,PL,D10,"R12,R9",Sweden,2017
+34,A4060,Y9,16 10 01*,aqueous liquid wastes containing dangerous substances,H12,24807.23,,PL,D10,"R12,R9",Sweden,2017
+35,A4060,Y9,16 10 01*,aqueous liquid wastes containing dangerous substances,H12,16502.57,,PL,D10,"R12,R9",Sweden,2017
+36,A4060,Y9,16 10 01*,aqueous liquid wastes containing dangerous substances,H12,10651.214,,PL,D10,"R12,R9",Sweden,2017
+37,A4060,Y9,13 05 07*,oily water from oil/water separators,H12,2492.6,,DK,,"R3,R5",Sweden,2017
+38,,Y9,"16 01 14*, 16 01 15","antifreeze fluids containing dangerous substances, antifreeze fluids other than those mentioned in 16 01 14",H3,354.57,DK,DE,,R5,Sweden,2017
+39,,Y9,"16 01 14*, 16 01 15","antifreeze fluids containing dangerous substances, antifreeze fluids other than those mentioned in 16 01 14",H3,225.58,DK,DE,,R2,Sweden,2017
+40,A1190,Y10,17 04 10*,"cables containing oil, coal tar and other dangerous substances",H11,251.71,,DK,,R4,Sweden,2017
+41,A3180,Y10,"16 02 09*, 17 09 02*","construction and demolition wastes containing PCB (for example PCB containing sealants, PCB-containing resin-based floorings, PCB-containing sealed glazing units, PCB-containing capacitors), transformers and capacitors containing PCBs",H11,11.294,,DE,D10,,Sweden,2017
+42,A3180,Y10,13 03 01*,insulating or heat transmission oils containing PCBs,H11,358.58,,NO,,R1,Sweden,2017
+43,A1180,"Y10,Y22,Y31",16 02 09*,transformers and capacitors containing PCBs,H11,57.46,,DK,,R4,Sweden,2017
+44,A1190,"Y10,Y22,Y31",17 04 10*,"cables containing oil, coal tar and other dangerous substances",H11,30.74,,DK,,R4,Sweden,2017
+45,,"Y10,Y22,Y31",16 02 09*,transformers and capacitors containing PCBs,H11,54.6,,DK,,R4,Sweden,2017
+46,A2030,Y11,16 08 02*,spent catalysts containing dangerous transition metals (3) or dangerous transition metal compounds,H4.2,1120.7,,DE,,R4,Sweden,2017
+47,A4070,Y12,"07 03 07*, 08 01 11*, 08 03 12*, 16 05 04*, 20 01 27*","gases in pressure containers (including halons) containing dangerous substances, halogenated still bottoms and reaction residues, paint, inks, adhesives and resins containing dangerous substances, waste ink containing dangerous substances, waste paint and varnish containing organic solvents or other dangerous substances",H3,417.38,,NO,D10,,Sweden,2017
+48,A4070,Y12,08 01 11*,waste paint and varnish containing organic solvents or other dangerous substances,H3,1181.48,,DK,D10,,Sweden,2017
+49,A4070,Y12,"07 03 07*, 08 01 11*, 08 03 12*, 16 05 04*, 20 01 27*","gases in pressure containers (including halons) containing dangerous substances, halogenated still bottoms and reaction residues, paint, inks, adhesives and resins containing dangerous substances, waste ink containing dangerous substances, waste paint and varnish containing organic solvents or other dangerous substances",H3,1221.85,,NO,D10,,Sweden,2017
+50,A4070,Y12,20 01 27*,"paint, inks, adhesives and resins containing dangerous substances","H12,H3,H8",19.68,,NO,,R1,Sweden,2017
+51,A4070,Y12,08 01 11*,waste paint and varnish containing organic solvents or other dangerous substances,H3,299.16,,DK,D10,,Sweden,2017
+52,,Y12,08 05 01*,waste isocyanates,"H10,H3,H6.1",6.05,,DE,D10,,Sweden,2017
+53,A4070,"Y12,Y13",20 01 27*,"paint, inks, adhesives and resins containing dangerous substances","H3,H6.1,H8",418.082,,DE,D10,,Sweden,2017
+54,A4070,"Y12,Y13",08 05 01*,waste isocyanates,"H3,H6.1",20.995,,DE,D10,,Sweden,2017
+55,,Y16,09 01 05*,bleach solutions and bleach fixer solutions,,58.64,,DE,,R4,Sweden,2017
+56,,Y16,09 01 04*,fixer solutions,,41.22,,DE,,R4,Sweden,2017
+57,,Y16,09 01 05*,bleach solutions and bleach fixer solutions,,18.66,,DE,,R4,Sweden,2017
+58,A4140,"Y16,Y18,Y21,Y23,Y31","16 09 01*, 16 09 02*, 16 09 03*, 16 09 04*","chromates, for example potassium chromate, potassium or sodium dichromate, oxidising substances, not otherwise specified, permanganates, for example potassium permanganate, peroxides, for example hydrogen peroxide","H5.1,H5.2,H6.1,H8",7.98,,DE,D10,,Sweden,2017
+59,A1050,Y17,19 02 05*,sludges from physico/chemical treatment containing dangerous substances,"H11,H12,H8",26.58,,DE,,R4,Sweden,2017
+60,A1050,Y17,19 02 05*,sludges from physico/chemical treatment containing dangerous substances,,23.58,,DE,,R4,Sweden,2017
+61,A1130,Y17,11 01 05*,pickling acids,"H12,H8",4.582,,DE,,R4,Sweden,2017
+62,A4050,Y17,11 01 98*,other wastes containing dangerous substances,H6.1,4.8,DE,NL,,R4,Sweden,2017
+63,,Y17,07 01 01*,aqueous washing liquids and mother liquors,H8,539.42,,DE,D9,,Sweden,2017
+64,,Y17,07 01 01*,aqueous washing liquids and mother liquors,H8,207.64,,DE,D9,,Sweden,2017
+65,,"Y17,Y18","06 04 05*, 11 01 09*, 12 01 14*, 19 02 05*","machining sludges containing dangerous substances, sludges and filter cakes containing dangerous substances, sludges from physico/chemical treatment containing dangerous substances, wastes containing other heavy metals","H12,H8",119.61,,NO,,R5,Sweden,2017
+66,A1060,"Y17,Y33",06 03 11*,solid salts and solutions containing cyanides,H6.1,2.498,,DE,,R4,Sweden,2017
+67,A1050,Y18,"11 01 09*, 16 05 07*","discarded inorganic chemicals consisting of or containing dangerous substances, sludges and filter cakes containing dangerous substances","H12,H8",35.83,,DE,,R4,Sweden,2017
+68,A1050,Y18,11 01 09*,sludges and filter cakes containing dangerous substances,"H12,H8",6.086,,DE,,R4,Sweden,2017
+69,A1070,Y18,11 02 02*,"sludges from zinchydrometallurgy (including jarosite, goethite)",H11,5.2,,FI,D9,,Sweden,2017
+70,A1140,Y18,16 08 07*,spent catalysts contaminated with dangerous substances,H12,6.1,,DE,D12,,Sweden,2017
+71,A1180,Y18,16 02 13*,discarded equipment containing hazardous components (2) other than those mentioned in 16 02 09 to 16 02 12,H12,0.021,,DE,,R4,Sweden,2017
+72,A1180,Y18,16 02 13*,discarded equipment containing hazardous components (2) other than those mentioned in 16 02 09 to 16 02 12,H_,0.022,,DE,,R4,Sweden,2017
+73,A2030,Y18,16 08 07*,spent catalysts contaminated with dangerous substances,H11,0.2,,GB,,R8,Sweden,2017
+74,A4100,Y18,19 01 13*,fly ash containing dangerous substances,H12,52.74,,NO,,R5,Sweden,2017
+75,A4100,Y18,19 01 11*,bottom ash and slag containing dangerous substances,H12,753.6,,NO,,R5,Sweden,2017
+76,A4160,Y18,07 01 10*,other filter cakes and spent absorbents,,19.1,,DK,D10,,Sweden,2017
+77,A4160,Y18,07 01 10*,other filter cakes and spent absorbents,,101.18,,DK,D10,,Sweden,2017
+78,,Y18,19 01 13*,fly ash containing dangerous substances,H6.1,3722.27,,NO,,R5,Sweden,2017
+79,,Y18,"17 05 03*, 17 05 04","soil and stones containing dangerous substances, soil and stones other than those mentioned in 17 05 03",,16473.59,,NO,D5,,Sweden,2017
+80,,Y18,10 01 04*,oil fly ash and boiler dust,H12,18.746,,DE,,R4,Sweden,2017
+81,,Y18,19 03 06*,"wastes marked as hazardous, solidified",H12,24.46,,NO,,R1,Sweden,2017
+82,,Y18,"17 05 03*, 17 05 04","soil and stones containing dangerous substances, soil and stones other than those mentioned in 17 05 03",,4018.26,,NO,D5,,Sweden,2017
+83,,Y18,16 09 04*,"oxidising substances, not otherwise specified",H5.1,28.16,,DE,D12,,Sweden,2017
+84,A4140,"Y20,Y21,Y22,Y23,Y24,Y25,Y26,Y27,Y28,Y29,Y30,Y31,Y32,Y34,Y35,Y37,Y38,Y39,Y40,Y41,Y42,Y45",16 05 06*,"laboratory chemicals, consisting of or containing dangerous substances, including mixtures of laboratory chemicals","H10,H11,H12,H3,H4.1,H4.2,H4.3,H6.1,H8",4.07,,DE,D10,,Sweden,2017
+85,A1190,"Y22,Y23",17 04 10*,"cables containing oil, coal tar and other dangerous substances",H11,91.32,,DK,,R4,Sweden,2017
+86,A1190,"Y22,Y31",17 04 10*,"cables containing oil, coal tar and other dangerous substances",H12,10.56,,DK,,R4,Sweden,2017
+87,A1190,"Y22,Y31",17 04 10*,"cables containing oil, coal tar and other dangerous substances",,0.29,,DK,,R4,Sweden,2017
+88,A1190,"Y22,Y31",17 04 10*,"cables containing oil, coal tar and other dangerous substances",,642.21,,DK,,"R12,R4",Sweden,2017
+89,A1080,Y23,"10 05 03*, 10 08 15*, 11 05 03*","flue-gas dust, flue-gas dust containing dangerous substances, solid wastes from gas treatment",H12,75.644,,DE,,R4,Sweden,2017
+90,A1080,Y23,"10 05 03*, 10 08 15*, 11 05 03*","flue-gas dust, flue-gas dust containing dangerous substances, solid wastes from gas treatment",H12,116.817,,DE,,R4,Sweden,2017
+91,A4100,Y23,10 02 07*,solid wastes from gas treatment containing dangerous substances,H12,373.32,DK,DE,,R4,Sweden,2017
+92,A4100,Y23,10 02 07*,solid wastes from gas treatment containing dangerous substances,H12,2335.29,"BE,DE,DK",FR,,R4,Sweden,2017
+93,A4100,Y23,10 02 07*,solid wastes from gas treatment containing dangerous substances,H12,2462.0,"DE,DK",PL,,R4,Sweden,2017
+94,A4100,Y23,10 02 07*,solid wastes from gas treatment containing dangerous substances,H12,1713.46,,DE,,R4,Sweden,2017
+95,A4100,Y23,10 02 07*,solid wastes from gas treatment containing dangerous substances,H12,1152.0,,ES,,R4,Sweden,2017
+96,A1020,Y26,06 04 05*,wastes containing other heavy metals,H6.1,34.41,DE,FR,,R4,Sweden,2017
+97,A1170,Y26,"16 06 02*, 16 06 05","Ni-Cd batteries, other batteries and accumulators",H12,23.8,,FI,,R4,Sweden,2017
+98,A1170,Y26,"16 06 02*, 16 06 05","Ni-Cd batteries, other batteries and accumulators",H12,113.827,,FI,,R4,Sweden,2017
+99,A4140,"Y26,Y29,Y31,Y32,Y34,Y35,Y37,Y39,Y42,Y45",16 05 06*,"laboratory chemicals, consisting of or containing dangerous substances, including mixtures of laboratory chemicals","H10,H11,H12,H3,H4.1,H4.3,H5.1,H6.1,H8",51.122,,DE,D10,,Sweden,2017
+100,A4140,"Y26,Y29,Y31,Y32,Y34,Y35,Y37,Y39,Y42,Y45",16 05 06*,"laboratory chemicals, consisting of or containing dangerous substances, including mixtures of laboratory chemicals","H10,H11,H12,H3,H4.1,H4.3,H5.1,H6.1,H8",34.899,,DE,D10,,Sweden,2017
+101,A1010,Y29,06 04 04*,wastes containing mercury,"H6.1,H8",2.013,,DE,,R4,Sweden,2017
+102,A1010,Y29,"06 04 04*, 18 01 10*","amalgam waste from dental care, wastes containing mercury","H6.1,H8",0.906,,DE,,R4,Sweden,2017
+103,A1010,Y29,18 01 10*,amalgam waste from dental care,H6.1,41.511,,DE,,R4,Sweden,2017
+104,A1010,Y29,18 01 10*,amalgam waste from dental care,H6.1,17.419,,DE,D12,R4,Sweden,2017
+105,A1170,Y29,20 01 33*,"batteries and accumulators included in 16 06 01, 16 06 02 or 16 06 03 and unsorted batteries and accumulators containing these batteries",H12,7.884,,DE,"D12,D14,D9",,Sweden,2017
+106,A1180,Y29,"16 02 13*, 16 02 15*, 20 01 35*, 20 01 36","discarded electrical and electronic equipment other than those mentioned in 20 01 21 and 20 01 23 containing hazardous components (6), discarded electrical and electronic equipment other than those mentioned in 20 01 21, 20 01 23 and 20 01 35, discarded equipment containing hazardous components (2) other than those mentioned in 16 02 09 to 16 02 12, hazardous components removed from discarded equipment",H12,41.41,,EE,,R12,Sweden,2017
+107,A1180,Y29,16 02 15*,hazardous components removed from discarded equipment,"H11,H12",520.039,,PL,D9,"R12,R3,R4",Sweden,2017
+108,A1180,Y29,"16 02 13*, 16 02 15*, 20 01 35*, 20 01 36","discarded electrical and electronic equipment other than those mentioned in 20 01 21 and 20 01 23 containing hazardous components (6), discarded electrical and electronic equipment other than those mentioned in 20 01 21, 20 01 23 and 20 01 35, discarded equipment containing hazardous components (2) other than those mentioned in 16 02 09 to 16 02 12, hazardous components removed from discarded equipment",H12,507.109,,EE,,R12,Sweden,2017
+109,A1180,Y29,"16 02 13*, 16 02 14, 20 01 35*, 20 01 36","discarded electrical and electronic equipment other than those mentioned in 20 01 21 and 20 01 23 containing hazardous components (6), discarded electrical and electronic equipment other than those mentioned in 20 01 21, 20 01 23 and 20 01 35, discarded equipment containing hazardous components (2) other than those mentioned in 16 02 09 to 16 02 12, discarded equipment other than those mentioned in 16 02 09 to 16 02 13",H12,1279.23,DK,DE,,R12,Sweden,2017
+110,,Y29,16 02 15*,hazardous components removed from discarded equipment,"H11,H12",589.707,,PL,"D5,D9","R12,R3,R4",Sweden,2017
+111,A4140,"Y29,Y33,Y34,Y35",16 05 06*,"laboratory chemicals, consisting of or containing dangerous substances, including mixtures of laboratory chemicals","H6.1,H8",6.6,DK,DE,,"R3,R4,R5",Sweden,2017
+112,A1020,Y31,10 04 02*,dross and skimmings from primary and secondary production,H11,592.8,,PL,,R4,Sweden,2017
+113,A1020,Y31,10 04 02*,dross and skimmings from primary and secondary production,H11,1174.84,,BE,,R4,Sweden,2017
+114,A1020,Y31,"17 04 03, 19 12 11*","lead, other wastes (including mixtures of materials) from mechanical treatment of waste containing dangerous substances","H12,H6.1",20.78,,EE,,R4,Sweden,2017
+115,A1160,Y31,16 06 01*,lead batteries,H8,452.0,,EE,,R4,Sweden,2017
+116,,Y31,19 12 11*,other wastes (including mixtures of materials) from mechanical treatment of waste containing dangerous substances,H11,1006.41,,DE,,"R4,R5",Sweden,2017
+117,,Y31,10 04 01*,slags from primary and secondary production,H12,13675.42,,NO,D12,,Sweden,2017
+118,,Y31,10 04 01*,slags from primary and secondary production,H12,3409.26,,NO,D12,,Sweden,2017
+119,A1160,"Y31,Y34",16 06 01*,lead batteries,"H12,H8",138.86,"AT,DE,DK",SI,,R4,Sweden,2017
+120,A1160,"Y31,Y34",16 06 01*,lead batteries,H8,48.016,,LT,,"R12,R3",Sweden,2017
+121,A4050,Y33,16 05 07*,discarded inorganic chemicals consisting of or containing dangerous substances,H6.1,0.79,,DE,D10,,Sweden,2017
+122,A4050,"Y33,Y38",06 03 11*,solid salts and solutions containing cyanides,H6.1,19.722,,DE,D10,,Sweden,2017
+123,A1060,Y34,11 01 05*,pickling acids,H8,31.0,,NO,D9,,Sweden,2017
+124,A2030,Y34,16 08 05*,spent catalysts containing phosphoric acid,H8,191.6,,GB,,R5,Sweden,2017
+125,A4090,Y34,20 01 14*,acids,"H3,H6.1,H8",4.512,,DE,D10,,Sweden,2017
+126,,Y34,06 01 06*,other acids,H8,88.55,,NO,D9,,Sweden,2017
+127,A4090,Y35,"06 02 05*, 20 01 15*","alkalines, other bases","H3,H6.1,H8",26.94,,DE,D10,,Sweden,2017
+128,A2030,"Y37,Y6",16 08 06*,spent liquids used as catalysts,"H12,H3",71.65,,BE,,R4,Sweden,2017
+129,A3150,Y41,14 06 02*,other halogenated solvents and solvent mixtures,"H3,H6.1",29.138,,DE,D10,,Sweden,2017
+130,A3150,Y41,"07 01 03*, 07 05 03*, 07 06 03*, 14 06 01*, 14 06 02*","chlorofluorocarbons, HCFC, HFC, organichalogenated solvents, washing liquids and mother liquors, organichalogenated solvents, washing liquids and mother liquors, organichalogenated solvents, washing liquids and mother liquors, other halogenated solvents and solvent mixtures","H10,H11,H12,H13,H3,H6.1",16.53,,DE,D10,,Sweden,2017
+131,A2030,Y42,16 08 07*,spent catalysts contaminated with dangerous substances,H12,0.767,,GB,,R8,Sweden,2017
+132,A4100,"Y43,Y44",10 03 19*,flue-gas dust containing dangerous substances,H6.1,1971.12,DK,DE,D12,,Sweden,2017
+133,A4100,"Y43,Y44",10 03 19*,flue-gas dust containing dangerous substances,H6.1,510.0,DK,DE,D12,,Sweden,2017
+134,,Y45,14 06 01*,"chlorofluorocarbons, HCFC, HFC",H12,92.0,,DE,"D10,D15",,Sweden,2017
+135,,Y45,14 06 01*,"chlorofluorocarbons, HCFC, HFC",H12,9.8,,DE,,R3,Sweden,2017
+136,,Y45,"14 06 01*, 14 06 04*, 16 05 05","chlorofluorocarbons, HCFC, HFC, gases in pressure containers other than those mentioned in 16 05 04, sludges or solid wastes containing halogenated solvents",H12,30.82,,DE,"D10,D15",,Sweden,2017
+137,,Y45,14 06 01*,"chlorofluorocarbons, HCFC, HFC",,67.0,,GB,,R3,Sweden,2017
+138,,Y45,14 06 01*,"chlorofluorocarbons, HCFC, HFC",H12,10.632,,DE,,R3,Sweden,2017
+139,,Y45,14 06 01*,"chlorofluorocarbons, HCFC, HFC",H12,0.44,,DE,"D10,D15",,Sweden,2017
+140,A1020,Y_,10 04 04*,flue-gas dust,H6.1,362.08,DE,BE,,R4,Sweden,2017
+141,A1030,Y_,20 01 21*,fluorescent tubes and other mercury-containing waste,"H12,H8",11.697,,DE,"D12,D14,D9",,Sweden,2017
+142,A1190,Y_,"17 04 10*, 17 04 11","cables containing oil, coal tar and other dangerous substances, cables other than those mentioned in 17 04 10",,28.46,,NO,,R4,Sweden,2017
+143,A1190,Y_,"17 04 10*, 17 04 11","cables containing oil, coal tar and other dangerous substances, cables other than those mentioned in 17 04 10",,162.52,,NO,,R4,Sweden,2017
+144,A2030,Y_,"16 08 02*, 16 08 07*","spent catalysts containing dangerous transition metals (3) or dangerous transition metal compounds, spent catalysts contaminated with dangerous substances","H12,H4.2,H_",264.0,BE,FR,,"R4,R8",Sweden,2017
+145,A4100,Y_,19 01 07*,solid wastes from gas treatment,H12,157.4,,NO,,R5,Sweden,2017
+146,A4100,Y_,19 01 13*,fly ash containing dangerous substances,H12,1132.11,,NO,,R5,Sweden,2017
+147,A4100,Y_,"19 01 05*, 19 01 07*, 19 01 13*","filter cake from gas treatment, fly ash containing dangerous substances, solid wastes from gas treatment",H12,1547.38,,NO,,R5,Sweden,2017
+148,A4100,Y_,19 01 13*,fly ash containing dangerous substances,H12,2206.3,,NO,,R5,Sweden,2017
+149,A4100,Y_,19 01 07*,solid wastes from gas treatment,H12,758.65,,NO,,R5,Sweden,2017
+150,A4100,Y_,"19 01 07*, 19 01 13*","fly ash containing dangerous substances, solid wastes from gas treatment",,220.03,,NO,,R5,Sweden,2017
+151,A4100,Y_,10 02 07*,solid wastes from gas treatment containing dangerous substances,H12,2354.0,,FR,,R4,Sweden,2017
+152,A4160,Y_,06 13 02*,spent activated carbon (except 06 07 02),"H4.1,H4.2,H6.1,H8",4.086,,DE,D10,,Sweden,2017
+153,A4160,Y_,06 13 02*,spent activated carbon (except 06 07 02),"H4.1,H4.2,H6.1,H8",2.589,,DE,D10,,Sweden,2017
+154,,Y_,20 01 35*,discarded electrical and electronic equipment other than those mentioned in 20 01 21 and 20 01 23 containing hazardous components (6),"H11,H12",912.112,BE,NL,,"R12,R3,R4",Sweden,2017
+155,,Y_,"19 01 13*, 19 01 17*","fly ash containing dangerous substances, pyrolysis wastes containing dangerous substances",H6.1,112.64,,NO,,R5,Sweden,2017
+156,,Y_,"19 01 07*, 19 01 13*","fly ash containing dangerous substances, solid wastes from gas treatment",,378.7,,NO,,R5,Sweden,2017
+157,,Y_,"19 01 07*, 19 01 13*","fly ash containing dangerous substances, solid wastes from gas treatment",H6.1,745.46,,NO,,R5,Sweden,2017
+158,,Y_,"19 01 13*, 19 01 14","fly ash containing dangerous substances, fly ash other than those mentioned in 19 01 13",H13,13247.83,,NO,,R5,Sweden,2017
+159,,Y_,19 01 13*,fly ash containing dangerous substances,H12,1753.3,,NO,,R5,Sweden,2017
+160,,Y_,"19 01 07*, 19 01 13*","fly ash containing dangerous substances, solid wastes from gas treatment",H6.1,4672.12,,NO,,R5,Sweden,2017
+161,,Y_,"19 01 07*, 19 01 13*","fly ash containing dangerous substances, solid wastes from gas treatment",H12,2022.39,,NO,,R5,Sweden,2017
+162,,Y_,"19 01 07*, 19 01 13*","fly ash containing dangerous substances, solid wastes from gas treatment",H6.1,1255.16,,NO,,R5,Sweden,2017
+163,,Y_,"19 01 07*, 19 01 13*","fly ash containing dangerous substances, solid wastes from gas treatment",H6.1,2325.92,,NO,,R5,Sweden,2017
+164,,Y_,"19 01 07*, 19 01 13*","fly ash containing dangerous substances, solid wastes from gas treatment",H6.1,2827.51,,NO,,R5,Sweden,2017
+165,,Y_,19 01 13*,fly ash containing dangerous substances,,1380.0,,NO,,R5,Sweden,2017
+166,,Y_,19 01 13*,fly ash containing dangerous substances,H12,11736.34,,NO,,R5,Sweden,2017
+167,,Y_,19 01 13*,fly ash containing dangerous substances,H13,2569.0,,NO,,R5,Sweden,2017
+168,,Y_,"19 01 07*, 19 01 13*","fly ash containing dangerous substances, solid wastes from gas treatment",H12,21981.62,,NO,,R5,Sweden,2017
+169,,Y_,"19 01 07*, 19 01 13*","fly ash containing dangerous substances, solid wastes from gas treatment",H6.1,355.52,,NO,,R5,Sweden,2017
+170,,Y_,"19 01 07*, 19 01 13*","fly ash containing dangerous substances, solid wastes from gas treatment",H6.1,5207.55,,NO,,R5,Sweden,2017
+171,,Y_,"19 01 07*, 19 01 13*","fly ash containing dangerous substances, solid wastes from gas treatment",H6.1,802.0,,NO,,R5,Sweden,2017
+172,,Y_,19 01 13*,fly ash containing dangerous substances,,2597.9,,NO,,R5,Sweden,2017
+173,,Y_,"19 01 07*, 19 01 13*","fly ash containing dangerous substances, solid wastes from gas treatment",,1618.2,,NO,,R5,Sweden,2017
+174,,Y_,"17 05 03*, 17 05 04, 17 05 06","dredging spoil other than those mentioned in 17 05 05, soil and stones containing dangerous substances, soil and stones other than those mentioned in 17 05 03",,11585.449,,NO,D2,,Sweden,2017
+175,,Y_,"19 01 07*, 19 01 13*","fly ash containing dangerous substances, solid wastes from gas treatment",H6.1,56.32,,NO,,R5,Sweden,2017
+176,,Y_,"16 02 13*, 16 02 14","discarded equipment containing hazardous components (2) other than those mentioned in 16 02 09 to 16 02 12, discarded equipment other than those mentioned in 16 02 09 to 16 02 13",,9.95,,PL,,R5,Sweden,2017
+177,,Y_,"12 01 04, 12 01 14*","machining sludges containing dangerous substances, non-ferrous metal dust and particles",H12,87.808,DE,AT,,R4,Sweden,2017
+178,,Y_,10 03 08*,salt slags from secondary production,,9455.0,DK,DE,,R5,Sweden,2017
+179,,Y_,"19 01 07*, 19 01 13*","fly ash containing dangerous substances, solid wastes from gas treatment",H6.1,5347.8,,NO,,R5,Sweden,2017
+180,,Y_,"12 01 04, 12 01 14*","machining sludges containing dangerous substances, non-ferrous metal dust and particles",H12,120.8,DE,AT,,R4,Sweden,2017
+181,,Y_,16 01 04*,end-of-life vehicles,,5184.0,,NO,,R4,Sweden,2017
+182,,Y_,"20 01 35*, 20 01 36","discarded electrical and electronic equipment other than those mentioned in 20 01 21 and 20 01 23 containing hazardous components (6), discarded electrical and electronic equipment other than those mentioned in 20 01 21, 20 01 23 and 20 01 35",H12,16.1,,LT,,"R1,R13,R3,R4,R5",Sweden,2017
+183,,Y_,"19 01 07*, 19 01 13*","fly ash containing dangerous substances, solid wastes from gas treatment",H6.1,3131.58,,NO,,R5,Sweden,2017
+184,,Y_,"19 01 07*, 19 01 13*","fly ash containing dangerous substances, solid wastes from gas treatment",H6.1,380.5,,NO,,R5,Sweden,2017
+185,,Y_,"17 01 07, 17 05 03*, 17 05 04, 17 05 06, 17 08 02","dredging spoil other than those mentioned in 17 05 05, gypsum-based construction materials other than those mentioned in 17 08 01, mixtures of concrete, bricks, tiles and ceramics other than those mentioned in 17 01 06, soil and stones containing dangerous substances, soil and stones other than those mentioned in 17 05 03",,22152.343,,NO,D1,,Sweden,2017
+186,,Y_,"12 01 04, 12 01 14*","machining sludges containing dangerous substances, non-ferrous metal dust and particles",H12,25.618,DE,AT,,R4,Sweden,2017
+187,,Y_,"19 01 07*, 19 01 13*","fly ash containing dangerous substances, solid wastes from gas treatment",H6.1,39.38,,NO,,R5,Sweden,2017
+188,,Y_,10 03 08*,salt slags from secondary production,,5947.0,DK,DE,,R5,Sweden,2017
+189,,Y_,"19 01 07*, 19 01 13*","fly ash containing dangerous substances, solid wastes from gas treatment",H6.1,280.82,,NO,,R5,Sweden,2017
+190,,Y_,"19 01 07*, 19 01 13*","fly ash containing dangerous substances, solid wastes from gas treatment",H6.1,545.98,,NO,,R5,Sweden,2017
+191,,Y_,19 01 13*,fly ash containing dangerous substances,H11,3529.15,,NO,,R5,Sweden,2017
+192,,Y_,19 01 05*,filter cake from gas treatment,H11,588.88,,NO,,R5,Sweden,2017
+193,,Y_,19 08 13*,sludges containing dangerous substances from other treatment of industrial waste water,,46.03,DE,NL,,"R1,R12",Sweden,2017
+194,,Y_,"19 01 07*, 19 01 13*","fly ash containing dangerous substances, solid wastes from gas treatment",H6.1,159.46,,NO,,R5,Sweden,2017
+195,,Y_,19 01 13*,fly ash containing dangerous substances,H12,1711.89,,NO,,R5,Sweden,2017
+196,,Y_,"19 01 07*, 19 01 13*","fly ash containing dangerous substances, solid wastes from gas treatment",H12,5614.29,,NO,,R5,Sweden,2017
+197,,Y_,"19 01 07*, 19 01 13*","fly ash containing dangerous substances, solid wastes from gas treatment",H6.1,121.73,,NO,,R5,Sweden,2017
+198,,Y_,"19 01 07*, 19 01 13*","fly ash containing dangerous substances, solid wastes from gas treatment",H6.1,501.2,,NO,,R5,Sweden,2017
+199,,Y_,19 01 13*,fly ash containing dangerous substances,,18019.19,,NO,,R5,Sweden,2017
+200,,Y_,10 01 16*,fly ash from co-incineration containing dangerous substances,,706.26,,NO,,R5,Sweden,2017
+201,,Y_,10 01 16*,fly ash from co-incineration containing dangerous substances,,468.52,,NO,,R5,Sweden,2017
+202,,Y_,19 01 13*,fly ash containing dangerous substances,H13,228.7,,NO,,R5,Sweden,2017
+203,,Y_,19 01 13*,fly ash containing dangerous substances,H12,13481.96,,NO,,R5,Sweden,2017
+204,,Y_,"19 01 07*, 19 01 13*","fly ash containing dangerous substances, solid wastes from gas treatment",H6.1,1329.64,,NO,,R5,Sweden,2017
+205,,Y_,10 02 07*,solid wastes from gas treatment containing dangerous substances,H12,2983.0,,FR,,R4,Sweden,2017
+206,Y46,,19 12 04,plasticand rubber,,3203.7,,DE,,"R1,R12,R3",Sweden,2017
+207,Y46,,19 12 04,plasticand rubber,,11991.81,,DE,,"R1,R12,R3",Sweden,2017
+208,Y46,,15 01 02,plasticpac kaging,,115.7,,FI,,R3,Sweden,2017
+209,Y46,,19 12 04,plasticand rubber,,1692.15,,DE,,"R1,R12,R3",Sweden,2017
+210,Y46,,19 12 04,plasticand rubber,,3363.69,,DE,,"R1,R12,R3",Sweden,2017
+211,Y47,,19 12 03,non-ferrous metal,,144.44,DE,NL,,"R12,R4",Sweden,2017
+212,Y47,,19 12 03,non-ferrous metal,,352.8,DE,NL,,"R12,R4",Sweden,2017
+213,Y47,,19 12 03,non-ferrous metal,,471.31,DE,NL,,"R12,R4",Sweden,2017

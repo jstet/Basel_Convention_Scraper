@@ -1,0 +1,26 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A1070,Y31,11 02 02*,sludges from zinc hydrometallurgy,H12,493.0,"TR,PT,FR,GB,DE",BE,,R4,Bulgaria,2019
+1,A4030,Y4,20 01 19*,obsolete pesticides,H6.1,2561.88,"RO,HU,AT,DE",FR,D10,,Bulgaria,2019
+2,A4030,Y4,20 01 19*,obsolete pesticides,H6.1,122.437,"RO,HU,AT",DE,D10,,Bulgaria,2019
+3,A4010,Y3,16 03 05*,expired drugs and pharmaceutical waste,H6.1,173.66,"RO,HU,AT,CZ",DE,D10,,Bulgaria,2019
+4,A4010,Y3,16 03 05*,expired drugs and pharmaceutical waste,H6.1,25.97,"RO,HU,AT",DE,D10,,Bulgaria,2019
+5,A4010,Y31,18 01 09,expired drugs,H6.1,53.05,"RO,HU,AT",DE,D10,,Bulgaria,2019
+6,A4140,,16 05 08*,waste laboratory chemicals,H3,34.32,"RO,HU,SK,CZ",DE,D10,,Bulgaria,2019
+7,A4140,,16 05 06*,waste laboratory chemicals and residues,H4.1,4.92,"RO,HU,SK,CZ",DE,D10,,Bulgaria,2019
+8,A4140,,14 06 01*,"Chlorofluorocarbons, HCFC, HFC",H12,1.45,"RO,HU,AT",DE,D10,,Bulgaria,2019
+9,A4090,Y34,06 01 01*,waste acids,H8,64.04,"RO,HU,AT",DE,D10,,Bulgaria,2019
+10,,,19 02 11*,mixed material contаining hazardous substances,H12,257.58,"CZ,HU,RO,SK",DE,D10,,Bulgaria,2019
+11,,Y18,19 02 11*,Waste liquids containing dangerous substances,H12,66.993,"RO,HU,SK",PL,D10,,Bulgaria,2019
+12,A1030,Y29,20 01 21*,used fluorescent and other mercury containing lamps,H12,11.3,,RO,,"R12,R4,R5",Bulgaria,2019
+13,A2030,,16 08 02*,VniMo-V spent catalysts,H12,3229.8,"HU,RO",AT,,R4,Bulgaria,2019
+14,A2030,,16 08 02*,VniMo-V spent catalysts,H12,85.97,"RO,HU,SK,CZ",DE,,R4,Bulgaria,2019
+15,,Y18,19 02 04*,premixed waste cont. hazardous substances,H4.1,34.1,"HU,RO",AT,D10,,Bulgaria,2019
+16,A1050,Y17,11 01 09*,sludges/filter cake,H12,42.94,"RO,HU,SK,CZ",DE,,R4,Bulgaria,2019
+17,A1020,Y31,10 04 05*,lead dust,H12,375.906,,RO,,R4,Bulgaria,2019
+18,A1160,Y31,16 06 01*,spent lead-acid batteries,H8,364.84,,GR,,R4,Bulgaria,2019
+19,A3150,Y6,07 01 07*,halogenated still bottoms and reaction residues (trichlorethan),H6.1,147.32,"AT,BE,DE,HU,RO",FR,,R5,Bulgaria,2019
+20,A4030,Y4,02 01 08*,agrochemical waste containing dangerous substances,H6.1,504.36,"RO,HU,SK,CZ",DE,D10,,Bulgaria,2019
+21,A4030,Y4,02 01 08*,agrochemical waste containing dangerous substances,H6.1,738.455,"RO,HU,AT,DE",CH,D10,,Bulgaria,2019
+22,A4030,Y4,02 01 08*,agrochemical waste containing dangerous substances,H6.1,111.222,"RO,HU,AT,DE",BE,,"R12,R4,R5",Bulgaria,2019
+23,A1030,Y29,20 01 21*,mercury vapor lapms,H12,11.28,,RO,,"R4,R5,R12",Bulgaria,2019
+24,A1030,Y29,20 01 21*,fluorescent lamps,H12,7.74,,RO,,"R4,R5",Bulgaria,2019

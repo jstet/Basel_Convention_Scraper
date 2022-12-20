@@ -1,0 +1,14 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A1160,"Y31,Y34",,,"H8,H12",1000,,RS,,R4,Montenegro,2018
+1,A2050,Y36,,,H11,200,"AT,BA,HR,SI",DE,D5,,Montenegro,2018
+2,A4010,Y4,,,,150,"BA,HR,SI",AT,,R1,Montenegro,2018
+3,A3020,Y8,,,H_,500,RS,BG,,R4,Montenegro,2018
+4,A4140,"Y21,Y26,Y29,Y34,Y35",,,"H8,H11,H12,H13",30,"BA,HR",SI,D10,,Montenegro,2018
+5,A4140,Y18,,,"H6.1,H8,H11,H12,H13",50,"BA,HR,SI",AT,D9,,Montenegro,2018
+6,A1160,"Y31,Y34",,,"H8,H12",1000,"BA,HR",SI,,R4,Montenegro,2018
+7,A3020,Y8,,,H_,300,"MK,RS",GR,,R9,Montenegro,2018
+8,,Y17,,19 02 05* sludges from physico/chemical treatment containing hazardous substances,"H12,H13",35,"CZ,HU,RS,SK",DE,D10,,Montenegro,2018
+9,,Y_,,"9 12 11* other wastes (including mixtures of materials) from mechanical treatment of waste containing
+hazardous substances",H_,1000,"BA,HR,SI",AT,D10,,Montenegro,2018
+10,,Y_,,"10 03 04* primary production slags
+",H4.3,500,"BA,HR",SI,,R5,Montenegro,2018

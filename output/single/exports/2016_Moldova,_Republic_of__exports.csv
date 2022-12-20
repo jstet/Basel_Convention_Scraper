@@ -1,0 +1,9 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A1160,Y31,"1.16.05 (old classification)
+16 06 01 (EWC)",waste accumulators ,H8,1340.0,,RO,,R4,"Moldova, Republic of ",2016
+1,A1160,Y31,"1.16.05 (old classification)
+16 06 01 (EWC)",waste accumulators ,H8,1160.0,,UA,,R4,"Moldova, Republic of ",2016
+2,A4030,"Y4,Y37,Y45","1.39.00 (old classification)
+15 01 10 (EWC)",mixed pesticides ,"H6.1,H12",147.0,UA,PL,D10,,"Moldova, Republic of ",2016
+3,"A4030,A4130","Y4,Y37,Y45","1.39.00 (old classification)
+15 01 10 (EWC, since 2018)",pesticides and contaminated packaging ,"H6.1,H12",310.595,UA,PL,D10,,"Moldova, Republic of ",2016

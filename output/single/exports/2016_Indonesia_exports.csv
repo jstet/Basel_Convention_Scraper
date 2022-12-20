@@ -1,0 +1,32 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A1030,Y29,"B101d, A105d",Elemental Mercury waste,H6.1,4.46,,JP,,R4,Indonesia,2016
+1,A1030,Y29,"B101d, A105d",Liquid Waste Contaminated Mercury,"H6.1,H8,H11",50.0,,JP,,R4,Indonesia,2016
+2,A1030,Y29,"B101d, A105d",Solid Waste Contaminated Mercury,H6.1,9.0,,JP,,R4,Indonesia,2016
+3,A1030,Y29,"B101d, A105d",Filter Waste Contaminated Mercury,H6.1,0.1,,JP,,R4,Indonesia,2016
+4,A1030,Y29,"B101d, A105d",Sludge Waste Contaminated Mercury,H6.1,0.32,,JP,,R4,Indonesia,2016
+5,A2030,Y22,"B101d, A105d",Spent Catalyst Contaminated Mercury,H6.1,0.41,,JP,,R4,Indonesia,2016
+6,A1030,Y29,"B101d, A105d",Oil Sludge Contaminated Mercury,H6.1,310.0,,JP,,R4,Indonesia,2016
+7,A1030,Y29,"B101d, A105d",Elemental Mercury Waste,H6.1,0.05,,JP,,R4,Indonesia,2016
+8,A2030,Y22,B301-3,Spent Palladium Carbon Catalyst,H6.1,50.0,,JP,,R4,Indonesia,2016
+9,,Y_,B406,Mill Scale,H_,8400.0,,CN,,R4,Indonesia,2016
+10,,Y_,B406,Mill Scale,H_,5100.0,,CN,,R4,Indonesia,2016
+11,,Y_,,Calcium Hydroxyde Sludge,H_,4500.0,,MY,,R4,Indonesia,2016
+12,,Y_,B406,Mill Scale,H_,42000.0,,CN,,R4,Indonesia,2016
+13,A3020,Y31,,Copper Cake,H8,125.0,,JP,,R4,Indonesia,2016
+14,A1050,Y23,,Zinc Metal,H13,175.0,,JP,,R4,Indonesia,2016
+15,B1200,Y_,B402,GBFS,H_,250000.0,,AE,,R5,Indonesia,2016
+16,,Y_,B406,Mill Scale,H_,81300.0,,CN,,R4,Indonesia,2016
+17,A1180,Y22,B107d,E-Waste,H11,500.0,,SG,,R4,Indonesia,2016
+18,,Y_,,Used Xerox Office Components Contaminated Residual Toner ,H_,24.7,,TH,,R4,Indonesia,2016
+19,,Y_,,Used Xerox Office Components Contaminated Residual Toner,H_,160.0,,TH,,R4,Indonesia,2016
+20,,Y_,B413,Spent Bleaching Earth,H_,9000.0,,MY,,R4,Indonesia,2016
+21,,Y_,B413,Spent Bleaching Earth,H_,6000.0,,MY,,R4,Indonesia,2016
+22,,Y_,B413,Spent Bleaching Earth,H_,9000.0,,MY,,R4,Indonesia,2016
+23,,Y_,B406,Mill Scale,H_,24000.0,,CN,,R4,Indonesia,2016
+24,A3020,Y31,,CopperAlloy Scrap,H8,288.0,,JP,,R4,Indonesia,2016
+25,,Y_,B406,Mill Scale,H_,36000.0,,CN,,R4,Indonesia,2016
+26,,Y_,B406,Mill Scale,H_,150000.0,,JP,,R4,Indonesia,2016
+27,A1050,Y23,B314-1,Zinc Dross,H13,800.0,,JP,,R4,Indonesia,2016
+28,,Y_,B413,Spent Bleaching Earth,H_,15000.0,,MY,,R4,Indonesia,2016
+29,,Y_,B413,Spent Bleaching Earth,H_,9000.0,,MY,,R4,Indonesia,2016
+30,,Y_,B413,Spent Bleaching Earth,H_,1000.0,,MY,,R4,Indonesia,2016

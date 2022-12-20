@@ -1,0 +1,9 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A2050,Y36,170601.0,Asbestos and Asbestos contaminated materials,"H11,H_",500,,ZA,D1,,Eswatini,2018
+1,B1110,,,Waste Electrical and Electronic Equipment,"H12,H13,H_",1000,,ZA,,"R4,R11,R_",Eswatini,2018
+2,A4060,Y8,,Used Greese and Used Oil,"H12,H13",200,,ZA,,"R1,R3,R9",Eswatini,2018
+3,,Y29,,Mercury containing waste ,H11,100,,ZA,,"R4,R5",Eswatini,2018
+4,A4090,"Y3,Y6,Y12,Y34,Y35,Y_",,Mixed Waste consisting of expired laboratory chemicals;  solvents; paint and waste contaminated with chemicals,"H6.1,H6.2,H11,H12,H13",100,,ZA,,"R1,R2",Eswatini,2018
+5,"A1180,A2010",,,Mixed waste electrical and electronic equipment ,"H12,H13,H_",100,,ZA,,R4,Eswatini,2018
+6,"A3020,A4060",Y8,,Used oil ,"H12,H13",480,,ZA,,"R1,R3",Eswatini,2018
+7,A1160,,,Spent Lead Acid Batteries,"H5.1,H6.1,H8,H11,H12,H13",750,,ZA,,R4,Eswatini,2018

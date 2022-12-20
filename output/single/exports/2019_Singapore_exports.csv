@@ -1,0 +1,21 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,,Y35,,Calcium Hydroxide Sludge,H8,6326.2,,MY,,R4,Singapore,2019
+1,A1160,Y31,,"Drained Battery Scraps ""Rains"" / Waste Lead Acid Batteries",H11,3888.562,,KR,,R4,Singapore,2019
+2,A1160,Y31,,"Lead Acid Batteries, Lead Compounds",H11,443.3,,KR,,R4,Singapore,2019
+3,A1180,Y31,,Used/Waste Lead Acid Battery,H11,10799.809,,KR,,R4,Singapore,2019
+4,A1180,Y31,,"Lead Acid Battery Scrap ""Rains""/Waste Lead Acid Battery",H11,5190.752,,IN,,R4,Singapore,2019
+5,"A1020,A1180",Y26,,Used Nickel Cadmium Batteries,H11,38.86,,KR,,R4,Singapore,2019
+6,A1180,"Y18,Y31",,"Precious Metal Bearing E-wastes such as Printed Circuit Board, IC Chips and Components, Mobile Handsets",H11,157.738,,JP,,R4,Singapore,2019
+7,A1180,"Y22,Y31",,Printed Circuit Boards and Electronic Components,H11,74.52,,JP,,R4,Singapore,2019
+8,A1180,Y31,,Scrap Containing Precious Metals,H11,32.3,,JP,,R4,Singapore,2019
+9,A2030,Y9,,Spent Catalyst,H4.2,355.56,"LB,MT,IT",FR,,R8,Singapore,2019
+10,A2030,Y34,,Spent Catalyst,"H8,H11",45.585,"NL,EG,FR",DE,,R4,Singapore,2019
+11,A2030,Y6,,Waste Catalyst,H8,2.626,"LK,EG,ES,PT,BE,NL,DE",GB,,R8,Singapore,2019
+12,B2040,Y6,,"Multi-Wire Saw Slurry (Silicon Carbide, Dipolyethylene Glycol)",H13,3636.0,,IT,,"R5,R13",Singapore,2019
+13,A1020,Y31,,Tin Dust,H11,52.336,,BE,,R4,Singapore,2019
+14,,Y22,,Cable Wire Scrap (Aluminium/Copper),,2456.946,,MY,,R4,Singapore,2019
+15,A1170,Y26,,Lithium Metallic Oxide Powder,H13,249.93,,KR,,R4,Singapore,2019
+16,A1120,Y22,,Copper Sludge,H12,37.012,,JP,,R4,Singapore,2019
+17,A4080,Y15,,Ammunition & Explosives,H1,13.312,,ZA,D10,,Singapore,2019
+18,A4120,,,Empty Containers Containing (30%-35%) Hydrogen Peroxide Residues,H5.1,35.732,,TH,,R13,Singapore,2019
+19,Y47,,,Non-Ferrous Metal Concentrate,,10880.47,"GB,ES,FR,GR,DE,EG,MY",NL,,"R4,R5,R12",Singapore,2019

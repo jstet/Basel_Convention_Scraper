@@ -1,0 +1,153 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_origin,annex_4_a_code,annex_4_b_code,country,year
+0,,Y18,19 10 05,heavy fraction from shredding,"H11,H13",504.0,-,DE,,R1,Austria,2017
+1,,Y18,15 02 02,mixed wastes from craft shops,H13,1462.0,-,DE,,R1,Austria,2017
+2,A4070,Y12,08 01 13,paint sludge,"H3,H13",165.0,-,DE,,R1,Austria,2017
+3,A4070,Y12,08 01 11,waste paint,"H3,H13",274.0,-,DE,,R1,Austria,2017
+4,A3140,Y42,07 01 04,solvents,"H3,H13",404.54,-,DE,,R1,Austria,2017
+5,A3140,Y42,14 06 03,solvents,"H3,H13",181.5,-,DE,,R1,Austria,2017
+6,,"Y5,Y11,Y39",17 02 04,tar impregnated wood,"H11,H13",14283.0,-,DE,,R1,Austria,2017
+7,,Y5,19 12 06,impregnated wood,H11,25.0,-,DE,,R1,Austria,2017
+8,Y46,,20 03 01,municipal waste,,2092.5,-,DE,,R1,Austria,2017
+9,A3140,"Y2,Y42",07 05 04,solvents,"H3,H6.1",602.05,-,DE,,R2,Austria,2017
+10,A3150,"Y6,Y41",14 06 02,halogenated solvents,"H3,H6.1",204.57,-,DE,,R2,Austria,2017
+11,A3150,"Y2,Y41",07 05 03,halogenated solvents,"H3,H6.1",62.54,-,DE,,R2,Austria,2017
+12,A3140,"Y6,Y42",14 06 03,solvents,H3,647.16,-,DE,,R2,Austria,2017
+13,,Y45,14 06 01,CFCs,H12,29.0,-,DE,,R3,Austria,2017
+14,,Y11,17 02 04,impregnated wood,"H11,H13",1.6,-,DE,,R3,Austria,2017
+15,Y46,,20 03 07,bulky waste,,249.8,-,DE,,R3,Austria,2017
+16,A3140,Y42,07 01 08,solvents,H3,4798.5,-,DE,,R3,Austria,2017
+17,Y46,,20 01 08,kitchen waste,,1797.3,-,DE,,R3,Austria,2017
+18,Y46,,15 01 02,packaging from households,,115.7,-,DE,,R3,Austria,2017
+19,Y46,,15 01 06,packaging from households,,3356.3,-,DE,,R3,Austria,2017
+20,A1170,"Y23,Y35",20 01 34,batteries,"H12,H13",1584.0,-,DE,,R4,Austria,2017
+21,A4050,Y33,11 01 98,precious metal cyanides ,"H6.1,H11,H13",0.9,-,DE,,R4,Austria,2017
+22,A1160,Y31,16 06 01,lead acid batteries,"H8,H11,H12",373.5,-,DE,,R4,Austria,2017
+23,A3140,Y42,15 02 02,wipes ,"H4.1,H13",4.5,-,DE,,R4,Austria,2017
+24,A2030,,16 08 02,spent catalysts,"H11,H12",370.6,-,DE,,R4,Austria,2017
+25,A1020,Y31,16 03 03,lead ceramics,H11,22.6,-,DE,,R4,Austria,2017
+26,A1100,Y23,10 06 03,filter dust,"H11,H12",27.5,-,DE,,R4,Austria,2017
+27,A1170,Y29,16 06 03,mercury batteries,"H11,H12,H13",10.7,-,DE,,R4,Austria,2017
+28,,,10 01 04,vanadium bearing ash,"H6.1,H11,H12",614.4,-,DE,,R4,Austria,2017
+29,A1030,Y29,06 04 04,mercury waste,"H8,H11,H12,H13",1.4,-,DE,,R4,Austria,2017
+30,A1060,Y22,11 01 05,etching solutions,"H8,H12,H13",555.0,-,DE,,R4,Austria,2017
+31,A1060,"Y17,Y23",11 01 05,etching solutions,"H8,H12,H13",897.6,-,DE,,R4,Austria,2017
+32,A1050,"Y17,Y23",19 02 05,electroplating sludge,"H11,H12,H13",100.0,-,DE,,R4,Austria,2017
+33,A3140,Y42,14 06 05,metal bearing solvent sludge,H3,0.3,-,DE,,R4,Austria,2017
+34,A1170,,16 06 05,Li-batteries,"H11,H12,H13",31.4,-,DE,,R4,Austria,2017
+35,A4100,Y23,10 02 07,steelmill dust,"H11,H12,H13",92598.8,-,DE,,R4,Austria,2017
+36,A4140,,16 05 07,chemicals,"H6.1,H11,H12",3.24,-,DE,,R4,Austria,2017
+37,A2030,Y22,16 08 07,spent catalysts,"H11,H12",83.3,-,DE,,R4,Austria,2017
+38,,Y18,10 08 08,salt slag ,H4.3,193.5,-,DE,,R4,Austria,2017
+39,A1050,Y17,11 01 09,electroplating sludge,"H11,H12",2419.0,-,DE,,R4,Austria,2017
+40,A4100,Y23,10 10 09,filter dust,"H11,H12",47.0,-,DE,,R4,Austria,2017
+41,A4130,Y12,15 01 10,paints,H3,26.9,-,DE,,R4,Austria,2017
+42,A1010,Y29,18 01 10,amalgam,"H11,H12,H13",1.3,-,DE,,R4,Austria,2017
+43,A1190,Y11,17 04 10,tar containing cable,"H11,H13",77.2,-,DE,,R4,Austria,2017
+44,A4100,,10 09 10,filter dust,H13,75.8,-,DE,,R4,Austria,2017
+45,A4060,Y31,11 01 11,rinsing solution,"H11,H12,H13",9.4,-,DE,,R4,Austria,2017
+46,A4130,Y36,15 01 11,asbestos containing gas cylinders,"H3,H11",187.0,-,DE,,R4,Austria,2017
+47,A2050,Y36,16 02 12,WEEE,H11,34.9,-,DE,,R4,Austria,2017
+48,A4100,Y23,10 02 13,filter cake,"H11,H12",394.1,-,DE,,R4,Austria,2017
+49,A1180,"Y23,Y31",16 02 13,WEEEs,H13,1367.1,-,DE,,R4,Austria,2017
+50,,Y17,12 01 14,grinding sludge,"H12,H13",117.4,-,DE,,R4,Austria,2017
+51,A1030,Y29,20 01 21,fluorescent tubes,H13,136.5,-,DE,,R4,Austria,2017
+52,A3120,Y18,19 10 03,shredding sand,H13,2768.8,-,DE,,R5,Austria,2017
+53,A1060,"Y17,Y23,Y34",11 01 05,etching solutions,"H8,H12,H13",1617.2,-,DE,,R5,Austria,2017
+54,A4140,"Y29,Y34",16 05 06,test tubes,"H8,H11,H12,H13",23.5,-,DE,,R5,Austria,2017
+55,A3070,Y39,07 01 07,reaction residues,H6.1,111.7,-,DE,,R5,Austria,2017
+56,A4090,"Y17,Y35",11 01 07,bases,H8,1035.6,-,DE,,R5,Austria,2017
+57,A4010,Y2,07 05 07,reaction residues,"H11,H12,H13",68.2,-,DE,,R5,Austria,2017
+58,,Y41,07 01 08,reaction residues,"H11,H12,H13",158.5,-,DE,,R5,Austria,2017
+59,,Y18,10 03 08,salt slag ,H4.3,22919.3,-,DE,,R5,Austria,2017
+60,"A4100,Y47",,19 01 13,filter dust,"H11,H12,H13",5536.4,-,DE,,R5,Austria,2017
+61,A1180,Y31,16 02 13,WEEEs,H13,1217.3,-,DE,,R5,Austria,2017
+62,A2010,"Y18,Y31",16 02 15,monitor glass,H11,5382.4,-,DE,,R5,Austria,2017
+63,A4100,,10 01 18,fly ash,H13,16.8,-,DE,,R5,Austria,2017
+64,A1030,Y29,20 01 21,fluorescent tubes,H13,159.3,-,DE,,R5,Austria,2017
+65,A4090,Y34,06 01 01,sulfuric acid,H8,521.0,-,DE,,R6,Austria,2017
+66,A2030,,16 08 02,spent ctalysts,H11,120.0,-,DE,,R8,Austria,2017
+67,A3020,Y8,13 03 07,non-halogenated insulating oils,"H12,H13",307.0,-,DE,,R9,Austria,2017
+68,A3020,Y8,13 03 10,other insulating oil,"H12,H13",140.0,-,DE,,R9,Austria,2017
+69,A3020,Y8,13 02 05,waste oil,"H12,H13",19694.0,-,DE,,R9,Austria,2017
+70,A1170,"Y23,Y35",20 01 34,alkaline batteries,"H12,H13",144.0,-,DE,,R12,Austria,2017
+71,A1170,Y26,20 01 33,mixed batteries,"H12,H13",110.5,-,DE,,R12,Austria,2017
+72,,"Y5,Y11",17 02 04,railway sleepers,"H11,H13",10089.0,-,DE,,R12,Austria,2017
+73,,Y11,17 03 03,tar impregnated cork,"H11,H13",12.1,-,DE,,R12,Austria,2017
+74,,Y18,19 02 05,sludge from C/P-treatment,"H11,H12,H13",2712.0,-,DE,,R12,Austria,2017
+75,Y46,,15 01 06,packaging from households,,2415.2,-,DE,,R12,Austria,2017
+76,,Y6,16 01 13,break fluid,"H12,H13",209.9,-,DE,,R12,Austria,2017
+77,A1170,Y29,16 06 03,mercury batteries,"H11,H12,H13",0.7,-,DE,,R13,Austria,2017
+78,A1010,Y29,18 01 10,amalgam,"H11,H12,H13",0.1,-,DE,,R13,Austria,2017
+79,A1030,Y29,06 04 04,mercury waste,"H12,H13",1.2,-,DE,D9,,Austria,2017
+80,A4130,,16 05 04,gases in pressure cylinder,H6.1,0.5,-,DE,D10,,Austria,2017
+81,A4020,Y1,18 01 03,clinical waste,H6.2,274.4,-,DE,D10,,Austria,2017
+82,A3050,Y13,08 04 09,sealings,H3,287.2,-,DE,D10,,Austria,2017
+83,A4070,Y12,08 01 13,waste paint,H3,50.0,-,DE,D10,,Austria,2017
+84,A2030,Y18,16 08 07,spent catalysts,H11,25.3,-,DE,D10,,Austria,2017
+85,A4010,Y2,07 05 01,liquid waste,H12,671.8,-,DE,D10,,Austria,2017
+86,A4010,Y2,07 05 04,solvents,H3,312.0,-,DE,D10,,Austria,2017
+87,A4010,Y3,18 01 09,waste medicines,H13,31.6,-,DE,D10,,Austria,2017
+88,,Y18,19 12 11,pre-mixed wastes,"H11,H12,H13",5083.0,-,DE,D10,,Austria,2017
+89,,Y18,19 02 04,pre-mixed wastes,"H11,H12,H13",332.4,-,DE,D10,,Austria,2017
+90,A3150,Y41,07 01 03,halogenated solvents,"H6.1,H11,H12",89.6,-,DE,D10,,Austria,2017
+91,A3140,Y2,14 06 03,solvents,H3,3225.7,-,DE,D10,,Austria,2017
+92,,Y17,11 03 02,hardening salts,"H12,H13",34.6,-,DE,D12,,Austria,2017
+93,"A4100,Y47",,19 01 07,fly ash,"H12,H13",2399.4,-,DE,D12,,Austria,2017
+94,,,10 08 10,slag,H4.3,31.5,-,DE,D12,,Austria,2017
+95,"A4100,Y47",,19 01 13,filter dust,"H11,H12,H13",2163.3,-,DE,D12,,Austria,2017
+96,A1030,Y29,20 01 21,fluorescent tubes,H13,79.9,-,DE,D12,,Austria,2017
+97,,Y18,19 02 05,sludge from C/P-treatment,"H11,H12,H13",634.5,-,DE,D13,,Austria,2017
+98,A4140,Y18,16 05 06,chemicals,"H3,H8,H11,H12",147.0,-,DE,D15,,Austria,2017
+99,A3140,"Y2,Y42",07 05 04,solvents,"H3,H11",288.0,"DE,NL",BE,,R2,Austria,2017
+100,A3140,Y42,14 06 05,solvent sludge,H3,6.6,DE,BE,,R2,Austria,2017
+101,A3150,Y41,14 06 04,solvent sludge,"H3,H6.1,H12",10.8,DE,BE,,R2,Austria,2017
+102,A1100,"Y23,Y31",10 06 03,filter dust,"H6.1,H11,H12,H13",1585.0,DE,BE,,R4,Austria,2017
+103,A1130,"Y17,Y22",11 01 07,etching solutions,"H6.1,H12,H13",15.0,DE,BE,,R4,Austria,2017
+104,A1050,Y17,11 01 09,electroplating sludge,"H11,H12,H13",875.0,"DE,NL",BE,,R4,Austria,2017
+105,Y47,,19 12 12,metal bearing slag,,1343.0,DE,BE,,R12,Austria,2017
+106,Y46,,19 12 12,household waste,,786.5,-,CH,D10,,Austria,2017
+107,A4020,Y1,18 01 01,medical waste,"H6.2,H12",17.6,-,CH,,R1,Austria,2017
+108,Y46,,20 03 01,household waste,,54668.8,-,CH,,R1,Austria,2017
+109,Y46,,20 03 07,kitchen waste,,92.7,-,CH,,R1,Austria,2017
+110,Y46,,19 12 12,household waste,,9718.5,-,CH,,R1,Austria,2017
+111,,Y8,15 02 02,waste from craft shops,"H12,H13",1151.4,-,CH,,R1,Austria,2017
+112,A3120,Y18,19 10 03,FLUFF,H13,1510.3,-,CH,,R1,Austria,2017
+113,A3140,Y2,07 05 05,solvents,"H3,H12",66.6,-,CH,,R2,Austria,2017
+114,A1180,,16 02 13,WEEEs,"H12,H13",1.8,-,CH,,R4,Austria,2017
+115,A3140,Y42,07 01 01,solvents,"H3,H12",1133.3,-,CH,,R12,Austria,2017
+116,A3140,Y42,07 01 04,solvents,"H3,H12",1084.1,-,CH,,R12,Austria,2017
+117,,Y18,19 02 05,sludge from C/P-treatment,"H11,H12",834.8,"SK,PL",FI,,R4,Austria,2017
+118,,Y18,19 02 05,sludge from C/P-treatment,"H11,H12",660.1,"DE,NL,BE",FI,,R4,Austria,2017
+119,,Y18,19 02 05,sludge from C/P-treatment,"H11,H12",41.2,DE,FI,,R4,Austria,2017
+120,A1170,,16 06 05,Li-batteries,"H11,H12,H13",118.0,DE,FI,,R4,Austria,2017
+121,A1170,Y23,16 06 04,zinc batteries,"H12,H13",360.7,DE,FR,,R4,Austria,2017
+122,A1170,"Y26,Y35",16 06 02,NiCd-batteries,"H8,H11,H12,H13",222.2,DE,FR,,R4,Austria,2017
+123,,Y18,10 03 08,salt slag ,H4.3,17695.5,DE,FR,,R5,Austria,2017
+124,A4140,"Y24,Y45",16 05 04,toxic gases,"H6.1,H12",1.3,DE,FR,D10,,Austria,2017
+125,,Y18,19 12 11,pre-mixed wastes,"H12,H13",192.0,-,IT,,R4,Austria,2017
+126,A1180,Y45,20 01 23,CFC-containing equipment,"H12,H13",7.92,-,IT,,R4,Austria,2017
+127,A1060,"Y17,Y23,Y34",11 01 05,etching solutions,"H8,H12,H13",54.82,-,IT,,R4,Austria,2017
+128,A1180,Y31,20 01 35,monitors,H11,72.8,-,IT,,R5,Austria,2017
+129,A3020,Y8,13 02 05,waste oil,"H12,H13",600.1,-,IT,,R9,Austria,2017
+130,A1060,"Y17,Y23,Y34",11 01 05,etching solutions,"H8,H12,H13",493.0,-,IT,,R13,Austria,2017
+131,A3140,Y42,19 02 08,pre-mixed solvents,"H3,H12",336.0,-,HU,,R1,Austria,2017
+132,Y46,,15 01 06,packaging from households,,1205.2,-,HU,,R12,Austria,2017
+133,A2030,Y2,16 08 07,spent catalysts,"H3,H8,H11",15.8,"DE,BE",GB,,R8,Austria,2017
+134,A3020,Y8,13 02 05,waste oil,"H12,H13",268.4,SI,HR,,R1,Austria,2017
+135,A1160,"Y31,Y34",16 06 01,lead acid batteries,"H8,H11,H12",25.6,SI,HR,,R4,Austria,2017
+136,Y46,,15 01 06,packaging from households,,1886.6,-,SI,,R12,Austria,2017
+137,A1160,"Y31,Y34",16 06 01,lead acid batteries,"H8,H11,H12",2761.8,-,SI,,R4,Austria,2017
+138,A3020,Y8,13 02 05,waste oil,"H12,H13",77.4,-,SK,,R1,Austria,2017
+139,A1160,"Y31,Y34",16 06 01,lead acid batteries,"H8,H11,H12",184.0,-,CZ,,R4,Austria,2017
+140,,Y18,06 03 13,MO sludge,"H12,H13",15.2,-,CZ,,R4,Austria,2017
+141,A3020,Y8,13 02 05,waste oil,"H12,H13",629.9,CZ,PL,,R9,Austria,2017
+142,A4100,"Y23,Y31",10 02  07,steelmill dust,"H11,H12",21773.2,CZ,PL,,R4,Austria,2017
+143,A4100,"Y23,Y31",10 02 13,furnace gas slime,"H11,H12",1041.6,CZ,PL,,R4,Austria,2017
+144,,Y11,17 05 03,contaminated soil,"H12,H13",9541.1,DE,NL,,R5,Austria,2017
+145,A1100,"Y23,Y31",10 06 03,filter dust,"H6.1,H11,H12",403.8,DE,NL,,R4,Austria,2017
+146,Y46,,19 12 03,scrap from MSW incineration,,120.0,DE,NL,,R4,Austria,2017
+147,,Y11,17 02 04,impregnated wood,"H11,H12",5955.0,DE,NL,,R1,Austria,2017
+148,A3140,"Y6,Y42",07 05 04,pharmaceutical waste,H3,276.2,DE,NL,,R2,Austria,2017
+149,A1050,Y17,11 01 09,electroplating sludge,"H11,H12,H13",91.9,DE,NL,,R4,Austria,2017
+150,,Y18,06 03 13,MO sludge,H11,167.9,DE,NL,,R4,Austria,2017
+151,A1160,"Y31,Y34",16 06 01,lead acid batteries,"H8,H11,H12",46.3,"SI,HR,RS",BG,,R4,Austria,2017

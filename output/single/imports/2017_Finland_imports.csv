@@ -1,0 +1,34 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_origin,annex_4_a_code,annex_4_b_code,country,year
+0,A3020,Y8,"13 02 05*, 13 02 06*, 13 02 08*; 13 02 05*, 13 02 06*, 13 03 08*",Waste oil,"H11,H12",16200.833,,GB,,R9,Finland,2017
+1,A3020,Y8,"13 01 09*, 13 01 10*, 13 01 11*, 13 01 12*, 13 01 13*, 13 02 04*, 13 02 05*, 13 02 06*, 13 02 07*, 13 02 08*, 13 03 01*, 13 03 06*, 13 03 07*, 13 03 08*, 13 03 09*, 13 03 10*, 13 08 99*",Waste oil,"H11,H12",341.71,EE,LV,,R9,Finland,2017
+2,A3020,Y8,"13 02 05*, 13 02 06*, 13 02 08*",Waste oil,H12,7455.912,,NL,,R9,Finland,2017
+3,A3020,Y8,13 02 08*,Waste oil,H12,950.35,,SE,,R9,Finland,2017
+4,A3020,Y8,13 02 05*,Waste oil,H3,953.91,,DE,,R9,Finland,2017
+5,A1070,Y18,11 02 02*,Leaching residues from zinc processing,H11,5.2,,SE,D9,,Finland,2017
+6,A1180,"Y22,Y31,Y45","16 02 11*, 20 01 23*",Refrigerating devices,H12,238.58,,EE,,R4,Finland,2017
+7,A1170,Y26,"16 06 02*, 16 06 05",Battery waste,H12,144.6,,SE,,R4,Finland,2017
+8,A1170,Y26,"20 01 33*, 20 01 34",Battery waste,"H12,H8",24.846,,EE,,R4,Finland,2017
+9,A3170,Y41,07 07 07*,Halogenized organic compounds,"H12,H6.1",1303.295,,AU,D10,,Finland,2017
+10,,,20 03 01,"Domestic waste, Y46",H_,631.94,,SE,D1,,Finland,2017
+11,,,20 01 39,"Unclassified, plastic packaging waste, Y46",H_,1502.04,SE,NO,,"R12,R3",Finland,2017
+12,,,19 01 07*; 19 01 13*,"Residues arising from the incineration of household wastes, Y47",H12,10772.4,,EE,D9,,Finland,2017
+13,,,19 02 05*,Cobalt-containing residues,"H11,H12",41.242,DE,AT,,R4,Finland,2017
+14,,,19 02 05*,Cobalt-containing residues,"H11,H12",666.322,"BE,DE,NL",AT,,R4,Finland,2017
+15,,,19 02 05*,Cobalt-containing residues,"H11,H12",937.583,"PL,SK",AT,,R4,Finland,2017
+16,A1170,,16 06 05,Li-ion or lithium accumulators,H12,116.22,DE,AT,,R4,Finland,2017
+17,A1170,,16 06 05,Li-ion or lithium accumulators,H12,46.244,NL,DE,,R4,Finland,2017
+18,,,19 12 10,RDF Refuse derived fuel,H13,267.78,,EE,,R1,Finland,2017
+19,,,19 10 02,NFR non-ferrous metal fraction from shredder operation,H_,4562.96,,SE,,R4,Finland,2017
+20,,,19 12 10,RDF Refuse derived fuel,H_,4892.26,DE,GB,,R1,Finland,2017
+21,,,"03 01 01, 03 01 05",Treated wood wastes,H_,11481.478,,RU,,R1,Finland,2017
+22,,,19 12 07,Treated wood wastes,H_,2217.47,,DK,,R1,Finland,2017
+23,,,19 12 07,Treated wood wastes,H_,3332.268,,NO,,R1,Finland,2017
+24,,Y18,19 12 07,Treated wood wastes,H_,2293.74,,NO,,R1,Finland,2017
+25,,,19 12 07,Treated wood wastes,H_,21020.83,DE,GB,,R1,Finland,2017
+26,,,"16 06 05, 20 01 34","Unclassified, battery waste",H_,40.967,"EE,LT,LV",PL,,R4,Finland,2017
+27,,,19 08 05,Waste water treatment sludge,H_,2206.62,,SE,,R3,Finland,2017
+28,,,19 01 14,Fly and bottom ash from energy production,H_,28.0,"DE,LV",BE,,R11,Finland,2017
+29,B1210,,10 02 02,Granulated slag arising from the manufacture of iron and steel,H_,10711.238,,RU,,"R12,R4",Finland,2017
+30,,,"20 01 38, 20 03 07","Unclassified, mixed wood and bulky waste from households",H_,59.5,SE,DK,D1,"R12,R1,R3,R4",Finland,2017
+31,,,15 01 02,"Unclassified, separately collected municipal used plastic packaging",H_,115.9,,SE,,R3,Finland,2017
+32,,,17 05 04,"Unclassified, soil and stones",H_,1342.536,,SE,D9,,Finland,2017

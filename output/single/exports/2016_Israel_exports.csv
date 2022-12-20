@@ -1,0 +1,44 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A1020,Y17,,MLCC Capacitor scrap containing precious metals,H13,9.85,,GB,,R4,Israel,2016
+1,A1020,Y18,,Wipes tissues and jars containing precious metals and dried paste,H13,19.2,,GB,,R4,Israel,2016
+2,A1020,Y18,,Waste containing fine metals,H13,13.6,,GB,,R4,Israel,2016
+3,A1020,Y31,,Waste containing fine metals,H13,4.48,,GB,,R4,Israel,2016
+4,A1020,Y31,,Waste containing fine metals,H13,3.28,,GB,,R4,Israel,2016
+5,A3020,Y8,,mineral oil after oil water seperatios,H12,116.24,,FR,,"R12,R1",Israel,2016
+6,A4060,Y9,,brown oil,H12,73.0,,FR,,"R12,R1",Israel,2016
+7,A3150,"Y41,Y42,Y6",,DISTILATION RESIDUES,"H3,H6.1,H8",62.26,,FR,D10,,Israel,2016
+8,,Y10,,PCB TRANSFORMERS,,35.2,,FR,D10,,Israel,2016
+9,A4030,"Y4,Y41",,GALIGAN,H3,301.87,"IT,ES,GB,NL,DE,BE,LT",SE,,R1,Israel,2016
+10,A3150,"Y41,Y42,Y6",,DISTILLATION RESIDUES,"H3,H6.1,H8",175.8,,FR,D10,,Israel,2016
+11,A3150,"Y41,Y6",,TETRALYN,"H3,H6.1",18.2,IT,GB,D10,,Israel,2016
+12,A4030,"Y4,Y5",,Organic Sludge,H6.1,526.28,ES,PT,,"R12,R1",Israel,2016
+13,A3150,Y41,,Halogenated solvents,"H3,H6.1",151.9,"ES,NL,GB",DE,D10,,Israel,2016
+14,A4140,Y18,,off-specification/outdated chemicals,H4.3,2.972,"ES,NL,GB",DE,D10,,Israel,2016
+15,A2030‎,Y18‎,,Nickel Catalyst,H12‎,11.5,"IT,ES,GB,NL",DE,,R4,Israel,2016
+16,A4100,Y23,,"Solid waste from gas treatment,",H12,3304.087,"ES,NL,GB",DE,,R4,Israel,2016
+17,A1170,,,Lithium ion batteries,"H8,H12",46.635,"ES,NL,GB,DE,BE",SE,,"R12,R4",Israel,2016
+18,,Y1,,cytotoxic waste,H6.1,86.432,"ES,NL,GB,IT",DE,D10,,Israel,2016
+19,A4160,Y18,,Activated Carbon,H4.2,319.26,"ES,IT",PT,,"R12,R1",Israel,2016
+20,A4010,"Y18,Y2",,Organic Solids from Pharmaceuticals,"H4.1,H6.1,H11",167.99,"ES,IT",PT,,"R12,R1",Israel,2016
+21,A4070,Y12,,Paint Contaminated Wipes,H4.1,224.298,"ES,IT",PT,,"R12,R1",Israel,2016
+22,,Y18,,"Organic Solids, Flammable","H4.1,H6.1,H11",408.845,"ES,IT",PT,,"R12,R1",Israel,2016
+23,A4130,"Y2,Y6,Y12",,"Contaminated Packages, Shredded","H4.1,H8,H11,H12",80.576,"ES,IT",PT,,"R12,R1",Israel,2016
+24,A4130,"Y2,Y6,Y12",,packaging containing residues of or contaminated by dangerous substances,"H4.1,H8",197.285,IT,ES,,"R3,R4",Israel,2016
+25,A4140‎,Y18‎,,laboratory chemicals consisting of or containing dangerous substances including mixtures of laboratory chemicals; discarded inorganic chemicals consisting of or containing dangerous substances; discarded organic chemicals consisting of or containing dangerous substances,H4.3,2.067,"IT,ES,GB,NL",DE,D10,,Israel,2016
+26,,Y1‎,,cytotoxic waste,H6.1,16.155,"IT,ES,GB,NL",DE,D10,,Israel,2016
+27,A2030‎,Y18‎,,Nickel Catalyst,H12‎,11.5,"IT,ES,GB,NL",DE,,R4,Israel,2016
+28,A4070,Y12,,waste paint and varnish containing organic solvents or other dangerous substances,"H3,H4.1,H12",269.598,"IT,ES",PT,,"R12,R1",Israel,2016
+29,A1010,Y17,,Metal sludge,H12,79.3,"IT,ES,GB,BE,NL",DE,,R4,Israel,2016
+30,A1010,Y17,,Metal sludge,H12,158.5,"IT,ES,GB,BE,NL",DE,,R4,Israel,2016
+31,,Y17,,Nickel containing sludge,,30.945,ES,NL,,R4,Israel,2016
+32,,Y17,,Tungsten containing sludge,,34.094,ES,NL,,R4,Israel,2016
+33,,Y17,,Nickel containing sludge,,76.06,ES,NL,,R4,Israel,2016
+34,,Y17,,Tungsten containing sludge,,128.965,ES,NL,,R4,Israel,2016
+35,,Y23,,Dust from dedusting unit,,1613.0,,ES,,R4,Israel,2016
+36,A1030,Y4,,"Salt Mixture: 
+M- and E ",,3650.0,"ES,GB,NL",DE,,R5,Israel,2016
+37,A2030,Y17,,Spent Catalyst,H12,94.465,"IT,ES,GB,BE,NL",DE,,R4,Israel,2016
+38,A3140,"Y6,Y42",,solvent with paint/oil,H3,244.0,IT,ES,,R1,Israel,2016
+39,A3020,Y8,,oily sludge,H12,2216.21,IT,ES,,"R12,R1",Israel,2016
+40,,Y34,,benzoic acids,H8,205.0,,FR,,R1,Israel,2016
+41,A1170,Y18,,lithium batteries,"H4.3,H6.1,H8,H12",25.0,"IT,ES,GB,NL,DE,BE",DK,,R4,Israel,2016

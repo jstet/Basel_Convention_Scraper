@@ -1,0 +1,43 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A1020,Y31,06 04 05 *,wastes containing other heavy metals,H6.1,2.792,SK,PL,,R4,Hungary,2020
+1,A3160,Y18,07 01 07 *,halogenated still bottoms and reaction residues,"H3,H6.1,H11,H12",15.74,"AT,DE",FR,D10,,Hungary,2020
+2,A4070,Y12,08 01 11 *,waste paint and varnish containing organic solvents or other hazardous substances,H4.1,2.35,"AT,DE",NL,,R4,Hungary,2020
+3,A4100,Y23,10 02 07 *,solid wastes from gas treatment containing hazardous substances,H13,3800.08,SK,PL,,R4,Hungary,2020
+4,,Y18,10 03 08 *,salt slags from secondary production,,183.7,"SK,CZ",DE,,R5,Hungary,2020
+5,,Y45,10 03 08 *,salt slags from secondary production,,3335.52,"SK,CZ",DE,,R5,Hungary,2020
+6,A1010,Y31,10 04 01 *; 16 03 03 *,slags from primary and secondary production; inorganic wastes containing hazardous substances,H12,0.302,"SI,IT,FR",ES,,R4,Hungary,2020
+7,A1010,Y31,10 04 02 *,dross and skimmings from primary and secondary production,H13,18.6,"SI,IT,FR",ES,,"R13,R4",Hungary,2020
+8,A1020,Y31,10 04 02 *,dross and skimmings from primary and secondary production,H6.1,6.431,SK,PL,,R4,Hungary,2020
+9,A1010,Y31,10 04 02 *,dross and skimmings from primary and secondary production,H12,17.601,"AT,DE,NL,BE",US,,R4,Hungary,2020
+10,A1060,"Y17,Y34",11 01 05 *,pickling acids,H8,635.9,,AT,,R4,Hungary,2020
+11,A1060,"Y17,Y34",11 01 05 *,pickling acids,H8,245.92,SK,CZ,,R4,Hungary,2020
+12,A1050,Y17,11 01 09 *,sludges and filter cakes containing hazardous substances,"H11,H12",65.075,"SK,CZ",DE,,R4,Hungary,2020
+13,,Y17,12 01 04 *,nonferrous metal dust and particles,H12,41.118,,AT,,R4,Hungary,2020
+14,A3020,Y8,13 01 10 *; 13 01 11 *; 13 01 13 *; 13 02 05 *; 13 02 06 *; 13 02 08 *; 13 03 07 *; 13 03 10 *,"mineral based nonchlorinated hydraulic oils; synthetic hydraulic oils; other hydraulic oils; mineralbased nonchlorinated engine, gear and lubricating oils; synthetic engine, gear and lubricating oils; readily biodegradable engine, gear and lubricating oils; other engine, gear and lubricating oils; mineralbased nonchlorinated insulating and heat transmission oils; other insulating and heat transmission oils",,103.2,RO,BG,,R9,Hungary,2020
+15,A4070,,15 01 10 *,packaging containing residues of or contaminated by hazardous substances,H13,0.314,AT,DE,,R4,Hungary,2020
+16,,,16 01 04 *,end-of-life vehicles,H12,65.52,AT,DE,,"R12,R4,R5",Hungary,2020
+17,A1170,,16 01 21 *,hazardous components other than those mentioned in 16 01 07 to 16 01 11 and 16 01 13 and 16 01 14,H4.1,2.4,AT,DE,,R4,Hungary,2020
+18,A2010,Y31,16 02 15 *,hazardous components removed from discarded equipment,H12,1235.34,"AT,CZ",DE,,R5,Hungary,2020
+19,A1160,Y31,16 06 01 *,lead batteries,H8,263.18,,AT,,R4,Hungary,2020
+20,A1160,"Y31,Y34",16 06 01 *,lead batteries,"H8,H11",51.2,,AT,,R4,Hungary,2020
+21,A1160,"Y31,Y34",16 06 01 *,lead batteries,"H8,H12",99.02,,AT,,R4,Hungary,2020
+22,A1160,"Y31,Y34",16 06 01 *,lead batteries,H8,286.6,,AT,,R4,Hungary,2020
+23,A1160,"Y31,Y34",16 06 01 *,lead batteries,"H8,H11",186.174,,AT,,"R4,R6",Hungary,2020
+24,A1160,"Y31,Y34",16 06 01 *,lead batteries,"H8,H11,H12",2344.86,RO,BG,,R4,Hungary,2020
+25,A1160,"Y31,Y34",16 06 01 *,lead batteries,H8,483.726,RO,BG,,"R4,R5,R12",Hungary,2020
+26,A1160,"Y31,Y34",16 06 01 *,lead batteries,H8,285.24,SK,CZ,,R4,Hungary,2020
+27,A1160,"Y31,Y34",16 06 01 *,lead batteries,"H8,H12",189.58,SK,CZ,,R4,Hungary,2020
+28,A1160,Y31,16 06 01 *,lead batteries,H8,121.84,,RO,,R4,Hungary,2020
+29,A1160,"Y31,Y34",16 06 01 *,lead batteries,H8,198.58,,RO,,R4,Hungary,2020
+30,A1160,"Y31,Y34",16 06 01 *,lead batteries,"H8,H12",4433.74,,RO,,R4,Hungary,2020
+31,A1160,"Y31,Y34",16 06 01 *,lead batteries,"H6.1,H8,H11,H12",264.225,,RO,,"R4,R6",Hungary,2020
+32,A1160,"Y31,Y34",16 06 01 *,lead batteries,"H6.1,H8",47.398,,SI,,R4,Hungary,2020
+33,A1160,"Y31,Y34",16 06 01 *,lead batteries,"H6.1,H8,H11,H12",889.949,,SI,,R4,Hungary,2020
+34,A1160,"Y31,Y34",16 06 01 *,lead batteries,"H8,H12",190.46,,SI,,R4,Hungary,2020
+35,A2030,"Y21,Y22,Y26",16 08 02 *,spent catalysts containing hazardous transition metals or hazardous transition metal compounds,H4.2,847.182,SK,CZ,,"R13,R4",Hungary,2020
+36,A2030,Y2,16 08 02 *; 16 08 07 *,spent catalysts containing hazardous transition metals or hazardous transition metal compounds; spent catalysts contaminated with hazardous substances,H4.2,43.291,AT,DE,,R8,Hungary,2020
+37,A2030,,16 08 07 *,spent catalysts contaminated with hazardous substances,"H6.1,H11,H12",39.58,AT,DE,,"R13,R4",Hungary,2020
+38,A2030,,16 08 07 *,spent catalysts contaminated with hazardous substances,"H4.2,H11,H12",61.011,AT,DE,,R4,Hungary,2020
+39,A2030,,16 08 07 *,spent catalysts contaminated with hazardous substances,"H6.1,H11,H12",75.22,"SK,CZ,DE,GB,BE,FR",US,,R4,Hungary,2020
+40,A1030,Y29,17 09 01 *,construction and demolition wastes containing mercury ,H6.1,31.38,"SK,CZ",DE,D12,,Hungary,2020
+41,A1030,Y29,20 01 21 *,fluorescent tubes and other mercurycontaining waste,H13,120.284,,RO,,R5,Hungary,2020

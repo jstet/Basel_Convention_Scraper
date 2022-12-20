@@ -1,0 +1,41 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A1020,Y31,06 04 05*,wastes containing other heavy metals,H6.1,12.722,SK,PL,,R4,Hungary,2018
+1,A4070,Y12,08 01 11*,waste paint and varnish containing organic solvents or other hazardous substances,H4.1,2.4,"AT,DE",NL,,R4,Hungary,2018
+2,A4100,Y23,10 02 07*,solid wastes from gas treatment containing hazardous substances,H13,3453.78,SK,PL,,R4,Hungary,2018
+3,,Y18,10 03 08*,salt slags from secondary production,,788.36,AT,DE,,R5,Hungary,2018
+4,A1010,Y31,"10 04 01*, 16 03 03*",slags from primary and secondary production; inorganic wastes containing hazardous substances,H12,2.271,"SI,IT,FR",ES,,R4,Hungary,2018
+5,A1010,Y31,10 04 02*,dross and skimmings from primary and secondary production,H13,12.657,"AT,DE",NL,,"R13,R4",Hungary,2018
+6,A1010,Y31,10 04 02*,dross and skimmings from primary and secondary production,H12,13.133,"AT,DE,NL",US,,R4,Hungary,2018
+7,A1010,Y31,10 04 02*,dross and skimmings from primary and secondary production,H12,13.688,"AT,DE,NL,BE",US,,R4,Hungary,2018
+8,A1060,"Y17,Y34",11 01 05*,pickling acids,H8,1581.74,,AT,,R4,Hungary,2018
+9,A1050,Y17,11 01 09*,sludges and filter cakes containing hazardous substances,"H11,H12",74.222,AT,DE,,R4,Hungary,2018
+10,,Y17,12 01 14*,machining sludges containing hazardous substances,H12,19.76,,AT,,R4,Hungary,2018
+11,A4070,,15 01 10*,packaging containing residues of or contaminated by hazardous substances,H13,0.3148,AT,DE,,R4,Hungary,2018
+12,A2010,Y31,16 02 15*,hazardous components removed from discarded equipment,H12,906.84,AT,DE,,R5,Hungary,2018
+13,A1010,Y29,16 03 07*,metallic mercury,"H6.1,H8,H11,H12",197.4455,"SI,IT",CH,D9,,Hungary,2018
+14,A1160,Y31,16 06 01*,lead batteries,H8,97.38,,AT,,R4,Hungary,2018
+15,A1160,"Y31,Y34",16 06 01*,lead batteries,H8,732.78,,AT,,R4,Hungary,2018
+16,A1160,"Y31,Y34",16 06 01*,lead batteries,"H8,H12",2111.21,,AT,,R4,Hungary,2018
+17,A1160,"Y31,Y34",16 06 01*,lead batteries,"H8,H11",943.033,,AT,,"R4,R6",Hungary,2018
+18,A1160,"Y31,Y34",16 06 01*,lead batteries,"H8,H11,H12",783.574,RO,BG,,R4,Hungary,2018
+19,A1160,"Y31,Y34",16 06 01*,lead batteries,H8,591.4,SK,CZ,,R4,Hungary,2018
+20,A1160,"Y31,Y34",16 06 01*,lead batteries,"H8,H12",145.82,SK,CZ,,R4,Hungary,2018
+21,A1160,"Y31,Y34",16 06 01*,lead batteries,"H8,H12",68.33,,HR,,R4,Hungary,2018
+22,A1160,,16 06 01*,lead batteries,H8,338.52,,RO,,R4,Hungary,2018
+23,A1160,Y31,16 06 01*,lead batteries,H8,48.96,,RO,,R4,Hungary,2018
+24,A1160,"Y31,Y34",16 06 01*,lead batteries,H8,242.52,,RO,,R4,Hungary,2018
+25,A1160,"Y31,Y34",16 06 01*,lead batteries,"H8,H11,H12",180.138,,RO,,R4,Hungary,2018
+26,A1160,"Y31,Y34",16 06 01*,lead batteries,"H8,H12",3886.91,,RO,,R4,Hungary,2018
+27,A1160,"Y31,Y34",16 06 01*,lead batteries,"H8,H11,H12",349.87,,RO,,"R4,R6",Hungary,2018
+28,A1160,"Y31,Y34",16 06 01*,lead batteries,"H6.1,H8",48.28,,SI,,R4,Hungary,2018
+29,A1160,"Y31,Y34",16 06 01*,lead batteries,"H6.1,H8,H11,H12",686.272,,SI,,R4,Hungary,2018
+30,A1160,"Y31,Y34",16 06 01*,lead batteries,"H8,H11,H12",2015.218,,SI,,R4,Hungary,2018
+31,A1160,"Y31,Y34",16 06 01*,lead batteries,"H8,H12",406.13,,SI,,R4,Hungary,2018
+32,A2030,"Y21,Y22,Y26",16 08 02*,spent catalysts containing hazardous transition metals or hazardous transition metal compounds,H4.2,620.94,SK,CZ,,R4,Hungary,2018
+33,A2030,Y2,"16 08 02*, 16 08 07*",spent catalysts containing hazardous transition metals or hazardous transition metal compounds; spent catalysts contaminated with hazardous substances,H4.2,41.773,AT,DE,,R8,Hungary,2018
+34,A2030,,16 08 07*,spent catalysts contaminated with hazardous substances,"H4.2,H11,H12",42.642,AT,DE,,R4,Hungary,2018
+35,A2030,,16 08 07*,spent catalysts contaminated with hazardous substances,"H11,H12",18.3,"AT,DE",US,,R4,Hungary,2018
+36,A4070,Y18,19 02 05*,sludges from physico/chemical treatment containing hazardous substances,,59.24,,AT,D10,,Hungary,2018
+37,A1030,Y29,20 01 21*,fluorescent tubes and other mercury-containing waste,H13,87.498,,RO,,"R12,R4",Hungary,2018
+38,A1030,Y29,20 01 21*,fluorescent tubes and other mercury-containing waste,H13,45.718,,RO,,R5,Hungary,2018
+39,A1180,,20 01 21*,fluorescent tubes and other mercury-containing waste,H13,4.58,,SK,,R12,Hungary,2018

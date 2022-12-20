@@ -1,0 +1,39 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A1180,,"16 02 14*,20 01 36*",Electrical and electronic equipment and mixed metals,,13.82,,NL,,"R4,R5",Iceland,2020
+1,A1180,,16 02 14*,Small electrical appliances,,639.07,DK,NL,,"R13,R4",Iceland,2020
+2,A1180,"Y19,Y22",20 01 35*,Plasma and LCD televisions and monitors containing CRT glass,,68.86,"DK,NL,DE,DK",SE,,R12,Iceland,2020
+3,A1180,"Y31,Y22,Y29",20 01 35*,TV sets and monitors,H11,10.39,"DK,NL",DE,,R5,Iceland,2020
+4,A4070,Y12,20 01 27*,Paint- and print-related materials,H3,127.51,"DK,GB,NL,DE,SE",DK,D10,,Iceland,2020
+5,A3150,,20 01 13*,"Solvents, may contain halogens",H3,93.8,"DK,GB,SE,DE",DK,D10,,Iceland,2020
+6,A1160,"Y31,Y34",16 06 01*,"Scrap batteries, Wet",H8,751.84,"NL,DE,DK,DK",SE,,R4,Iceland,2020
+7,,,10 03 04*,Aluminium skimmings,H4.3,249.96,NL,GB,,R4,Iceland,2020
+8,,Y32,10 03 21*,Carbon dust,"H11,H12",201.15,NL,GB,,"R4,R5",Iceland,2020
+9,A1180,,16 02 14*,Small electrical appliances,,90.0,,NL,,"R13,R4",Iceland,2020
+10,A1180,,"16 02 13*,20 01 35*",Small electrical appliances,H12,441.66,"DK,GB,NL,DE,DK",SE,D10,"R12,R1,R3,R4,R5",Iceland,2020
+11,,,20 03 01,Mixed municipal waste,H3,3078.0,GB,NL,,R1,Iceland,2020
+12,A1160,Y31,16 06 01*,"Scrap batteries, Wet","H8,H12",117.34,,GB,,R4,Iceland,2020
+13,A1160,"Y31,Y34",16 06 01*,"Scrap batteries, Wet",H8,104.54,,GB,,"R13,R4",Iceland,2020
+14,A4050,Y33,"16 11 01*,16 11 03*","Spent pot lining, spent pot lining insulation",H4.3,2471.4,NL,NO,D5,,Iceland,2020
+15,,Y18,10 03 04*,Aluminium skimmings,H4.3,458.44,NL,GB,,R4,Iceland,2020
+16,A3150,Y45,20 01 23*,"Used refridgerators, may include C.F.C",H12,329.38,"DK,NL,DE,SE",DK,,R12,Iceland,2020
+17,,,10 03 04*,Aluminium pot pads,"H11,H12",1347.74,NL,GB,,R4,Iceland,2020
+18,A2060,,19 01 13*,Fly-ash containing heavy metals,H13,1298.3,,NO,,R5,Iceland,2020
+19,A1180,Y29,16 02 13*,CRT / LCD tubes and displays,H12,65.94,"NL,DE",SE,,R12,Iceland,2020
+20,,,19 12 10,Combustible waste,H3,12427.0,"NL,DE",DK,,"R13,R1",Iceland,2020
+21,A2030,"Y22,Y23","16 08 02*,07 01 10*","Spent metal oxides/ sulfides (Cu/Zn/Al/Mg), catalysts/ absorbents",H12,14.37,"NL,DK,DE,SE",DK,D10,,Iceland,2020
+22,A1180,"Y31,Y22,Y29",20 01 35*,TV sets and monitors,H11,246.43,"DK,NL",DE,,R5,Iceland,2020
+23,A1160,"Y31,Y34",16 06 01*,Batteries wet filled with sulphuric acid,H8,367.6,DK,NL,,"R13,R4",Iceland,2020
+24,A1170,"Y35,Y31,Y34",20 01 33*,Mixed household batteries,"H4.1,H8",109.34,DK,NL,,"R13,R4",Iceland,2020
+25,,,10 09 11*,Slag from induction furnaces (Iron Oxide),H11,502.23,NL,GB,,"R4,R5",Iceland,2020
+26,A4100,,"10 03 19*,10 03 20,10 03 21*,10 03 22,10 03 23*",Flue-gas dust,,87.0,,DK,D10,,Iceland,2020
+27,,,19 12 10,Combustible waste,H3,1161.0,,NO,,R1,Iceland,2020
+28,,Y32,10 03 21*,Carbon dust,"H11,H12",1625.91,NL,GB,,"R4,R5",Iceland,2020
+29,,,10 03 04*,Aluminum skim and dross,H4.3,1882.94,NL,GB,,R4,Iceland,2020
+30,A1170,"Y23,Y26,Y31",20 01 33*,"Batteries, dry, containing potassium hydroxide solid",H8,141.08,"DK,GB,NL,BE",FR,,R4,Iceland,2020
+31,,"Y41,Y32","14 06 02*,14 06 04*,10 03 23*,15 02 02*",Organic waste containing halogens,"H6.1,H12",23.67,"DK,NL,DE,SE",DK,D10,,Iceland,2020
+32,A4090,Y35,"16 03 05*,16 05 08*",Formaldehyde solution and precipitate,H8,30.05,"DK,NL,DE,SE",DK,D10,,Iceland,2020
+33,A4050,Y33,"16 11 01 *,16 11 03*","Spent pot lining, spent pot lining insulation",H4.3,3720.65,NL,NO,D5,,Iceland,2020
+34,A3150,"Y41,Y45","14 06 01*,16 05 04*",Refrigerant and fire extinguisher gases n.o.s,H12,3.19,"DK,NL,DE,SE",DK,D10,,Iceland,2020
+35,A1010,,10 03 04*,Aluminium re-melting by-products,H4.3,91.85,,GB,,R4,Iceland,2020
+36,,,10 03 04*,Aluminium pot pads,"H11,H12",613.23,NL,GB,,R4,Iceland,2020
+37,,Y18,10 03 08*,Aluminium smelting by-products,H4.3,3055.89,,DE,,R5,Iceland,2020

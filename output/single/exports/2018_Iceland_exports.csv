@@ -1,0 +1,22 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A3150,,20 01 23*,"Used refrigerators, may containin CFC",H12,65.44,"GB,NL",DK,,"R12,R9",Iceland,2018
+1,A1170,"Y23,Y26,Y31",20 01 33*,"Batteries, dry, containing potassium hydroxide solid",H8,270.6,"GB,NL,BE",FR,,R4,Iceland,2018
+2,A1160,"Y31,Y34",16 06 01*,Batteries wet filled with sulphuric acid,"H8,H12",372.72,,GB,,"R13,R4",Iceland,2018
+3,,,"16 02 14*,20 01 36*",Electrical and electronic equipment and mixed metals,H12,8.28,,NL,,"R4,R5",Iceland,2018
+4,,"Y8,Y18",15 02 02*,"PPE, absorbents, filter materials","H4.1,H12",17.5,"NL,BE,FR",ES,,"R13,R3",Iceland,2018
+5,A1180,Y31,16 02 13*,Discarded TV sets and monitors,H12,120.5,"DK,NL",DE,,R5,Iceland,2018
+6,A3150,,"20 01 23*,14 06 01*","Used refridgerators, may include C.F.C",H12,504.71,"DK,NL,DE",DK,D10,"R12,R9,R3,R4",Iceland,2018
+7,,Y32,10 03 21*,MSDS 1340 Carbon Dust,"H11,H12",2196.51,NL,GB,,"R4,R5",Iceland,2018
+8,,,10 03 04*,MSDS 471 Aluminum Skim and Dross,H4.3,1946.4,NL,GB,,R4,Iceland,2018
+9,,,16 02 14*,Small electronic equipment ,H12,71.0,DK,NL,,"R13,R4",Iceland,2018
+10,A3150,,14 06 02*,Tetrachloroethylene waste,H6.1,5.98,"DK,NL",DE,D10,,Iceland,2018
+11,,,12 01 16*,Sandblasted paint residue,H11,13.44,"DK,NL",DE,D10,,Iceland,2018
+12,A3020,Y9,13 02 08*,Processed waste oil,H3,13.25,,DE,,R9,Iceland,2018
+13,A1160,,16 06 01*,"Lead acid batteries, car batteries","H8,H12",351.55,,GB,,R4,Iceland,2018
+14,A1170,"Y26,Y29","20 01 33*,16 06 02*,16 06 05*","Mercury oxide containing KOH, solid and lithium batteries","H6.1,H8,H10",7.08,"DK,NL",DE,,R12,Iceland,2018
+15,,"Y8,Y9,Y31,Y36",16 01 04*,Fishing vessels,"H3,H4.1,H5.1,H8,H11",1100.0,NL,BE,,"R4,R12",Iceland,2018
+16,,,10 09 11*,Slag from induction furnaces,H11,13.26,NL,GB,,"R4,R5",Iceland,2018
+17,,,10 03 04*,Aluminium pot pads,"H11,H12",81.87,NL,GB,,R4,Iceland,2018
+18,A1180,,20 01 35*,Plasma and LCD televisions and monitors containing CRT glass,H12,229.36,"DK,NL,DE,DK",SE,,R12,Iceland,2018
+19,A1190,,17 04 10*,Metal caples,,28.0,DK,NL,,R4,Iceland,2018
+20,A1160,"Y31,Y34",16 06 01*,Batteries wet filled with sulphuric acid,"H8,H12",254.73,DK,GB,,"R13,R4",Iceland,2018

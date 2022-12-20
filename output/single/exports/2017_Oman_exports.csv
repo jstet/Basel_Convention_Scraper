@@ -1,0 +1,25 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A3060,Y8,,"oil extract solids, scale, mobile sludge waste derived from and associated with the exploration and extraction of oil and gas",H12,1000,"EG,NL",GB,D10,,Oman,2017
+1,,Y23,,"zinc ash , zinc dross","H11,H12",2000,,IN,,R4,Oman,2017
+2,,"Y31,Y34",,"waste lead battery scrap
+","H8,H11",500,,IN,,R4,Oman,2017
+3,A4160,Y18,,"waste activated carbon 
+","H4.1,H6.1,H12",450,"EG,IL,SA,AE",GR,,"R1,R12",Oman,2017
+4,A4060,Y9,,"waste oily sludge
+",H12,12000,"EG,IL,SA,AE",GR,,R12,Oman,2017
+5,A3140,"Y6,Y42",,"Non halogenated solvents (waste)
+","H3,H6.1,H12",300,"EG,IL,IT,SA,AE",GB,D10,,Oman,2017
+6,A4070,Y12,,"Paints
+","H3,H12",600,"BE,EG,IL,IT,SA,AE",NL,,"R1,R12",Oman,2017
+7,A4140,Y14,,"Laboratory waste & various chemicals waste 
+",,1000,"EG,IL,IT,NL,SA,AE",BE,D10,,Oman,2017
+8,A4100,Y18,,"Electric Arc Furnace dust
+",H12,18000,,KR,,R4,Oman,2017
+9,A2030,Y18,,"Spent catalysts & adsorbents
+","H4.1,H4.2,H6.1,H12",2200,"EG,IL,SA,AE",GR,,"R5,R12",Oman,2017
+10,A4070,Y12,,"waste paints with organic solvents 
+","H3,H6.1,H12",800,"EG,IL,SA,AE",GR,,"R1,R12",Oman,2017
+11,A4060,Y9,,"waste contaminated water
+","H6.1,H12",1500,"EG,IL,IT,NL,SA,AE,GB",BE,D10,,Oman,2017
+12,,Y23,,"zinc DUST , zinc dross
+",,1000,,IN,,R4,Oman,2017

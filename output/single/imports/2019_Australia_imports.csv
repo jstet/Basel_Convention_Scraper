@@ -1,0 +1,13 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_origin,annex_4_a_code,annex_4_b_code,country,year
+0,A3020,Y8,J100,Waste oils unfit for their original intended purpose including lubricating and hydraulic oils from the maintenance of plant and equipment,"H3,H11,H12",1000,SB,PG,"D9,D5","R13,R1",Australia,2019
+1,A4020,Y1,R100,Cytotoxic contaminated clinical waste,"H6.1,H11",200,,NZ,D10,,Australia,2019
+2,A1030,Y29,D120,Mercury contaminated sludge,"H6.1,H8",1000,,ID,,R4,Australia,2019
+3,"A1010,A1020,A1030,A1180",Y29,"A1010,A1020,A1030,A1180",Miscellaneous mercury bearing waste including crushed lamps and fluorescent tubes,H6.1,50,,NZ,,"R4,R5",Australia,2019
+4,A3140,Y42,G110,Mixed non-halogenated organic solvents,H3,240,,NZ,,"R1,R13",Australia,2019
+5,A4090,Y34,B100,Waste Acids,"H6.1,H8,H10",100,SB,PG,"D9,D5",,Australia,2019
+6,A4090,Y35,C100,Waste Alkalis,"H6.1,H8,H10",100,SB,PG,"D9,D5",,Australia,2019
+7,A3140,Y42,G110,Non halogenated organic solvents,"H3,H11,H12",250,SB,PG,"D9,D5","R13,R1",Australia,2019
+8,A4060,Y9,J120,Oily water,"H3,H11,H12,H13",300,SB,PG,"D9,D5",,Australia,2019
+9,A3140,Y6,G110,Mixed non halogenated organic solvents,H3,300,,NZ,,"R1,R13",Australia,2019
+10,A4030,Y4,H160,"Mixed pesticide residue (organophosphate, organonitrogen based)",H6.1,300,,NZ,,"R1,R13",Australia,2019
+11,A1170,"Y26,Y31",A1170,"Mixed household batteries including lithium ion, nickel metal hydride","H8,H13",100,,FR,,"R4,R13",Australia,2019

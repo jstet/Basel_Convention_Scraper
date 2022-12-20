@@ -1,0 +1,7 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A4030,Y4,"02 01 08*, 20 01 19*, 15 01 10*, 15 02 02*",Pesticides & solids contaminated with pesticides,"H3,H4.1,H5.1,H6.1,H8,H12",250,"IT,TR",FR,D10,,Egypt,2018
+1,A4140,,16 05 04*,Gases and aerosols containing dangerous substances,"H11,H12",50,"IT,TR",FR,D10,,Egypt,2018
+2,A4030,Y4,"02 01 08*, 20 01 19*, 15 01 10*, 15 02 02*",Pesticides & solids contaminated with pesticides ,"H3,H4.1,H5.1,H6.1,H8,H12",500,"IT,TR",FR,D10,,Egypt,2018
+3,A4030,Y4,"02 01 08*, 20 01 19*, 15 01 10*, 15 02 02*",Pesticides & solids contaminated with pesticides ,"H3,H4.1,H5.1,H6.1,H8,H12",200,"BE,IT,LV,TR,GB",SE,D10,,Egypt,2018
+4,"A1020,A4100",Y23,10 02 07*,"Electric Arc Furnace Dust (FeO, ZnO, Al2O3, PbO)",,150000,,KR,,R4,Egypt,2018
+5,"A1020,A4100",Y23,10 02 07*,"Electric Arc Furnace Dust (FeO, ZnO, Al2O3, PbO)",,10000,"SA,SG",KR,,R4,Egypt,2018

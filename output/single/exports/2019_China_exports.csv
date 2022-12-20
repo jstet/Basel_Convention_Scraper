@@ -1,0 +1,18 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,"A1020,A1080",Y31,AA170,Lead Acid Battery,"8,12",4359.951,-,KR,,R4,China,2019
+1,B1110,"Y20,Y27,Y31,Y45",AD220,Printed Circuit Board,"H6.1,H11,H12,H13",2177.465,-,JP,,R4,China,2019
+2,,"Y20,Y27,Y31,Y45",AD220,Printed Circuit Board,"6.1,11,12,13",582.34,-,KR,,R4,China,2019
+3,A2030,Y18,AA160,Precious Metals and Alloy Wastes in a Dispersible Form,11,41.32,"SG,EG,GR",IT,,R4,China,2019
+4,,,AD220,Recovered Refrigerant,"H11,H12",2.67,-,SG,,R3,China,2019
+5,B1110,Y22,AA160,Crushed Integrated Circuits Powder (Without Ash),H11,99.9188,"LK,EG",BE,,R4,China,2019
+6,A1020,Y22,AA160,Crushed Integrated Circuits Powder (Without Ash),11,64.69,"MY,EG,GR,BE",DE,,R4,China,2019
+7,A1170,Y26,AA180,"Scraps of Ni-Cd Battery, Ni-Mh Battery, Li-ion Battery and Li-ion Polymer Battery",11,57.63,-,JP,,R4,China,2019
+8,A1170,Y18,AA180,"Li-ion, Li-polymer, Ni-MH, Ni-Cd and Waste Primary Battery",11,44.0,-,KR,,R4,China,2019
+9,"A1020,A1080","Y21,Y22,Y23,Y31","HW50,900-049-50",waste printed circuit boards,13,142384.0,-,KR,,R4,China,2019
+10,B1110,Y22,"HW49, 900-045-49",waste circuit boards,H11,13255.0,-,SD,,R4,China,2019
+11,,Y3,"HW49,900-045-49",Rabipur,-,9112.364,-,BE,,R4,China,2019
+12,A2030,Y18,"HW02,276-005-02",spent automotive catalyst,-,9910.6,-,BE,,R4,China,2019
+13,,Y3,"HW02,276-005-02",Rabipur,-,3355.73,-,BE,,R4,China,2019
+14,B1110,"Y21,Y22,Y23,Y31","HW49,900-045-49",Waste printed  circuit boards,H13,1438.52,-,SG,,R4,China,2019
+15,"A1180,A1020","Y22,Y27,Y31,Y45","900-045-49
+HW49",Waste Printed Circuit Board,6.1，11，12，13,12.4,,JP,,R4,China,2019

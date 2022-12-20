@@ -1,0 +1,26 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,B1120,Y34,,Spent motor vehicle catalysts,H11,780.0,,US,,"R4,R8",Mexico,2020
+1,A1170,,,Lithium batteries,,25.0,,US,,R4,Mexico,2020
+2,B1010,,,Waste electronic components,H12,500.0, ,US,,R4,Mexico,2020
+3,A4070,,,Empty plastic and/or metal containers previously contaminated,,4000.0, ,US,D1,,Mexico,2020
+4,,,RP7/08,Tin/Silver Solder Slag,H11,47.4,,US,,R4,Mexico,2020
+5,,,RP7/08,Tin/Lead Solder Slag,H11,110.6,,US,,R4,Mexico,2020
+6,A1050,Y17,RP5/01,"Copper sludge, filter paper, impregnated",H12,80.0,,US,,R4,Mexico,2020
+7,A1050,Y17,,Sludge from electroplating wastewater,H12,6771.0,,US,,R4,Mexico,2020
+8,A1050,Y17,,Sludge from nickel plating baths,H12,120.0,,US,,R4,Mexico,2020
+9,,,RP7/08,Tin / Silver solder paste,H12,15.8,,US,,R4,Mexico,2020
+10,,,RP7/08,Tin / Lead solder paste,H12,47.4,,US,,R4,Mexico,2020
+11,A1010,,,Plastics with Sn and Pb solder residues,H12,116.48,,US,,R4,Mexico,2020
+12,A1080,Y23,,Electric furnace emission control equipment dusts,H11,14400.0,,US,,R4,Mexico,2020
+13,A1180,,,Technological Waste,H12,1200.0,,US,,R4,Mexico,2020
+14,A1180,,,Technological Waste,H12,620.0,,JP,,R4,Mexico,2020
+15,A1010,Y31,,Leaded tin solder waste Sn63/Pb37,H12,233.0,,US,,R4,Mexico,2020
+16,B1010,,,Lead free tin solder waste,H12,700.0,,US,,R4,Mexico,2020
+17,B1010,,,Electronic card scrap with and without components,H12,250.0,,US,,R4,Mexico,2020
+18,A4060,,,"Solids with hydrocarbons, grease and paint",H12,7500.0,,US,D1,,Mexico,2020
+19,A1050,,SO4,Nickel impregnated solids,H12,200.0,,US,,R4,Mexico,2020
+20,A1180,,,Complete or crushed electronic boards,H12,650.0,,BE,,R4,Mexico,2020
+21,A1180,,,Complete or crushed electronic boards,H12,960.0,,US,,R4,Mexico,2020
+22,A1180,,,Electronic Cards (Electronic Scrap),H12,2000.0,,JP,,R4,Mexico,2020
+23,B1110,Y34,,Electronic cards,H12,287.0,,JP,,R4,Mexico,2020
+24,B1010,Y31,RP7/08,Textiles with heavy metal welding slag,H12,116.48,,US,,R4,Mexico,2020

@@ -1,0 +1,123 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A3120,,19 10 04,fluff light fraction,,6547.17,,AT,,"R3,R4",Slovenia,2018
+1,A4020,Y1,18 01 06,"Clinical wastes from medical care in hospitals, medical centres and clinics","H3,H8,H12",30.05,,IT,,R1,Slovenia,2018
+2,A4020,Y1,18 01 08,"Clinical wastes from medical care in hospitals, medical centres and clinics","H6.1,H6.2,H11",18.94,,IT,,R1,Slovenia,2018
+3,A4020,Y1,18 01 03,"Clinical wastes from medical care in hospitals, medical centres and clinics",H6.2,79.92,,HU,,R1,Slovenia,2018
+4,A4020,Y1,18 01 03,"Clinical wastes from medical care in hospitals, medical centres and clinics",H6.2,308.73,,IT,,R1,Slovenia,2018
+5,A3140,"Y2,Y18",19 02 08,Wastes from the production and preparation of pharmaceutical products + Resudues arising from industrial waste disposal operations,"H3,H11,H12",271.68,,AT,D10,,Slovenia,2018
+6,A3150,"Y2,Y41",07 05 03,Wastes from the production and preparation of pharmaceutical products + Halogenated organic solvents,"H3,H8,H11",38.86,AT,DE,,R2,Slovenia,2018
+7,A3150,"Y2,Y41",07 05 03,Wastes from the production and preparation of pharmaceutical products + Halogenated organic solvents,"H3,H8,H11",318.56,AT,DE,,R2,Slovenia,2018
+8,A3140,"Y2,Y42",07 05 04,Wastes from the production and preparation of pharmaceutical products + Organic solvents excluding halogenated solvents,"H3,H6.1,H11",563.86,AT,DE,D10,,Slovenia,2018
+9,A3140,"Y2,Y6",07 05 04,"Wastes from the production and preparation of pharmaceutical products + Wastes from the production, formulation and use of organic solvent","H3,H6.1,H11",219.34,,AT,D10,,Slovenia,2018
+10,A3140,"Y2,Y6",07 05 04,"Wastes from the production and preparation of pharmaceutical products + Wastes from the production, formulation and use of organic solvent","H3,H6.1,H11",752.88,AT,DE,,"R12,R1",Slovenia,2018
+11,A4010,Y3,18 01 09,unused medicine - expired potassium jodide tablets,,24.42,,AT,D10,,Slovenia,2018
+12,A3150,"Y6,Y17",14 06 02,"Wastes from the production, formulation and use of organic solvent + Wastes resulting from surface treatment of metals and plastics","H3,H11,H12",17.48,AT,DE,,R2,Slovenia,2018
+13,A3020,Y8,13 02 05,Waste mineral oils unfit for their originally intended use,"H11,H12",275.14,,HR,,R1,Slovenia,2018
+14,A3020,Y8,13 02 05,Waste mineral oils unfit for their originally intended use,"H11,H12,H13",65.74,,HR,,R1,Slovenia,2018
+15,A3020,Y8,15 02 02,Waste mineral oils unfit for their originally intended use,"H12,H13",84.32,,AT,D10,,Slovenia,2018
+16,,Y8,17 01 06,Waste mineral oils unfit for their originally intended use,"H11,H12,H13",54.24,,AT,D8,,Slovenia,2018
+17,A3020,"Y8,Y18",19 02 07,Waste mineral oils unfit for their originally intended use + Resudues arising from industrial waste disposal operations,"H11,H12,H13",1324.98,,AT,,"R13,R1",Slovenia,2018
+18,A3020,"Y8,Y18",19 02 07,Waste mineral oils unfit for their originally intended use + Resudues arising from industrial waste disposal operations,"H12,H13",889.98,,AT,,"R13,R1",Slovenia,2018
+19,A3020,"Y8,Y18",19 02 07,Waste mineral oils unfit for their originally intended use + Resudues arising from industrial waste disposal operations,"H12,H13",548.72,AT,DE,,R9,Slovenia,2018
+20,,"Y8,Y18",15 02 02,Waste mineral oils unfit for their originally intended use + Resudues arising from industrial waste disposal operations,"H4.1,H11,H12",337.62,,AT,D10,,Slovenia,2018
+21,A4060,"Y8,Y9",13 04 03,"Waste mineral oils unfit for their originally intended use + Waste oils/water, hydrocarbons/water mixtures, emulsions","H11,H12,H13",691.68,,AT,"D15,D10",,Slovenia,2018
+22,A4060,"Y8,Y9",13 04 03,"Waste mineral oils unfit for their originally intended use + Waste oils/water, hydrocarbons/water mixtures, emulsions","H11,H12,H13",45.24,,AT,"D15,D9",,Slovenia,2018
+23,,Y9,19 13 03,"Waste oils/water, hydrocarbons/water mixtures, emulsions","H11,H12",136.08,,AT,D10,,Slovenia,2018
+24,,"Y9,Y18",19 02 04,"Waste oils/water, hydrocarbons/water mixtures, emulsions + Resudues arising from industrial waste disposal operations","H11,H12,H13",98.58,,AT,D9,,Slovenia,2018
+25,A1180,"Y9,Y45",20 01 23,"Waste oils/water, hydrocarbons/water mixtures, emulsions + Organohalogen compounds other than substances referred to this Annex (eg. Y39, Y41, Y42, Y43, Y44)",H13,298.82,,AT,,"R3,R4",Slovenia,2018
+26,A4070,Y12,08 01 11,"Wastes from production, formulation and use of inks,dyes, pigments, paints, lacques, varnish","H4.1,H12",36.16,,HU,,R1,Slovenia,2018
+27,A3140,"Y12,Y18",19 02 04,"Wastes from production, formulation and use of inks,dyes, pigments, paints, lacques, varnish + Resudues arising from industrial waste disposal operations","H3,H12,H13",1656.15,,AT,D10,,Slovenia,2018
+28,,"Y12,Y18",19 02 04,"Wastes from production, formulation and use of inks,dyes, pigments, paints, lacques, varnish + Resudues arising from industrial waste disposal operations","H3,H8,H12",97.6,"AT,CZ",PL,D10,,Slovenia,2018
+29,,"Y12,Y18",19 02 04,"Wastes from production, formulation and use of inks,dyes, pigments, paints, lacques, varnish + Resudues arising from industrial waste disposal operations","H11,H12",877.28,AT,DE,D10,,Slovenia,2018
+30,A3140,"Y12,Y42",07 03 04,"Wastes from production, formulation and use of inks,dyes, pigments, paints, lacques, varnish + Organic solvents excluding halogenated solvents","H3,H12,H13",729.88,,AT,D10,,Slovenia,2018
+31,A3140,"Y12,Y42",07 03 04,"Wastes from production, formulation and use of inks,dyes, pigments, paints, lacques, varnish + Organic solvents excluding halogenated solvents","H3,H8,H12",1277.16,,AT,D10,,Slovenia,2018
+32,A4070,"Y12,Y42",07 03 04,"Wastes from production, formulation and use of inks,dyes, pigments, paints, lacques, varnish + Organic solvents excluding halogenated solvents","H3,H12",150.54,IT,FR,D10,,Slovenia,2018
+33,A4070,"Y12,Y42",07 03 04,"Wastes from production, formulation and use of inks,dyes, pigments, paints, lacques, varnish + Organic solvents excluding halogenated solvents","H3,H12,H12",195.64,AT,DE,D10,,Slovenia,2018
+34,A4070,"Y12,Y42",08 01 11,"Wastes from production, formulation and use of inks,dyes, pigments, paints, lacques, varnish + Organic solvents excluding halogenated solvents","H3,H12,H13",778.42,,AT,D10,,Slovenia,2018
+35,A4130,Y13,16 05 04,"Wastes from production, formulation and use of resins, latex, plasticizers, glues/adhesives",H3,40.25,AT,DE,,"R3,R4",Slovenia,2018
+36,A4140,"Y14,Y31",16 05 07,Waste chemical substances arising from research and development or teaching activities wich are not intended and/or are new and whose effets on man and/or the environment are not known + Lead; lead compounds,"H4.2,H6.1,H8",2.991,AT,DE,D10,,Slovenia,2018
+37,A4140,"Y14,Y34",16 05 07,Waste chemical substances arising from research and development or teaching activities wich are not intended and/or are new and whose effets on man and/or the environment are not known + Acidic solutions or acids in solid form,"H5.1,H6.1,H8",2.229,AT,DE,D10,,Slovenia,2018
+38,A1050,Y17,19 02 05,Wastes resulting from surface treatment of metals and plastics,H11,3.075,AT,DE,,R4,Slovenia,2018
+39,A1050,Y17,19 02 05,Wastes resulting from surface treatment of metals and plastics,"H8,H11",46.64,AT,DE,,R4,Slovenia,2018
+40,A1050,Y17,19 02 05,Wastes resulting from surface treatment of metals and plastics,"H10,H12",349.329,AT,DE,,R4,Slovenia,2018
+41,A1050,Y17,11 01 09,Wastes resulting from surface treatment of metals and plastics,"H11,H12",15.065,AT,DE,,R4,Slovenia,2018
+42,A1050,Y17,19 02 05,Wastes resulting from surface treatment of metals and plastics,"H11,H12",84.295,AT,DE,,R4,Slovenia,2018
+43,A1050,Y17,19 02 05,Wastes resulting from surface treatment of metals and plastics,"H11,H12",4.64,AT,DE,,R4,Slovenia,2018
+44,A1060,Y17,11 01 05,Wastes resulting from surface treatment of metals and plastics,H8,677.3,,AT,,R4,Slovenia,2018
+45,A4100,Y18,19 01 07,Resudues arising from industrial waste disposal operations,H13,74.28,,AT,D9,,Slovenia,2018
+46,A4100,Y18,19 01 07,Resudues arising from industrial waste disposal operations,"H13,H12",918.9,,AT,D9,,Slovenia,2018
+47,A4140,Y18,16 05 07,Resudues arising from industrial waste disposal operations,"H5.1,H6.1,H8",10.88,AT,DE,D12,,Slovenia,2018
+48,,Y18,19 03 04,Resudues arising from industrial waste disposal operations,"H4.1,H11,H12",2072.78,,AT,D10,,Slovenia,2018
+49,,Y18,19 02 09,Resudues arising from industrial waste disposal operations,"H4.1,H11,H12",126.0,,HU,,R1,Slovenia,2018
+50,,Y18,19 02 09,Resudues arising from industrial waste disposal operations,"H4.1,H12",791.66,,AT,D10,,Slovenia,2018
+51,,Y18,19 02 09,Resudues arising from industrial waste disposal operations,"H4.1,H12",251.74,,AT,"D15,D10",,Slovenia,2018
+52,,Y18,19 02 09,Resudues arising from industrial waste disposal operations,"H4.1,H12",1705.1,,HU,,R1,Slovenia,2018
+53,,Y18,19 02 09,Resudues arising from industrial waste disposal operations,"H4.1,H12,H13",943.99,,AT,,"R12,R1",Slovenia,2018
+54,,Y18,19 03 04,Resudues arising from industrial waste disposal operations,"H4.1,H12,H13",1952.5,,AT,D10,,Slovenia,2018
+55,,Y18,19 02 09,Resudues arising from industrial waste disposal operations,"H4.1,H12,H13",489.67,,AT,"D15,D10",,Slovenia,2018
+56,,Y18,19 02 09,Resudues arising from industrial waste disposal operations,"H4.1,H12,H13",201.4,AT,DE,D10,,Slovenia,2018
+57,,Y18,19 03 06,Resudues arising from industrial waste disposal operations,"H6.1,H8",575.16,,AT,D9,,Slovenia,2018
+58,,Y18,19 03 04,Resudues arising from industrial waste disposal operations,"H11,H12",285.14,,AT,D10,,Slovenia,2018
+59,,Y18,17 05 03,Resudues arising from industrial waste disposal operations,"H11,H12",38.62,,AT,D8,,Slovenia,2018
+60,,Y18,19 12 11,Resudues arising from industrial waste disposal operations,"H11,H12",660.82,,AT,D8,,Slovenia,2018
+61,,Y18,19 01 11,Resudues arising from industrial waste disposal operations,"H11,H12",62.5,AT,DE,D10,,Slovenia,2018
+62,,Y18,19 03 04,Resudues arising from industrial waste disposal operations,"H11,H12,H13",1100.2,,AT,D9,,Slovenia,2018
+63,,Y18,19 02 11,Resudues arising from industrial waste disposal operations,H12,2391.75,,AT,,"R3,R5",Slovenia,2018
+64,,Y18,19 03 04,Resudues arising from industrial waste disposal operations,H12,3598.41,,AT,D9,,Slovenia,2018
+65,,Y18,19 02 05,Resudues arising from industrial waste disposal operations,H12,32.788,AT,DE,,R4,Slovenia,2018
+66,,Y18,19 02 11,Resudues arising from industrial waste disposal operations,"H12,H13",500.2,,AT,,"R3,R5",Slovenia,2018
+67,,Y18,16 10 02,Resudues arising from industrial waste disposal operations*,H13,1243.14,,AT,,"R3,R5",Slovenia,2018
+68,,"Y18,Y2",19 02 04,Resudues arising from industrial waste disposal operations + Wastes from the production and preparation of pharmaceutical products,"H4.1,H12,H13",17.94,,AT,D10,,Slovenia,2018
+69,,"Y18,Y23",19 02 04,Resudues arising from industrial waste disposal operations + Zinc compounds,"H4.1,H11,H12",184.24,,AT,D10,,Slovenia,2018
+70,A1020,"Y18,Y31",19 12 11,Resudues arising from industrial waste disposal operations + Lead; lead compounds,"H13,H6.1,H11",550.54,,AT,D10,,Slovenia,2018
+71,A1020,"Y18,Y31",19 12 11,Resudues arising from industrial waste disposal operations + Lead; lead compounds,"H6.1,H11,H13",454.16,,AT,D10,,Slovenia,2018
+72,,"Y18,Y31",19 02 04,Resudues arising from industrial waste disposal operations + Lead; lead compounds,"H4.1,H11,H13",73.02,AT,DE,D10,,Slovenia,2018
+73,A1050,"Y18,Y41",19 02 08,Resudues arising from industrial waste disposal operations + Halogenated organic solvents,"H3,H6.1,H12",65.18,,AT,D10,,Slovenia,2018
+74,A3150,"Y18,Y41",19 02 08,Resudues arising from industrial waste disposal operations + Halogenated organic solvents,"H3,H6.1,H8",1088.06,,AT,D10,,Slovenia,2018
+75,,"Y18,Y41",19 02 04,Resudues arising from industrial waste disposal operations + Halogenated organic solvents,"H11,H12,H4.1",1435.72,AT,DE,D10,,Slovenia,2018
+76,A3140,"Y18,Y42",19 02 08,Resudues arising from industrial waste disposal operations + Organic solvents excluding halogenated solvents,"H3,H11,H12",2466.87,,AT,,"R12,R1",Slovenia,2018
+77,A3140,"Y18,Y42",19 02 08,Resudues arising from industrial waste disposal operations + Organic solvents excluding halogenated solvents,"H3,H11,H12",1550.4,,AT,,"R13,R1",Slovenia,2018
+78,A3140,"Y18,Y42",19 02 08,Resudues arising from industrial waste disposal operations + Organic solvents excluding halogenated solvents,"H3,H11,H12",510.78,,AT,D10,,Slovenia,2018
+79,A3140,"Y18,Y42",19 02 08,Resudues arising from industrial waste disposal operations + Organic solvents excluding halogenated solvents,"H3,H11,H12",1618.44,,HU,,R1,Slovenia,2018
+80,A4100,"Y21,Y23",10 02 07,Hexsavalent chromium compounds + Zinc compounds,"H11,H12,H13",2002.85,"AT,CZ",PL,,R4,Slovenia,2018
+81,A4100,"Y21,Y23",10 02 07,Hexsavalent chromium compounds + Zinc compounds,"H6.1,H8,H11",659.16,,AT,D9,,Slovenia,2018
+82,A4100,"Y21,Y23",10 02 07,Hexsavalent chromium compounds + Zinc compounds,"H10,H12,H13",982.95,"AT,CZ",PL,,R4,Slovenia,2018
+83,A4100,"Y21,Y23",10 02 07,Hexsavalent chromium compounds + Zinc compounds,"H11,H12,H13",934.9,"AT,CZ",PL,,R4,Slovenia,2018
+84,A4100,"Y21,Y23",10 02 07,Hexsavalent chromium compounds + Zinc compounds,"H6.1,H8,H11",428.6,,AT,D9,,Slovenia,2018
+85,A1130,Y22,11 01 07,Copper compounds,"H6.1,H8,H12",61.571,,IT,,R5,Slovenia,2018
+86,A1170,Y23,20 01 33,Zinc compounds,"H8,H13",61.82,IT,FR,,R4,Slovenia,2018
+87,A1170,Y23,20 01 33,Zinc compounds,"H8,H13",85.26,IT,FR,,R4,Slovenia,2018
+88,A1170,"Y23,Y26",20 01 33,Zinc compounds + Cadmium; cadmium compounds,"H6.1,H8",21.198,AT,DE,,R12,Slovenia,2018
+89,A4010,"Y23,Y31",10 02 07,Zinc compounds + Lead; lead compounds,"H6.1,H11,H12",1349.54,"AT,CZ",PL,,R4,Slovenia,2018
+90,A4100,"Y23,Y31",10 02 07,Zinc compounds + Lead; lead compounds,"H6.1,H11,H13",5954.11,"AT,CZ",PL,,R4,Slovenia,2018
+91,A4100,"Y23,Y31",10 02 07,Zinc compounds + Lead; lead compounds,"H6.1,H11,H12",1276.87,"AT,CZ",PL,,R4,Slovenia,2018
+92,A1170,"Y23,Y34",20 01 33,Zinc compounds + Acidic solutions or acids in solid form,"H6.1,H8,H11",24.94,AT,DE,,R4,Slovenia,2018
+93,A1010,Y29,18 01 10,Mercury; mercury compounds,H6.1,0.338,AT,DE,,"R13,R4",Slovenia,2018
+94,A1010,Y29,18 01 10,Mercury; mercury compounds,H6.1,0.25,,IT,,R4,Slovenia,2018
+95,A1010,Y29,18 01 10,Mercury; mercury compounds,"H6.1,H8",0.465,AT,DE,,R4,Slovenia,2018
+96,A1010,Y29,16 03 07,Mercury; mercury compounds,H8,0.611,AT,DE,,R4,Slovenia,2018
+97,A1030,Y29,20 01 21,Mercury; mercury compounds,H12,19.002,AT,DE,,"R4,R5",Slovenia,2018
+98,A1030,Y29,20 01 21,Mercury; mercury compounds,H6.1,13.069,,IT,,R5,Slovenia,2018
+99,A1030,Y29,06 04 04,Mercury; mercury compounds,"H6.1,H8,H11",1.09,AT,DE,"D9,D12",,Slovenia,2018
+100,A1030,Y29,20 01 21,Mercury; mercury compounds,H12,115.475,AT,DE,,"R4,R5",Slovenia,2018
+101,A2010,Y31,16 02 15,Lead; lead compounds,H12,95.23,AT,DE,,R5,Slovenia,2018
+102,A2010,Y31,16 02 15,Lead; lead compounds,"H6.1,H11,H13",227.7,AT,DE,,R5,Slovenia,2018
+103,A2010,Y31,16 02 15,Lead; lead compounds,"H11,H12",48.642,AT,DE,,R5,Slovenia,2018
+104,A2010,Y31,16 02 15,Lead; lead compounds,H12,223.96,AT,DE,,R5,Slovenia,2018
+105,A2010,Y31,16 02 15,Lead; lead compounds,"H6.1,H11,H13",857.86,AT,DE,,R5,Slovenia,2018
+106,A1160,"Y31,Y34",16 06 01,Lead; lead compounds + Acidic solutions or acids in solid form,"H6.1,H8,H11",60.016,,HR,,R4,Slovenia,2018
+107,A1160,"Y31,Y34",16 06 01,Lead; lead compounds + Acidic solutions or acids in solid form,"H6.1,H11,H12",239.977,,HR,,R4,Slovenia,2018
+108,A3150,"Y41,Y2",07 05 03,Halogenated organic solvents + Wastes from the production and preparation of pharmaceutical products,"H3,H6.1,H11",115.86,AT,DE,,R2,Slovenia,2018
+109,A3140,"Y41,Y2",07 05 04,Halogenated organic solvents + Organic solvents excluding halogenated solvents,"H3,H6.1,H8",935.46,,AT,D10,,Slovenia,2018
+110,A3140,Y42,07 05 04,Organic solvents excluding halogenated solvents,"H3,H6.1,H12",717.42,,AT,,R1,Slovenia,2018
+111,A3140,Y42,07 05 04,Organic solvents excluding halogenated solvents,"H3,H6.1,H12",199.74,,AT,,R1,Slovenia,2018
+112,A4070,Y42,08 01 11,Organic solvents excluding halogenated solvents,"H3,H6.1,H11",412.38,,AT,D10,,Slovenia,2018
+113,,Y42,15 02 02,Organic solvents excluding halogenated solvents,H11,1.99,AT,DE,,R4,Slovenia,2018
+114,A3140,"Y41,Y18",19 02 08,Organic solvents excluding halogenated solvents + Resudues arising from industrial waste disposal operations,"H3,H11,H12",1395.78,,HU,,R1,Slovenia,2018
+115,A3140,"Y42,Y2",07 05 04,Organic solvents excluding halogenated solvents + Wastes from the production and preparation of pharmaceutical products,"H3,H6.1,H12",159.04,,AT,,"R12,R1",Slovenia,2018
+116,A1180,Y45,20 01 23,"Organohalogen compounds other than substances referred to this Annex (eg. Y39, Y41, Y42, Y43, Y44)",H12,426.18,,AT,,"R3,R4",Slovenia,2018
+117,A1180,Y45,20 01 23,"Organohalogen compounds other than substances referred to this Annex (eg. Y39, Y41, Y42, Y43, Y44)",H12,196.16,,IT,,"R3,R4",Slovenia,2018
+118,A1180,Y45,20 01 23,"Organohalogen compounds other than substances referred to this Annex (eg. Y39, Y41, Y42, Y43, Y44)",H12,345.04,,AT,,"R3,R4",Slovenia,2018
+119,A1180,Y45,16 02 11,"Organohalogen compounds other than substances referred to this Annex (eg. Y39, Y41, Y42, Y43, Y44)",H12,102.44,,IT,,"R3,R4",Slovenia,2018
+120,A1180,Y45,20 01 23,"Organohalogen compounds other than substances referred to this Annex (eg. Y39, Y41, Y42, Y43, Y44)",H12,588.04,,IT,,"R3,R4",Slovenia,2018
+121,,Y45,14 06 01,"Organohalogen compounds other than substances referred to this Annex (eg. Y39, Y41, Y42, Y43, Y44)",H12,1.841,AT,DE,D10,,Slovenia,2018

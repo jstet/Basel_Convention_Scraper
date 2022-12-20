@@ -1,0 +1,72 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,,Y42,,Used/expired epoxy,H11,2000.0,KR,JP,,R4,Philippines,2019
+1,A1180,Y31,M506,Waste Electrical and Electronic Equipment (WEEE),H11,1000.0,KR,JP,,R4,Philippines,2019
+2,A1180,Y31,M506,Waste Electrical and Electronic Equipment (WEEE),H11,1000.0,KR,JP,,R4,Philippines,2019
+3,A1180,Y22,M506,Printed Circuit Boards/ WEEE,H11,3600.0, ,KR,,R4,Philippines,2019
+4,A4050,Y33,,Circling filter EG solution,H11,20.0,,JP,,R4,Philippines,2019
+5,A4050,Y33,,Circling filter EG solution,H11,20.0,,JP,,R4,Philippines,2019
+6,A4050,Y33,,Circling filter EG solution,H11,20.0,,JP,,R4,Philippines,2019
+7,A3090,Y33,,Ag sludge,H13,180.0,,KR,,R4,Philippines,2019
+8,A1170,Y31,,Rechargeable lithium ion battery scrap,H11,300.0,,JP,,R4,Philippines,2019
+9,A1180,"Y22,Y31",M506,PCB off-cuts and defective wiring board,H11,200.0,,JP,,R4,Philippines,2019
+10,"A1020,A4050","Y31,Y33",,EMEW CELL,H11,1.0,,JP,,R4,Philippines,2019
+11,A1050,Y22,,Copper bearing sludge,H11,1000.0,,JP,,R4,Philippines,2019
+12,A2030,,,Spent catalyst,H4.2,600.0,"SG,EG,LB,MT,ES,IT",FR,,R4,Philippines,2019
+13,A1180,Y31,M506,WEEE,H11,1000.0,KR,JP,,R4,Philippines,2019
+14,A1050,Y22,,Copper bearing sludge,H11,260.0,,KR,,R4,Philippines,2019
+15,A1180,"Y22,Y31",M506,WEEE,H11,3000.0,,KR,,R4,Philippines,2019
+16,A1180,"Y22,Y31",M506,Printed Wiring Board and components,H11,200.0,,SG,,R4,Philippines,2019
+17,A1180,"Y22,Y31",M506,WEEE,H11,16.0,,JP,,R4,Philippines,2019
+18,A1180,Y31,M506,Electrical and electronic scrap containing precious metals,H11,50.0,,JP,,R4,Philippines,2019
+19,A1180,Y22,M506,Printed Circuit Boards/ WEEE,H13,3600.0,,KR,,R4,Philippines,2019
+20,A1180,"Y22,Y31",M506,WEEE,"H11,H12",500.0,,JP,,R4,Philippines,2019
+21,,Y22,,Copper bearing sludge,H13,4000.0,,KR,,R4,Philippines,2019
+22,A1180,"Y22,Y31",M506,WEEE,H11,200.0,,JP,,R4,Philippines,2019
+23,A1180,Y31,M506,Electrical and electronic scrap containing precious metals,H11,1000.0,,JP,,R4,Philippines,2019
+24,A1180,Y31,M506,Electrical and electronic scrap containing precious metals,H11,1000.0,,JP,,R4,Philippines,2019
+25,,Y18,M506,Used toners and ink cartridges,H13,200.0,,SG,,R4,Philippines,2019
+26,,Y18,M506,WEEE,H13,300.0,,SG,,R4,Philippines,2019
+27,A1080,Y23,,Electric arc furnacedust- filter dust,H12,6000.0,,KR,,R4,Philippines,2019
+28,A1050,Y17,,Copper bearing sludge,,350.0,,NL,,R4,Philippines,2019
+29,A1050,Y17,,Copper bearing sludge,,100.0,,NL,,R4,Philippines,2019
+30,A3180,Y10,L406,Polychlorinated Biphenyls (PCB) wastes,H12,61.32,,FR,D10,,Philippines,2019
+31,A1180,Y22,M506,Printed Circuit Boards/ WEEE,H11,1000.0,,JP,,R4,Philippines,2019
+32,A1180,Y22,M506,Printed Circuit Boards/ WEEE,H11,1000.0,,JP,,R4,Philippines,2019
+33,,Y42,,Used/expired epoxy,H11,2.0,,JP,,R4,Philippines,2019
+34,A1180,Y31,M506,WEEE,H11,200.0,,JP,,R4,Philippines,2019
+35,A3140,Y42,,Ag scrap (syringe),H11,30.0,,JP,,R4,Philippines,2019
+36,A3140,Y42,,Ag scrap (bottle/cloth),H11,10.0,,JP,,R4,Philippines,2019
+37,A3140,Y42,,Ag scrap (non-conductive),H11,10.0,,JP,,R4,Philippines,2019
+38,A3140,Y42,,Ag paste bottle,H11,5.0,,JP,,R4,Philippines,2019
+39,A3140,Y42,,Ag paste extract,H11,10.0,,JP,,R4,Philippines,2019
+40,A3140,Y42,,Ag paste syringe,H11,20.0,,JP,,R4,Philippines,2019
+41,A3140,Y42,,Ag paste (cloth/bottle),H11,20.0,,JP,,R4,Philippines,2019
+42,A3140,Y42,,Assorted items with Ag paste,H11,2.5,,JP,,R4,Philippines,2019
+43,A3140,Y42,,Assorted items with Ag paste,H11,20.0,,JP,,R4,Philippines,2019
+44,A3140,Y42,,Assorted items with Ag paste,H11,2.5,,JP,,R4,Philippines,2019
+45,A1020,Y31,D406,Used/ expired solder paste,H11,1.0,,JP,,R4,Philippines,2019
+46,A1020,Y31,D406,Used/ expired solder ball,H11,1.0,,JP,,R4,Philippines,2019
+47,A1020,Y31,D406,Solder dross,H11,1.0,,JP,,R4,Philippines,2019
+48,A1020,Y31,D406,microsolder balls,H11,5.0,,JP,,R4,Philippines,2019
+49,A1020,Y31,D406,Tin-Lead scrap,H11,20.0,,JP,,R4,Philippines,2019
+50,A1020,Y31,D406,Solder scrap,H11,20.0,,JP,,R4,Philippines,2019
+51,A1020,Y31,D406,Solder scrap,H11,50.0,,JP,,R4,Philippines,2019
+52,A3140,Y42,,Ag paste,H11,50.0,,JP,,R4,Philippines,2019
+53,A3140,Y42,,Ag paste cloth,H11,10.0,,JP,,R4,Philippines,2019
+54,A3140,Y42,,Ag paste (bottle/syringe),H11,10.0,,JP,,R4,Philippines,2019
+55,A3140,Y42,,Ag paste (bottle/cloth),H11,30.0,,JP,,R4,Philippines,2019
+56,A1180,Y31,D406,Lead frame scrap,H11,5.0,,JP,,R4,Philippines,2019
+57,A3140,Y31,,Ag cloth,H11,60.0,,JP,,R4,Philippines,2019
+58,A3140,Y31,,Ag sheets,H11,70.0,,JP,,R4,Philippines,2019
+59,A3140,Y31,,Ag paste/bottle,H11,70.0,,JP,,R4,Philippines,2019
+60,A1050,Y17,,Sludge,H11,10.0,,JP,,R4,Philippines,2019
+61,A1050,Y17,,Ag sludge,H11,300.0,,JP,,R4,Philippines,2019
+62,A4050,Y17,,Used cartridge filter Au,H11,10.0,,JP,,R4,Philippines,2019
+63,A4050,Y17,,Used cartridge filter Ag,H11,10.0,,JP,,R4,Philippines,2019
+64,A1050,Y17,,Silver sludge,H11,200.0,,JP,,R4,Philippines,2019
+65,A1050,Y17,,Sludge with Au,H11,100.0,,JP,,R4,Philippines,2019
+66,A1050,Y17,,Sludge with Ag,H11,100.0,,JP,,R4,Philippines,2019
+67,A1050,Y17,,Sludge with AuPd,H11,100.0,,JP,,R4,Philippines,2019
+68,,Y22,,Copper sludge,H13,5000.0,,KR,,R4,Philippines,2019
+69,A1050,Y17,,Silver sludge,H11,10.0,,KR,,R4,Philippines,2019
+70,,Y18,,Electronic scrap containing precious metals,H11,1.2,,JP,,R4,Philippines,2019

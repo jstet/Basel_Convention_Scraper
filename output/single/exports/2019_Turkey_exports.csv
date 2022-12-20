@@ -1,0 +1,9 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A4060,Y8,"13 02 05*, 13 02 06*, 13 02 07*, 13 02 08*","13 02 05*	mineral-based non-chlorinated engine, gear and lubricating oils
+13 02 06*	synthetic engine, gear and lubricating oils
+13 02 07*	readily biodegradable engine, gear and lubricating oils
+13 02 08*	other engine, gear and lubricating oils","H4.1,H5.1,H6.1,H11,H12",15.432,,GR,,R9,Turkey,2019
+1,A4020,Y17,11 01 09*,11 01 09 sludges and filter cakes containing hazardous substances,H12,112.21,"FR,PT",DE,,R9,Turkey,2019
+2,A3180,Y10,13 03 01*,"13 03 01* PCB,PCT,PBB waste",H10,43.438,"IL,IT,ES",FR,,R9,Turkey,2019
+3,A4060,Y8,15 02 02*,"absorbents, filter materials (including oil filters not otherwise specified), wiping cloths, protective clothing contaminated by hazardous substances","H3,H8",1.359,"IL,IT,ES",FR,,R9,Turkey,2019
+4,A3180,Y10,16 02 09*,transformers and capacitors containing PCBs,H10,199.204,"IL,IT,ES",FR,,R9,Turkey,2019

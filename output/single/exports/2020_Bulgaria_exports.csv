@@ -1,0 +1,15 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A4030,Y4,15 01 10*,obsolete pesticides,H6.1,14.742,"RO,HU,AT,DE",FR,D10,,Bulgaria,2020
+1,A4030,Y4,20 01 19*,obsolete pesticides,H6.1,215.412,"RO,HU,AT,DE",FR,D10,,Bulgaria,2020
+2,A4030,Y4,20 01 19*,obsolete pesticides,H6.1,788.705,"RO,HU,AT,DE",FR,D10,,Bulgaria,2020
+3,A1010,Y29,06 04 04*,waste containing mercury,H8,3.425,"CZ,HU,RO,SK",DE,,R4,Bulgaria,2020
+4,,,19 02 11*,mixed material contаining hazardous substances,H12,44.745,"CZ,HU,RO,SK",DE,D10,,Bulgaria,2020
+5,A1030,Y29,20 01 21*,used fluorescent and other mercury containing lamps,H12,11.1,,RO,,"R12,R4,R5",Bulgaria,2020
+6,A2030,,16 08 02*,VniMo-V spent catalysts,H12,2580.476,"HU,RO",AT,,R4,Bulgaria,2020
+7,A2030,,16 08 02*,VniMo-V spent catalysts,H12,722.256,"RO,HU,SK,CZ",DE,,R4,Bulgaria,2020
+8,,Y18,19 02 04*,premixed waste cont. hazardous substances,H4.1,51.24,"HU,RO",AT,D10,,Bulgaria,2020
+9,A1050,Y17,11 01 09*,sludges/filter cake,H12,64.62,"RO,HU,SK,CZ",DE,,R4,Bulgaria,2020
+10,A1020,Y31,19 12 11*,lead paste,H12,248.072,,RO,,R4,Bulgaria,2020
+11,A1160,Y31,16 06 01*,spent lead-acid batteries,H8,534.66,,GR,,R4,Bulgaria,2020
+12,A4030,Y4,02 01 08*,agrochemical waste containing dangerous substances,H6.1,21.16,"RO,HU,SK,CZ",DE,D10,,Bulgaria,2020
+13,A4030,Y4,02 01 08*,agrochemical waste containing dangerous substances,H6.1,41.1,"RO,HU,AT,DE",CH,D10,,Bulgaria,2020

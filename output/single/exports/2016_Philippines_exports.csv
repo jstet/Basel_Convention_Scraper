@@ -1,0 +1,37 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,,"Y22,Y31",M506,"Precious metal bearing e-waste (PCB, IC Chips, Components, mobile handsets, and computers)","H11,H12",3.6,,JP,,R4,Philippines,2016
+1,A4050,Y33,A101,Au Absorption,H11,5.0,,JP,,R4,Philippines,2016
+2,A1180,"Y22,Y31",M506,Printed Cicuit Board,H11,760.0,,JP,,R4,Philippines,2016
+3,A1180,"Y22,Y31",M506,Printed Cicuit Board,H11,300.0,,JP,,R4,Philippines,2016
+4,A1180,"Y22,Y31",M506,Printed Cicuit Board,H11,300.0,,JP,,R4,Philippines,2016
+5,A1180,"Y22,Y31",M506,Precious metal bearing e-waste (PCB),H11,200.0,,JP,,R4,Philippines,2016
+6,A1180,"Y22,Y31",M506,Precious metal bearing e-waste (PCB),H11,200.0,,JP,,R4,Philippines,2016
+7,A1180,"Y22,Y31",M506,Precious metal bearing e-waste (PCB),H11,200.0,,JP,,R4,Philippines,2016
+8,,"Y31,Y33",D406/A101,CN Absorption resins,H11,12.0,,JP,,R4,Philippines,2016
+9,,"Y22,Y31",M506,Printed Cicuit Board,"H11,H12",720.0,,KR,,R4,Philippines,2016
+10,,"Y22,Y31",M506,"Precious metal bearing e-waste (PCB, IC Chips, Components, mobile handsets, and computers","H11,H12",3600.0,,JP,,R4,Philippines,2016
+11,A1180,Y18,M506,"Used EEE,parts and Accessories",H13,300.0,,SG,,R4,Philippines,2016
+12,,Y18,M506,Used toner and ink cartridges,H13,200.0,,SG,,R4,Philippines,2016
+13,A3140,Y42,,Ag paste bottle and Ag paste Cloth,H11,100.0,,JP,,R4,Philippines,2016
+14,A1180,Y31,M506,"Lead frame scrap (partial solder plating, microsolder balls, defectives diodes scrap, cutting wastes scraps and solder dross)",H11,100.0,,JP,,R4,Philippines,2016
+15,A4050,Y17,,"Ion Exchange resin scrap, chelate resin scrap, Au cathode drum, Pd cathode drum, activated carbon, carbon cartridge and filter cartridge)",H11,86.4,,JP,,R4,Philippines,2016
+16,A1050,Y17,,Au and Ag sludge ,H11,450.0,,JP,,R4,Philippines,2016
+17,A3140,Y42,,"Ag paste bottle, Ag pasteextract, Ag paste syringe, Ag paste Cloth, Non Ag paste Bottle, Non- Ag paste cloth, Solder paste syringe, and epoxy syringe ",H11,100.0,,JP,,R4,Philippines,2016
+18,,Y17,,Sludge ,H11,10.0,,JP,,R4,Philippines,2016
+19,A4070,,M506,"Used Supplies comprising of toner cartridge, drum cartridge, CRU, and reclaim bottle ",,80.0,,TH,,"R3,R4,R5",Philippines,2016
+20,A1180,Y31,M506,Used Office Equipment ,"H11,H12",90.0,,TH,,"R3,R4,R6",Philippines,2016
+21,,Y17,M506,used Cartridge filter,H11,10.0,,JP,,R4,Philippines,2016
+22,,Y22,D499,Copper Bearing sludge,H11,3000.0,,JP,,R4,Philippines,2016
+23,A1180,"Y22,Y31",M506,Electrical and electronic scrap containing precious metal,H11,500.0,,JP,,R4,Philippines,2016
+24,,Y22,D499,Copper Bearing sludge,H11,3000.0,,JP,,R4,Philippines,2016
+25,A1180,Y31,M506,Printed wiring board,H11,1000.0,,JP,,R4,Philippines,2016
+26,A1180,"Y22,Y31",M506,Printed Cicuit Board and scrap Electronic assemblies ,H11,1300.0,,JP,,R4,Philippines,2016
+27,A1050,Y17,,silver sludge,H11,200.0,,JP,,R4,Philippines,2016
+28,A1180,"Y22,Y31",M506,Electroninc and Electrical Scrap containing precious metals,H11,1000.0,,JP,,R4,Philippines,2016
+29,A1180,"Y22,Y31",M506,Electroninc and Electrical Scrap containing precious metals,H11,1000.0,,JP,,R4,Philippines,2016
+30,,"Y22,Y31",M506,Assorted Printed Cicuit Board and components,"H11,H12",500.0,,JP,,R4,Philippines,2016
+31,,Y17,,Silver sludge,H11,500.0,,JP,,R4,Philippines,2016
+32,A4050,Y33,,Circling Filter of  EG Gold Solution,H11,20.0,,JP,,R4,Philippines,2016
+33,A3050,Y13,,"Heavy metals contaminated debris, waste filters,dust collector debris, other contaminated debris",,54.0,"SG,NL,DE",SE,D10,R4,Philippines,2016
+34,A4060,Y9,,Grinding Sludge with coolant filters and filter sludge,,54.0,"SG,NL,DE",SE,D10,,Philippines,2016
+35,,Y18,,Galvanic sludge,H12,2000.0,,US,,R4,Philippines,2016

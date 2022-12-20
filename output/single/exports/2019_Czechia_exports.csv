@@ -1,0 +1,46 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A3020,Y8,"130205, 130208",Waste oils,,1312.66,,DE,,R9,Czechia,2019
+1,A3020,Y8,130205,Waste oils,,307.35,,PL,,R9,Czechia,2019
+2,A3020,Y8,130208,Waste oils,,1597.24, ,DE,,R9,Czechia,2019
+3,A1050,Y17,190205,Metal-bearing sludges,,74.501,,DE,,R4,Czechia,2019
+4,A1050,Y17,190813,Metal-bearing sludges,,11.145,,DE,,R4,Czechia,2019
+5,A1050,Y17,110109,Metal-bearing sludges,,615.626,,DE,,R4,Czechia,2019
+6,A1160,"Y31,Y34",160601,Waste lead acid batteries,,342.011,,DE,,"R4,R5",Czechia,2019
+7,A1160,Y_,160601,Waste lead acid batteries,,345.515,,DE,,R4,Czechia,2019
+8,A1160,Y31,160601,Waste lead acid batteries,,443.468,"SK,HU,RO",BG,,R4,Czechia,2019
+9,A1160,Y31,160601,Waste lead acid batteries,,681.223,"SK,HU,RO",BG,,"R12,R4,R5",Czechia,2019
+10,A1160,Y31,160601,Waste lead acid batteries,,1063.054,,PL,D9,"R12,R3,R4",Czechia,2019
+11,A1020,Y31,100404,Flue dust containing lead,,15.78,,DE,,R4,Czechia,2019
+12,A1020,Y17,120116,Waste arisen from surface treatment of metals,,1.172,,DE,,R4,Czechia,2019
+13,,Y17,120116; AB030,Filter dust,,4.198,,DE,,R4,Czechia,2019
+14,,Y_,120114,Powder and sludge containing dangerous substances,,39.918,,AT,,R4,Czechia,2019
+15,A1170,Y22,160121,Li-Ion batteries,,3.794,,DE,,R4,Czechia,2019
+16,A1170,Y26,160602,Ni-Cd batteries,,37.06,DE,FR,,R4,Czechia,2019
+17,A1060,Y35,110107,Pickling bases,,97.0,,DE,,R5,Czechia,2019
+18,A1130,Y17,110107,Pickling bases,,34.76,,DE,,R13,Czechia,2019
+19,A1130,Y17,110107,Pickling bases,,39.26,,DE,,"R13,R4",Czechia,2019
+20,A1030,Y24,060403,Waste containing arsenic,,71.22,,DE,D12,,Czechia,2019
+21,,Y_,"170204, 191206; AC170",Discarded railway sleepers,,1991.271,,DE,,R1,Czechia,2019
+22,A1020,Y31,100402,Lead ashes,,140.84,DE,BE,,R4,Czechia,2019
+23,A3140,Y6,080111,Paint and varnish containing organic solvents or other dangerous substances,,72.625,,SK,,R2,Czechia,2019
+24,A2030,Y_,160802,Spent catalyst,,65.1,,DE,,R4,Czechia,2019
+25,A3140,Y42,150202,"Absorbents, filter materials (including oil filters not otherwise specified), wiping cloths, protective clothing contaminated by dangerous substances",,1.493,,DE,,R4,Czechia,2019
+26,A4070,Y_,150202,"Absorbents, filter materials (including oil filters not otherwise specified), wiping cloths, protective clothing contaminated by dangerous substances",,0.9266,,DE,,R4,Czechia,2019
+27,A4050,Y33,150202,"Absorbents, filter materials (including oil filters not otherwise specified), wiping cloths, protective clothing contaminated by dangerous substances",,0.422,,DE,,R4,Czechia,2019
+28,A4160,Y_,150202,Activated carbon,,773.44,,AT,,R7,Czechia,2019
+29,,Y_,140601; AC150,CFCs,,32.09,,DE,,R3,Czechia,2019
+30,A2010,Y31,160215,Glass waste  ,,430.83,,DE,,R5,Czechia,2019
+31,A2010,"Y18,Y31",160215,CRT screens,,353.38,,DE,,R5,Czechia,2019
+32,,Y_,"160213, 160215",Electronic waste,,17.79,DE,NL,,R4,Czechia,2019
+33,,Y33,110116; AD120,Saturated or spent ion exchange resin containing precious metals,,0.175,,DE,,R4,Czechia,2019
+34,A4070,Y_,150110,Packaging containing residues of or contaminated by dangerous substances,,0.358,,DE,,R4,Czechia,2019
+35,A1060,Y_,110105,Pickling bases,,91.78,,AT,,R4,Czechia,2019
+36,,Y31,100401,Tin and lead waste - residues from the surface of the soldering and plating bath,,54.46,,PL,,R4,Czechia,2019
+37,,Y_,100308,Wastes from aluminium thermal metallurgy,,7488.29,,DE,,R5,Czechia,2019
+38,,Y32,"100308, 100309,  100315, 101099ª, 100399ª",Salt slags and drosses containing aluminium,,272.637,,SK,,R4,Czechia,2019
+39,,Y32,"120103ª, 120199ª, 170409","Aluminium waste - spills, filings and turnings contaminated with oil products",,25.49,,SK,,R4,Czechia,2019
+40,A1020,Y26,191211,Negative electrodes from NiCd accumulators,,132.777,DE,KR,,R4,Czechia,2019
+41,A1020,Y31,160303,Corundum containing silver,,7.303,,DE,,R4,Czechia,2019
+42,,Y_,160104,End of life vehicles,,90.96,,DE,,R4,Czechia,2019
+43,A2030,Y2,160807,Spent catalysts containing precious metals (palladium),,0.555,,DE,,R4,Czechia,2019
+44,Y47,,191203,Non ferrous metal concentrate,,1072.35,DE,DK,,"R12,R4,R5",Czechia,2019
