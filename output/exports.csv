@@ -1,24 +1,62 @@
 annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
-A2030,Y42,A2030,"Spent catalyst containing high value metals and organic solvents including benzene, ethylbenzene and xylene ","H11,H12",110,NZ,US,,R8,Australia,2021
-"A1020,A1030,A1040,A1160,A2050,A3020,A4060","Y8,Y9,Y21,Y29,Y31,Y36",160104,End-of-life vessel,"H3,H6.1,H8,H11",16079,,TR,,"R4,R12",Australia,2021
-A1160,Y31,A1160,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",3500,JP,KR,,R4,Australia,2021
-A1160,Y31,A1160,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",6000,JP,KR,,R4,Australia,2021
-A1160,Y31,A1160,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",4000,JP,KR,,R4,Australia,2021
-A1020,Y31,191211,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",18000,"SG,ES,GB,BE,EG,DE,ID,MY",PL,,R4,Australia,2021
-A2030,Y42,A2030,Spent catalyst containing platinum and hydrocarbons,"H11,H12",70,,JP,,R4,Australia,2021
-A1160,Y31,A1160,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",6000,JP,KR,,R4,Australia,2021
-A1020,Y31,60405,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",18000,"SG,MY,SA,EG,TR",BG,,R4,Australia,2021
-A1020,Y31,A1020,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",12000,"SG,MY,GR,EG,IT,FR",ES,,R4,Australia,2021
-A1170,Y26,514103,unsorted waste batteries,"H8,H11,H12",200,,KR,,R4,Australia,2021
-A1170,"Y15,Y34,Y35",A1170,Used lithium metal batteries,"H8,H10,H12",10,"NZ,US",CA,,R4,Australia,2021
-A1180,"Y15,Y34,Y35",A1180,Lithium metal batteries in electrical equipment ,"H8,H10,H12",5,"NZ,US",CA,,R4,Australia,2021
-A3170,Y41,A3170,hexachlorobenzene waste and chlorinated wastes containing hexachlorobenzene,"H6.1,H12",550,FI,SE,D10,,Australia,2021
-A3170,Y41,A3170,hexachlorobenzene waste and chlorinated wastes containing hexachlorobenzene,"H6.1,H12",1900,SE,FI,D10,,Australia,2021
-A3170,Y41,A3170,hexachlorobenzene waste and chlorinated wastes containing hexachlorobenzene,"H6.1,H12",600,,FI,D10,,Australia,2021
-A1160,Y31,A1160,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",2500,JP,KR,,R4,Australia,2021
-A3170,Y41,A3170,hexachlorobenzene waste and chlorinated wastes containing hexachlorobenzene,"H6.1,H12",1000,FI,SE,D10,,Australia,2021
-A3170,Y41,A3170,hexachlorobenzene and other chlorinated wastes ,"H6.1,H12",260,FI,SE,D10,,Australia,2021
-A1020,Y31,A1020,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",18000,"ID,MY,KR,SG",PH,,R4,Australia,2021
-A2030,Y42,A2030,spent refining catalyst,H4.2,2000,,SG,,R4,Australia,2021
-A4060,Y8,no national code,minéral waste oil,,250,TG,,D2,R9,Benin,2021
-A4060,Y8,no national code,minéral waste oil,,250,TG,,D2,R9,Benin,2021
+A2030,Y42,A2030,"Spent catalyst containing high value metals and organic solvents including benzene, ethylbenzene and xylene ","H11,H12",110.0,NZ,US,,R8,Australia,2021
+"A1020,A1030,A1040,A1160,A2050,A3020,A4060","Y8,Y9,Y21,Y29,Y31,Y36",160104,End-of-life vessel,"H3,H6.1,H8,H11",16079.0,,TR,,"R4,R12",Australia,2021
+A1160,Y31,A1160,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",3500.0,JP,KR,,R4,Australia,2021
+A1160,Y31,A1160,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",6000.0,JP,KR,,R4,Australia,2021
+A1160,Y31,A1160,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",4000.0,JP,KR,,R4,Australia,2021
+A1020,Y31,191211,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",18000.0,"SG,ES,GB,BE,EG,DE,ID,MY",PL,,R4,Australia,2021
+A2030,Y42,A2030,Spent catalyst containing platinum and hydrocarbons,"H11,H12",70.0,,JP,,R4,Australia,2021
+A1160,Y31,A1160,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",6000.0,JP,KR,,R4,Australia,2021
+A1020,Y31,60405,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",18000.0,"SG,MY,SA,EG,TR",BG,,R4,Australia,2021
+A1020,Y31,A1020,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",12000.0,"SG,MY,GR,EG,IT,FR",ES,,R4,Australia,2021
+A1170,Y26,514103,unsorted waste batteries,"H8,H11,H12",200.0,,KR,,R4,Australia,2021
+A1170,"Y15,Y34,Y35",A1170,Used lithium metal batteries,"H8,H10,H12",10.0,"NZ,US",CA,,R4,Australia,2021
+A1180,"Y15,Y34,Y35",A1180,Lithium metal batteries in electrical equipment ,"H8,H10,H12",5.0,"NZ,US",CA,,R4,Australia,2021
+A3170,Y41,A3170,hexachlorobenzene waste and chlorinated wastes containing hexachlorobenzene,"H6.1,H12",550.0,FI,SE,D10,,Australia,2021
+A3170,Y41,A3170,hexachlorobenzene waste and chlorinated wastes containing hexachlorobenzene,"H6.1,H12",1900.0,SE,FI,D10,,Australia,2021
+A3170,Y41,A3170,hexachlorobenzene waste and chlorinated wastes containing hexachlorobenzene,"H6.1,H12",600.0,,FI,D10,,Australia,2021
+A1160,Y31,A1160,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",2500.0,JP,KR,,R4,Australia,2021
+A3170,Y41,A3170,hexachlorobenzene waste and chlorinated wastes containing hexachlorobenzene,"H6.1,H12",1000.0,FI,SE,D10,,Australia,2021
+A3170,Y41,A3170,hexachlorobenzene and other chlorinated wastes ,"H6.1,H12",260.0,FI,SE,D10,,Australia,2021
+A1020,Y31,A1020,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",18000.0,"ID,MY,KR,SG",PH,,R4,Australia,2021
+A2030,Y42,A2030,spent refining catalyst,H4.2,2000.0,,SG,,R4,Australia,2021
+A4060,Y8,no national code,minéral waste oil,,250.0,TG,,D2,R9,Benin,2021
+A4060,Y8,no national code,minéral waste oil,,250.0,TG,,D2,R9,Benin,2021
+,"Y12,Y13,Y41,Y45",,"sludges from paints and varnishes, halogenated solvents, packaging waste and filter materials and mixed waste","H3,H4.1,H6.1,H12",40.78,,BE,D10,,Bosnia and Herzegovina,2021
+A4010,"Y2,Y3",,pharmaceutical waste and citostatics ,"H3,H6.1,H11",113.42,,AT,D10,,Bosnia and Herzegovina,2021
+A1160,"Y31,Y34",,lead acid batteries,,2602.81,,SI,,R4,Bosnia and Herzegovina,2021
+A1160,"Y31,Y34",,lead acid batteries,,1420.04,,HR,,R4,Bosnia and Herzegovina,2021
+A1160,"Y31,Y34",,lead acid batteries,,23.89,,MK,,R4,Bosnia and Herzegovina,2021
+,Y18,,mixed solid waste,"H4.1,H6.1,H12",138.32,,DE,D10,,Bosnia and Herzegovina,2021
+,Y18,,mixed liquid waste,"H3,H6.1,H11,H12",41.24,,DE,D10,,Bosnia and Herzegovina,2021
+A4070,,,waste paint and varnish,"H3,H4.1",20.2,,DE,D10,,Bosnia and Herzegovina,2021
+A4010,"Y2,Y3",,medicines,"H3,H4.1,H6.1,H12",19.13,,DE,D10,,Bosnia and Herzegovina,2021
+,Y17,,cyanide waste,H6.1,17.66,,DE,D12,,Bosnia and Herzegovina,2021
+A1180,Y29,,fluorescent tubes,H12,4.83,,HR,,R5,Bosnia and Herzegovina,2021
+A1160,"Y31,Y34",,lead acid batteries,,2528.0,,RS,,R4,Bosnia and Herzegovina,2021
+,Y18,,mixed waste,,136.7,,DE,D10,,Bosnia and Herzegovina,2021
+,Y18,,mixed waste,"H3,H6.1,H12",20.0,,DE,D10,,Bosnia and Herzegovina,2021
+,Y18,,mixed waste,H3,40.26,,DE,D10,,Bosnia and Herzegovina,2021
+,Y18,,mixed waste,"H11,H12",20.92,,DE,D10,,Bosnia and Herzegovina,2021
+,"Y8,Y9,Y18",,mixed waste,"H12,H13",22.44,,AT,D10,,Bosnia and Herzegovina,2021
+,"Y18,Y31",,sludges containing dangerous substances from other treatment of industrial waste water,,25.44,,AT,D10,,Bosnia and Herzegovina,2021
+A1160,"Y31,Y34",,lead acid batteries,"H8,H10",4104.0,,RS,,R4,Bosnia and Herzegovina,2021
+,"Y8,Y9,Y18",,other wastes (including mixtures of materials) from mechanical treatment of waste containing dangerous substances,,138.0,,AT,D10,,Bosnia and Herzegovina,2021
+A1020,Y31,100815*,Sn Pb ashes and residues,H12,150.0,"NL,ES,GB,DE",BE,,R4,Brazil,2021
+A1020,Y31,100815*,Sn Al residues,H12,50.0,"NL,ES,GB,DE",BE,,R4,Brazil,2021
+A1020,Y18,010307*,Spent Au on Carbon containing precious metals,H12,600.0,"US,ES,NL,GB,DE,FR",BE,,R4,Brazil,2021
+A1020,Y18,110198*,Ashes from calcined slop/washcoat (from automotive catalyst production),H8,35.0,"US,ES,NL,GB,DE,FR",BE,,R4,Brazil,2021
+A1020,Y18,110198*,Ashes from calcined slop/washcoat (from automotive catalyst production),H8,35.0,DE,BE,,R4,Brazil,2021
+A2030,Y18,160802*,Exhausted Catalyst containing Rhodium,H3,100.0,"ES,NL,GB,DE,US,FR",BE,,R4,Brazil,2021
+A2030,Y18,190111*,PGM ashes - chemical catalysts with Pd and/or Pt and/or Rh,H8,4.0,"US,ES,NL,GB,DE,FR",BE,,R4,Brazil,2021
+B1090,,160605,Lithium ion battery,H13,200.0,,KR,,R4,Brazil,2021
+A4090,Y18,060704*,"Lab solutions - waste water from laboratory containing precious metals (gold, silver, nitrates, palladium, rhodium)",H8,8.0,"ES,NL,GB,DE,FR",BE,,R4,Brazil,2021
+A1180,Y22,160215*,Printed circuit boards,H13,550.0,,KR,,R4,Brazil,2021
+A4160,Y18,061302*,Carbon fines,,1200.0,"ES,GB,NL,DE",BE,,R4,Brazil,2021
+A1020,"Y22,Y23",060502*,Waste water sludge containing precious metals,H12,200.0,"ES,NL,GB,DE,FR",BE,,R4,Brazil,2021
+A1020,Y17,100701,Slag form Au and Ag concentration,H8,30.0,"ES,NL,GB,DE,FR",BE,,R4,Brazil,2021
+A1050,Y17,110109*,Metal bearing hydroxide filtercake dangerous substances from chemical surface treatment,,300.0,ES,DE,,R4,Brazil,2021
+A1180,Y18,100215*,"Electronic scrap containing precious metals (Au bearing, cell phones without batteries, printed circuit boards, cell phone circuit boards, memory boards and processors scrap)",H12,4000.0,"US,ES,NL,GB,DE,FR",BE,,R4,Brazil,2021
+A2030,,110198*,Waste of catalytic coating used in automotive manufacturing,"H8,H11,H12",240.0,"ES,GB",NL,,R4,Brazil,2021
+A2030,,160807*,Purified spent palladium/ carbon catalyst,"H11,H12",100.0,"ES,GB",NL,,R4,Brazil,2021
+A2030,Y18,190111*,PGM ashes - chemical catalysts with Pd and/or Pt and/or Rh,H8,4.0,DE,BE,,R4,Brazil,2021
