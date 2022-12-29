@@ -56,10 +56,10 @@ def get_dfs(url, driver, dl_folder, country, year, count, maxi):
 
     results = []
 
-    driver.get(url)
-    driver.implicitly_wait(2)
-
     for i in ["Export", "Import"]:
+
+        driver.get(url)
+        driver.implicitly_wait(2)
 
         dct = {}
         dct["error"] = ""
@@ -80,7 +80,6 @@ def get_dfs(url, driver, dl_folder, country, year, count, maxi):
                 .until(expected_conditions.presence_of_element_located((By.XPATH, "//*[contains(text(), 'Export to Excel')]")))
             export_btn.click()
         except Exception as e:
-            console.log(e)
             dct["error"] = e
             results.append(dct)
             continue
@@ -116,31 +115,36 @@ def get_dfs(url, driver, dl_folder, country, year, count, maxi):
 
         # sometimes the column names are not exported correctly
         # also chance to rename them
+        # some columns are removed, some are named differentently after 2015
+        # we are assuming that some differently named columns are the same:
+        # Final disposal operation -> annex_4_a
+        # Recovery operation -> annex_4_b
+        # h code -> annex_3
 
         if year >= 2015:
-            zero = "annex_2_8_9_code"
-            one = "annex_1_code"
-            two = "national_code"
+            zero = "annex_2_8_9"
+            one = "annex_1"
+            two = "national"
             three = "type_of_waste"
-            four = "annex_3_code"
+            four = "annex_3"
             five = "amount"
             six = "countries_of_transit "
             if i == "Export":
                 seven = "country_of_destination"
             if i == "Import":
                 seven = "country_of_origin"
-            eight = "annex_4_a_code"
-            nine = "annex_4_b_code"
+            eight = "annex_4_a"
+            nine = "annex_4_b"
 
             temp_df = temp_df.rename(columns={temp_df.columns[0]: zero,  temp_df.columns[1]: one,  temp_df.columns[2]: two,  temp_df.columns[3]: three,
                                               temp_df.columns[4]: four,  temp_df.columns[5]: five,  temp_df.columns[6]: six,  temp_df.columns[7]: seven,  temp_df.columns[8]: eight,  temp_df.columns[9]: nine})
-            temp_df = temp_df.rename(columns=lambda x: x.replace('\n', ''))
+            
         else:
-            zero = "annex_1_code"
+            zero = "y_code"
             one = "waste_constituents"
-            two = "annex_8_code"
+            two = "annex_8"
             three = "un_class"
-            four = "h_code"
+            four = "annex_3"
             five = "characteristics"
             six = "amount"
             seven = "countries_of_transit"
@@ -148,11 +152,12 @@ def get_dfs(url, driver, dl_folder, country, year, count, maxi):
                 eight = "country_of_destination"
             if i == "Import":
                 eight = "country_of_origin"
-            nine = "final_disposal_operation"
-            ten = "recovery_operation"
+            nine = "annex_4_a"
+            ten = "annex_4_b"
+
             temp_df = temp_df.rename(columns={temp_df.columns[0]: zero,  temp_df.columns[1]: one,  temp_df.columns[2]: two,  temp_df.columns[3]: three,
-                                              temp_df.columns[4]: four,  temp_df.columns[5]: five,  temp_df.columns[6]: six,  temp_df.columns[7]: seven,  temp_df.columns[8]: eight,  temp_df.columns[9]: nine})
-            temp_df = temp_df.rename(columns=lambda x: x.replace('\n', ''))
+                                              temp_df.columns[4]: four,  temp_df.columns[5]: five,  temp_df.columns[6]: six,  temp_df.columns[7]: seven,  temp_df.columns[8]: eight,  temp_df.columns[9]: nine, temp_df.columns[10]: ten})
+            
 
         dct["df"] = temp_df
         results.append(dct)
@@ -204,4 +209,4 @@ def download(reports):
 
 
 reports = pd.read_csv("../output/national_reports.csv")
-download(reports)
+download(reports[:3])
