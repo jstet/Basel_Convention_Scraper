@@ -17,6 +17,7 @@ from rich.console import Console
 from rich.progress import track
 from datetime import datetime
 import warnings
+import traceback
 
 
 class NoData(Exception):
@@ -57,6 +58,7 @@ def get_dfs(url, driver, dl_folder, country, year, count, maxi):
     results = []
 
     for i in ["Export", "Import"]:
+        print(url)
 
         driver.get(url)
         driver.implicitly_wait(2)
@@ -74,23 +76,29 @@ def get_dfs(url, driver, dl_folder, country, year, count, maxi):
         try:
             driver.execute_script(
                 "window.scrollTo(0, document.body.scrollHeight)")
+            # table load times can be pretty long
             ignored_exceptions = (NoSuchElementException,
                                   StaleElementReferenceException,)
-            export_btn = WebDriverWait(driver, 12, ignored_exceptions=ignored_exceptions)\
+            export_btn = WebDriverWait(driver, 60, ignored_exceptions=ignored_exceptions)\
                 .until(expected_conditions.presence_of_element_located((By.XPATH, "//*[contains(text(), 'Export to Excel')]")))
+            driver.execute_script(
+                "window.scrollTo(0, document.body.scrollHeight)")
             export_btn.click()
         except Exception as e:
             dct["error"] = e
+            traceback.print_exc()
             results.append(dct)
             continue
 
         # wating some time for file dl
-        time.sleep(2)
-
-        lst = os.listdir(dl_folder)
-        if lst != []:
-            f = lst[0]
-        else:
+        
+        for y in range(60):
+            time.sleep(2)
+            lst = os.listdir(dl_folder)
+            if lst != []:
+                f = lst[0]
+                break
+        if lst == []:
             console.log("Nothing downloaded")
             dct["error"] = "Nothing downloaded"
             results.append(dct)
@@ -209,4 +217,5 @@ def download(reports):
 
 
 reports = pd.read_csv("../output/national_reports.csv")
+# download(reports.iloc[[59]].reset_index())
 download(reports)
