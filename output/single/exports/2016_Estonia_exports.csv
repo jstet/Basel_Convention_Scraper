@@ -1,0 +1,12 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A4090,,11 01 05*,pickling acids,,40.0,,LV,,R5,Estonia,2016
+1,A3020,Y8,13 02 05',waste oils,,145.52,,DE,,R9,Estonia,2016
+2,A1180,"Y22,Y31",16 02 15*,WEEE ,,180.4, ,LV,,"R3,R4,R5",Estonia,2016
+3,A1170,Y26,"16 06 02,* 16 06 05, 20 01 34",Battery waste,,33.682, ,FI,,R4,Estonia,2016
+4,A4020,Y1,18 01 03*,Clinical waste,,214.739,,LV,,R12,Estonia,2016
+5,Y47,,19 01 13*,Flyash containing dangerous substances ,,3693.6,,FI,"D9,D1",,Estonia,2016
+6,Y47,,19 01 07*,Solid waste from gas treatment,,6721.26,,FI,"D9,D1",,Estonia,2016
+7,A1030,Y29,20 01 21*,Waste containing mercury,,84.89,,LV,,"R4,R5,R12",Estonia,2016
+8,A1180,Y45,"16 02 11*, 20 01 23*, 20 01 35*",WEEE ,,649.733,LV,LT,,"R4,R5",Estonia,2016
+9,A1180,Y45,20 01 23*,Cooling appliances,,64.89,,LV,,"R12,R3,R4",Estonia,2016
+10,A1180,"Y22,Y31","16 02 11*, 20 01 23*",WEEE ,,127.68,,FI,,"R4,R3",Estonia,2016

@@ -1,0 +1,16 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A1020,Y31,10 08 15*,	SnPb Residues,H12,200,"NL,GB,DE",BE,,R4,Brazil,2019
+1,A1020,Y18,01 03 07*,Spent Au on carbon containing precious metals,H12,250,"ES,NL,GB,DE,FR",BE,,R4,Brazil,2019
+2,A1170,Y18,16 06 05,End of life NiMH rechargeable batteries,H12,100,"ES,NL,GB,DE,FR",BE,,R4,Brazil,2019
+3,A1170,Y18,16 06 05,End of life Li-Ion rechargeable batteries,H12,300,"ES,NL,GB,DE,FR",BE,,R4,Brazil,2019
+4,A1020,Y18,11 01 98*,Ashes from calcinated slop/washcoat from automotive catalyst production,H8,80,"ES,NL,GB,DE,FR",BE,,R4,Brazil,2019
+5,A2030,Y18,19 01 11*,"PGM ashes – waste of ashes from spent automotive catalyst containing precious metals from platinum group (Pd, Pt and Rh)",H8,3,DE,BE,,R4,Brazil,2019
+6,A2030,Y18,16 08 02*,Exhausted catalyst containing Rhodium,H3,120,"ES,NL,GB,DE,FR",BE,,R4,Brazil,2019
+7,A1050,Y17,11 01 09*,Metal bearing hydroxide and filtercakes containing dangerous substances from chemical surface treatment,"H11,H12",300,"ES,NL,GB",DE,,R4,Brazil,2019
+8,A1020,Y31,10 08 04*,SnPb ashes and residues,H12,50,,ES,,R4,Brazil,2019
+9,A1020,Y31,10 08 04*,Sn Al residues,H12,30,,ES,,R4,Brazil,2019
+10,A1180,Y18,16 02 15*,"Electronic scrap containing precious metals (Au bearing, cellphones without batteries, printed circuit boards, memory boards and processors scrap)",H12,2500,"ES,NL,GB,DE,FR",BE,,R4,Brazil,2019
+11,A1170,Y18,16 06 05,Lithium Metal Batteries,H12,10,US,CA,,R4,Brazil,2019
+12,A1180,"Y18,Y22",16 06 05,Electronic scraps containig lithium batteries,H12,5,US,CA,,R4,Brazil,2019
+13,A1010,Y18,06 04 05*,Calcinated material containing Pt,H8,1,,DE,,R4,Brazil,2019
+14,A4160,Y18,06 13 02*,Carbon fines,H9,1200,"ES,GB,NL,DE",BE,,R4,Brazil,2019

@@ -1,0 +1,14 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_origin,annex_4_a_code,annex_4_b_code,country,year
+0,,Y_,191210,Combustible waste (refuse derived fuel),,88052.1,DE,GB,,R1,Latvia,2019
+1,,Y_,191207,Wood waste,,20274.236,,NO,,"R3,R12,R13",Latvia,2019
+2,,Y_,191207,Wood waste,,8995.74,,DE,,"R3,R12,R13",Latvia,2019
+3,,Y_,191207,Wood waste,,4610.94,DE,NL,,"R3,R12,R13",Latvia,2019
+4,,Y_,191207,Wood waste,,8209.2,,DK,,"R3,R12,R13",Latvia,2019
+5,Y46,,191212,Other waste (pre-sorted household waste),,2147.48,"BE,DE,MT,NL,ES,SE,GB",IT,,R12,Latvia,2019
+6,A1030,Y29,200121*,Fluorescent tubes and other mercury containing waste,H11,182.59,,LT,,R12,Latvia,2019
+7,A1180,Y31,160512*,Waste electrical and electronic equipment,H12,22.38,,EE,,"R3,R4,R5,R12",Latvia,2019
+8,A1180,Y45,200123*,Discarded equipment containint chlorofluorocarbons,H12,6.12,,EE,,"R3,R4,R12",Latvia,2019
+9,A4070,"Y6,Y12,Y42","080312*, 140603*",Waste ink and other solvents,H3,119.13,,LT,,R2,Latvia,2019
+10,,Y_,191211*,Other wastes containing dangerous substances,H_,189.505,,LT,,"R12,R13",Latvia,2019
+11,A1020,,191211*,Other waste containing dangerous substances,H_,144.59,,LT,,"R12,R13",Latvia,2019
+12,A3010,Y9,"050103*, 050106*",Oily sludges waste,H12,102.66,,LT,,R12,Latvia,2019

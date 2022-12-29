@@ -1,0 +1,51 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_origin,annex_4_a_code,annex_4_b_code,country,year
+0,A1020,Y31,10 04 02*,lead dross,H6.1,583.81,"BE,GR,PT,TR",NL,,R4,Bulgaria,2020
+1,A1020,Y31,10 04 05*,lead dust,H12,140.18,RS,HR,,R4,Bulgaria,2020
+2,A1020,Y31,10 04 01*,slags from primary and secondary production,H12,530.14,,RS,,R4,Bulgaria,2020
+3,A1020,Y31,10 04 01*,slags from primary and secondary production,H12,290.48,,RO,,R4,Bulgaria,2020
+4,A1020,Y31,10 04 01*,slags from primary and secondary production,H12,421.49,,GR,,R4,Bulgaria,2020
+5,A1020,Y31,10 10 09*,dust from flue gas containing dangerous substances,H12,435.78,,RO,,R4,Bulgaria,2020
+6,A1020,Y31,06 04 05*,lead waste and scrap,H12,3579.837,"MY,SG,EG,TR",AU,,R4,Bulgaria,2020
+7,A1020,Y31,11 01 98*,lead ashes,H12,286.511,"HU,RO",SK,,R4,Bulgaria,2020
+8,A1020,Y31,19 12 11*,lead paste,H12,3042.52,TR,DZ,,R4,Bulgaria,2020
+9,A1020,Y31,19 12 11*,lead paste,H12,7254.67,"SI,HR,HU,RO",IT,,R4,Bulgaria,2020
+10,A1080,Y23,10 05 10*,zinc dust,H4.3,2848.1,"GR,PT,TR",BE,,R4,Bulgaria,2020
+11,A1080,Y23,10 05 10*,zinc dust,H4.3,170.162,"BE,GR,PT,TR",NL,,R4,Bulgaria,2020
+12,A1080,,10 05 03*,zinc cake,H12,4575.398,"GR,PT,TR",BE,,R4,Bulgaria,2020
+13,A1160,Y31,16 06 01*,spent lead-acid batteries,H8,13517.078,,RO,,R4,Bulgaria,2020
+14,A1160,Y31,16 06 01*,spent lead-acid batteries,H8,1803.1,,RO,,"R4,R5,R12",Bulgaria,2020
+15,A1160,Y31,16 06 01*,spent lead-acid batteries,H8,328.35,"BE,GR,PT,TR",NL,,R4,Bulgaria,2020
+16,A1160,Y31,16 06 01*,spent lead-acid batteries,H8,1239.53,"HU,RO,SK",CZ,,"R4,R5,R12",Bulgaria,2020
+17,A1160,Y31,16 06 01*,spent lead-acid batteries,H8,830.761,"HU,RO,SK",CZ,,"R4,R5,R12",Bulgaria,2020
+18,A1160,Y31,16 06 01*,spent lead-acid batteries,H8,115.75,,MK,,"R4,R5,R12",Bulgaria,2020
+19,A1160,Y31,16 06 01*,spent lead-acid batteries,H8,2805.45,RO,HU,,"R4,R5,R12",Bulgaria,2020
+20,A1160,Y31,16 06 01*,spent lead-acid batteries,H8,258.39,"HU,RO",AT,,"R4,R5,R12",Bulgaria,2020
+21,A1160,Y31,16 06 01*,spent lead-acid batteries,H8,9158.565,GR,IT,,"R4,R5,R12",Bulgaria,2020
+22,A1160,Y31,16 06 01*,spent lead-acid batteries,H8,3105.113,"HR,RS,SI",IT,,"R4,R5,R12",Bulgaria,2020
+23,A1160,Y31,16 06 01*,spent lead-acid batteries,H8,258.5,,RO,,"R4,R5,R12",Bulgaria,2020
+24,A1160,Y31,16 06 01*,spent lead-acid batteries,H8,1486.899,"HU,RO",SK,,"R4,R5,R12",Bulgaria,2020
+25,A1160,Y31,16 06 01*,spent lead-acid batteries,H8,89.85,,MK,,R4,Bulgaria,2020
+26,A1160,Y31,16 06 01*,spent lead-acid batteries,H8,23.12,"HU,RO",SK,,R4,Bulgaria,2020
+27,A3020,Y8,12 01 07*,waste mineral oils,H3,70.652,,RO,,R9,Bulgaria,2020
+28,A3020,Y8,13 01 10*,waste mineral oils,H3,73.301,,RO,,R9,Bulgaria,2020
+29,A3020,Y8,13 02 05*,waste mineral oils,H3,469.234,,RO,,R9,Bulgaria,2020
+30,A3020,Y8,13 02 06*,waste mineral oils,H3,561.533,,RO,,R9,Bulgaria,2020
+31,A3020,Y8,13 02 08*,waste mineral oils,H3,628.13,,RO,,R9,Bulgaria,2020
+32,A3020,Y8,13 05 06*,waste mineral oils,H3,22.24,,RO,,R9,Bulgaria,2020
+33,A3020,Y8,13 02 05*,waste mineral oils,H3,188.22,,MK,,R9,Bulgaria,2020
+34,A3020,Y8,13 02 08*,waste mineral oils,H3,46.26,,MK,,R9,Bulgaria,2020
+35,A3020,Y8,13 02 06*,waste mineral oils,H3,22.84,,MK,,R9,Bulgaria,2020
+36,A3020,Y8,13 05 06*,waste mineral oils,H3,118.04,,MK,,R9,Bulgaria,2020
+37,A3020,Y8,13 02 05*,waste mineral oils,H3,553.8,"AT,FR,DE,HU,RO",GB,,R9,Bulgaria,2020
+38,A3020,Y8,13 02 05*,waste mineral oils,H3,103.2,RO,HU,,R9,Bulgaria,2020
+39,A3020,Y8,13 02 05*,waste mineral oils,H3,51.0,RS,ME,,R9,Bulgaria,2020
+40,A3020,Y8,13 02 05*,waste mineral oils,H3,330.73,"HU,RO",AT,,R9,Bulgaria,2020
+41,A3020,Y8,13 02 05*,waste mineral oils,H3,404.98,,RS,,R9,Bulgaria,2020
+42,A3020,Y8,19 02 07*,Oil and concentrates from separation,,277.64,,RS,,R9,Bulgaria,2020
+43,A4060,Y9,16 07 08*,waste containing oils,H12,1232.38,,GR,,R9,Bulgaria,2020
+44,A4100,Y23,10 02 07*,steel dust,H12,396.886,"BE,GR,PT,TR",NL,,R4,Bulgaria,2020
+45,A4100,Y23,10 02 07*,steel dust,H12,3042.72,TR,GB,,R4,Bulgaria,2020
+46,A4100,Y23,10 02 07*,steel dust,H12,2184.32,TR,IL,,R4,Bulgaria,2020
+47,Y46,,19 12 10,SRF,,74354.951,,GB,,R1,Bulgaria,2020
+48,Y46,,19 12 10,RDF,,2496.94,,IT,,R1,Bulgaria,2020
+49,Y46,,19 12 10,RDF,,7731.48,,IT,,"R12,R1",Bulgaria,2020

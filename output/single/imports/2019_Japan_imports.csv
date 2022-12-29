@@ -1,0 +1,66 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_origin,annex_4_a_code,annex_4_b_code,country,year
+0,A1170,Y26,,unsorted waste batteries,H11,7.0,,TH,,R4,Japan,2019
+1,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,34.0,,TH,,R4,Japan,2019
+2,A1180,Y31,,unsorted waste batteries,H11,5.0, ,PH,,R4,Japan,2019
+3,A1020,"Y22,Y24,Y27,Y31",,sludge,"H11,H12",47.0,,BE,,R4,Japan,2019
+4,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,16.0,,SG,,R4,Japan,2019
+5,A1180,"Y22,Y31",,waste electrical and electronic assemblies or scrap,"H11,H12",14.0,,PH,,R4,Japan,2019
+6,A1180,Y31,,lead frame scrap,H11,0.35,,PH,,R4,Japan,2019
+7,A1050,Y17,,sludge,H11,8.0,,PH,,R4,Japan,2019
+8,A3140,Y42,,Ag paste scrap,H11,3.0,,PH,,R4,Japan,2019
+9,A3140,Y42,,Ag paste scrap,H11,0.17,,PH,,R4,Japan,2019
+10,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,41.0,,PH,,R4,Japan,2019
+11,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,25.0,,CN,,R4,Japan,2019
+12,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,23.0,,SG,,R4,Japan,2019
+13,A1030,Y29,,waste contaminated by mercury,H11,15.0,,PH,,R4,Japan,2019
+14,A1180,Y18,,waste electrical and electronic assemblies or scrap,H11,152.0,,PH,,R4,Japan,2019
+15,A1180,Y18,,waste electrical and electronic assemblies or scrap,H12,63.0,,LT,,R4,Japan,2019
+16,A1180,"Y22,Y31",,waste electrical and electronic assemblies or scrap,H11,161.0,,MY,,R4,Japan,2019
+17,A1180,"Y22,Y31",,waste electrical and electronic assemblies or scrap,H11,297.0,,PA,,R4,Japan,2019
+18,A1180,"Y22,Y31",,waste electrical and electronic assemblies or scrap,H11,1.0,,PA,,R4,Japan,2019
+19,A1180,"Y22,Y31",,waste electrical and electronic assemblies or scrap,H11,20.0,,SG,,R4,Japan,2019
+20,A3140,Y17,,Ag paste scrap,H11,0.93,,ID,,R4,Japan,2019
+21,A1050,Y17,,galvanic sludge,H11,56.0,,TH,,R4,Japan,2019
+22,A1050,Y17,,silver sludge,H11,70.0,,PH,,R4,Japan,2019
+23,A1180,"Y22,Y27,Y31",,waste electrical and electronic assemblies or scrap,H11,41.0,,BR,,R4,Japan,2019
+24,A1180,"Y22,Y27,Y31",,waste electrical and electronic assemblies or scrap,H11,46.0,,BR,,R4,Japan,2019
+25,"A1180,A1190","Y18,Y22,Y31",,waste electrical and electronic assemblies or scrap,H11,160.0,,TH,,R4,Japan,2019
+26,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,26.0,,PH,,R4,Japan,2019
+27,"A1180,A1190",Y31,,waste electrical and electronic assemblies or scrap,H11,88.0,,PH,,R4,Japan,2019
+28,"A1020,A1030",Y31,,solder dross,H11,3.0,,TH,,R4,Japan,2019
+29,A1130,Y22,,copper cake,H13,45.0,,ID,,R4,Japan,2019
+30,A1180,"Y18,Y31",,waste electrical and electronic assemblies or scrap,H11,22.0,,SG,,R4,Japan,2019
+31,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,46.0,,ZA,,R4,Japan,2019
+32,A1030,Y29,,waste contaminated by mercury,H11,13.0,,PH,,R4,Japan,2019
+33,A2030,"Y22,Y29",,waste catalyst,H11,483.0,,TH,,R4,Japan,2019
+34,A1030,"Y18,Y29",,waste contaminated by mercury,H11,348.0,,TH,,R4,Japan,2019
+35,A1170,Y26,,unsorted waste batteries,H11,52.0,,US,,R4,Japan,2019
+36,A1030,Y29,,waste contaminated by mercury,H6.1,0.36,,ID,,R4,Japan,2019
+37,A1030,Y29,,waste contaminated by mercury,H6.1,15.0,,ID,,R4,Japan,2019
+38,A1030,Y29,,waste contaminated by mercury,H6.1,3.0,,ID,,R4,Japan,2019
+39,A1030,Y29,,waste contaminated by mercury,H6.1,18.0,,ID,,R4,Japan,2019
+40,A1030,Y29,,waste contaminated by mercury,H6.1,6.0,,ID,,R4,Japan,2019
+41,A1050,Y17,,sludge,H11,128.0,,MY,,R4,Japan,2019
+42,A1050,Y22,,copper sludge,H12,341.0,,PH,,R4,Japan,2019
+43,A1050,Y17,,galvanic sludge,H11,1.0,,TH,,R4,Japan,2019
+44,A1170,Y26,,unsorted waste batteries,H11,184.0,,US,,R4,Japan,2019
+45,A1170,Y26,,unsorted waste batteries,H11,56.0,,US,,R4,Japan,2019
+46,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,21.0,,AU,,R4,Japan,2019
+47,A1170,Y26,,unsorted waste batteries,H11,67.0,,IN,,R4,Japan,2019
+48,A1030,Y29,,waste contaminated by mercury,H6.1,0.45,,ID,,R4,Japan,2019
+49,A1030,Y29,,waste contaminated by mercury,H6.1,0.19,,ID,,R4,Japan,2019
+50,A1030,Y29,,waste contaminated by mercury,H6.1,2.0,,ID,,R4,Japan,2019
+51,A1030,Y29,,waste contaminated by mercury,H6.1,24.0,,ID,,R4,Japan,2019
+52,A4050,Y17,,ion exchange resin scrap,H11,2.0,,PH,,R4,Japan,2019
+53,A1050,Y17,,sludge,H11,11.0,,PH,,R4,Japan,2019
+54,A3140,Y42,,Ag paste scrap,H11,0.26,,PH,,R4,Japan,2019
+55,A3140,Y42,,Ag paste scrap,H11,0.55,,PH,,R4,Japan,2019
+56,A1050,Y17,,sludge,H11,0.04,,PH,,R4,Japan,2019
+57,A3140,Y42,,Ag paste scrap,H11,9.0,,PH,,R4,Japan,2019
+58,A1120,Y22,,copper sludge,H12,18.0,,SG,,R4,Japan,2019
+59,A3140,Y42,,used expired epoxy,H11,0.48,,PH,,R4,Japan,2019
+60,A3140,Y17,,Ag paste scrap,H11,0.59,,ID,,R4,Japan,2019
+61,"A1020,A4050","Y31,Y33",,EMEW CELL,H11,0.04,,PH,,R4,Japan,2019
+62,A4050,Y33,,Au-absorption resin,H11,0.26,,PH,,R4,Japan,2019
+63,A1050,Y17,,galvanic sludge,H11,9.0,,TH,,R4,Japan,2019
+64,"A1020,A1030",Y31,,solder dross,H11,0.7,,TH,,R4,Japan,2019

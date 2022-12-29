@@ -1,0 +1,205 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,,Y18,10 03 08*,Salt Slag,H4.3,753.4,,NO,,"R5,R4",Uruguay,2017
+1,A1020,Y31,10 04 02*,Lead Dross Waste,H6.1,25.0,,IE,,R4,Uruguay,2017
+2,A1160,Y31,16 06 01*,Lead Acid Batteries,H8,1447.0,,IE,,R4,Uruguay,2017
+3,A4050,Y33,16 11 01*,Spent Pot liner,H4.3,1056.4,,IS,,"R5,R4",Uruguay,2017
+4,A1160,"Y31,Y34",16 06 01*,Lead Acid Batteries,H8,370.3,,IE,,R4,Uruguay,2017
+5,,,16 02 13* 16 05 04*,Waste packages and containers containing hazardous substances,H_,0.5,,IE,,"R13,R4",Uruguay,2017
+6,,Y18,10 03 08,Aluminium salt slag,H4.3,4959.8,,IS,,"R4,R5",Uruguay,2017
+7,A4050,"Y32,Y33",16 11 03*,Spent Pot liner,"H4.3,H6.1",4058.7,"PE,PA,US",NZ,,"R4,R5",Uruguay,2017
+8,A4050,Y33,16 11 03,Spent Pot Liner,H4.3,5111.9,"ES,BE",AE,,R13,Uruguay,2017
+9,A1160,Y31,16 06 01,Lead Acid Batteries,H8,821.4,,IE,,R4,Uruguay,2017
+10,A1160,Y31,16 06 01,Lead Acid Batteries,"H8,H12",237.6,,IS,,R4,Uruguay,2017
+11,A4050,Y33,16 11 01* 16 11 03*,Spent Pot liner,H4.3,520.8,,IS,,R5,Uruguay,2017
+12,A4050,"Y32,Y33",16 11 03*,Spent Pot liner,"H4.3,H6.1",1211.2,"AU,MY,SG,LK,OM,DJ,SA,EG,GR,IT,ES,BE",NZ,,"R4,R5",Uruguay,2017
+13,A4050,Y32,16 11 03*,Spent Refractory,H13,618.0,"NL,BE,FR",DE,,"R4,R5",Uruguay,2017
+14,A1160,Y31,16 06 01*,Lead Acid Batteries,H_,776.8,,FR,,"R4,R5",Uruguay,2017
+15,A1160,"Y31,Y34",16 06 01*,Lead Acid Batteries,H8,723.9,,FR,,R4,Uruguay,2017
+16,,Y45,14 06 01*,Waste refrigerant gases,H12,13.8,,IE,,R3,Uruguay,2017
+17,A1160,Y31,16 06 01*,Lead Acid Batteries,H8,733.9,,IE,,R4,Uruguay,2017
+18,A2030,,"15 02 02*, 16 08 07*",Waste catalysts but excluding such wastes specified on list B,"H4.2,H6.1",20.0,FR,BE,,R4,Uruguay,2017
+19,A2030,,16 08 07*,Waste catalysts but excluding such wastes specified on list B,H12,17.155,"BE,FR",DE,,"R5,R12",Uruguay,2017
+20,A2030,,16 08 07*,Waste catalysts but excluding such wastes specified on list B,"H6.1,H8",1.3329,BE,NL,,R4,Uruguay,2017
+21,A2030,,16 08 07*,Waste catalysts but excluding such wastes specified on list B,H12,25.806,,PL,,R4,Uruguay,2017
+22,A3150,,07 07 07*,Waste halogenated organic solvents,H3,1429.25,,NL,,"R3,R13",Uruguay,2017
+23,A4090,,14 06 03*,"Waste acidic or basic solutions, other than those specified in the corresponding entry on list B (note the related entry on list B, B2120)","H6.1,H8",23.25,,IE,,R2,Uruguay,2017
+24,A4130,,16 05 04*,Waste packages and containers containing Annex I substances in concentrations sufficient to exhibit Annex III hazard characteristics,"H12,H3,H6.1",22.9,,IE,,"R3,R4",Uruguay,2017
+25,A4140,,16 05 06*,Waste consisting of or containing off-specification or out-dated chemicals corresponding to Annex I categories and exhibiting Annex III hazard characteristics,"H5.1,H5.2,H6.1,H8",5.0,,IE,D10,,Uruguay,2017
+26,,,"10 09 11*,AA010 ","Dross, scalings and other wastes from the iron or steel industry .",H12,815.67,NL,IS,,"R4,R5",Uruguay,2017
+27,,,"17 02 04*,AC170 ",Treated cork and wood wastes,H4.1,1006.59,,IE,,R3,Uruguay,2017
+28,,,"17 02 04*,AC170 ",Treated cork and wood wastes,H12,800.0,,NL,,R3,Uruguay,2017
+29,,,"17 02 04*,AC170 ",Treated cork and wood wastes,H12,1050.0,,NL,,"R3,R13",Uruguay,2017
+30,,,10 03 04*,Aluminium pot pads,"H12,H12",283.68,NL,IS,,R4,Uruguay,2017
+31,,,10 03 04*,Aluminum skimmings,H4.3,657.6,NL,IS,,R4,Uruguay,2017
+32,,,10 13 12*,Cement kiln dust,H_,5648.56,,IE,,R10,Uruguay,2017
+33,,,"16 02 14, 16 02 16, 20 01 36","Discarded electrical and electronic equipment, non hazardous",H12,1754.77,,IE,,R4,Uruguay,2017
+34,,,15 01 10*,Empty IBC that used to contain polyester resin,H3,53.284,,IE,,R11,Uruguay,2017
+35,,,10 13 12*,Flue Dust,H_,27.94,,IE,,R10,Uruguay,2017
+36,,,"15 01 10*, 19 12 11*",High density polyethylene,H_,16.0,,IE,,R5,Uruguay,2017
+37,,,"15 01 10*, 19 12 11*",Solid plastic waste - High density polyethylene,H_,236.36,,IE,,R5,Uruguay,2017
+38,,,"16 02 13*, 16 02 14, 16 02 15*, 16 02 16, 20 01 35*, 20 01 36",WEEE containing hazardous and non hazardous parts,H12,1371.44,,IE,,R4,Uruguay,2017
+39,A3010,Y11,"05 01 03*, 15 01 06",Waste from the production or processing of petroleum coke and bitumen,H12,259.98,"BE,ES,MR,MR,SN",MR,D10,,Uruguay,2017
+40,A3160,"Y12,Y18,Y6","07 01 04*, 07 03 04*, 07 05 04*, 14 06 03*, 19 02 05*",Waste halogenated or unhalogenated non-aqueous distillation residues arising from organic solvent recovery operations,H3,202.21,,IE,D10,,Uruguay,2017
+41,A3160,"Y12,Y18,Y6","07 01 04*, 07 03 04*, 07 05 04*, 14 06 03*, 19 02 05*",Waste halogenated or unhalogenated non-aqueous distillation residues arising from organic solvent recovery operations,H3,233.59,,IE,,R3,Uruguay,2017
+42,A3140,"Y12,Y42,Y6","07 01 04*, 07 01 08*, 07 02 04*, 07 02 08*, 07 03 04*, 07 03 08*, 07 04 04*, 07 04 08*, 07 05 04*, 07 05 08*, 07 06 04*, 07 06 08*, 07 07 04*, 07 07 08*, 08 01 11*, 08 03 12*, 08 03 14*, 14 06 03*, 16 05 08*, 20 01 13*",Waste non-halogenated organic solvents but excluding such wastes specified on list B,"H3,H6.1",35.698,,IE,,"R2,R12",Uruguay,2017
+43,A3140,"Y12,Y42,Y6","07 01 04*, 07 01 08*, 07 02 04*, 07 02 08*, 07 03 04*, 07 03 08*, 07 04 04*, 07 04 08*, 07 05 04*, 07 05 08*, 07 06 04*, 07 06 08*, 07 07 04*, 07 07 08*, 08 01 11*, 08 03 12*, 08 03 14*, 14 06 03*, 16 05 08*, 20 01 13*",Waste non-halogenated organic solvents but excluding such wastes specified on list B,"H3,H6.1,H_",81.366,,IE,,"R2,R12",Uruguay,2017
+44,,Y16,"09 01 99,AD090 ","Wastes from the production, formulation and use of reprographic and photographic chemicals and materials not elsewhere specified or included",,871.149,,BE,,R4,Uruguay,2017
+45,,Y16,"09 01 99,AD090 ","Wastes from the production, formulation and use of reprographic and photographic chemicals and materials not elsewhere specified or included",H12,46.251,,BE,,R4,Uruguay,2017
+46,,Y16,"09 01 01*, 09 01 04*, 09 01 05*,AD090 ","Wastes from the production, formulation and use of reprographic and photographic chemicals and materials not elsewhere specified or included",H_,24.22,,IE,,"R4,R12",Uruguay,2017
+47,,Y16,"09 01 04*, 09 01 05*,AD090 ","Wastes from the production, formulation and use of reprographic and photographic chemicals and materials not elsewhere specified or included",H8,69.669,,IE,,"R4,R12",Uruguay,2017
+48,A2030,Y17,16 08 06*,Waste catalysts but excluding such wastes specified on list B,H12,479.525,"GR,PT,TR",MK,,R4,Uruguay,2017
+49,A3140,Y17,11 01 13*,Waste non-halogenated organic solvents but excluding such wastes specified on list B,H3,50.32,,IE,,R2,Uruguay,2017
+50,A4090,Y17,"06 01 01*, 06 01 04*, 06 01 06*, 11 01 05*, 16 03 03*","Waste acidic or basic solutions, other than those specified in the corresponding entry on list B (note the related entry on list B, B2120)",H8,204.365,,BE,,R5,Uruguay,2017
+51,A4090,Y17,"06 01 01*, 06 01 04*, 06 03 13*","Waste acidic or basic solutions, other than those specified in the corresponding entry on list B (note the related entry on list B, B2120)",H8,549.855,,BE,,R5,Uruguay,2017
+52,A4090,Y17,11 01 11*,"Waste acidic or basic solutions, other than those specified in the corresponding entry on list B (note the related entry on list B, B2120)",H6.1,4562.599,,IE,,R5,Uruguay,2017
+53,A4090,Y17,14 06 03*,"Waste acidic or basic solutions, other than those specified in the corresponding entry on list B (note the related entry on list B, B2120)","H6.1,H8",5314.31,,IE,D10,,Uruguay,2017
+54,,Y17,"16 08 07*,AB030 ",Wastes from non-cyanide based systems which arise from surface treatment of metals,H_,51.162,,DE,,R4,Uruguay,2017
+55,,Y17,"11 01 98*,AB030 ",Wastes from non-cyanide based systems which arise from surface treatment of metals,"H6.1,H8",26.091,,IE,,R4,Uruguay,2017
+56,,Y17,12 01 03,Aluminium waste from casting of non ferrous pieces.,,205.8,,IE,,R4,Uruguay,2017
+57,,Y17,15 02 02*,Material containing metal particles & dust from orthopaedic impants,"H4.1,H_",13.1,,IE,,R4,Uruguay,2017
+58,,Y17,15 02 02*,Material containing metal particles & dust from orthopaedic impants,H4.1,6.6,,IE,,R4,Uruguay,2017
+59,,Y17,12 01 20*,Nickel production dust,H12,6.36,,IE,,R4,Uruguay,2017
+60,,Y17,12 01 20*,Nickel production dust,H12,1.68,,IE,,R4,Uruguay,2017
+61,A2030,Y18,16 08 07*,Waste catalysts but excluding such wastes specified on list B,H12,1.142,"BE,FR",NL,,"R8,R12",Uruguay,2017
+62,A2030,Y18,16 08 07*,Waste catalysts but excluding such wastes specified on list B,H12,185.93,"AE,BE,DE,DJ,EG,ES,GB,GR,IL,IT,NL,OM,PK,SA",OM,D10,,Uruguay,2017
+63,A2030,Y18,16 08 07*,Waste catalysts but excluding such wastes specified on list B,H12,0.197,,SE,,R8,Uruguay,2017
+64,A2030,"Y18,Y2",16 08 07*,Waste catalysts but excluding such wastes specified on list B,"H4.1,H4.2,H6.1,H_",34.381,,IE,,R4,Uruguay,2017
+65,A3140,"Y18,Y2","07 01 01*, 07 05 01*, 07 07 01*",Waste non-halogenated organic solvents but excluding such wastes specified on list B,"H3,H6.1,H8",75.24,,IE,D10,,Uruguay,2017
+66,A3140,"Y18,Y2","07 01 01*, 07 05 01*, 07 07 01*",Waste non-halogenated organic solvents but excluding such wastes specified on list B,"H3,H6.1,H8",612.87,,IE,D10,,Uruguay,2017
+67,A3150,"Y18,Y2,Y41",07 05 03*,Waste halogenated organic solvents,"H3,H6.1",281.74,,IE,,R2,Uruguay,2017
+68,A3150,"Y18,Y2,Y41",07 05 03*,Waste halogenated organic solvents,"H3,H6.1,H8",95.24,,IE,,R2,Uruguay,2017
+69,A2030,Y2,16 08 07*,Waste catalysts but excluding such wastes specified on list B,"H12,H13,H3,H8,H_",21.532,"BE,DE",AT,,R8,Uruguay,2017
+70,A2030,Y2,16 08 07*,Waste catalysts but excluding such wastes specified on list B,H4.1,20.421,FR,CH,,R4,Uruguay,2017
+71,A2030,Y2,16 08 07*,Waste catalysts but excluding such wastes specified on list B,H12,0.36,FR,ES,,R4,Uruguay,2017
+72,A2030,Y2,15 02 02*,Waste catalysts but excluding such wastes specified on list B,"H4.1,H_",19.5,,IE,,R4,Uruguay,2017
+73,A2030,Y2,16 08 07*,Waste catalysts but excluding such wastes specified on list B,"H3,H4.1,H6.1,H_",39.365,,IE,,R4,Uruguay,2017
+74,A3140,Y2,07 05 04*,Waste non-halogenated organic solvents but excluding such wastes specified on list B,"H3,H6.1,H8,H_",21.06,,IE,D10,,Uruguay,2017
+75,A4010,Y2,07 07 01*,"Wastes from the production, preparation and use of pharmaceutical products but excluding such wastes specified on list B",,245.35,,BE,,R5,Uruguay,2017
+76,A4010,Y2,14 06 01*,"Wastes from the production, preparation and use of pharmaceutical products but excluding such wastes specified on list B",H12,17.94,,ES,,R3,Uruguay,2017
+77,A4010,Y2,07 05 01*,"Wastes from the production, preparation and use of pharmaceutical products but excluding such wastes specified on list B","H3,H6.1,H8",24.98,,IE,D10,,Uruguay,2017
+78,A4010,Y2,07 05 01*,"Wastes from the production, preparation and use of pharmaceutical products but excluding such wastes specified on list B","H3,H6.1,H8",179.3,,IE,D10,,Uruguay,2017
+79,A4010,Y2,"07 05 01*, 07 05 04*","Wastes from the production, preparation and use of pharmaceutical products but excluding such wastes specified on list B","H3,H6.1,H8",88.74,,IE,,R2,Uruguay,2017
+80,A4010,Y2,"07 05 01*, 07 05 04*","Wastes from the production, preparation and use of pharmaceutical products but excluding such wastes specified on list B","H3,H6.1,H8,H_",257.7,,IE,D10,,Uruguay,2017
+81,A4010,Y2,"07 05 01*, 07 05 04*, 16 03 05*","Wastes from the production, preparation and use of pharmaceutical products but excluding such wastes specified on list B","H3,H6.1,H8",222.82,,IE,,R3,Uruguay,2017
+82,A4010,Y2,"07 05 01*, 07 05 04*, 16 03 05*, 16 05 08*","Wastes from the production, preparation and use of pharmaceutical products but excluding such wastes specified on list B","H3,H6.1,H8",2448.35,,IE,,R2,Uruguay,2017
+83,A4010,Y2,"07 05 01*, 07 05 13*","Wastes from the production, preparation and use of pharmaceutical products but excluding such wastes specified on list B",H_,7.16,,IE,D10,,Uruguay,2017
+84,A4010,Y2,"07 05 01*, 07 05 13*, 18 01 09","Wastes from the production, preparation and use of pharmaceutical products but excluding such wastes specified on list B","H6.1,H_",7.56,,IE,D10,,Uruguay,2017
+85,A4010,Y2,07 05 04*,"Wastes from the production, preparation and use of pharmaceutical products but excluding such wastes specified on list B","H3,H6.1,H8",21.88,,IE,,R2,Uruguay,2017
+86,A4010,Y2,"07 05 04*, 14 06 03*","Wastes from the production, preparation and use of pharmaceutical products but excluding such wastes specified on list B","H3,H6.1,H8",1065.99,,IE,,R2,Uruguay,2017
+87,A4010,"Y2,Y3","07 05 01*, 07 05 04*","Wastes from the production, preparation and use of pharmaceutical products but excluding such wastes specified on list B","H3,H6.1,H8",212.42,,IE,,R2,Uruguay,2017
+88,A4010,"Y2,Y3",07 05 13*,"Wastes from the production, preparation and use of pharmaceutical products but excluding such wastes specified on list B","H12,H6.1,H_",16.61,,IE,D10,,Uruguay,2017
+89,A3140,"Y2,Y41",07 05 04*,Waste non-halogenated organic solvents but excluding such wastes specified on list B,"H3,H6.1,H8",65.14,,IE,D10,,Uruguay,2017
+90,A3150,"Y2,Y41",07 05 03*,Waste halogenated organic solvents,"H3,H6.1,H8",34.5,,IE,D10,,Uruguay,2017
+91,A3140,"Y2,Y42","07 01 04*, 07 02 04*, 07 03 04*, 07 04 04*, 07 05 04*, 07 07 04*, 14 06 03*",Waste non-halogenated organic solvents but excluding such wastes specified on list B,"H3,H6.1,H8",49.94,,IE,,R2,Uruguay,2017
+92,A3140,"Y2,Y42","07 01 04*, 07 02 04*, 07 03 04*, 07 04 04*, 07 05 04*, 07 07 04*, 14 06 03*",Waste non-halogenated organic solvents but excluding such wastes specified on list B,H_,488.64,,IE,,R2,Uruguay,2017
+93,A3140,"Y2,Y42",07 05 04*,Waste non-halogenated organic solvents but excluding such wastes specified on list B,"H12,H3,H6.1,H8",146.44,,IE,,R2,Uruguay,2017
+94,A3140,"Y2,Y42",07 05 04*,Waste non-halogenated organic solvents but excluding such wastes specified on list B,H3,243.35,,IE,,R2,Uruguay,2017
+95,A3140,"Y2,Y42",07 05 04*,Waste non-halogenated organic solvents but excluding such wastes specified on list B,"H3,H6.1,H8",144.0,,IE,,R2,Uruguay,2017
+96,A3140,"Y2,Y42",07 05 04*,Waste non-halogenated organic solvents but excluding such wastes specified on list B,"H3,H6.1,H8",237.54,,IE,D10,,Uruguay,2017
+97,A4010,"Y2,Y42","07 05 01*, 07 05 04*","Wastes from the production, preparation and use of pharmaceutical products but excluding such wastes specified on list B","H3,H6.1,H8",94.5,,IE,,R3,Uruguay,2017
+98,A3140,"Y2,Y42,Y6",07 05 04*,Waste non-halogenated organic solvents but excluding such wastes specified on list B,"H12,H12,H3,H6.1,H8",131.75,,IE,,R2,Uruguay,2017
+99,,"Y2,Y6","07 01 01*, 07 01 03*, 07 01 04*, 07 05 01*, 07 05 03*, 07 05 04*, 16 03 05*, 19 02 08*",Aqueous solvent mixture,"H3,H6.1,H8,H_",49.89,,IE,D10,,Uruguay,2017
+100,A2030,Y21,16 08 07*,Waste catalysts but excluding such wastes specified on list B,"H13,H6.1",8.926,"GR,PT,TR",MK,,R4,Uruguay,2017
+101,A1130,Y22,11 01 07*,Spent etching solutions containing dissolved copper,H12,51.8,DE,CZ,,R4,Uruguay,2017
+102,A1130,Y22,11 01 07*,Spent etching solutions containing dissolved copper,H6.1,16.0,DE,CZ,,R4,Uruguay,2017
+103,A1130,Y22,11 01 07*,Spent etching solutions containing dissolved copper,H12,30.62,"CZ,DE",SK,,"R4,R5",Uruguay,2017
+104,A1100,Y23,10 06 06*,Dusts and residues from gas cleaning systems of copper smelters,H12,2074.62,,ES,,R4,Uruguay,2017
+105,A4010,Y3,16 05 04*,"Wastes from the production, preparation and use of pharmaceutical products but excluding such wastes specified on list B",H12,42.939,,ES,,"R3,R4",Uruguay,2017
+106,A4010,Y3,"18 01 08*, 18 01 09","Wastes from the production, preparation and use of pharmaceutical products but excluding such wastes specified on list B","H3,H6.1,H12,H_",14.62,,IE,D10,,Uruguay,2017
+107,A4010,Y3,"18 01 08*, 18 01 09","Wastes from the production, preparation and use of pharmaceutical products but excluding such wastes specified on list B","H6.1,H12,H_",0.07,,IE,D10,,Uruguay,2017
+108,A4010,Y3,"18 01 08*, 18 01 09","Wastes from the production, preparation and use of pharmaceutical products but excluding such wastes specified on list B","H6.1,H12,H_",0.24,,IE,D10,,Uruguay,2017
+109,A1020,Y31,15 01 04,"Waste having as constituents or contaminants, excluding metal waste in massive form, any of the following:  Antimony, antimony compounds,  Beryllium, beryllium compounds, Cadmium, cadmium compounds, Lead, lead compounds, Selenium, selenium compounds, Tellurium, tellurium compounds.",,14.837,,BE,,R4,Uruguay,2017
+110,A1020,Y31,10 04 02*,"Waste having as constituents or contaminants, excluding metal waste in massive form, any of the following:  Antimony, antimony compounds,  Beryllium, beryllium compounds, Cadmium, cadmium compounds, Lead, lead compounds, Selenium, selenium compounds, Tellurium, tellurium compounds.",H6.1,197.17,,IE,,R4,Uruguay,2017
+111,A1020,Y31,"06 04 05*, 16 03 03*","Waste having as constituents or contaminants, excluding metal waste in massive form, any of the following:  Antimony, antimony compounds,  Beryllium, beryllium compounds, Cadmium, cadmium compounds, Lead, lead compounds, Selenium, selenium compounds, Tellurium, tellurium compounds.",H13,26.5,,IL,,R4,Uruguay,2017
+112,A1020,Y31,15 02 02*,"Waste having as constituents or contaminants, excluding metal waste in massive form, any of the following:  Antimony, antimony compounds,  Beryllium, beryllium compounds, Cadmium, cadmium compounds, Lead, lead compounds, Selenium, selenium compounds, Tellurium, tellurium compounds.",H13,29.9,,IL,,R4,Uruguay,2017
+113,A1160,Y31,16 06 01*,"Waste lead-acid batteries, whole or crushed",H8,1577.841,,IE,,R4,Uruguay,2017
+114,A1160,Y31,16 06 01*,"Waste lead-acid batteries, whole or crushed",H8,6787.389,,NO,,R4,Uruguay,2017
+115,A3030,Y31,16 07 09*,"Wastes that contain, consist of or are contaminated with leaded anti-knock compound sludges",H6.1,7.485,,ZA,,R4,Uruguay,2017
+116,A1160,"Y31,Y34",16 06 01*,"Waste lead-acid batteries, whole or crushed","H8,H12,H_",390.626,,FR,,R4,Uruguay,2017
+117,A1160,"Y31,Y34",16 06 01*,"Waste lead-acid batteries, whole or crushed",H8,6875.659,,IE,,R4,Uruguay,2017
+118,A1160,"Y31,Y34",16 06 01*,"Waste lead-acid batteries, whole or crushed",H8,97.02,,IE,,"R4,R13",Uruguay,2017
+119,A1160,"Y31,Y34",16 06 01*,"Waste lead-acid batteries, whole or crushed","H12,H8",363.126,,IS,,R4,Uruguay,2017
+120,A1160,"Y31,Y34",16 06 01*,"Waste lead-acid batteries, whole or crushed","H12,H8",64.265,,IS,,"R4,R13",Uruguay,2017
+121,,Y32,"10 03 21*,AB120 ","Inorganic halide compounds, not elsewhere specified or included","H12,H12",2473.09,NL,IS,,"R4,R5",Uruguay,2017
+122,A2030,Y34,16 08 05*,Waste catalysts but excluding such wastes specified on list B,H_,260.674,,NO,,R5,Uruguay,2017
+123,A2030,Y34,16 08 05*,Waste catalysts but excluding such wastes specified on list B,H8,167.97,,SE,,R5,Uruguay,2017
+124,A4090,Y34,06 01 01*,"Waste acidic or basic solutions, other than those specified in the corresponding entry on list B (note the related entry on list B, B2120)",H8,25.54,,IE,,R5,Uruguay,2017
+125,A4090,Y34,06 01 01*,"Waste acidic or basic solutions, other than those specified in the corresponding entry on list B (note the related entry on list B, B2120)",H8,674.78,,NL,,R5,Uruguay,2017
+126,A4090,Y35,"06 02 03*, 19 02 04*","Waste acidic or basic solutions, other than those specified in the corresponding entry on list B (note the related entry on list B, B2120)",H8,121.9,,IE,,R5,Uruguay,2017
+127,A2050,Y36,"17 06 01*, 17 06 05*",Waste asbestos (dusts and fibres),H12,10.0,"JM,NL",BZ,D5,,Uruguay,2017
+128,A2050,Y36,"17 06 01*, 17 06 05*",Waste asbestos (dusts and fibres),H12,555.24,"ES,IL",CY,D5,,Uruguay,2017
+129,A2050,Y36,"17 06 01*, 17 06 05*",Waste asbestos (dusts and fibres),H12,198.51,"ES,IL,IT",CY,D5,,Uruguay,2017
+130,A4030,"Y37,Y4,Y45","02 01 08*, 07 04 13*, 20 01 19*","Wastes from the production, formulation and use of biocides and phytopharmaceuticals, including waste pesticides and herbicides which are off-specification, out-dated, or unfit for their originally intended use","H12,H6.1,H12",39.638,"BE,BS,TT,US,US",DO,D10,,Uruguay,2017
+131,A4030,"Y37,Y4,Y45","02 01 08*, 07 04 13*, 20 01 19*","Wastes from the production, formulation and use of biocides and phytopharmaceuticals, including waste pesticides and herbicides which are off-specification, out-dated, or unfit for their originally intended use","H12,H3,H6.1,H8",237.888,"BE,DE,DJ,EG,ES,GB,GB,IT,NL,OM,SA,SD",ER,D10,,Uruguay,2017
+132,A4030,"Y37,Y4,Y45","02 01 08*, 07 04 13*, 20 01 19*","Wastes from the production, formulation and use of biocides and phytopharmaceuticals, including waste pesticides and herbicides which are off-specification, out-dated, or unfit for their originally intended use","H12,H3,H6.1,H8",21.42,,JM,D10,,Uruguay,2017
+133,A4030,"Y37,Y4,Y45","02 01 08*, 07 04 13*, 20 01 19*","Wastes from the production, formulation and use of biocides and phytopharmaceuticals, including waste pesticides and herbicides which are off-specification, out-dated, or unfit for their originally intended use","H12,H3,H6.1,H8",3.78,NL,JM,D10,,Uruguay,2017
+134,A3150,Y4,07 04 03*,Waste halogenated organic solvents,H3,108.94,NL,DE,,R2,Uruguay,2017
+135,A3150,"Y41,Y6",07 01 03*,Waste halogenated organic solvents,"H3,H6.1",100.42,"ES,IT",IL,D10,,Uruguay,2017
+136,A2030,Y42,16 08 07*,Waste catalysts but excluding such wastes specified on list B,H12,11.147,BE,FI,,R8,Uruguay,2017
+137,A2030,Y42,16 08 07*,Waste catalysts but excluding such wastes specified on list B,H_,1.632,"BE,FR",NL,,R4,Uruguay,2017
+138,A2030,Y42,16 08 07*,Waste catalysts but excluding such wastes specified on list B,H12,8.467,,SE,,R8,Uruguay,2017
+139,A3140,Y42,07 07 04*,Waste non-halogenated organic solvents but excluding such wastes specified on list B,H3,218.64,,BE,,R2,Uruguay,2017
+140,A3140,Y42,"07 01 04*, 07 05 04*",Waste non-halogenated organic solvents but excluding such wastes specified on list B,"H12,H3,H6.1,H8",16.76,,IE,,R3,Uruguay,2017
+141,A3140,Y42,"07 01 04*, 07 05 04*, 14 06 03*",Waste non-halogenated organic solvents but excluding such wastes specified on list B,"H12,H3,H6.1,H8",249.36,,IE,,R2,Uruguay,2017
+142,A3140,Y42,"07 01 04*, 07 05 04*, 14 06 03*",Waste non-halogenated organic solvents but excluding such wastes specified on list B,"H3,H6.1,H8",24.12,,IE,,R2,Uruguay,2017
+143,A3140,Y42,"07 05 01*, 07 05 04*",Waste non-halogenated organic solvents but excluding such wastes specified on list B,"H3,H6.1",350.27,,IE,D10,,Uruguay,2017
+144,A3140,Y42,"07 05 01*, 07 05 04*",Waste non-halogenated organic solvents but excluding such wastes specified on list B,"H3,H6.1",501.76,,IE,D10,,Uruguay,2017
+145,A3140,Y42,07 05 04*,Waste non-halogenated organic solvents but excluding such wastes specified on list B,H3,38.22,,IE,,R2,Uruguay,2017
+146,A3140,Y42,07 05 04*,Waste non-halogenated organic solvents but excluding such wastes specified on list B,"H3,H6.1",605.47,,IE,,R2,Uruguay,2017
+147,A3140,Y42,"07 05 04*, 16 03 05*",Waste non-halogenated organic solvents but excluding such wastes specified on list B,"H12,H3,H6.1,H8",773.16,,IE,,R2,Uruguay,2017
+148,A3140,Y42,14 06 03*,Waste non-halogenated organic solvents but excluding such wastes specified on list B,H3,3672.31,,IE,,R2,Uruguay,2017
+149,A4010,Y42,07 05 04*,"Wastes from the production, preparation and use of pharmaceutical products but excluding such wastes specified on list B",H3,1386.05,,BE,,R2,Uruguay,2017
+150,A4010,Y42,07 05 04*,"Wastes from the production, preparation and use of pharmaceutical products but excluding such wastes specified on list B",H3,625.231,DE,FI,,R2,Uruguay,2017
+151,A3140,"Y42,Y6","07 01 01*, 07 01 04*, 07 01 11*, 07 07 04*, 08 01 11*, 08 01 13*, 08 01 15*, 08 01 17*, 08 03 12*, 08 03 14*, 08 04 09*, 08 04 13*, 14 06 03*, 16 03 05*, 16 05 08*",Waste non-halogenated organic solvents but excluding such wastes specified on list B,"H12,H3,H6.1",118.39,"AE,BE,DE,DJ,EG,ES,GB,GR,IL,IT,NL,OM,PK,SA",OM,D10,,Uruguay,2017
+152,,Y45,"14 06 01*,AC150 ",Chlorofluorocarbons,,96.64,,FR,,R3,Uruguay,2017
+153,,Y45,"14 06 01*,AC150 ",Chlorofluorocarbons,H12,178.24,,FR,,R3,Uruguay,2017
+154,,Y45,"14 06 01*,AC150 ",Chlorofluorocarbons,H_,5.53,,IE,,R3,Uruguay,2017
+155,,Y45,"14 06 01*,AC150 ",Chlorofluorocarbons,H12,45.1,,NL,,R3,Uruguay,2017
+156,,Y45,"14 06 02*,AC160 ",Halons,,1.6,,NL,,R3,Uruguay,2017
+157,,Y45,"16 02 11*, 20 01 23*","Discarded equipment containing CFCs, HCFC, HFC",H12,253.97,,IE,,"R3,R4",Uruguay,2017
+158,,Y45,"16 02 11*, 20 01 23*","Discarded equiptment containing HCFC, HFC",H12,1529.08,,IE,,"R3,R4",Uruguay,2017
+159,,Y45,"16 02 11*, 20 01 23*","HCFC, HFC",H12,1326.73,,IE,,"R3,R4",Uruguay,2017
+160,,Y45,14 06 01*,"HFCs, HCFCs and HFO contaminated with oil",H12,144.549,,DE,,R3,Uruguay,2017
+161,,Y45,14 06 01*,Refrigerant gases and other related similar gases,H_,6.056,,IE,,R3,Uruguay,2017
+162,Y46,Y45,20 01 35*,Discarded Electrical and Electronic Equipment,H12,82.58,,IE,,"R4,R13",Uruguay,2017
+163,Y46,Y45,20 01 35*,Discarded Electrical and Electronic Equipment,H12,1499.72,,IE,,R4,Uruguay,2017
+164,Y46,Y45,20 01 23*,Discarded equipment containing CFCs (refrigeration equipment),H12,169.44,,IE,,R4,Uruguay,2017
+165,Y46,Y45,20 01 23*,Discarded equipment containing Chlorofluorocarbons,H12,760.06,,IE,,R4,Uruguay,2017
+166,Y46,Y45,20 01 23*,Discarded equipment containing Chlorofluorocarbons,H12,321.7,,IE,,R4,Uruguay,2017
+167,Y46,Y45,20 01 23*,Discarded equipment containing Chlorofluorocarbons,H12,777.03,,IE,,R4,Uruguay,2017
+168,Y46,Y45,20 01 35*,WEEE,H12,708.88,,IE,,R4,Uruguay,2017
+169,Y46,,20 01 35*,Discarded electrical and electronic equipment,H12,3052.51,,IE,,R4,Uruguay,2017
+170,Y46,,"20 01 21*, 20 01 23*",EEE,H12,2055.252,,IE,,R4,Uruguay,2017
+171,,Y5,"17 02 04*,AC170 ",Treated cork and wood wastes,H12,6465.046,NL,DE,,"R1,R3",Uruguay,2017
+172,,Y5,"17 02 04*,AC170 ",Treated cork and wood wastes,H12,51.54,,IE,,R1,Uruguay,2017
+173,,Y5,"17 02 04*,AC170 ",Treated cork and wood wastes,H12,4428.54,DE,PL,,"R1,R3",Uruguay,2017
+174,A3140,Y6,07 01 04*,Waste non-halogenated organic solvents but excluding such wastes specified on list B,,2012.16,,IE,,R2,Uruguay,2017
+175,A3140,Y6,14 06 03*,Waste non-halogenated organic solvents but excluding such wastes specified on list B,"H3,H6.1",1650.71,,IE,,R2,Uruguay,2017
+176,,Y6,"09 01 06*,AD090 ","Wastes from the production, formulation and use of reprographic and photographic chemicals and materials not elsewhere specified or included",H12,45.18,"BE,FR",NL,,R4,Uruguay,2017
+177,A3020,Y8,"12 01 07*, 12 01 09*, 12 01 10*, 13 01 10*, 13 01 11*, 13 01 13*, 13 02 05*, 13 02 06*, 13 02 07*, 13 02 08*, 13 03 07*, 13 03 08*, 13 03 09*, 13 03 10*, 13 04 03*, 13 05 06*, 13 05 07*, 13 07 01*, 13 07 03*, 13 08 02*, 14 06 03*, 16 01 13*, 16 01 14*, 16 01 15, 16 07 08*, 19 02 07*, 19 08 09, 19 08 10*",Waste mineral oils unfit for their originally intended use,H3,20509.817,,NO,,R9,Uruguay,2017
+178,A3020,Y8,"12 01 07*, 12 01 09*, 12 01 10*, 13 01 10*, 13 01 11*, 13 01 13*, 13 02 05*, 13 02 06*, 13 02 07*, 13 02 08*, 13 03 07*, 13 03 08*, 13 03 09*, 13 03 10*, 13 04 03*, 13 05 06*, 13 05 07*, 13 07 01*, 13 07 03*, 13 08 02*, 14 06 03*, 16 01 13*, 16 01 14*, 16 01 15, 16 07 08*, 19 08 09, 19 08 10*",Waste mineral oils unfit for their originally intended use,H3,114.7,,NO,,R9,Uruguay,2017
+179,A4060,Y8,"05 01 02*, 05 01 03*, 05 01 05*","Waste oils/water, hydrocarbons/water mixtures, emulsions",H12,390.796,"EG,NL",OM,D10,,Uruguay,2017
+180,A4060,Y9,"13 07 01*, 13 07 02*, 13 07 03*","Waste oils/water, hydrocarbons/water mixtures, emulsions",H3,84.1,,IE,,R9,Uruguay,2017
+181,,,11 01 05*,A1050 Galvanic sludges,H8,164.72,,IE,D9,,Uruguay,2017
+182,,Y18,16 02 11*,AC150 Chlorofluorocarbons,H12,23.7,,IE,,R4,Uruguay,2017
+183,,Y18,"16 02 11*, 20 01 23*",AC150 Chlorofluorocarbons,H12,16.06,,IE,,R4,Uruguay,2017
+184,,Y18,19 10 06,Shredding ELVs & White Goods,,3399.94,,IE,,R4,Uruguay,2017
+185,,Y18,19 10 06,Waste from shredding of ELV and White Goods,,40609.47,,IE,,R4,Uruguay,2017
+186,,Y18,19 10 06,waste metals,,56124.6,,IE,,R4,Uruguay,2017
+187,,Y31,"16 02 12*, 16 02 13*, 16 02 14",WEEE,,91.24,,IE,,"R4,R5",Uruguay,2017
+188,,"Y31,Y34",16 06 01*,"A1160 Waste lead-acid batteries, whole or crushed",H8,921.903,,IE,,R13,Uruguay,2017
+189,,"Y31,Y34",16 06 01*,Lead,H8,241.41,,IE,,R13,Uruguay,2017
+190,,Y34,"06 01 01*, 06 01 02*, 06 01 03*, 06 01 04*, 06 01 05*, 06 01 06*, 16 03 05*, 16 05 06*, 16 05 07*, 16 05 08*, 20 01 14*","A4090 Waste acidic or basic solutions, other than those specified in the corresponding entry on list B (note the related entry on list B, B2120)","H12,H8",233.42,,IE,D9,,Uruguay,2017
+191,,Y35,"06 02 01*, 06 02 03*, 06 02 04*, 06 02 05*, 16 03 03*, 16 03 05*, 16 05 06*, 16 05 07*, 16 05 08*, 16 10 01*, 20 01 15*","A4090 Waste acidic or basic solutions, other than those specified in the corresponding entry on list B (note the related entry on list B, B2120)","H12,H8",24.46,,IE,D9,,Uruguay,2017
+192,,Y36,"17 05 03*, 17 06 05*",A2050 Waste asbestos (dusts and fibres),H11,4273.145,,IE,D5,,Uruguay,2017
+193,,Y36,17 06 01*,A2050 Waste asbestos (dusts and fibres),H11,299.44,,IE,D5,,Uruguay,2017
+194,,"Y42,Y6",19 02 08*,A3140 Waste non-halogenated organic solvents but excluding such wastes specified on list B,"H3,H6.1",2424.68,,IE,,R1,Uruguay,2017
+195,,Y45,"16 02 11*, 20 01 23*",AC150 Chlorofluorocarbons,H12,270.52,,IE,,"R3,R4",Uruguay,2017
+196,,Y45,"16 02 11*, 20 01 23*",Chlorofluorocarbons,H12,805.1,,IE,,"R3,R4",Uruguay,2017
+197,,Y45,"16 02 11*, 20 01 23*",Disregarded refrigeration equipment,H12,715.76,,IE,,"R3,R4",Uruguay,2017
+198,,Y45,"16 02 11*, 20 01 23*",Fridges,H12,739.46,,IE,,"R3,R4",Uruguay,2017
+199,Y46,,"15 01 01, 15 01 02","B3020 Paper, paperboard and paper product wastes. The following materials provided they are not mixed with hazardous wastes: Waste and scrap of paper of paperboard of: Unbleached paper or paperboard or of corrugated paper or paperboard; Other paper or paperboard, made mainly of bleached chemical pulp, not coloured in the mass; Paper or paperboard made mainly of mechanical pulp (for example, newspapers, journals and similar printed matter). Other, including but not limited to 1. Laminated paperboard; 2. Unsorted scrap",H4.1,1493.29,,IE,,"R3,R4,R5",Uruguay,2017
+200,Y46,,"15 01 01, 15 01 02, 15 01 06, 15 01 07, 15 01 09, 20 01 01, 20 01 02, 20 01 11, 20 01 39, 20 01 40",Dry Mixed Recyclables,H4.1,34348.67,,IE,,"R3,R4,R5",Uruguay,2017
+201,Y46,,19 12 12,Waste fines,,1285.52,,IE,,"R1,R12",Uruguay,2017
+202,,Y6,19 02 08*,A3140 Waste non-halogenated organic solvents but excluding such wastes specified on list B,,2994.5,,IE,,R1,Uruguay,2017
+203,,Y6,19 02 08*,A3140 Waste non-halogenated organic solvents but excluding such wastes specified on list B,"H12,H3,H6.1,H8",2455.25,,IE,,R1,Uruguay,2017

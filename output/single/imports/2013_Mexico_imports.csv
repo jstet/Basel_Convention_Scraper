@@ -1,0 +1,32 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_origin,annex_4_a_code,annex_4_b_code,country,year
+0,,,O4,Contaminated lubricating oil,H8,600.0,,US,,R4,Mexico,2013
+1,,,Art 31 Fracc I,Used or worn lubricating oil,H12,43900.0,,US,,R4,Mexico,2013
+2,,,Art 31 Fracc I,Residual soluble oils,H12,1500.0, ,US,,R4,Mexico,2013
+3,A1160,Y31,Art 31 Fracc IV,Used electric accumulators,H11,686744.0, ,US,,R4,Mexico,2013
+4,A1160,,Art 31 Fracc IV,Lead-acid batteries for automotive and industrial use,H11,129000.0,,US,,R4,Mexico,2013
+5,,,Art 31 Fracc VII,Modular circuits made up of electrical and / or electronic components (Electronic boards),H12,7200.0,,US,,R4,Mexico,2013
+6,A1160,Y34,,Waste and scrap of lead,H8,9200.0,,US,,R4,Mexico,2013
+7,A1010,,,Glass waste and scrap containing lead CRT,,960.0,,US,,R4,Mexico,2013
+8,A1020,Y26,,Sludge with high copper content,H12,2500.0,US,CA,,R4,Mexico,2013
+9,,,O4,Residual oil mixture,H6.1,600.0,,US,,R4,Mexico,2013
+10,A4070,Y12,,Mixture of antibacterial gel containing expired or out of specification ethanol,H4.1,1000.0,,US,,R6,Mexico,2013
+11,A3140,Y42,,Mixture of flammable liquid waste,H3,1096.5,,US,,R2,Mexico,2013
+12,A4060,Y42,,Hazardous solid waste mix,H4.1,9434.72,,US,,R4,Mexico,2013
+13,A4010,,,Mixed solids contaminated with organic solvents,H4.1,5000.0,,US,,R4,Mexico,2013
+14,A4010,,,Mixture of solids contaminated with flammable organic solvents,H4.1,5040.0,,US,,R4,Mexico,2013
+15,A4070,Y12,,Mixed process solids,H4.1,5200.0,,US,,R1,Mexico,2013
+16,A4070,Y12,,Mixed Solids for alternative fuel,H4.1,500.0,,US,,R3,Mexico,2013
+17,A1010,,,Mixture of contaminated aqueous solutions,,6000.0,,US,,R4,Mexico,2013
+18,A3050,,,Mixture of flammable contaminated spent solvents,H6.1,4000.0,,US,,R4,Mexico,2013
+19,A4070,,,Mixture of solvents and spent organic solvents,,6000.0,,US,,R4,Mexico,2013
+20,B1010,,,Antimonial Lead Oxide,H13,7200.0,US,CA,,R4,Mexico,2013
+21,B1010,,,Lead metal oxides,H13,300.0,,US,,R4,Mexico,2013
+22,B1010,,,Lead-free metal oxides,H13,600.0,,US,,R4,Mexico,2013
+23,A4070,Y12,,Residual solvent based paint,H13,3000.0,,US,,R2,Mexico,2013
+24,,,RP7/07,Dusts from electric arc furnace emission control equipment in iron and steel production,H12,264252.0,,US,,R4,Mexico,2013
+25,A3140,Y42,,Non-halogenated solvent residues,H3,3000.0,,US,,R2,Mexico,2013
+26,A1010,,,Contaminated aqueous solutions,,4500.0,,US,,R4,Mexico,2013
+27,A4090,Y34,,"Spent solutions from the cadmium, copper, chrome, tin, phosphatized, brass, nickel, silver, tropicalized or zinc plated baths of acid metal parts",,4000.0,,US,,R6,Mexico,2013
+28,A4090,Y34,,Spent solutions from acid metal baths,H8,1000.0,,US,,R4,Mexico,2013
+29,A4090,Y35,,Spent solutions from alkaline metal parts baths,H8,1000.0,,US,,R4,Mexico,2013
+30,A2010,,,Cathode ray tube and glass with lead,,108000.0,,US,,R4,Mexico,2013

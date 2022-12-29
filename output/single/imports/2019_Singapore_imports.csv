@@ -1,0 +1,27 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_origin,annex_4_a_code,annex_4_b_code,country,year
+0,A1180,"Y22,Y23,Y29",,Mixed Electronic Scrap,H13,136.1366,,BR,,R4,Singapore,2019
+1,B1110,"Y21,Y22,Y23,Y31",,Waste Printed Circuit Boards,H13,84.1278,,CN,,R4,Singapore,2019
+2,,"Y22,Y23,Y29",,E-Waste: Obsolete or Damaged Computer or End Life Electronic Items Removed From Offices,H13,129.301,,QA,,R4,Singapore,2019
+3,A1180,Y18,,"Electronic Waste (Used Computers, Used Mobile Phones, Used Telecommunication Equipment & Precious Metal Bearing E-Waste Such As Printed Circuit Boards, Ic Chips & Components Mobile Handsets)",H13,46.8452,,ID,,R4,Singapore,2019
+4,A1180,Y18,,Electronics and Electrical Waste and Printed Circuit Boards,H13,111.4,,LK,,R4,Singapore,2019
+5,A1180,Y17,,Electronic Waste,H11,5.8765,,TH,,R4,Singapore,2019
+6,A1180,Y17,,"Lead Solder (Dross, Bar, Ingot and Paste)",H11,9.3625,,TH,,R4,Singapore,2019
+7,A1180,"Y22,Y31",,Printed Wiring Board and Components (Waste Electrical & Electronic Equipment),H11,54.519,,PH,,R4,Singapore,2019
+8,A1180,Y18,,"E-Waste (PCB and PCB Trimmings, Electronic Items, Components and Accessories, Lithium Ion Batteries)",H13,87.9916,,IN,,R4,Singapore,2019
+9,A1180,,,"PC and Related Parts & Accessories, Mobile Phone and Related Parts & Accessories",H13,5.58,,KR,,R4,Singapore,2019
+10,A4070,,,Toner Cartridge,H13,34.958,,KR,,R4,Singapore,2019
+11,A1180,Y31,,Electrical and Electronic Parts & Accessories,H11,174.03,,JP,,R4,Singapore,2019
+12,A1180,,,"Electrical and Electronic Equipment, Parts & Assemblies (eg. Computer & Mobile Phone) and Li-ion Batteries",H13,162.31,,TH,,R4,Singapore,2019
+13,A1180,Y31,,"Electrical and Electronic Equipment, Parts & Assemblies (eg. Computer & Mobile Phone) and Lithium Batteries",H13,0.26,,LK,,R4,Singapore,2019
+14,A1180,"Y22,Y23,Y31",,"Waste Electrical and Electronic Equipment and Assemblies (Including Circuit Boards, Components and Wires)","H12,H13",109.89,MY,NZ,,R4,Singapore,2019
+15,,Y18,,Used Toners & Ink Cartridges,H13,11.47,,PH,,R4,Singapore,2019
+16,A1180,Y18,,"Used Electrical & Electronics Equipment, Parts & Accessories (i.e. Computer & Mobile Phones, Lithium-Ion Batteries)",H13,71.44425,,PH,,R4,Singapore,2019
+17,A4070,Y18,,Waste Toner with Fuser,H13,31.117,,PH,,R4,Singapore,2019
+18,A1180,Y18,,"Used Electrical & Electronics Equipment, Parts & Accessories (e.g. Computers, Mobile Phones, Printer's Cartridges, Lithium-Ion Batteries)",H13,1.227,,KH,,R4,Singapore,2019
+19,A1180,,,"Electronic waste (Containing Used Electronic Equipments, Printed Circuit Board Assemblies, Modules, Power supplies, Batteries, Cables, Cartridges And/Or Other parts), Printed Circuit Boards & Electric Vehicle Lithium-ion Batteries",H13,100.7,,ID,,R4,Singapore,2019
+20,B1110,"Y18,Y22",,"General E-Waste, Waste Lithium Ion Batteries, & Waste Circuit Board",H13,4114.59,,CN,,R4,Singapore,2019
+21,"A1170,A1180","Y22,Y23,Y26",,"Electrical & Electronic Equipment, Parts & Accessories (i.e. Computer & Mobile Phones) & Lithium Ion Batteries",H13,79.8449,,VN,,R4,Singapore,2019
+22,,Y18,,Lithium Ion (Rechargeable Batteries),H13,4.95,,MY,,R4,Singapore,2019
+23,A1170,Y18,,Li-Ion Batteries,H13,19.5,,AU,,R4,Singapore,2019
+24,,Y42,,"Waste Stripper (2-Amino Ethanol, Glycol Ether And Water)",H8,200.0,,CN,,R2,Singapore,2019
+25,A3150,Y41,,Recovered Refrigerant (HCFC & HFC),H13,2.826,,CN,,R3,Singapore,2019

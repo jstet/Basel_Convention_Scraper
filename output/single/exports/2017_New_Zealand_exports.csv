@@ -1,0 +1,20 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A4020,Y1,,Cytotoxic waste,"H6.1,H11",151.842,,AU,D10,,New Zealand,2017
+1,A4030,Y4,,Pesticides,H6.1,52.62,,AU,,R1,New Zealand,2017
+2,A4030,Y4,,Dicyandiamide,H10,6.372,"PE,PA,US,BE",FR,D10,,New Zealand,2017
+3,A4030,Y4,,Pesticides,H6.1,17.766,"PE,PA,US,BE",DE,D10,,New Zealand,2017
+4,A3150,Y6,,Tetrachloroethylene,H6.1,10.946,"PE,PA,BE",FR,D10,,New Zealand,2017
+5,A3140,Y6,,Non-halogenated solvents,H3,34.85,,AU,,R1,New Zealand,2017
+6,A1180,Y22,,Mixed e-waste,H12,241.827,JP,KR,,R4,New Zealand,2017
+7,A1170,Y26,,Mixed waste batteries,"H8,H12",26.043,JP,KR,,R4,New Zealand,2017
+8,A1020,Y31,,Lead from used lead acid batteries,"H11,H12",99.191,,AU,,R4,New Zealand,2017
+9,,Y31,,Mixed e-waste,H12,17.572,,JP,,R4,New Zealand,2017
+10,A2010,Y31,,CRT glass,H12,14.12,JP,KR,,R4,New Zealand,2017
+11,A2050,Y36,,Waste acetylene gas cylinders containing asbestos ,H11,228.61,,AU,D1,,New Zealand,2017
+12,"A1020,A1180","Y20,Y27,Y31,Y45",,Mixed e-waste,"H11,H12,H13",106.752,,JP,,"R4,R5",New Zealand,2017
+13,,"Y22,Y23,Y26",,Mixed e-waste,"H12,H13",41.6,"PA,US,GB",BE,,R4,New Zealand,2017
+14,A1180,"Y22,Y23,Y31,Y45",,Mixed e-waste,"H12,H13",135.506,"AU,MY",SG,,R4,New Zealand,2017
+15,,"Y22,Y31",,Mixed e-waste,H11,40.756,,JP,,R4,New Zealand,2017
+16,A1180,"Y26,Y29,Y31,Y45",,Mixed e-waste,H12,133.406,,AU,,R4,New Zealand,2017
+17,"A1180,A1010,A1020,A1030","Y29,Y26",,"Mercury bearing waste, crushed lamps and fluorescent tubes",H6.1,4.817,,AU,,"R4,R5",New Zealand,2017
+18,A4050,"Y32,Y33",,Spent pot liner,"H4.3,H6.1",7831.405,"AU,MY,SG,LK,OM,DJ,SA,EG,GR,ES,IT,BE,PA,PE",GB,,"R4,R5",New Zealand,2017

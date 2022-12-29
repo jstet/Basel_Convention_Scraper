@@ -1,0 +1,17 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,,"Y8,Y9,Y18",19 12 11*,mixed waste,"H12,H13",24.04,,AT,D10,,Bosnia and Herzegovina,2018
+1,,"Y14,Y18,Y20,Y21,Y27",,waste chemical substances,,7.36,,AT,D10,,Bosnia and Herzegovina,2018
+2,,"Y12,Y13,Y41,Y45",,"sludges from paints and varnishes, halogenated solvents, packaging waste and filter materials","H3,H4.1,H6.1,H12",93.27, ,AT,D10,,Bosnia and Herzegovina,2018
+3,A4010,"Y2,Y3",,Pharmaceutical waste and cytostatics,"H3,H6.1,H11",60.24, ,AT,D10,,Bosnia and Herzegovina,2018
+4,A1080,Y45,,Refrigerators,H12,37.87,,AT,,"R3,R4",Bosnia and Herzegovina,2018
+5,A1050,Y36,,"sludges and filter cakes, galvanic precipitate",H13,23.04,,AT,,R5,Bosnia and Herzegovina,2018
+6,A2010,Y31,,screen tubes,H12,24.94,,DE,,R5,Bosnia and Herzegovina,2018
+7,A1110,,,electronic equipment,,10.4,,SI,,"R13,R4",Bosnia and Herzegovina,2018
+8,A1160,"Y31,Y34",16 06 01*,lead acid batteries,"H8,H6.1",2895.97,,SI,,R4,Bosnia and Herzegovina,2018
+9,A1160,"Y31,Y34",16 06 01*,lead acid batteries,"H8,H6.1",1987.47,,HR,,R4,Bosnia and Herzegovina,2018
+10,A4070,Y12,,"waste from the production, formulation and use of inks, dyes, pigments, paints, lacquers, varnish excluding any such waste specified on list B","H3,H4.1",20.56,,DE,D10,,Bosnia and Herzegovina,2018
+11,,Y18,,mixed waste,"H4.1,H6.1,H12",22.38,,DE,D10,,Bosnia and Herzegovina,2018
+12,A1180,Y45,,waste equipment contains CFC - refrigerators,H12,10.22,,HR,,R4,Bosnia and Herzegovina,2018
+13,A1180,Y29,,fluoroscent tubes and other waste contained mercury ,H12,4.9,,HR,,R5,Bosnia and Herzegovina,2018
+14,,"Y8,Y9,Y18",19 12 11*,mixed waste,"H12,H13",23.62,"HR,SI",AT,D10,,Bosnia and Herzegovina,2018
+15,A1160,Y31,160601*,lead acid batteries,H12,960.47,"HR,HU,SK",CZ,,R4,Bosnia and Herzegovina,2018

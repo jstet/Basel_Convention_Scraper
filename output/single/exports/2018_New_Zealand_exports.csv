@@ -1,0 +1,23 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,"A1020,A1180","Y20,Y27,Y31,Y45",,Mixed E-Waste,"H11,H12,H13",131.784,,JP,,"R4,R5",New Zealand,2018
+1,"A1020,A1180,A2050,A4060","Y8,Y12,Y31,Y36",,Whole ship (tanker),"H3,H11,H12,H13",3722.84,,IN,"D1,D10","R4,R5,R9",New Zealand,2018
+2,A1180,"Y22,Y23,Y26",,Mixed E-Waste,"H12,H13",17.76,"PA,NL,US,GB",BE,,R4,New Zealand,2018
+3,A1160,"Y31,Y34",,Used lead acid batteries,"H8,H11",15086.85,JP,KR,,R4,New Zealand,2018
+4,A1160,"Y31,Y34",,Used lead acid batteries,"H6.1,H11,H12",2032.261,"SG,JP,MY",KR,,R4,New Zealand,2018
+5,A1160,"Y31,Y34",,Used lead acid batteries,"H8,H11",2996.796,"AU,SG,JP,MY,CN",KR,,R4,New Zealand,2018
+6,A3140,Y6,,Solvents ,H3,19.05,,AU,,R1,New Zealand,2018
+7,A4030,Y4,,Pesticides,H6.1,15.703,,AU,D10,,New Zealand,2018
+8,A3140,Y6,,Non-halogenated solvents,H3,1.708,,AU,,"R1,R13",New Zealand,2018
+9,A4030,Y4,,Pesticides,H6.1,19.86,,AU,D10,,New Zealand,2018
+10,A4020,Y1,,Cytotoxic waste,"H6.1,H11",130.874,,AU,D10,,New Zealand,2018
+11,A1180,"Y22,Y31",,Mixed E-Waste,H11,55.822,,JP,,R4,New Zealand,2018
+12,A1180,"Y22,Y23,Y26",,Mixed E-Waste,"H12,H13",16.065,"PA,US",BE,,R4,New Zealand,2018
+13,A4050,"Y32,Y33",,Spent pot liner,"H4.3,H6.1",3778.655,"AU,MY,SG,LK,OM,DJ,SA,EG,GR,ES,IT,BE",GB,,"R4,R5",New Zealand,2018
+14,A1180,Y22,,Mixed E-Waste,H12,211.253,JP,KR,,R4,New Zealand,2018
+15,A1180,"Y26,Y29,Y31,Y45",,Mixed E-Waste,H12,126.021,,AU,,R4,New Zealand,2018
+16,A1180,"Y22,Y23,Y31",,Mixed E-Waste,"H12,H13",167.49,MY,SG,,R4,New Zealand,2018
+17,A1170,Y26,,Mixed batteries,"H8,H12",32.032,JP,KR,,R4,New Zealand,2018
+18,A2050,Y36,,Acetylene bottles (asbestos),H11,56.0,,AU,D1,"R2,R4",New Zealand,2018
+19,A3150,Y6,,Tetrachloroethylene,H6.1,12.668,"PA,US,BE,GB,NL",FR,D10,,New Zealand,2018
+20,A4140,Y45,,PFAS,H12,19.613,"PA,US,BE,GB,NL",FR,D10,,New Zealand,2018
+21,A4020,Y1,,Cytotoxic waste,H6.1,43.798,,AU,D10,,New Zealand,2018

@@ -1,0 +1,253 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,B1200,Y_,B402,Granulated Blast Furnace Slag (GBFS),H_,52500.0,,BD,D_,R_,Israel,2018
+1,B1200,Y_,B402,Granulated Blast Furnace Slag (GBFS),H_,45000.0,,BD,D_,R_,Israel,2018
+2,A2030,Y22,,Spent Catalyst Contaminated by Mercury,H6.1,47.66,,JP,D_,R_,Israel,2018
+3,A3020,Y31,,Copper cake,H8,23.0,,JP,D_,R_,Israel,2018
+4,A1180,"Y22,Y31",B107d,"Electronic waste (PCB, IC Chips, mobile handset components)",H11,26.0,,JP,D_,R_,Israel,2018
+5,,"Y22,Y31",B107d,"Electronic waste used computer (central processsing unit/CPU), laptop/notebook, lithium-ion, battery, printer cartridge)          ",H11,25.93,,SG,D_,R_,Israel,2018
+6,A1180,"Y22,Y31",B107d,"Used mobile phone (mobile phone unit, lithium-ion battery, adaptor/charger, mobile phone parts and accessories)",H11,26.2,,SG,D_,R_,Israel,2018
+7,A1180,"Y22,Y31",B107d,"Telecommunication equipment (BTS module, power supply, board refer to attched file)",H11,25.8,,SG,D_,R_,Israel,2018
+8,A1180,"Y22,Y31",B107d,"Electronic Waste used computer (central processsing unit/CPU), laptop/notebook, lithium-ion, battery, printer cartridge) ",H11,25.0,,SG,D_,R_,Israel,2018
+9,A1180,"Y22,Y31",B107d,"Used mobile phone (mobile phone unit, lithium-ion battery, adaptor/charger, mobile phone parts and accessories)",H11,25.0,,SG,D_,R_,Israel,2018
+10,A1180,"Y22,Y31",B107d,"Telecommunication equipment (BTS module, power supply, board refer to attched file",H11,25.0,,SG,D_,R_,Israel,2018
+11,A1180,"Y22,Y31",B107d,"Electronic waste (PCB, IC Chips, mobile handset components)",H11,0.026,,JP,D_,R_,Israel,2018
+12,,Y_,B413,Spent Bleaching Earth (SBE),H_,5342.01,,MY,D_,R_,Israel,2018
+13,,Y19,,Spent DeH-11 Catalyst,H4.1,10.8,,JP,D_,R_,Israel,2018
+14,,Y20,,Used DeH-11 Pacol Catalyst/Platinum,H4.2,10.8,,JP,D_,R_,Israel,2018
+15,A1050,Y23,,Bag Filter Ash,H13,32.0,,JP,D_,R_,Israel,2018
+16,,Y_,B413,Spent Bleaching Earth (SBE),H_,1345.48,,MY,D_,R_,Israel,2018
+17,,Y_,B413,Zinc Dross,H_,55.0,,JP,D_,R_,Israel,2018
+18,,Y_,B414,Zinc Dross,H_,36.0,,JP,D_,R_,Israel,2018
+19,,Y_,B415,Zinc Dross,H_,32.0,,JP,D_,R_,Israel,2018
+20,A1030,Y29,,Solid Waste Contaminated by Mercury,H6.1,45.49,,JP,D_,R_,Israel,2018
+21,A1030,Y29,,Equipment Contaminated by Mercury,H6.1,47.85,,JP,D_,R_,Israel,2018
+22,A1030,Y29,,Used Elemental Mercury,H6.1,0.055,,JP,D_,R_,Israel,2018
+23,A1030,Y29,,Oil Sludge Contaminated with Mercury,H6.1,55.02,,JP,D_,R_,Israel,2018
+24,A2030,Y22,,Spent Catalyst Contaminated by Mercury,H6.1,47.66,,JP,D_,R_,Israel,2018
+25,A2030,Y23,,Spent Catalyst Contaminated by Mercury,H6.2,73.65,,JP,D_,R_,Israel,2018
+26,A1030,Y29,,Elemental Mercury Waste,H6.1,0.024,,JP,D_,R_,Israel,2018
+27,A1030,Y29,,Liquid Waste Contaminated by Mercury,"H6.1,H8,H11",25.39,,JP,D_,R_,Israel,2018
+28,A1030,Y29,,Solid Waste Contaminated by Mercury,H6.1,0.532,,JP,D_,R_,Israel,2018
+29,A1030,Y29,,Filter Waste Contaminated by Mercury,H6.1,0.267,,JP,D_,R_,Israel,2018
+30,A1030,Y29,,Sludge Waste Contaminated by Mercury,H6.1,27.78,,JP,D_,R_,Israel,2018
+31,,Y_,,Tetra Ethyl Lead (TEL),H_,17.88,,SG,D_,R_,Israel,2018
+32,A1180,"Y22,Y31",B107d,"Precious metal bearing e-waste such as printed circuit board, IC chips and components mobile handsets",H11,26.085,,JP,D_,R_,Israel,2018
+33,A1180,"Y22,Y31",B107d,"Precious metal bearing e-waste such as printed circuit board, IC chips and components mobile handsets",H11,25.94,,JP,D_,R_,Israel,2018
+34,A1180,"Y22,Y31",B107d,"Precious metal bearing e-waste such as printed circuit board, IC chips and components mobile handsets",H11,26.13,,JP,D_,R_,Israel,2018
+35,,Y_,B413,Spent Bleaching Earth (SBE),H_,90.12,,MY,D_,R_,Israel,2018
+36,,Y_,B413,Spent Bleaching Earth (SBE),H_,329.67,,MY,D_,R_,Israel,2018
+37,,Y_,B413,Spent Bleaching Earth (SBE),H_,818.43,,MY,D_,R_,Israel,2018
+38,,Y_,B413,Spent Bleaching Earth (SBE),H_,1666.51,,MY,D_,R_,Israel,2018
+39,,Y_,B413,Spent Bleaching Earth (SBE),H_,1488.85,,MY,D_,R_,Israel,2018
+40,,Y_,B413,Spent Bleaching Earth (SBE),H_,948.43,,MY,D_,R_,Israel,2018
+41,,Y_,B413,Spent Bleaching Earth (SBE),H_,415.08,,MY,D_,R_,Israel,2018
+42,,Y_,B413,Spent Bleaching Earth (SBE),H_,936.27,,MY,D_,R_,Israel,2018
+43,,Y_,B413,Spent Bleaching Earth (SBE),H_,786.0,,MY,D_,R_,Israel,2018
+44,,Y_,B413,Spent Bleaching Earth (SBE),H_,862.65,,MY,D_,R_,Israel,2018
+45,,Y_,B413,Spent Bleaching Earth (SBE),H_,349.74,,MY,D_,R_,Israel,2018
+46,,Y_,B413,Spent Bleaching Earth (SBE),H_,1021.4,,MY,D_,R_,Israel,2018
+47,,Y_,B413,Spent Bleaching Earth (SBE),H_,886.9,,MY,D_,R_,Israel,2018
+48,,Y_,B413,Spent Bleaching Earth (SBE),H_,278.33,,MY,D_,R_,Israel,2018
+49,A1180,"Y22,Y31",B107d,Printed Circuit Board,H11,26.25,,SG,D_,R_,Israel,2018
+50,A1180,"Y22,Y31",B107d,Printed Circuit Board,H11,26.17,,SG,D_,R_,Israel,2018
+51,A1180,"Y22,Y31",B107d,Printed Circuit Board,H11,26.2,,SG,D_,R_,Israel,2018
+52,A1180,"Y22,Y31",B107d ,Printed Circuit Board ,H11,25.93,,SG,D_,R_,Israel,2018
+53,A1180,"Y22,Y31",B107d,Printed Circuit Board ,H11,25.8,,SG,D_,R_,Israel,2018
+54,A1180,"Y22,Y31",B107d,Printed Circuit Board ,H11,26.13,,SG,D_,R_,Israel,2018
+55,A1180,"Y22,Y31",B107d,Printed Circuit Board ,H11,10.71,,SG,D_,R_,Israel,2018
+56,A1180,"Y22,Y31",B107d,Printed Circuit Board ,H11,25.94,,SG,D_,R_,Israel,2018
+57,A1180,"Y22,Y31",B107d,Printed Circuit Board ,H11,26.42,,SG,D_,R_,Israel,2018
+58,A1180,"Y22,Y31",B107d,Printed Circuit Board ,H11,26.09,,SG,D_,R_,Israel,2018
+59,A1180,"Y22,Y31",B107d,Printed Circuit Board ,H11,4.44,,SG,D_,R_,Israel,2018
+60,A1180,"Y22,Y31",B107d,Printed Circuit Board ,H11,26.05,,SG,D_,R_,Israel,2018
+61,A1180,"Y22,Y31",B107d,Printed Circuit Board ,H11,26.14,,SG,D_,R_,Israel,2018
+62,A1180,"Y22,Y31",B107d,Printed Circuit Board ,H11,26.14,,SG,D_,R_,Israel,2018
+63,,Y_,B413,Zinc Dross,H_,18.43,,JP,D_,R_,Israel,2018
+64,,Y_,B413,Zinc Dross,H_,37.25,,JP,D_,R_,Israel,2018
+65,A1180,"Y22,Y31",B107d,Electronic Waste,H11,25.44,,JP,D_,R_,Israel,2018
+66,A1180,"Y22,Y31",B107d,Electronic Waste,H11,23.58,,JP,D_,R_,Israel,2018
+67,A1180,"Y22,Y31",B107d,Electronic Waste,H11,16.82,,JP,D_,R_,Israel,2018
+68,A1180,"Y22,Y31",B107d,Electronic Waste,H11,23.19,,JP,D_,R_,Israel,2018
+69,A1180,"Y22,Y31",B107d,Electronic Waste,H11,34.05,,JP,D_,R_,Israel,2018
+70,,Y_,B413,Spent Bleaching Earth (SBE),H_,1199.0,,MY,D_,R_,Israel,2018
+71,,Y_,B413,Spent Bleaching Earth (SBE),H_,1739.14,,MY,D_,R_,Israel,2018
+72,,Y_,B413,Spent Bleaching Earth (SBE),H_,1783.0,,MY,D_,R_,Israel,2018
+73,,Y_,B413,Spent Bleaching Earth (SBE),H_,1698.0,,MY,D_,R_,Israel,2018
+74,,Y_,B413,Spent Bleaching Earth (SBE),H_,1824.0,,MY,D_,R_,Israel,2018
+75,,Y_,B413,Spent Bleaching Earth (SBE),H_,1805.0,,MY,D_,R_,Israel,2018
+76,,Y_,B413,Spent Bleaching Earth (SBE),H_,1864.09,,MY,D_,R_,Israel,2018
+77,,Y_,B413,Zinc Dross,H_,19.22,,JP,D_,R_,Israel,2018
+78,,Y_,B413,Zinc Dross,H_,19.02,,JP,D_,R_,Israel,2018
+79,,Y_,B413,Spent Bleaching Earth (SBE),H_,1199.0,,MY,D_,R_,Israel,2018
+80,,Y_,B413,Spent Bleaching Earth (SBE),H_,1739.14,,MY,D_,R_,Israel,2018
+81,,Y_,B413,Spent Bleaching Earth (SBE),H_,1783.0,,MY,D_,R_,Israel,2018
+82,,Y_,B413,Spent Bleaching Earth (SBE),H_,1698.0,,MY,D_,R_,Israel,2018
+83,,Y_,B413,Spent Bleaching Earth (SBE),H_,1824.0,,MY,D_,R_,Israel,2018
+84,,Y_,B413,Spent Bleaching Earth (SBE),H_,1805.0,,MY,D_,R_,Israel,2018
+85,,Y_,B413,Spent Bleaching Earth (SBE),H_,1864.09,,MY,D_,R_,Israel,2018
+86,A1050,Y23,,Zinc Metal,H13,37.36,,JP,D_,R_,Israel,2018
+87,A1050,Y23,,Bag Filter Ash,H13,18.63,,JP,D_,R_,Israel,2018
+88,A1050,Y23,,Bag Filter Ash,H13,18.51,,JP,D_,R_,Israel,2018
+89,A1050,Y23,,Zinc Metal,H13,18.92,,JP,D_,R_,Israel,2018
+90,A1050,Y23,,Zinc Metal,H13,18.16,,JP,D_,R_,Israel,2018
+91,A1050,Y23,,Zinc Metal,H13,18.71,,JP,D_,R_,Israel,2018
+92,A3020,Y31,,Copper cake,H8,16.05,,JP,D_,R_,Israel,2018
+93,A3020,Y31,,Copper cake,H8,16.05,,JP,D_,R_,Israel,2018
+94,A3020,Y31,,Copper cake,H8,16.17,,JP,D_,R_,Israel,2018
+95,B1200,Y_,B402,Granulated Blast Furnace Slag (GBFS),H_,52500.0,,BD,D_,R_,Israel,2018
+96,B1200,Y_,B402,Granulated Blast Furnace Slag (GBFS),H_,45000.0,,BD,D_,R_,Israel,2018
+97,B1200,Y_,B402,Granulated Blast Furnace Slag (GBFS),H_,42200.0,,BD,D_,R_,Israel,2018
+98,B1200,Y_,B402,Granulated Blast Furnace Slag (GBFS),H_,40200.0,,BD,D_,R_,Israel,2018
+99,B1200,Y_,B402,Granulated Blast Furnace Slag (GBFS),H_,40700.0,,BD,D_,R_,Israel,2018
+100,B1200,Y_,B402,Granulated Blast Furnace Slag (GBFS),H_,51250.0,,AE,D_,R_,Israel,2018
+101,B1200,Y_,B402,Granulated Blast Furnace Slag (GBFS),H_,53954.16,,AE,D_,R_,Israel,2018
+102,B1200,Y_,B402,Granulated Blast Furnace Slag (GBFS),H_,54000.0,,AE,D_,R_,Israel,2018
+103,B1200,Y_,B402,Granulated Blast Furnace Slag (GBFS),H_,54870.0,,AE,D_,R_,Israel,2018
+104,A1180,"Y22,Y31",B107d,Printed circuit board (PCB),H11,19.3,,KR,D_,R_,Israel,2018
+105,A1180,"Y23,Y31",B107d,Printed circuit board (PCB),H11,26.24,,SG,D_,R_,Israel,2018
+106,A1180,"Y23,Y31",B107d,Printed circuit board (PCB),H11,26.17,,SG,D_,R_,Israel,2018
+107,A1180,"Y22,Y31",B107d,Printed circuit board (PCB),H11,26.2,,SG,D_,R_,Israel,2018
+108,A1180,"Y22,Y31",B107d,Printed circuit board (PCB),H11,25.92,,SG,D_,R_,Israel,2018
+109,A1180,"Y22,Y31",B107d,Printed circuit board (PCB),H11,25.79,,SG,D_,R_,Israel,2018
+110,A1180,"Y22,Y31",B107d,Printed circuit board (PCB),H11,26.12,,SG,D_,R_,Israel,2018
+111,A1180,"Y22,Y31",B107d,Printed circuit board (PCB),H11,10.7,,SG,D_,R_,Israel,2018
+112,A1180,"Y22,Y31",B107d,Printed circuit board (PCB),H11,25.93,,SG,D_,R_,Israel,2018
+113,A1180,"Y22,Y31",B107d,Printed circuit board (PCB),H11,26.41,,SG,D_,R_,Israel,2018
+114,A1180,"Y22,Y31",B107d,Printed circuit board (PCB),H11,26.08,,SG,D_,R_,Israel,2018
+115,A1180,"Y22,Y31",B107d,Printed circuit board (PCB),H11,4.43,,SG,D_,R_,Israel,2018
+116,A1180,"Y22,Y31",B107d,Printed circuit board (PCB),H11,26.05,,SG,D_,R_,Israel,2018
+117,A1180,"Y22,Y31",B107d,Printed circuit board (PCB),H11,26.14,,SG,D_,R_,Israel,2018
+118,A1180,"Y22,Y31",B107d,Printed circuit board (PCB),H11,26.23,,SG,D_,R_,Israel,2018
+119,A1180,"Y22,Y31",B107d,Printed circuit board (PCB),H_,26.01,,SG,D_,R_,Israel,2018
+120,A1180,"Y22,Y31",B107d,Printed circuit board (PCB),H11,26.2,,SG,D_,R_,Israel,2018
+121,A1180,"Y22,Y31",B107d,Printed circuit board (PCB),H11,26.01,,SG,D_,R_,Israel,2018
+122,A1180,"Y22,Y31",B107d,Printed circuit board (PCB),H11,26.02,,SG,D_,R_,Israel,2018
+123,A1180,"Y22,Y31",B107d,Printed circuit board (PCB),H11,26.0,,SG,D_,R_,Israel,2018
+124,A1180,"Y22,Y31",B107d,Printed circuit board (PCB),H11,26.0,,SG,D_,R_,Israel,2018
+125,A1180,"Y22,Y31",B107d,Printed circuit board (PCB),H11,19.89,,SG,D_,R_,Israel,2018
+126,A1180,"Y22,Y31",B107d,Printed circuit board (PCB),H11,3.27,,SG,D_,R_,Israel,2018
+127,A1180,"Y22,Y31",B107d,Printed circuit board (PCB),H11,26.08,,SG,D_,R_,Israel,2018
+128,A1180,"Y22,Y31",B107d,Printed circuit board (PCB),H11,19.85,,SG,D_,R_,Israel,2018
+129,,Y_,B413,Spent Bleaching Earth (SBE),H_,1199.0,,MY,D_,R_,Israel,2018
+130,,Y_,B413,Spent Bleaching Earth (SBE),H_,1739.14,,MY,D_,R_,Israel,2018
+131,,Y_,B413,Spent Bleaching Earth (SBE),H_,1783.0,,MY,D_,R_,Israel,2018
+132,,Y_,B413,Spent Bleaching Earth (SBE),H_,1698.0,,MY,D_,R_,Israel,2018
+133,,Y_,B413,Spent Bleaching Earth (SBE),H_,1824.0,,MY,D_,R_,Israel,2018
+134,,Y_,B413,Spent Bleaching Earth (SBE),H_,1805.0,,MY,D_,R_,Israel,2018
+135,,Y_,B413,Spent Bleaching Earth (SBE),H_,1864.09,,MY,D_,R_,Israel,2018
+136,A1180,"Y22,Y31",B107d,Printed circuit board (PCB),H11,3.19,,KR,D_,R_,Israel,2018
+137,A1180,"Y22,Y31",B107d,Printed circuit board (PCB),H11,15.58,,KR,D_,R_,Israel,2018
+138,,Y_,,Contaminated Plastic,H_,1071.1,,JP,D_,R_,Israel,2018
+139,,Y_,,Contaminated Majun,H_,545.4,,JP,D_,R_,Israel,2018
+140,,Y_,,Rejected Microcircuit A,H_,3828.8,,JP,D_,R_,Israel,2018
+141,,Y_,,Rejected Microcircuit B,H_,1664.6,,JP,D_,R_,Israel,2018
+142,,Y_,,Pd-Al203 Spent Catalyst,H_,19.25,,KR,D_,R_,Israel,2018
+143,,Y_,B413,Spent Bleaching Earth (SBE),H_,5342.01,,MY,D_,R_,Israel,2018
+144,,Y_,B413,Spent Bleaching Earth (SBE),H_,2536.37,,MY,D_,R_,Israel,2018
+145,,Y19,,Catalyst DeH-11,H4.1,10.8,,JP,D_,R_,Israel,2018
+146,,Y19,,Catalyst DeH-11,H4.1,10.8,,JP,D_,R_,Israel,2018
+147,,Y19,,Catalyst DeH-11,H4.1,10.8,,JP,D_,R_,Israel,2018
+148,,Y_,,Ag Pasta (Silver Pasta),H_,0.223,,JP,D_,R_,Israel,2018
+149,,Y_,B413,Spent Bleaching Earth (SBE),H_,415.08,,MY,D_,R_,Israel,2018
+150,,Y_,B413,Spent Bleaching Earth (SBE),H_,936.27,,MY,D_,R_,Israel,2018
+151,,Y_,B413,Spent Bleaching Earth (SBE),H_,786.0,,MY,D_,R_,Israel,2018
+152,,Y_,B413,Spent Bleaching Earth (SBE),H_,862.65,,MY,D_,R_,Israel,2018
+153,A1020,Y31,B407,EAF Dust,H11,18.38,,KR,D_,R_,Israel,2018
+154,A1020,Y31,B407,EAF Dust,H11,148.3,,KR,D_,R_,Israel,2018
+155,A1020,Y31,B407,EAF Dust,H11,192.39,,KR,D_,R_,Israel,2018
+156,A1020,Y31,B407,EAF Dust,H11,199.33,,KR,D_,R_,Israel,2018
+157,A1020,Y31,B407,EAF Dust,H11,99.9,,KR,D_,R_,Israel,2018
+158,A1020,Y31,B407,EAF Dust,H11,172.82,,KR,D_,R_,Israel,2018
+159,A1020,Y31,B407,EAF Dust,H11,214.24,,KR,D_,R_,Israel,2018
+160,A1020,Y31,B407,EAF Dust,H11,181.4,,KR,D_,R_,Israel,2018
+161,A1020,Y31,B407,EAF Dust,H11,178.45,,KR,D_,R_,Israel,2018
+162,A1020,Y31,B407,EAF Dust,H11,139.21,,KR,D_,R_,Israel,2018
+163,A1020,Y31,B407,EAF Dust,H11,127.04,,KR,D_,R_,Israel,2018
+164,A1020,Y31,B407,EAF Dust,H11,138.32,,KR,D_,R_,Israel,2018
+165,A1020,Y31,B407,EAF Dust,H11,142.08,,KR,D_,R_,Israel,2018
+166,A1020,Y31,B407,EAF Dust,H11,123.24,,KR,D_,R_,Israel,2018
+167,A1020,Y31,B407,EAF Dust,H11,162.17,,KR,D_,R_,Israel,2018
+168,A1020,Y31,B407,EAF Dust,H11,99.06,,KR,D_,R_,Israel,2018
+169,A1020,Y31,B407,EAF Dust,H11,210.07,,KR,D_,R_,Israel,2018
+170,A1020,Y31,B407,EAF Dust,H11,69.77,,KR,D_,R_,Israel,2018
+171,A1020,Y31,B407,EAF Dust,H11,145.8,,KR,D_,R_,Israel,2018
+172,A1020,Y31,B407,EAF Dust,H11,76.08,,KR,D_,R_,Israel,2018
+173,A1020,Y31,B407,EAF Dust,H11,179.84,,KR,D_,R_,Israel,2018
+174,A1020,Y31,B407,EAF Dust,H11,141.71,,KR,D_,R_,Israel,2018
+175,A1020,Y31,B407,EAF Dust,H11,153.51,,KR,D_,R_,Israel,2018
+176,A1020,Y31,B407,EAF Dust,H11,154.28,,KR,D_,R_,Israel,2018
+177,A3020,Y31,B413,Copper cake,H8,23.706,,JP,D_,R_,Israel,2018
+178,A1050,Y23,,Bag Filter Ash,H13,32.981,,JP,D_,R_,Israel,2018
+179,,Y_,B413,Zinc Dross,H_,54.87,,JP,D_,R_,Israel,2018
+180,,Y_,B413,Zinc Dross,H_,36.23,,JP,D_,R_,Israel,2018
+181,,Y_,B413,Zinc Dross,H_,32.6,,JP,D_,R_,Israel,2018
+182,,Y_,B413,Zinc Dross,H11,38.24,,JP,D_,R_,Israel,2018
+183,,Y_,B413,Zinc Dross,H_,55.8,,JP,D_,R_,Israel,2018
+184,A1050,Y23,,Bag Filter Ash,H13,37.15,,JP,D_,R_,Israel,2018
+185,,Y_,B413,Zinc Dross,H_,55.68,,JP,D_,R_,Israel,2018
+186,A1050,Y23,,Bag Filter Ash,H13,37.44,,JP,D_,R_,Israel,2018
+187,A1050,Y23,,Zinc Metal,,37.36,,JP,D_,R_,Israel,2018
+188,,Y_,B413,Spent Bleaching Earth (SBE),H_,3451.27,,MY,D_,R_,Israel,2018
+189,,Y_,B413,Spent Bleaching Earth (SBE),H_,3998.72,,MY,D_,R_,Israel,2018
+190,,Y_,B413,Spent Bleaching Earth (SBE),H_,1200.69,,MY,D_,R_,Israel,2018
+191,,Y_,B413,Spent Bleaching Earth (SBE),H_,1345.47,,MY,D_,R_,Israel,2018
+192,,Y_,B413,Spent Bleaching Earth (SBE),H_,1299.75,,MY,D_,R_,Israel,2018
+193,,Y_,,Calcium Hydroxide Sludge,H_,440.0,,MY,D_,R_,Israel,2018
+194,,Y_,,Calcium Hydroxide Sludge,H_,180.0,,MY,D_,R_,Israel,2018
+195,,Y_,,Calcium Hydroxide Sludge,H_,250.0,,MY,D_,R_,Israel,2018
+196,A1180,"Y22,Y31",B107d,"Used computers, used telecommunications devices, used cellular phones",H11,26.47,,SG,D_,R_,Israel,2018
+197,A1180,"Y22,Y31",B107d,"Used computers, used telecommunications devices, used cellular phones",H11,24.28,,SG,D_,R_,Israel,2018
+198,A1180,"Y22,Y31",B107d,"Used computers, used telecommunications devices, used cellular phones",H11,17.02,,SG,D_,R_,Israel,2018
+199,A1180,"Y22,Y31",B107d,"Used computers, used telecommunications devices, used cellular phones",H11,23.22,,SG,D_,R_,Israel,2018
+200,A1180,"Y22,Y31",B107d,"Used computers, used telecommunications devices, used cellular phones",H11,90.99,,SG,D_,R_,Israel,2018
+201,A1180,"Y22,Y31",B107d,"Used computers, used telecommunications devices, used cellular phones",H11,74.58,,SG,D_,R_,Israel,2018
+202,A1180,"Y22,Y31",B107d,"Used computers, used telecommunications devices, used cellular phones",H11,3.66,,SG,D_,R_,Israel,2018
+203,A1180,"Y22,Y31",B107d,"Used computers, used telecommunications devices, used cellular phones",H11,36.67,,SG,D_,R_,Israel,2018
+204,B1200,Y_,B402,Granulated Blast Furnace Slag (GBFS),H_,5125.0,,AE,D_,R_,Israel,2018
+205,B1200,Y_,B402,Granulated Blast Furnace Slag (GBFS),H_,53954.16,,AE,D_,R_,Israel,2018
+206,B1200,Y_,B402,Granulated Blast Furnace Slag (GBFS),H_,54000.0,,AE,D_,R_,Israel,2018
+207,B1200,Y_,B402,Granulated Blast Furnace Slag (GBFS),H_,54870.0,,AE,D_,R_,Israel,2018
+208,A1050,Y23,,Bag Filter Ash,H13,17845.0,,JP,D_,R_,Israel,2018
+209,A1050,Y23,,Bag Filter Ash,H13,17713.0,,JP,D_,R_,Israel,2018
+210,A1050,Y23,,Bag Filter Ash,H13,17835.0,,JP,D_,R_,Israel,2018
+211,A1050,Y23,,Bag Filter Ash,H13,17110.0,,JP,D_,R_,Israel,2018
+212,A3020,Y31,,Copper Cake,H8,15836.0,,JP,D_,R_,Israel,2018
+213,A3020,Y31,,Copper Cake,H8,15831.0,,JP,D_,R_,Israel,2018
+214,,Y_,B413,Zinc Dross,H_,66.0,,JP,D_,R_,Israel,2018
+215,,Y_,B413,Zinc Dross,H_,25975.0,,JP,D_,R_,Israel,2018
+216,,Y_,B413,Zinc Dross,H_,9562.0,,JP,D_,R_,Israel,2018
+217,,Y_,B413,Zinc Dross,H_,20142.0,,JP,D_,R_,Israel,2018
+218,A1050,Y23,,Zinc Metal,H13,18608.0,,JP,D_,R_,Israel,2018
+219,A1050,Y23,,Zinc Metal,H13,18752.0,,JP,D_,R_,Israel,2018
+220,A3020,Y31,,Copper Cake,H8,16049.0,,JP,D_,R_,Israel,2018
+221,A3020,Y31,,Copper Cake,H8,16055.0,,JP,D_,R_,Israel,2018
+222,A3020,Y31,,Copper Cake,H8,16174.0,,JP,D_,R_,Israel,2018
+223,A1050,Y23,,Zinc Metal,H13,36.0,,JP,D_,R_,Israel,2018
+224,A1050,Y23,,Bag Filter Ash,H13,18773.0,,JP,D_,R_,Israel,2018
+225,A1050,Y23,,Bag Filter Ash,H13,18671.0,,JP,D_,R_,Israel,2018
+226,,Y20,,Used Catalyst DeH-11,H4.2,10800.0,,JP,D_,R_,Israel,2018
+227,,Y_,B413,Zinc Dross,H_,66349.0,,JP,D_,R_,Israel,2018
+228,,Y20,,Product residue (sludge containing platinum and palladium),H4.2,8.979,,JP,D_,R_,Israel,2018
+229,,Y20,,Product residue (sludge containing platinum and palladium),H4.2,4.482,,JP,D_,R_,Israel,2018
+230,,Y_,B413,Spent Bleaching Earth (SBE),H_,3451.28,,MY,D_,R_,Israel,2018
+231,,Y_,B413,Spent Bleaching Earth (SBE),H_,3998.73,,MY,D_,R_,Israel,2018
+232,A3020,Y31,,Copper Cake,H8,15.83,,JP,D_,R_,Israel,2018
+233,A3020,Y31,,Copper Cake,H8,15.83,,JP,D_,R_,Israel,2018
+234,A1050,Y23,,Bag Filter Ash,H13,36.0,,JP,D_,R_,Israel,2018
+235,,Y_,B413,Spent Bleaching Earth (SBE),H_,1010.84,,MY,D_,R_,Israel,2018
+236,,Y_,B413,Spent Bleaching Earth (SBE),H_,1345.48,,MY,D_,R_,Israel,2018
+237,,Y_,B413,Spent Bleaching Earth (SBE),H_,1200.69,,MY,D_,R_,Israel,2018
+238,,Y_,B413,Spent Bleaching Earth (SBE),H_,1299.76,,MY,D_,R_,Israel,2018
+239,,Y_,B413,Spent Bleaching Earth (SBE),H_,1086.33,,MY,D_,R_,Israel,2018
+240,A1180,"Y22,Y31",B107d,Printed Circuit Board (PCB),H11,19.89,,SG,D_,R_,Israel,2018
+241,A1180,"Y22,Y31",B107d,Printed Circuit Board (PCB),H11,3.28,,SG,D_,R_,Israel,2018
+242,A1180,"Y22,Y31",B107d,Printed Circuit Board (PCB),H11,26.0,,SG,D_,R_,Israel,2018
+243,A1180,"Y22,Y31",B107d,Printed Circuit Board (PCB),H11,26.45,,SG,D_,R_,Israel,2018
+244,A1180,"Y22,Y31",B107d,Printed Circuit Board (PCB),H11,26.19,,JP,D_,R_,Israel,2018
+245,A1180,"Y22,Y31",B107d,Printed Circuit Board (PCB),H11,26.17,,JP,D_,R_,Israel,2018
+246,A1180,"Y22,Y31",B107d,Printed Circuit Board (PCB),H11,26.13,,JP,D_,R_,Israel,2018
+247,A1180,"Y22,Y31",B107d,Printed Circuit Board (PCB),H11,26.47,,JP,D_,R_,Israel,2018
+248,,Y_,,Calcium Hydroxide Sludge,H_,800.0,,MY,D_,R_,Israel,2018
+249,A1180,"Y22,Y31",B107d,Electronic waste,H11,53.387,,KR,D_,R_,Israel,2018
+250,A1180,"Y22,Y31",B107d,Electronic waste,H11,3.65,,KR,D_,R_,Israel,2018
+251,A1180,"Y22,Y31",B107d,Electronic waste,H11,27.203,,KR,D_,R_,Israel,2018

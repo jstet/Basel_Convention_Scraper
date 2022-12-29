@@ -1,0 +1,37 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,,,100308,Escórias salinas da produção secundária,H4.3,1615.26,,ES,,R4,Portugal,2013
+1,,Y17,120118,,H13,3.206,,ES,,"R12,R4",Portugal,2013
+2,,"Y20,Y26,Y29,Y31",160213,"Equipamentos fora de uso, contendo componentes perigosos não abrangidos em 16 02 09 a 16 02 12",,6.022,ES,FR,,"R12,R4,R5",Portugal,2013
+3,,Y45,140601,"Clorofluorcarbonetos, HCFC, HFC",,28.31,ES,FR,D10,,Portugal,2013
+4,,Y45,160504,"gases em recipientes sob pressão (incluindo halons), contendo substâncias perigosas",,5.2,"BE,ES,FR",NL,,"R13,R3",Portugal,2013
+5,A1010,Y22,101011,Resíduos de outras partículas contendo substâncias perigosas,,263.6,,ES,,R4,Portugal,2013
+6,A1010,Y29,180110,resíduos de amálgamas de tratamentos dentários,,2.8,GB,NL,,"R12,R4",Portugal,2013
+7,A1020,Y23,101003,escórias do forno,,171.58,,ES,,R4,Portugal,2013
+8,A1050,Y17,110109,"lamas e bolos de filtração, contendo substâncias perigosas",,140.24,"ES,FR",DE,,R4,Portugal,2013
+9,A1160,Y31,160601,Acumuladores de chumbo,,14138.899,,ES,,R4,Portugal,2013
+10,A1170,"Y34,Y35",200133,"Pilhas e acumuladores abrangidos em 16 06 01, 16 06 02 ou 16 06 03 e pilhas e acumuladores não triados contendo desses acumuladores ou pilhas",,152.47,,ES,,"R12,R4",Portugal,2013
+11,A1180,Y10,"130101,160209",resíduos contendo PCB's,,41.181,"ES,FR",BE,D10,,Portugal,2013
+12,A1180,Y31,"160213,200135",CRT - Tubos de Raios Catódicos /TV's e Monitores,,291.17,,ES,,"R12,R4",Portugal,2013
+13,A1180,Y31,"160213,200135",CRT - Tubos de Raios Catódicos /TV's e Monitores,,186.82,,ES,,"R12,R5",Portugal,2013
+14,A1180,Y31,200135,CRT - Tubos de Raios Catódicos /TV's e Monitores,,1095.754,,ES,,"R12,R4",Portugal,2013
+15,A1180,Y45,"160211,200123",,,2344.734,,ES,,"R12,R4",Portugal,2013
+16,A2010,Y31,160215,Componentes perigosos retirados de equipamento fora de uso,,46.452,"ES,FR",DE,,"R12,R5",Portugal,2013
+17,A2030,,160807,Catalisadores usados contaminados com substâncias perigosas,,150.263,,US,,R4,Portugal,2013
+18,A2030,,160807,Catalisadores usados contaminados com substâncias perigosas,,24.06,"BE,ES,FR",NL,,R8,Portugal,2013
+19,A3020,Y8,130204,"Óleos minerais clorados de motores, transmissões e lubrificação",H12,43.4,NL,BE,D10,,Portugal,2013
+20,A3050,Y13,070107,Resíduos de destilação e resíduos de reação halogenados,,101.6,NL,DE,D10,,Portugal,2013
+21,A3050,Y13,070108,Resíduos de destilação e resíduos de reação,,43.18,NL,BE,D10,,Portugal,2013
+22,A3140,Y42,140603,Solventes usados contaminados com restos de tintas,,34.949,,ES,,R2,Portugal,2013
+23,A3150,Y6,"070103,070503,140602",Resíduos de solventes orgânicos halogenados,,56.494,NL,BE,D10,,Portugal,2013
+24,A4010,Y2,160506,"Resíduos da produção, preparação e utilização de produtos farmacêuticos, à excepção dos resíduos incluídos na lista B",,82.294,"ES,FR",BE,D10,,Portugal,2013
+25,A4010,Y2,160506,QUIMICOS REAGENTES DE LABORATÓRIO,,102.94,NL,BE,D10,,Portugal,2013
+26,A4010,Y3,"070513,200131,200132",Resíduos farmacêuticos,,210.417,"ES,FR",BE,D10,,Portugal,2013
+27,A4010,Y3,"070513,200131,200132",Resíduos farmacêuticos,,447.132,NL,BE,D10,,Portugal,2013
+28,A4030,Y4,020108,Resíduos agroquímicos contendo substâncias perigosas (pesticidas),,84.32,"ES,FR",BE,D10,,Portugal,2013
+29,"A4030,A4130",Y4,"020108,150110",Resíduos de pesticidas e embalagens contaminadas com pesticidas ,,144.206,"ES,FR",BE,D10,,Portugal,2013
+30,A4050,Y33,110198,Resíduos de metais preciosos contaminados com substâncias perigosas,,3.193,"ES,FR",IT,,"R13,R4",Portugal,2013
+31,A4100,Y23,100207,Pó de despoeiramento,,32439.62,,ES,,R4,Portugal,2013
+32,A4130,Y15,"150111,160504",Aerossóis,,12.824,,ES,,"R12,R4",Portugal,2013
+33,A4130,Y18,"140601,150111,160504",Gases e recipientes sob pressão contendo substâncias perigosas,,21.84,,ES,,"R13,R4",Portugal,2013
+34,A4130,"Y36,Y42",150111,Gases e recipientes sob pressão contendo substâncias perigosas,,142.98,"BE,ES,FR,NL",DE,,"R12,R4",Portugal,2013
+35,A4130,Y4,150110,RESÍDUOS DE EMBALAGENS CONTENDO OU CONTAMINADAS POR RESÍDUOS DE SUBSTÂNCIAS PERIGOSAS,,301.311,,ES,,"R3,R4",Portugal,2013

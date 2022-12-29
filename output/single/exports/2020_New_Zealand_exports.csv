@@ -1,0 +1,15 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A4020,Y1,,Cytotoxic Waste,"H6.1,H11",200.74,,AU,D10,,New Zealand,2020
+1,A4030,Y4,,Mixed Pesticides,H6.1,28.231,,AU,,"R1,R13",New Zealand,2020
+2,A4030,Y4,,Waste pesticides,H6.1,9.94,"BE,NL,PA,GB,US",DE,D10,,New Zealand,2020
+3,A3140,Y6,,Non-halogenated solvents,H3,19.829,,AU,,"R1,R13",New Zealand,2020
+4,A3150,Y6,,Waste solvents (tetrachloroethylene),H6.1,14.06,"BE,NL,PA,GB,US",FR,D10,,New Zealand,2020
+5,A1180,Y22,,Mixed e-waste,H12,302.929,JP,KR,,R4,New Zealand,2020
+6,,Y31,,Mixed e-waste,H11,105.787,,JP,,R4,New Zealand,2020
+7,A4140,Y45,,PFAS Fire Fighting and Industrial PFAS containing chemicals,H12,120.04,"BE,NL,PA,GB,US",FR,D10,,New Zealand,2020
+8,"A1020,A1180,B1090,B1100","Y20,Y27,Y31,Y45",,Mixed e-waste,"H11,H12,H13",137.804,,JP,,"R4,R5",New Zealand,2020
+9,A1180,"Y22,Y23,Y31",,Mixed e-waste,"H12,H13",131.79971,MY,SG,,R4,New Zealand,2020
+10,A1180,"Y22,Y26,Y33",,Mixed e-waste,"H12,H13",49.386,"NL,PA,GB,US",BE,,R4,New Zealand,2020
+11,A1160,"Y31,Y34",,Used lead acid batteries,"H8,H11",18227.988,JP,KR,,R4,New Zealand,2020
+12,A4050,"Y32,Y33",,Spent pot liner,"H4.3,H6.1",1147.685,"EG,IT,MY,NL,SG,ES,GB",DE,,"R1,R12",New Zealand,2020
+13,A4050,"Y32,Y33",,Spent pot liner,"H4.3,H6.1",2144.948,"EG,IT,MY,MT,SG,LK",ES,,"R4,R5",New Zealand,2020

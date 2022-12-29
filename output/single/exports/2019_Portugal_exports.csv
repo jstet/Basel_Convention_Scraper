@@ -1,0 +1,33 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A1010,Y11,101011,Outras partículas contendo substâncias perigosas,,98.52,,ES,,R4,Portugal,2019
+1,A1030,Y29,060404,,,2.818,NL,DE,,R4,Portugal,2019
+2,A1050,Y17,110109,,,142.002,"ES,FR",DE,,R4,Portugal,2019
+3,A1160,Y31,160601,acumuladores de chumbo,,15044.765,,ES,,R4,Portugal,2019
+4,A1170,Y_,160605,,,39.94,ES,FR,,R4,Portugal,2019
+5,A1170,Y26,160602,,,66.98,ES,FR,,R4,Portugal,2019
+6,A1170,Y26,160602,,,22.424,GB,SE,,R4,Portugal,2019
+7,A1170,"Y26,Y29,Y31",200133,,,58.63,,ES,,"R12,R4",Portugal,2019
+8,A1170,"Y34,Y35",200133,"pilhas e acumuladores abrangidos em 16 06 01, 16 06 02 ou 16 06 03 e pilhas e acumuladores, não triados, contendo desses acumuladores ou pilhas",,35.924,,ES,,"R4,R13",Portugal,2019
+9,A1180,Y10,"130101,160209",Resíduos contendo PCB's (condensadores e óleos removidos de equipamentos fora de uso),,35.18,"ES,FR",BE,D10,,Portugal,2019
+10,A2030,Y_,160807,,,71.32,"ES,FR",DE,,R4,Portugal,2019
+11,A3020,Y8,130208,"óleos de motores, transmissões e lubrificação",,1112.52,,ES,,R9,Portugal,2019
+12,A3050,Y13,070108,resíduos de destilação e resíduos de reação,,18.5,NL,BE,D10,,Portugal,2019
+13,A3050,Y13,070107,Resíduos de destilação e resíduos de reação halogenados,,108.04,NL,DE,D10,,Portugal,2019
+14,A3140,Y12,140603,,,438.96,,ES,,R2,Portugal,2019
+15,A3140,Y6,070504,"Outros solventes, licores-mãe e líquidos de lavagem",,73.12,NL,BE,D10,,Portugal,2019
+16,A3150,Y6,"070103,070503,140602","solventes, líquidos de lavagem e licores-mãe halogenados",,24.0,NL,BE,D10,,Portugal,2019
+17,A4010,Y2,160506,"Produtos químicos de laboratório, contendo ou compostos por substâncias perigosas, incluindo misturas de produtos químicos de laboratório (LER – 16 05 06*)",,29.86,,BE,D10,,Portugal,2019
+18,A4010,Y2,160506,quimicos reagentes de laboratório fora de uso,,76.14,NL,BE,D10,,Portugal,2019
+19,A4010,Y2,161001,,,793.36,,ES,,R3,Portugal,2019
+20,A4010,Y3,"070513,200131,200132",Resíduos farmacêuticos,,280.512,"ES,FR",BE,D10,,Portugal,2019
+21,A4010,Y3,"070513,200131,200132",Resíduos farmacêuticos,,659.525,NL,BE,D10,,Portugal,2019
+22,A4030,Y4,020108,Resíduos agroquímicos contendo substâncias perigosas (pesticidas),,42.38,"ES,FR",BE,D10,,Portugal,2019
+23,A4100,Y23,100207,"resíduos sólidos do tratamento de gases, contendo substâncias perigosas",,36358.92,,ES,,R4,Portugal,2019
+24,A4130,Y4,150110,RESÍDUOS DE EMBALAGENS CONTENDO OU CONTAMINADAS POR RESÍDUOS DE SUBSTÂNCIAS PERIGOSAS,,39.967,,ES,,"R3,R4",Portugal,2019
+25,,Y_,101006,areias de fundição,,8511.4,,ES,,R10,Portugal,2019
+26,,"Y20,Y26,Y29,Y31",160213,,,37.99,ES,FR,,"R4,R5,R12",Portugal,2019
+27,,Y32,160213,,,1.718,,ES,,R12,Portugal,2019
+28,,Y45,140601,,,33.965,ES,FR,D10,,Portugal,2019
+29,,Y_,191212,resíduos pesados de fragmentação,,2609.25,,ES,,R4,Portugal,2019
+30,,Y_,191212,outros resíduos incluindo misturas metálicas de tratamento mecânico de resíduos,,630.18,,ES,,"R4,R11",Portugal,2019
+31,,Y_,100308,escórias salinas,,975.93,,ES,,R4,Portugal,2019

@@ -1,0 +1,48 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_origin,annex_4_a_code,annex_4_b_code,country,year
+0,,Y5,17 02 04*,Treated wood wastes,H12,930.12,,RU,,R1,Finland,2019
+1,A3020,Y8,"13 02 05*, 13 02 08*",Waste oil,H_,3557.135,,NL,,R9,Finland,2019
+2,A3020,Y8,"13 02 05*, 13 02 08*",Waste oil,"H3,H12",1424.692,,SE,,R9,Finland,2019
+3,A3020,Y8,"13 01 09*, 13 01 10*, 13 01 11*, 13 01 12*, 13 01 13*, 13 02 04*, 13 02 05*, 13 02 06*, 13 02 07*, 13 02 08*",Waste oil,"H11,H12",124.3,EE,LV,,R9,Finland,2019
+4,A3020,Y8,"13 01 09*, 13 01 10*, 13 01 11*, 13 01 12*, 13 01 13*, 13 02 04*, 13 02 05*, 13 02 06, 13 02 07*, 13 02 08*",Waste oil,"H11,H12",166.0,EE,LV,,R9,Finland,2019
+5,A3020,Y8,"13 02 05*, 13 02 06*, 13 02 08*",Waste oil,"H11,H12",8861.29,,BE,,R9,Finland,2019
+6,A3020,Y8,"13 02 05*, 13 02 06*, 13 02 08*",Waste oil,"H11,H12",2810.214,,GB,,R9,Finland,2019
+7,A3020,Y8,"13 02 05*, 13 02 08*",Waste oil,H12,2535.559,,DK,,R9,Finland,2019
+8,A3020,Y8,"13 02 05*, 13 02 06*, 13 02 08*",Waste oil,H12,3675.92,,NL,,R9,Finland,2019
+9,A4060,Y8,13 02 08*,"Waste oils/water, hydrocarbons/water mixtures, emulsions",H12,489.75,,SE,,R9,Finland,2019
+10,A3180,Y10,17 05 03*,PCB-containing waste,H12,8907.165,,SE,D9,,Finland,2019
+11,A1020,"Y23,Y31",10 08 17*,Lead-containing waste,"H11,H12,H13",43.0,,SE,,R7,Finland,2019
+12,A1170,Y26,20 01 33*,Battery waste,H12,37.7,"BE,DE,ES,GB,LT",IL,,"R12,R4",Finland,2019
+13,A1030,Y29,20 01 21*,Fluorescent lamps,H6.1,92.881,,EE,,"R4,R5",Finland,2019
+14,A1030,Y29,20 01 21*,Fluorescent lamps,"H6.1,H12",18.413,,EE,,"R4,R5",Finland,2019
+15,A3170,Y41,07 01 07*,Halogenized organic compounds,"H6.1,H12",1492.719,,AU,D10,,Finland,2019
+16,A3170,Y41,15 01 10*,Halogenized organic compounds,H12,98.903,,AU,D10,,Finland,2019
+17,A4110,Y44,17 05 03*,Dioxine containing waste,H12,2977.18,,SE,D9,,Finland,2019
+18,A1170,,20 01 33*,Battery waste,"H1,H13",26.11,"EE,LV",LT,,R4,Finland,2019
+19,A1170,,"16 02 15*, 16 06 05",Battery waste,H12,82.0,,SE,,R4,Finland,2019
+20,A1170,,16 06 05,Battery waste; NiMH batteries,H12,24.0,DE,DK,,R4,Finland,2019
+21,,,19 02 05*,Cobalt-containing residues,"H11,H12",930.037,"BE,DE,NL",AT,,R4,Finland,2019
+22,,,19 02 05*,Cobalt-containing residues,"H11,H12",695.798,"PL,SK",AT,,R4,Finland,2019
+23,,,19 02 05*,Cobalt-containing residues,"H11,H12",133.336,"BE,DE,NL",AT,,R4,Finland,2019
+24,A1170,,16 06 05,Li-ion or lithium accumulators,H12,48.96,DE,AT,,R4,Finland,2019
+25,A1170,,16 06 05,Li-ion or lithium accumulators,H12,88.0,DE,DK,,R4,Finland,2019
+26,A1170,,16 06 05,Li-ion or lithium accumulators,H12,59.414,NL,DE,,R4,Finland,2019
+27,A1170,,16 06 05,Li-ion or lithium accumulators,H12,40.092,SE,NO,,R4,Finland,2019
+28,A1170,,16 06 05,Li-ion or lithium accumulators,H12,92.981,,DE,,R4,Finland,2019
+29,A1170,,16 06 05,Li-ion or lithium accumulators,H12,28.3,,SE,,R4,Finland,2019
+30,,,17 05 03*,"Unclassified, soils & stones containing dangerous substances",H12,2613.7,,IE,D9,,Finland,2019
+31,,,20 03 01,"Domestic waste, Y46",H_,807.08,,SE,D1,,Finland,2019
+32,,,15 01 02,"Unclassified, plastic packaking, Y46",H_,50.55,SE,NO,,"R12,R3",Finland,2019
+33,,,20 01 39,"Unclassified, plastic packaking waste, Y46",H_,1292.6,SE,NO,,"R12,R3",Finland,2019
+34,,,19 01 07*,"Residues arising from the incineration of household wastes, Y47",H12,7938.84,,EE,"D9,D1",,Finland,2019
+35,,,19 10 02,NFR non-ferrous metal fraction from shredder operation,H_,3054.21,,SE,,R4,Finland,2019
+36,,,10 02 14,Sludge and scales from steel and iron production,H_,6681.0,,FR,,R4,Finland,2019
+37,,,19 12 07,Treated wood wastes,H_,4978.349,DE,FR,,R1,Finland,2019
+38,,,19 12 07,Treated wood wastes,H_,31541.154,DE,NL,,R1,Finland,2019
+39,,,19 12 07,Treated wood wastes,H_,41430.667,"DE,NL",BE,,R1,Finland,2019
+40,,,19 12 07,Treated wood wastes,H_,9578.471,NL,BE,,R1,Finland,2019
+41,,,19 12 07,Treated wood wastes,H_,4581.0,,DE,,"R1,R13",Finland,2019
+42,,,"03 01 01, 03 01 05",Treated wood wastes,H_,8562.888,,RU,,R1,Finland,2019
+43,,,10 02 02,Unclassified; slags arising from the production of iron and steel,H_,6199.91,,RU,,"R13,R4",Finland,2019
+44,,,"16 06 05, 20 01 34",Unclassified; waste batteries,H_,18.8,"EE,LT,LV",PL,,R4,Finland,2019
+45,B1120,,16 08 03,Waste catalyst (green),H_,317.272,"BE,DE,EG,GR",MY,,R8,Finland,2019
+46,,,19 08 05,Waste water treatment sludge,H_,1912.98,,SE,,R3,Finland,2019

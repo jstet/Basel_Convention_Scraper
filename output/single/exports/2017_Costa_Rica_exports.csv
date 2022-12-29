@@ -1,0 +1,11 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A4070,Y12,,"Ink, tonner cartridges",H11,100.0,,US,,R4,Costa Rica,2017
+1,A1030,Y29,,Crushed flourescent glass with mercury,H11,45.0,,US,,R4,Costa Rica,2017
+2,A1180,"Y23,Y26,Y29",,"Mixed batteries, alkaline, industrial and portable",H13,168.0,,US,,R4,Costa Rica,2017
+3,A1180,,,Electronic waste,H12,100.0,,US,,R4,Costa Rica,2017
+4,A3180,Y10,,Oils contaminated with PCBs,H12,300.0,"GT,HN,IT,NL,PA,PT,GB,US",FR,D10,,Costa Rica,2017
+5,A3180,Y10,,Wastes containing PCBs,H12,300.0,"GT,HN,IT,NL,PA,PT,GB,US",FR,D10,,Costa Rica,2017
+6,A4030,Y4,,Pesticides,"H6.1,H12",40.0,"GT,HN,IT,NL,PA,PT,GB,US",FR,D10,,Costa Rica,2017
+7,A1030,Y29,,Crushed fluorescent glass with mercury,H11,23.0,,US,,R4,Costa Rica,2017
+8,,Y7,,"Sluge with cianide and gold, resins with cianide and gold, filters with cianide and gold ",H8,41.5,,US,,R4,Costa Rica,2017
+9,A1180,"Y20,Y22,Y23,Y24,Y27,Y28,Y29,Y30,Y31",,Electronic waste,H12,30.0,,US,,"R4,R12",Costa Rica,2017

@@ -1,0 +1,33 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A4100,Y23,10 02 07 *,solid wastes from gas treatment containing hazardous substances,H13,3745.6,SK,PL,,R4,Hungary,2019
+1,,Y18,10 03 08 *,salt slags from secondary production,,307.84,"SK,CZ",DE,,R5,Hungary,2019
+2,A1010,Y31,10 04 01 *; 16 03 03 *,slags from primary and secondary production; inorganic wastes containing hazardous substances,H12,0.827,"SI,IT,FR",ES,,R4,Hungary,2019
+3,A1010,Y31,10 04 02 *,dross and skimmings from primary and secondary production,H13,17.073,"SI,IT,FR",ES,,"R13,R4",Hungary,2019
+4,A1010,Y31,10 04 02 *,dross and skimmings from primary and secondary production,H13,7.083,"AT,DE",NL,,"R13,R4",Hungary,2019
+5,A1010,Y31,10 04 02 *,dross and skimmings from primary and secondary production,H12,26.806,"AT,DE,NL",US,,R4,Hungary,2019
+6,A1060,"Y17,Y34",11 01 05 *,pickling acids,H8,2505.38,,AT,,R4,Hungary,2019
+7,A1050,Y17,11 01 09 *,sludges and filter cakes containing hazardous substances,"H11,H12",97.155,"SK,CZ",DE,,R4,Hungary,2019
+8,A3020,Y8,13 01 10 *; 13 01 11 *; 13 01 13 *; 13 02 05 *; 13 02 06 *; 13 02 08 *; 13 03 07 *; 13 03 10 *,"mineral based non-chlorinated hydraulic oils; synthetic hydraulic oils; other hydraulic oils; mineral-based non-chlorinated engine, gear and lubricating oils; synthetic engine, gear and lubricating oils; readily biodegradable engine, gear and lubricating oils; other engine, gear and lubricating oils; mineral-based non-chlorinated insulating and heat transmission oils; other insulating and heat transmission oils",,152.78,RO,BG,,R9,Hungary,2019
+9,A4070,,15 01 10 *,packaging containing residues of or contaminated by hazardous substances,H13,0.162,AT,DE,,R4,Hungary,2019
+10,A2010,Y31,16 02 15 *,hazardous components removed from discarded equipment,H12,922.28,"AT,CZ",DE,,R5,Hungary,2019
+11,A1160,Y31,16 06 01 *,lead batteries,H8,435.02,,AT,,R4,Hungary,2019
+12,A1160,"Y31,Y34",16 06 01 *,lead batteries,H8,1214.46,,AT,,R4,Hungary,2019
+13,A1160,"Y31,Y34",16 06 01 *,lead batteries,"H8,H12",1154.985,,AT,,R4,Hungary,2019
+14,A1160,"Y31,Y34",16 06 01 *,lead batteries,"H8,H11",1159.461,,AT,,"R4,R6",Hungary,2019
+15,A1160,"Y31,Y34",16 06 01 *,lead batteries,H8,672.113,RO,BG,,R4,Hungary,2019
+16,A1160,"Y31,Y34",16 06 01 *,lead batteries,"H8,H11,H12",2215.896,RO,BG,,R4,Hungary,2019
+17,A1160,"Y31,Y34",16 06 01 *,lead batteries,H8,869.24,SK,CZ,,R4,Hungary,2019
+18,A1160,"Y31,Y34",16 06 01 *,lead batteries,"H8,H12",70.63,,HR,,R4,Hungary,2019
+19,A1160,Y31,16 06 01 *,lead batteries,H8,120.36,,RO,,R4,Hungary,2019
+20,A1160,"Y31,Y34",16 06 01 *,lead batteries,"H8,H11,H12",46.464,,RO,,R4,Hungary,2019
+21,A1160,"Y31,Y34",16 06 01 *,lead batteries,"H8,H12",4621.343,,RO,,R4,Hungary,2019
+22,A1160,"Y31,Y34",16 06 01 *,lead batteries,"H6.1,H8,H11,H12",70.967,,RO,,"R4,R6",Hungary,2019
+23,Y46,,16 06 01 *,lead batteries,"H8,H11,H12",42.395,,RO,,"R4,R6",Hungary,2019
+24,A1160,,16 06 01 *,lead batteries,"H6.1,H8,H10,H11,H12",1231.702,,SI,,R4,Hungary,2019
+25,A1160,"Y31,Y34",16 06 01 *,lead batteries,"H6.1,H8,H11,H12",661.0,,SI,,R4,Hungary,2019
+26,A1160,"Y31,Y34",16 06 01 *,lead batteries,"H8,H12",815.212,,SI,,R4,Hungary,2019
+27,A2030,"Y21,Y22,Y26",16 08 02 *,spent catalysts containing hazardous transition metals or hazardous transition metal compounds,H4.2,452.032,SK,CZ,,"R13,R4",Hungary,2019
+28,A2030,,16 08 02 *,spent catalysts containing hazardous transition metals or hazardous transition metal compounds,"H6.1,H11",7.08,"AT,DE",NL,,R8,Hungary,2019
+29,A2030,Y2,16 08 02 *; 16 08 07 *,spent catalysts containing hazardous transition metals or hazardous transition metal compounds; spent catalysts contaminated with hazardous substances,H4.2,13.71,AT,DE,,R8,Hungary,2019
+30,A2030,,16 08 07 *,spent catalysts contaminated with hazardous substances,"H6.1,H11,H12",93.01,"SK,CZ,DE,GB,BE,FR",US,,R4,Hungary,2019
+31,A1030,Y29,20 01 21 *,fluorescent tubes and other mercury-containing waste,H13,107.567,,RO,,R5,Hungary,2019

@@ -1,0 +1,176 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A2030,,16 08 02*,spent catalysts,H11,567.639,-,DE,,R4,Austria,2016
+1,A2030,,16 08 02*,spent catalysts,H4.2,202.8,-,DE,,R8,Austria,2016
+2,,,17 06 03*,mineral fibers,H11,8.28,-,DE,D1,,Austria,2016
+3,,,17 02 04*,impregnated wood,H11,734.72,-,DE,,R1,Austria,2016
+4,,,17 02 04*,sievings,H13,503.74,-,DE,,R1,Austria,2016
+5,,,17 02 04*,impregnated wood,H11,30.0,-,DE,,R13,Austria,2016
+6,A4130,,16 05 04*,gases in pressure bottles ,H3,0.397,-,DE,D10,,Austria,2016
+7,A1170,,16 06 05,Li-batteries,H12,72.58,DE,FI,,R4,Austria,2016
+8,A1170,,16 06 05,Li-batteries,H12,46.71,-,DE,,R4,Austria,2016
+9,A2030,,16 08 07*,spent catalysts,H4.2,39.48,-,DE,,R13,Austria,2016
+10,A1180,,16 02 13*,WEEEs,H13,97.671,DE,NL,,R4,Austria,2016
+11,A2030,,16 08 07*,spent catalysts,H3,4.15,DE,NL,,R4,Austria,2016
+12,A4100,,10 01 18*,ash,H13,16.0,-,DE,,R5,Austria,2016
+13,A1180,,16 02 13*,WEEEs,H13,0.833,-,CH,,R4,Austria,2016
+14,A4020,Y1,18 01 01*,mixed waste from healtcare,H12,18.4,-,CH,D10,,Austria,2016
+15,A4020,Y1,18 01 03*,waste from healthcare,H6.2,285.749,-,DE,D10,,Austria,2016
+16,A4020,Y1,18 01 03*,waste from healthcare,H6.2,13.537,-,DE,,R12,Austria,2016
+17,A3140,Y2,07 05 04*,production waste,H3,46.6,"DE,NL",BE,,R2,Austria,2016
+18,A4010,Y2,07 05 04*,production waste,H3,38.27,-,CH,,R2,Austria,2016
+19,A2030,Y2,16 08 07*,spent catalysts,H3,76.746,"DE,BE",GB,,R8,Austria,2016
+20,A4010,Y2,07 05 01*,production waste,H13,378.5,-,DE,D10,,Austria,2016
+21,A4010,Y2,07 05 01*,production waste,H12,929.8,-,DE,D13,,Austria,2016
+22,A4010,Y2,07 05 04*,production waste,H3,1200.34,-,DE,D13,,Austria,2016
+23,A4010,Y2,07 05 07*,production waste,H3,23.64,-,DE,,R5,Austria,2016
+24,A3140,Y2,07 05 04*,production waste,H3,446.25,-,DE,,R2,Austria,2016
+25,A3150,Y2,07 05 03*,production waste,H3,4.6,-,DE,,R2,Austria,2016
+26,A4010,Y3,18 01 09*,expired medicines,H4.1,17.38,-,DE,D10,,Austria,2016
+27,,Y5,17 02 04*,railway sleepers,H11,7823.48,-,DE,,R1,Austria,2016
+28,,Y5,17 02 04*,railway sleepers,H11,2979.46,-,DE,,R12,Austria,2016
+29,A3140,Y6,14 06 03*,solvents,H8,23.727,-,DE,,R2,Austria,2016
+30,A3140,Y6,07 05 04*,solvents,H3,398.64,DE,NL,,R2,Austria,2016
+31,A3150,Y6,14 06 02*,solvents,H11,11.06,-,DE,,R13,Austria,2016
+32,A3140,Y6,14 06 03*,solvents,H3,22.34,-,DE,,R2,Austria,2016
+33,,Y8,15 02 02*,oily wastes from garages,H12,1085.14,-,CH,,R1,Austria,2016
+34,A3020,Y8,13 02 05*,waste oil,H13,16425.303,-,DE,,R9,Austria,2016
+35,A3020,Y8,13 03 07*,transformer oil,H13,279.71,-,DE,,R9,Austria,2016
+36,A3020,Y8,13 03 10*,other mineral oil,H13,107.44,-,DE,,R9,Austria,2016
+37,A3020,Y8,13 02 05*,waste oil,H13,16.6,SI,HR,,R1,Austria,2016
+38,A3020,Y8,13 02 05*,waste oil,H13,24.76,-,IT,,R9,Austria,2016
+39,A3020,Y8,13 02 05*,waste oil,H13,556.77,CZ,PL,,R9,Austria,2016
+40,A3020,Y8,13 02 05*,waste oil,H13,25.74,-,SK,,R1,Austria,2016
+41,A3180,Y10,16 02 09*,PCB-contaminated equipment,H12,10.0,-,DE,D10,,Austria,2016
+42,,Y11,17 03 03*,tar containing C&D waste,H11,449.934,DE,NL,,R5,Austria,2016
+43,,Y11,17 05 03*,contaminated soil,H11,749.88,DE,NL,,R5,Austria,2016
+44,A1190,Y11,17 04 10*,tar containing cable,H11,396.19,-,DE,,R4,Austria,2016
+45,,Y11,17 02 04*,railway sleepers,H11,1492.37,-,DE,,R12,Austria,2016
+46,A4070,Y12,07 01 04*,production waste,H3,78.0,-,DE,,R2,Austria,2016
+47,A4130,Y12,15 02 10*,contaminated packaging,H12,26.8,-,DE,,R4,Austria,2016
+48,A4070,Y12,08 01 13*,paint sludge,H13,327.59,-,DE,D10,,Austria,2016
+49,A4070,Y12,08 01 11*,paint sludge,H3,147.09,-,DE,,R1,Austria,2016
+50,A4070,Y12,15 02 02*,precious metals bearing waste,H4.1,0.46,DE,NL,,R4,Austria,2016
+51,A3050,Y13,08 04 09*,production waste,H3,183.865,-,DE,D10,,Austria,2016
+52,A4080,Y15,16 01 10*,air-bags,H1,4.9,-,DE,D10,,Austria,2016
+53,A1050,Y17,11 01 09*,galvanic sludge,H11,719.15,"DE,NL",BE,,R4,Austria,2016
+54,A1060,Y17,11 01 05*,acids,H8,831.28,-,IT,,R5,Austria,2016
+55,,Y17,11 03 02*,hardening salts,H5.1,45.87,-,DE,D12,,Austria,2016
+56,A1060,Y17,11 01 07*,basic solutions,H8,404.86,-,DE,,R5,Austria,2016
+57,A1050,Y17,19 02 05*,galvanic sludge,H11,42.04,-,DE,,R4,Austria,2016
+58,A1060,Y17,11 01 05*,acids,H8,464.95,-,DE,,R4,Austria,2016
+59,A1060,Y17,11 01 05*,acids,H8,1680.61,-,DE,,R5,Austria,2016
+60,,Y17,12 01 14*,grinding slude,H13,67.668,-,DE,,R4,Austria,2016
+61,A1050,Y17,11 01 10,galvanic sludge,H13,12.356,-,DE,,R4,Austria,2016
+62,A1050,Y17,11 01 09*,galvanic sludge,H11,820.933,-,DE,,R4,Austria,2016
+63,A3120,Y18,19 10 03*,FLUFF,H13,1702.27,-,CH,,R1,Austria,2016
+64,,Y18,15 02 20*,mixed waste from workshops,H4.1,777.97,-,DE,,R1,Austria,2016
+65,,Y18,17 05 03*,contaminated soil,H11,6253.963,DE,NL,,R5,Austria,2016
+66,A3120,Y18,19 10 03*,FLUFF,H13,339.62,-,DE,,R1,Austria,2016
+67,A3120,Y18,19 10 03*,FLUFF,H13,1444.88,-,DE,,R5,Austria,2016
+68,A4100,Y18,10 01 04*,fly ash,H11,360.854,-,DE,,R4,Austria,2016
+69,,Y18,19 12 06*,impregnated wood,H11,232.78,-,DE,,R1,Austria,2016
+70,,Y18,19 02 04*,premixed liquid wastes,H3,3038.36,-,DE,D10,,Austria,2016
+71,,Y18,19 02 05*,sludge from C/P-treatment,H13,3332.12,-,DE,,R12,Austria,2016
+72,,Y18,19 02 05*,sludge from C/P-treatment,H11,629.435,"SK,PL",FI,,R4,Austria,2016
+73,,Y18,19 02 05*,sludge from C/P-treatment,H11,167.268,DE,FI,,R4,Austria,2016
+74,,Y18,19 02 05*,sludge from C/P-treatment,H11,734.768,"DE,NL,BE",FI,,R4,Austria,2016
+75,,Y18,19 12 06*,impregnated wood,H11,174.92,-,DE,,R1,Austria,2016
+76,,Y18,19 10 05*,waste from shredding,H13,163.92,-,DE,,R1,Austria,2016
+77,A4140,Y18,16 05 06*,unsorted chemicals,H12,14.52,-,DE,D10,,Austria,2016
+78,,Y18,16 01 07*,oil filter,H13,21.47,-,IT,,R4,Austria,2016
+79,A2030,Y18,16 05 07*,off-gas cleaning device,H6.1,1.528,-,DE,,R4,Austria,2016
+80,A2030,Y18,16 08 07*,spent catalysts,H4.3,3.373,-,DE,D10,,Austria,2016
+81,,Y18,10 03 08*,salt slag,H4.3,24721.54,-,DE,,R5,Austria,2016
+82,,Y18,10 08 08*,salt slag,H4.3,187.5,-,DE,,R4,Austria,2016
+83,,Y18,10 03 08*,salt slag,H4.3,8648.8,DE,FR,,R4,Austria,2016
+84,,Y18,10 03 08*,salt slag,H4.3,10019.96,DE,FR,,R5,Austria,2016
+85,,Y18,11 01 09*,sludge from metal recovery,H11,251.709,-,DE,,R4,Austria,2016
+86,,Y18,19 02 11*,premixed liquid wastes,H13,3271.24,-,DE,D10,,Austria,2016
+87,,Y18,19 12 11*,premixed solid wastes,H4.1,1024.32,-,DE,D10,,Austria,2016
+88,,Y18,19 12 11*,contaminated scrap,H12,513.33,-,IT,,R4,Austria,2016
+89,,Y18,12 01 14*,metal bearing sludge,H12,62.08,-,DE,,R4,Austria,2016
+90,,Y18,06 03 13*,sludge from metal recycling,H11,1.731,-,DE,,R4,Austria,2016
+91,A2010,Y18,16 02 15*,glass from CRT-recycling,H11,1298.76,-,DE,,R5,Austria,2016
+92,,Y18,16 01 13*,break fluid,H13,254.94,-,DE,,R12,Austria,2016
+93,A1050,Y22,11 01 09*,galvanic sludge,H12,39.0,DE,NL,,R12,Austria,2016
+94,A1130,Y22,11 01 05*,etching solution,H8,474.68,-,DE,,R4,Austria,2016
+95,A2030,Y22,16 08 07*,spent catalysts,H13,110.66,-,DE,,R4,Austria,2016
+96,A1050,Y22,11 01 09*,galvanic sludge,H12,812.326,-,DE,,R4,Austria,2016
+97,A1100,Y23,10 06 03*,filter dust,H6.1,1155.622,DE,BE,,R4,Austria,2016
+98,A4100,Y23,10 02 07*,steelmill dust,H12,22964.46,CZ,PL,,R4,Austria,2016
+99,A1170,Y23,20 01 33*,batteries,H8,66.498,-,DE,,R4,Austria,2016
+100,A1170,Y23,20 01 34,batteries,H8,869.929,-,DE,,R4,Austria,2016
+101,A1100,Y23,10 06 03*,filter dust,H13,14.976,-,DE,,R4,Austria,2016
+102,A4100,Y23,10 09 10,filter dust,H12,18.36,-,DE,,R4,Austria,2016
+103,A4100,Y23,10 02 07*,steelmill dust,H12,98087.44,-,DE,,R4,Austria,2016
+104,A4100,Y23,10 02 13*,blast furnace gas sludge ,H12,471.36,-,DE,,R4,Austria,2016
+105,A4100,Y23,10 10 09*,filter dust,H11,55.431,-,DE,,R4,Austria,2016
+106,A4100,Y23,10 09 10,filter dust,H12,71.66,-,DE,,R4,Austria,2016
+107,A1180,Y23,16 02 13*,WEEEs,H13,14.3,-,DE,,R4,Austria,2016
+108,A1170,Y26,16 06 02*,Ni-Cd-batteries,H8,243.4,DE,FR,,R4,Austria,2016
+109,A1030,Y29,06 04 04*,mercury residues,H12,2.0,-,DE,D9,,Austria,2016
+110,A1030,Y29,06 04 04*,mercury residues,H12,0.38,-,DE,,R13,Austria,2016
+111,A1030,Y29,18 01 10*,amalgam waste,H12,0.761,-,DE,,R4,Austria,2016
+112,A1030,Y29,20 01 21*,mercury bearing wastes,H12,70.03,-,DE,D12,,Austria,2016
+113,A1030,Y29,20 01 21*,mercury bearing wastes,H12,162.388,-,DE,,R5,Austria,2016
+114,A1030,Y29,16 06 03*,mercury batteries,H8,0.319,-,DE,,R4,Austria,2016
+115,A1170,Y29,16 06 03*,mercury batteries,H11,8.765,-,DE,,R4,Austria,2016
+116,A1170,Y29,16 06 03*,mercury batteries,H8,0.434,-,DE,,R13,Austria,2016
+117,A1180,Y29,16 02 13*,WEEEs,H13,16.94,-,DE,,R4,Austria,2016
+118,A4140,Y29,16 05 06*,COD test kits,H8,12.54,-,DE,,R5,Austria,2016
+119,A4160,Y29,19 01 10*,residue from fue gas cleaning,H6.1,47.5,-,DE,D12,,Austria,2016
+120,A1030,Y29,06 04 04*,mercury baearing residues,H12,1.873,DE,NL,,R4,Austria,2016
+121,A1120,Y31,11 02 05*,metal sludge,H6.1,66.12,DE,BE,,R4,Austria,2016
+122,A1100,Y31,10 06 03*,filter dust,H11,890.44,DE,NL,,R13,Austria,2016
+123,A1160,Y31,16 06 01*,lead acid batteries,H8,420.835,-,DE,,R4,Austria,2016
+124,,Y31,16 03 03*,ceramics,H12,23.966,-,DE,,R4,Austria,2016
+125,,Y31,11 01 11*,sludge,H12,10.381,-,DE,,R4,Austria,2016
+126,A1180,Y31,16 02 13*,TV-sets,H13,1258.76,-,DE,,R4,Austria,2016
+127,A1180,Y31,16 02 13*,TV-sets,H11,1164.96,-,DE,,R5,Austria,2016
+128,A2010,Y31,16 02 15*,CRTs,H11,5236.42,-,DE,,R5,Austria,2016
+129,A1180,Y31,16 02 13*,TV-sets,H11,253.99,-,IT,,R5,Austria,2016
+130,A1160,Y31,16 06 01*,lead acid batteries,H8,24.06,-,SI,,R4,Austria,2016
+131,A4050,Y33,11 03 01*,concentrates,H6.1,0.319,-,DE,,R4,Austria,2016
+132,A4050,Y33,11 03 01*,solid salts,H6.1,12.8,-,DE,D12,,Austria,2016
+133,A4050,Y33,11 01 98*,concentrates,H6.1,0.1,-,DE,,R4,Austria,2016
+134,A4090,Y34,06 01 01*,acids,H8,457.571,-,DE,,R6,Austria,2016
+135,A4130,Y36,15 01 11*,gas cylinders,H11,202.183,-,DE,,R4,Austria,2016
+136,A1180,Y36,16 02 12*,asbestos containing equipment,H11,36.72,-,DE,,R4,Austria,2016
+137,,Y39,17 02 04*,railway sleepers,H11,1041.94,DE,NL,,R1,Austria,2016
+138,A3070,Y39,07 01 07*,production waste,H6.1,77.52,-,DE,,R5,Austria,2016
+139,A3150,Y41,14 06 04*,solvent containing sludge,H6.1,26.5,DE,BE,,R2,Austria,2016
+140,A3150,Y41,07 07 08*,production waste,H3,72.04,-,CH,D10,,Austria,2016
+141,A3150,Y41,14 06 02,solvents,H6.1,145.505,-,DE,,R2,Austria,2016
+142,A3150,Y41,07 01 08*,solvents,H12,82.937,-,DE,,R5,Austria,2016
+143,A3150,Y41,07 05 03*,solvents,H12,69.55,-,DE,,R2,Austria,2016
+144,A3140,Y42,14 06 05*,solvent sludge,H3,9.0,DE,BE,,R13,Austria,2016
+145,A3140,Y42,07 01 04*,solvents,H3,443.8,-,CH,,R12,Austria,2016
+146,A3140,Y42,14 06 03*,solvents,H3,1841.66,-,DE,D10,,Austria,2016
+147,A3140,Y42,07 01 04*,solvents,H3,555.56,-,DE,,R1,Austria,2016
+148,A3140,Y42,07 01 08*,solvents,H3,3367.37,-,DE,,R3,Austria,2016
+149,A3140,Y42,07 01 08*,solvents,H3,519.83,CZ,DE,,R3,Austria,2016
+150,,Y42,15 02 02*,solvent containing adsorbents,H4.1,4.72,-,DE,,R4,Austria,2016
+151,,Y42,14 06 05*,solvent containing sludge,H3,0.287,-,DE,,R4,Austria,2016
+152,A3140,Y42,14 06 03*,solvents,H3,1338.745,-,DE,,R2,Austria,2016
+153,,Y45,14 06 01*,CFCs,H12,76.661,-,DE,D10,,Austria,2016
+154,,Y45,14 06 01*,CFCs,H12,51.99,-,DE,,R3,Austria,2016
+155,A1180,Y45,16 02 11*,CFC containing equipment,H12,99.25,-,IT,,R3,Austria,2016
+156,Y47,,19 01 13*,fly ash,H11,6524.36,-,DE,,R5,Austria,2016
+157,Y47,,19 01 07*,flue gas celeaning residues,H13,2439.12,-,DE,D12,,Austria,2016
+158,Y47,,19 01 13*,fly ash,H11,2044.02,-,DE,D12,,Austria,2016
+159,Y47,,19 12 03,scrap from waste incineration,,1376.38,-,DE,,R4,Austria,2016
+160,Y47,,19 12 03,scrap from waste incineration,,573.76,-,DE,,R12,Austria,2016
+161,Y47,,19 12 12,scrap from waste incineration,,522.5,DE,BE,,R12,Austria,2016
+162,Y46,,19 12 12,residues from waste treatment,,11629.63,-,CH,D10,,Austria,2016
+163,Y46,,20 03 01,waste from households,,73869.0,-,CH,,R1,Austria,2016
+164,Y46,,20 03 01,waste from households,,5565.48,-,DE,D10,,Austria,2016
+165,Y46,,20 03 01,waste from households,,3328.77,-,DE,,R1,Austria,2016
+166,Y46,,20 02 01,biodegradable waste,,550.15,-,DE,,R3,Austria,2016
+167,Y46,,20 01 08,kitchen waste,,1837.07,-,DE,,R3,Austria,2016
+168,Y46,,15 01 02,separate collected packaging,,1015.78,-,DE,,R3,Austria,2016
+169,Y46,,20 03 02,biowaste,,105.97,-,DE,,R3,Austria,2016
+170,Y46,,15 01 06,light fraction,,8021.676,-,DE,,R3,Austria,2016
+171,Y46,,20 03 07,bulky waste,,198.08,-,DE,,R3,Austria,2016
+172,Y46,,15 01 06,light fraction,,2153.44,-,HU,,R12,Austria,2016
+173,Y46,,19 12 12,pretreated waste,,2234.52,-,SK,,R12,Austria,2016
+174,Y46,,15 01 06,light fraction,,1762.09,-,SI,,R12,Austria,2016

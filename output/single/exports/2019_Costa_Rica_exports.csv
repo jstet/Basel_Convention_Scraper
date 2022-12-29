@@ -1,0 +1,8 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A1030,Y29,160307*,Mercury wastes,"H6.1,H8,H11,H12",5.0,"DE,GT,HN,NL,GB",CH,D9,R4,Costa Rica,2019
+1,,Y7,110301*,Gold and cyanide filters,"H6.1,H8",15.0,,US,,R4,Costa Rica,2019
+2,,Y7,110301*,Resins with cyanide and gold,"H6.1,H8",2.25,,US,,R4,Costa Rica,2019
+3,,Y7,110301*,Water with gold and cyanide (gold stripper process),"H6.1,H8",7.5,,US,,R4,Costa Rica,2019
+4,,Y7,160307*,Sludge with cyanide and gold,"H6.1,H8",45.0,,US,,R4,Costa Rica,2019
+5,A1020,Y31,"160213*, 160215*",Whole cathode ray tubes,H11,86.0,,US,,R4,Costa Rica,2019
+6,A1030,Y29,200121*,Crushed fluorescent tubes with mercury and plastic,H11,45.0,,US,,R4,Costa Rica,2019

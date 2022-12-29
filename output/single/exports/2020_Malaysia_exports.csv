@@ -1,0 +1,19 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A4100,Y23,SW 104,Aluminium Dross,,1800,,JP,,R4,Malaysia,2020
+1,,Y29,SW103,Lithium Battery,,180,,SG,,R4,Malaysia,2020
+2,,Y29,SW103,Lithium Battery,,10,,US,,"R13,R4",Malaysia,2020
+3,A1180,"Y22,Y31",SW110,Electronic Waste,,70,,JP,,R4,Malaysia,2020
+4,A1180,"Y22,Y31",SW110,Copper Waste and Scrap Kit,,200,,US,,R4,Malaysia,2020
+5,A1180,"Y22,Y31",SW110,Electronic Waste,,300,"SG,JP",US,,R4,Malaysia,2020
+6,A1180,"Y22,Y31",SW110,Electronic Waste,,500,"SG,JP",US,,R4,Malaysia,2020
+7,A1180,"Y22,Y31",SW110,Electronic Waste,,450,"PT,ES,EG",BE,,R4,Malaysia,2020
+8,A1180,"Y22,Y31",SW110,Electronic Waste,,90,,US,,R4,Malaysia,2020
+9,A1180,"Y22,Y31",SW110,Electronic Waste,,70,,US,,R5,Malaysia,2020
+10,A1050,Y17,SW204,Sludge,,160,,JP,,R4,Malaysia,2020
+11,A4060,Y9,SW311,Coal Tar,,54000,,CN,,R3,Malaysia,2020
+12,A4060,Y9,SW311,Coal Tar,,54000,,CN,,R3,Malaysia,2020
+13,A4060,Y9,SW311,Coal Tar,,54000,,CN,,R3,Malaysia,2020
+14,A3140,"Y6,Y42",SW322,Waste of Non-halogenated Organic Solvent,,240,SG,DE,,R4,Malaysia,2020
+15,A3140,"Y6,Y42",SW322,Waste of Non-halogenated Organic Solvent,,240,SG,DE,,R4,Malaysia,2020
+16,A3010,Y12,SW418,HP Scrap Inkjet Cartridges,,500,,CA,D13,R13,Malaysia,2020
+17,A3190,,SW501,Dried Silicon Carbide Mixture,,180,,JP,,R5,Malaysia,2020

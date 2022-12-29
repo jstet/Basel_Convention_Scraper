@@ -1,0 +1,27 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_origin,annex_4_a_code,annex_4_b_code,country,year
+0,A1160,Y_,160601,Waste lead acid batteries,,25461.578,,DE,,R4,Czechia,2018
+1,A1160,Y_,"160601, 200134",Waste lead acid batteries,,293.7,DE,AT,,R4,Czechia,2018
+2,A1160,Y31,160601,Waste lead acid batteries,,816.406,"HR,HU,SK",BA,,R4,Czechia,2018
+3,A1160,"Y31,Y34",160601,Waste lead acid batteries,,829.06,SK,HU,,R4,Czechia,2018
+4,A1160,Y_,191211,Waste lead acid batteries,,5996.454,PL,LT,,R4,Czechia,2018
+5,A1020,Y31,191211,Waste lead acid batteries,,1822.276,PL,LT,,R4,Czechia,2018
+6,A1020,Y31,191211,Waste lead ,,363.464,"NL,DE",GB,,R4,Czechia,2018
+7,A1020,Y_,191211,Waste lead ,,71.566,"FR,DE",GB,,R4,Czechia,2018
+8,A1020,Y_,191211,Waste lead ,,622.76,DE,FR,,R4,Czechia,2018
+9,A1020,Y31,100404,Flue-gas dust,,231.85,,DE,,R4,Czechia,2018
+10,A1180,Y45,"160211, 200123",Refrigerators,,284.734,,SK,,"R12,R3,R4",Czechia,2018
+11,"A1180,Y46",Y_,"160213, 200135",TV-sets and monitors,,598.053,,SK,,"R12,R3,R4",Czechia,2018
+12,A1180,Y_,160213,LCD monitors and TV screens,,114.543,,DE,,R12,Czechia,2018
+13,"A1180,Y46",Y_,160213,PC monitors and TV screens,,1032.8,,DE,,R12,Czechia,2018
+14,A1180,Y_,160213,Electronic devices,,2.2,"SI,AT",HR,,R12,Czechia,2018
+15,A1180,Y_,"160213, 200135",Electronic devices,,20.77,,DE,,"R12,R3,R4,R5",Czechia,2018
+16,A1170,Y26,160602,Ni-Cd batteries,,219.81,"FR,DE",ES,,"R12,R4",Czechia,2018
+17,A4090,Y34,110105,Pickling liquor containing zinc chloride,,66.86,,SK,,R5,Czechia,2018
+18,A1030,Y24,060403,Waste containing arsenic,,7.2,,SK,,R5,Czechia,2018
+19,A2030,Y34,160805,Spent catalyst ,,54.97,"GB,BE,DE",CA,,R5,Czechia,2018
+20,A2030,Y_,160802,Spent catalyst,,255.886,DE,GB,,R4,Czechia,2018
+21,A2030,"Y21,Y22,Y26",160802,Spent catalyst,,620.89,SK,HU,,R4,Czechia,2018
+22,A2030,Y_,160802,Spent catalyst,,880.699,,SK,,R4,Czechia,2018
+23,A2050,"Y36,Y42",150111,Empty acetylene pressure containers containing asbestos,,355.0,,DE,,"R12,R4",Czechia,2018
+24,A2050,"Y36,Y42",150111,Empty acetylene pressure containers containing asbestos,,661.975,"BE,NL,DE",GB,,"R12,R4",Czechia,2018
+25,,Y42,150111,Empty acetylene pressure containers containing asbestos,,231.0,"BE,NL,DE",GB,,"R12,R4",Czechia,2018

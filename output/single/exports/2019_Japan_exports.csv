@@ -1,0 +1,24 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A1160,"Y31,Y34",,"waste lead-acid batteries, whole or crushed","H6.1,H11",1067,,KR,,R4,Japan,2019
+1,A1020,Y31,,copper dross,H11,22,,KR,,R4,Japan,2019
+2,A1070,"Y24,Y26,Y31",,zinc lead residues,H11,766, ,KR,,R4,Japan,2019
+3,A1180,Y31,,waste electrical and electronic assembles or scrap,H11,95, ,SG,,R4,Japan,2019
+4,A1020,Y31,,copper dross,H11,100,,BE,,R4,Japan,2019
+5,A1030,Y24,,copper residues,H11,100,,BE,,R4,Japan,2019
+6,A1020,"Y22,Y31",,copper alloy ashes and residues,H11,1335,,BE,,R4,Japan,2019
+7,A1080,"Y22,Y23,Y31",,zinc copper ash,H11,444,,KR,,R4,Japan,2019
+8,A1080,"Y22,Y23,Y31",,zinc copper ash,H11,176,,KR,,R4,Japan,2019
+9,A1020,"Y27,Y31",,lead sulphate,H11,5162,,KR,,R4,Japan,2019
+10,A1020,Y31,,lead compounds,H11,891,,BE,,R4,Japan,2019
+11,A1020,Y31,,lead compounds,H11,54,,BE,,R4,Japan,2019
+12,"A1020,A1030","Y24,Y27,Y31",,lead ash,H11,929,,KR,,R4,Japan,2019
+13,A1070,"Y24,Y26,Y31",,zinc lead residues,H11,9936,,KR,,R4,Japan,2019
+14,A1020,Y31,,lead compounds,H11,154,,BE,,R4,Japan,2019
+15,A1080,"Y22,Y23,Y31",,zinc ash,H11,755,,KR,,R4,Japan,2019
+16,A1020,Y31,,copper dross,H11,378,,KR,,R4,Japan,2019
+17,A2060,Y35,,coal fly ash,H11,10000,,PH,,R5,Japan,2019
+18,A2060,Y35,,coal fly ash,H11,16,,PH,,R5,Japan,2019
+19,A1020,"Y22,Y31",,copper alloy ashes and residues,H11,336,,BE,,R4,Japan,2019
+20,A1080,"Y22,Y23,Y31",,zinc copper ash,H11,154,,KR,,R4,Japan,2019
+21,A1080,"Y22,Y23,Y31",,zinc copper ash,H11,110,,KR,,R4,Japan,2019
+22,A1180,Y31,,waste electrical and electronic assembles or scrap,H11,88,,SG,,R4,Japan,2019

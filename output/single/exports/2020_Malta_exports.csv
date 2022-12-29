@@ -1,0 +1,64 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A4110,"Y23,Y31,Y43,Y44",19 01 13*; 19 01 15*,Fly ashes from combustion process or residues from scrubbing treatment/ filter cake from gas treatment & boiler washings,H12,74.74,,ES,D9,,Malta,2020
+1,A4110,"Y23,Y31,Y22",12 01 16*,Grit waste,H12,115.314,PT,ES,D9,,Malta,2020
+2,"A1040,A1020","Y19,Y31,Y21",17 05 03*,Contaminated soils,H12,95.727,PT,ES,D9,,Malta,2020
+3,A3150,Y2,07 07 03*,Halogenated solvents,"H3,H6.1,H12",29.913,ES,PT,,R2,Malta,2020
+4,A4010,Y2,07 07 04*; 16 10 01*,Non-halogenated solvents,"H3,H6.1,H12",122.22116,ES,PT,,R2,Malta,2020
+5,A4010,"Y2,Y3",16 05 06*; 16 05 08*,Laboratory reagents,"H3,H6.1,H8,H12",11.161,ES,PT,D10,,Malta,2020
+6,"A4010,A4020","Y1,Y2,Y3",18 01 03*; 18 01 06*; 18 01 08*,Cytotoxic and cytostatic medicines,"H3,H6.1",45.53764,ES,PT,D10,,Malta,2020
+7,A4010,Y2,07 05 13*,Solid pharmaceutical waste,"H11,H12",38.76,ES,PT,D10,,Malta,2020
+8,Y46,,19 12 12,"Refuse derived fuel, paper and plastic",,962.12,"ES,NL",PT,D1,,Malta,2020
+9,A2050,Y36,17 06 05*,Construction material containing asbestos,H11,81.34,ES,PT,D1,,Malta,2020
+10,A4130,Y18,15 01 10*,Contaminated packaging,H12,55.6,ES,PT,,"R3,R4",Malta,2020
+11,A4010,Y2,07 05 01*; 07 05 03*; 07 05 04*; 07 07 04*,Liquid pharmaceutical waste and other solvents,"H3,H6.1,H12",15.06,ES,PT,,"R12,R1",Malta,2020
+12,Y46,,19 12 12,"Refuse derived fuel, paper and plastic",,6633.171,"ES,NL",PT,D1,,Malta,2020
+13,A1180,Y45,20 01 23*; 16 02 11*,"Discarded equipment containing chlorofluorocarbons. Discarded equipment containing chlorofluorocarbons, HCFC, HFC","H_,H_",234.36,,IT,,R4,Malta,2020
+14,A3140,Y45,16 02 11*; 20 01 23*,Cooling/heating equipment,H12,94.14,,IT,,R4,Malta,2020
+15,A2010,Y31,16 02 15*,Waste from cathode ray tubes,H13,108.72,GB,NL,,"R12,R5",Malta,2020
+16,A4090,Y34,06 01 01*; 06 01 02*; 06 01 03*; 06 01 04*; 06 01 05*; 06 01 06*,Acid waste,"H8,H3",71.809,ES,PT,D9,,Malta,2020
+17,A4070,Y12,08 01 11*; 08 01 13*; 08 03 12*; 08 03 14*,Paint and ink waste,"H3,H12",155.45039,ES,PT,D9,,Malta,2020
+18,A4060,Y9,16 10 03*,Coolant waste,H12,2.167,ES,PT,D9,,Malta,2020
+19,A3150,Y2,07 07 03*,Halogenated solvents,"H_,H_,H_",106.756,"ES,NL",PT,,R2,Malta,2020
+20,A4010,Y2,07 07 04*,"Organic solvents, washing liquids and mother Liquors","H3,H6.1,H12",230.238,ES,PT,,R2,Malta,2020
+21,A1160,Y31,16 06 01*,"Lead acid batteries whole, crushed or drained",H8,22.29,,ES,,"R4,R5,R6",Malta,2020
+22,A2050,Y36,17 06 05*; 17 06 01*,Construction and insulation materials containing asbestos,H11,157.07594,,ES,"D13,D5",,Malta,2020
+23,A4010,Y2,07 05 13*,Solid pharamceutical waste,"H6.1,H12",46.926,,IT,"D13,D14,D10",,Malta,2020
+24,A1120,Y18,17 05 05*,Dredged material,H12,170.518,,ES,D9,,Malta,2020
+25,A1180,Y10,16 02 11*; 20 01 23*; 16 02 13*; 20 01 35*,Refrigerators and water heaters,H12,104.52,,IT,,R4,Malta,2020
+26,A4060,Y9,19 08 13*,Scrubber waste,H8,46.208,ES,PT,D9,,Malta,2020
+27,A4060,"Y8,Y9",16 07 08*,Waste containing oil,H12,367.614,ES,PT,"D9,D1",,Malta,2020
+28,A4010,Y2,07 07 10*,Filter cake and spent absorbents,H4.1,55.449,ES,PT,D9,,Malta,2020
+29,,Y18,15 02 02*,Contaminated rags/filters,H12,69.816,ES,PT,D9,,Malta,2020
+30,A2050,Y36,17 06 05*; 17 06 01*,Construction material containing asbestos and insultation material containing asbestos,H11,116.7,,ES,"D14,D5",,Malta,2020
+31,A4010,"Y2,Y42",07 05 04*,"Organic  solvents, washing liquids and mother liquors waste","H3,H6.1,H12",397.92,"IT,AT",DE,D10,,Malta,2020
+32,,"Y3,Y6,Y12,Y13",19 12 11*,Other waste (including mixtures of materials) from mechanical treatment of waste containing dangerous substances,"H3,H4.1,H6.1",887.08,IT,FR,"D13,D10",,Malta,2020
+33,,Y45,16 02 11*; 20 01 23*,"WEEE containing chlorofluorocarbons (CFC), hydrochlorofluorocarbons (HCFC) and hydrofluorocarbons (HFC)",H12,480.926,,IT,,R4,Malta,2020
+34,A1030,Y29,20 01 21*,Fluorescent tubes and other mercury containing waste,H8,26.121,,IT,,R5,Malta,2020
+35,A1160,Y31,16 06 01*,Batteries wet filled with acid,H8,1088.68,IT,ES,,R4,Malta,2020
+36,Y46,,19 12 12,Waste from mechanical treatment,,9927.075,"ES,NL",PT,D1,,Malta,2020
+37,A4060,Y9,13 07 03*,Waste of liquid fuels (including mixtrues),H3,3923.87,,ES,,R3,Malta,2020
+38,A4010,Y2,07 05 01*; 07 07 01*; 16 10 01*,Liquid pharmaceutical waste,"H3,H6.1,H12",577.72,,ES,D9,,Malta,2020
+39,A4010,Y2,07 07 04*; 07 07 03*; 07 05 04*; 07 05 03*; 14 06 03* 16 03 05*,Liquid pharmaceutical waste and other solvents,"H3,H6.1,H12",660.777,,ES,,R2,Malta,2020
+40,A4110,"Y23,Y31,Y43,Y44",19 01 13*; 19 01 15*,"Fly ashes from combustion process or residues from scrubbing treatment, filter cake from gas treatment and boiler washings",H12,231.568,,ES,D9,,Malta,2020
+41,A4110,"Y23,Y31,Y22",12 01 16*,Grit waste,H12,2906.891,PT,ES,D9,,Malta,2020
+42,A1020,"Y31,Y25,Y26,Y28,Y20",17 05 03*,Contaminated soils,H12,21.998,PT,ES,D9,,Malta,2020
+43,A4010,Y3,16 05 06*; 16 05 07*; 16 05 08*,Laboratory reagents,"H3,H6.1,H8,H12",4.17,"ES,GB,NL,DE",BE,D10,,Malta,2020
+44,A4020,"Y1,Y2,Y3",18 01 08*; 18 01 03*; 18 01 06*,Cytotoxic and cytostatic medicines,"H3,H6.1",5.897,"ES,GB,NL,DE",BE,D10,,Malta,2020
+45,A4010,Y2,07 05 13*,Solid pharmaceutical waste,"H11,H12",12.907,"ES,GB,NL,DE",BE,D10,,Malta,2020
+46,A4010,Y2,16 10 01*,Aqueous liquid waste,"H3,H6.1,H12",76.546,ES,PT,,R2,Malta,2020
+47,A4010,Y2,07 05 04*,"Other organic solvents, washing liquids and mother liquors","H3,H6.1",59.13,,IT,"D13,D15,D10",,Malta,2020
+48,A4130,Y18,15 02 02*,Contaminated rags/filters,H12,27.46,ES,PT,,"R12,R1",Malta,2020
+49,A4010,Y2,16 05 06*; 16 05 08*,Laboratory reagents,"H3,H6.1,H8,H12",5.152,ES,PT,D10,,Malta,2020
+50,A4020,"Y1,Y3",18 01 08*; 18 01 03*; 18 01 06*,Cytotoxic and cytostatic medicines,"H3,H6.1",4.821,ES,PT,D10,,Malta,2020
+51,A4010,Y2,07 05 13*; 07 05 14,Solid pharmaceutical waste,"H11,H12",6.88232,ES,PT,D10,,Malta,2020
+52,,,16 01 04*,M.V. Seven Pelican (IMO: 8420244),H6.1,4892.0,,TR,,R4,Malta,2020
+53,,"Y3,Y6,Y12,Y13",19 12 11*,Other waste (including mixtures of materials) from mechanical treatment of waste containing dangerous substances,"H3,H4.1,H6.1",1122.033,IT,FR,"D13,D10",,Malta,2020
+54,,Y34,"06 01 01*, 06 01 02*,06 01 03*,06 01 04*,06 01 05*,06 01 06*",Acid related waste,"H3,H8",22.201,ES,PT,"D9,D1",,Malta,2020
+55,A4070,Y12,"08 01 11*, 08 01 13*, 08 03 12*, 08 03 14*",Paint and ink waste,"H3,H12",46.78074,ES,PT,"D9,D1",,Malta,2020
+56,,"Y8,Y9",16 07 08*,Waste containing oil,H12,33.259,ES,PT,"D9,D1",,Malta,2020
+57,A4010,Y2,07 07 10*,Filter cake and spent absorbents,H4.1,10.179,ES,PT,"D9,D1",,Malta,2020
+58,A4060,Y9,16 10 03*,Coolant waste,H12,28.854,ES,PT,"D9,D1",,Malta,2020
+59,A2050,Y36,"17 06 01*, 17 06 05*",Construction and insulation materials containing asbestos,H11,33.05,,ES,"D13,D5",,Malta,2020
+60,,Y18,15 02 02*,Contaminated rags/filters,H12,11.416,ES,PT,D9,,Malta,2020
+61,Y46,,19 12 12,Waste from mechanical treatment,,339.68,ES,PT,D1,,Malta,2020
+62,A4010,"Y2,Y42",07 05 04*,"Organic  solvents, washing liquids and mother liquors waste","H3,H6.1,H12",365.01,"IT,AT",DE,D10,,Malta,2020

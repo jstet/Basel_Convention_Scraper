@@ -1,0 +1,160 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_origin,annex_4_a_code,annex_4_b_code,country,year
+0,A2030,Y18,160802*,Catalizadores agotados,"H11,H13",152.8,,FR,,"R8,R4",Spain,2019
+1,A4020,Y1,"180103*, 180202*",Biosanitarios,H6.2,33.05,,PT,D9,,Spain,2019
+2,A4010,Y23,100207*,Residuos sólidos del tratamiento de gases que contienen sustancias peligrosas,H12,404.3,,IT,,R4,Spain,2019
+3,A1130,Y18,160802*,Catalizadores agotados,"H4.2,H5.1,H11",447.38,,FR,,"R8,R4",Spain,2019
+4,,,190117*,Fondo del fraccionador de pirólisis de residuos plásticos,H3,5.0,FR,DE,,R3,Spain,2019
+5,A4020,Y1,"180103*, 180202*",Biosanitarios,H6.2,176.206,,PT,D9,,Spain,2019
+6,A4020,Y3,"180108*, 180207*",Citostáticos,H6.1,108.86,,PT,D10,,Spain,2019
+7,A4010,Y23,100207*,Residuos sólidos del tratamiento de gases que contienen sustancias peligrosas,H12,589.82,,IT,,R4,Spain,2019
+8,A2030,Y23,160802*,Catalizadores agotados,"H11,H13",592.08,,FR,,"R4,R8",Spain,2019
+9,,,060404*,Residuos que continen mercurio,H_,33.435,,CH,,R4,Spain,2019
+10,,,060702*,Carbón activo procedente de la producción de cloro,H_,8.82,,CH,,R7,Spain,2019
+11,,,140601*,"Clorofluorocarbonados, hcfc,hfc",H_,24.12,,FR,D10,,Spain,2019
+12,,,191211*,Otros residuos (incluídas mezclas de materiales) procedentes del tratamiento mecánico de residuos que contienen sustancias peligrosas,H_,22.46,,DE,D12,,Spain,2019
+13,,,191307*,"Residuos líquidos acuosos y concentrados acuosos, procedentes de la recuperación de aguas subterraneas, que contienen sustancias peligrosas",H_,4.16,,FR,D10,,Spain,2019
+14,A1020,Y10,110202*,"Sludges from zinc hydrometallurgy (including jarosite, goethite)",H12,119.62,FR,BE,D10,R4,Spain,2019
+15,A2030,,160807*,Catalizadores usados contaminados con sustancias peligrosas,,0.6,FR,GB,,R8,Spain,2019
+16,A1020,Y31,100405*,Oxides of pb and ag,H12,52.66,,GB,,R4,Spain,2019
+17,A3180,Y10,"160209*, 130301*, 150202*",Transformers and capacitors containing pcbs,H12,77.82,,FR,D10,,Spain,2019
+18,A4060,Y9,130703*,Other fuels (including mixtures),,22070.06,,PT,,R9,Spain,2019
+19,A2030,,160807*,Spent catalysts contaminated with hazardous substances,,107.35,,FR,,R8,Spain,2019
+20,A4020,Y3,"180108*, 180207*, 180109*",Cytotoxic and cytostatic medicines,,106.25,,PT,D10,,Spain,2019
+21,B1080,,100505*,Polvo de zinc,H4.3,24.14,FR,BE,,R4,Spain,2019
+22,A4010,Y3,160504*,Lista ambar,H12,21.1,FR,GB,,R3,Spain,2019
+23,A4010,Y2,140601*,Lista ambar,,55.16,FR,GB,,R3,Spain,2019
+24,A4130,Y36,150111*,Lista ambar,H11,79.62,FR,DE,,R4,Spain,2019
+25,,,070699; 070608*,Otros residuos de industria cosmética no listados; residuos de reacción y destilación de industria cosmética.,H3,23.0,,FR,,R5,Spain,2019
+26,A1170,Y26,160602*,Baterías de niquel-cadmio,H12,138.0,"FR,DE",CZ,,R12,Spain,2019
+27,A1170,Y26,160602*,Baterías de niquel-cadmio,H12,22.4,,FR,,R4,Spain,2019
+28,A2030,Y2,160802*,Catalitzadors,,18.512,FR,DE,,R4,Spain,2019
+29,A4070,Y12,160305*,Residus orgànics que contenen substàncies perilloses,,92.572,"BE,FR,LU",NL,,R12,Spain,2019
+30,A4160,Y18,150202*,Carbó actiu,,1022.284,FR,BE,,R7,Spain,2019
+31,A1050,,110109*,Llots i tortons de filtració que contenen sustàncies perilloses,,276.689,FR,DE,,R4,Spain,2019
+32,A1060,,110106*,Acids amb metalls,,17.82,FR,DE,,R4,Spain,2019
+33,A4130,Y36,150111*,Acetilè,,61.63,"FR,LU",DE,,R2,Spain,2019
+34,A3140,Y42,070704*,Dissolvents no halogenats,,574.18,,FR,,R2,Spain,2019
+35,,,110109*,Llots i tortons de filtracio amb substancies perilloses,H_,170.32,"FR,DE",PL,,R4,Spain,2019
+36,A3140,Y42,070704*,Dissolvents no halogenats (isopropanol-metanol) aigua (30-40%),,729.02,,FR,,R2,Spain,2019
+37,A2030,,160802*,Catalitzadors usats que contenen metalls de trasició,,40.676,FR,DE,,R4,Spain,2019
+38,A3170,Y41,070201*,Dissolvents clorats,,440.5,,FR,,R5,Spain,2019
+39,A3150,Y41,070707*,Mescla de dissolvents halogenats,,22.0,,FR,,R5,Spain,2019
+40,A4140,Y34,160507*,Productes quimics organics i inorganics,,3.762,FR,DE,D10,,Spain,2019
+41,A3050,Y13,080501*,Residus d'isocianats,,12.037,FR,DE,D10,,Spain,2019
+42,A4150,Y14,160506*,Productes quimics de laboratori,,7.53,,FR,D10,,Spain,2019
+43,A3150,Y42,070703*,Dissolvents halogenats amb iodurs,,330.57,,FR,D10,,Spain,2019
+44,A3140,Y42,070704*,Dissolvents no halogenats (n-propanol),,608.7,,FR,,R2,Spain,2019
+45,,Y23,100207*,Residus solids del tractament de gasos que contenen substancies perilloses,,4649.1,,IT,,R4,Spain,2019
+46,A2030,Y35,160807*,Catalitzadors gastat de pal.ladi contaminat amb substancies perilloses,,14.797,FR,DE,,R13,Spain,2019
+47,A3050,Y13,080501*,Residus polimeritzables (isocianats),,21.0,,FR,D10,,Spain,2019
+48,A4140,Y35,160508*,Productes quimics obsolets,,11.04,,FR,D10,,Spain,2019
+49,A3140,Y42,070708*,Efluents reactius no halogenats,,8.31,,FR,D10,,Spain,2019
+50,A4140,Y34,160507*,Productes quimics inorganics obsolets,,17.3,,FR,D10,,Spain,2019
+51,A3140,Y42,070108*,Efluents reactius no halogenats,,10.58,,FR,D10,,Spain,2019
+52,A3150,Y41,070707*,Efluents reactius halogentas,,22.83,,FR,D10,,Spain,2019
+53,,,191212*,Altres residus procedents del tractament mecanic de residus,H_,4176.34,,AD,,R1,Spain,2019
+54,A3180,Y10,160209*,Transformadors i condensadors i materials liquids i solids contaminats amb pcb,,6.25,,FR,D10,,Spain,2019
+55,A3140,Y6,140603*,Mescla de dissolvents no halogenats,,222.86,,FR,,R1,Spain,2019
+56,A4140,Y45,140601*,"Cfc, hcfc i hfc",,27.415,,FR,D10,,Spain,2019
+57,A3050,Y13,080501*,Residus polimeritzables,,5.91,,FR,D13,,Spain,2019
+58,A4140,"Y32,Y33,Y35",160504*,Gasos en recipients a pressio que contenen substancies perilloses,,12.047,,FR,D10,,Spain,2019
+59,,,120118*,Residus de carbur de tungste,H_,139.932,FR,DE,,R4,Spain,2019
+60,A4140,Y13,070707*,Residus solids i/o pastosos,,195.471,,FR,D10,,Spain,2019
+61,A4050,"Y7,Y17,Y33",110198*,Banys cianurats que contenen metalls preciosos,,17.77,"FR,BE",NL,,R4,Spain,2019
+62,,Y18,190813*,Llots que contenen metalls preciosos,,8.05,"FR,BE",NL,,R12,Spain,2019
+63,A4070,Y12,080111*,Residus solids que contenen pasta amb metalls preciosos,,0.46,"FR,BE",NL,,R12,Spain,2019
+64,A4050,"Y17,Y35",110109*,"Llots, materials de filtració, tortons i pols de filtració amb metalls preciosos",,3.314,"FR,BE",NL,,R4,Spain,2019
+65,A1060,"Y17,Y34",110105*,Acids de decapatge amb metalls preciosos,,0.03,"FR,BE",NL,,R4,Spain,2019
+66,A1130,Y17,110107*,Solucio cupro-amoniacal,,82.15,FR,IT,,R5,Spain,2019
+67,A1130,Y17,110107*,Solucio alcalina cupro-amoniacal,,160.5,FR,IT,,R5,Spain,2019
+68,A1130,Y17,110107*,Solucio alcalina cupro-amoniacal,,327.21,FR,IT,,R5,Spain,2019
+69,A1130,Y17,110107*,Solucio alacalina cupro amoniacal,,106.86,FR,IT,,R5,Spain,2019
+70,A4070,"Y12,Y17",150202*,"Absorbents, materials de filtracio, draps de neteja amb metalls preciosos",,4.545,"FR,BE",NL,,R4,Spain,2019
+71,,Y32,160213*,Equips i embalatges que contenen sf6,,8.68,,FR,D10,,Spain,2019
+72,A3150,Y41,070707*,Residus de reaccio i destil.lacio halogenats,,218.335,,FR,D10,,Spain,2019
+73,,Y32,160504*,Sf6 contaminat,,3.905,,FR,,R5,Spain,2019
+74,A3170,Y41,070103*,Dissolvents clorats,,3705.16,,FR,,R5,Spain,2019
+75,A3150,Y41,070203*,Dissolvents halogenats,,136.2,,FR,D10,,Spain,2019
+76,A3150,Y41,070707*,Mescla de dissolvents halogenats,,22.0,,FR,,R5,Spain,2019
+77,A4140,"Y34,Y35,Y39,Y45",160507*,Productes qumics organics i inorganics caducats,,41.673,FR,DE,D10,,Spain,2019
+78,A3050,Y13,080501*,Residus d'isocianats,,3.78,FR,DE,D10,,Spain,2019
+79,A3150,Y41,070703*,Residus de desti.lacio halogenats,,23.8,,FR,D10,,Spain,2019
+80,A1170,Y26,160602*,Acumuladors de ni-cd,,135.96,"FR,DE",CZ,,R12,Spain,2019
+81,A3150,Y41,070703*,Dissolvents halogenats amb iodurs,,399.084,,FR,D10,,Spain,2019
+82,A2030,"Y35,Y37,Y42,Y45",160807*,Catalitzador gastat de pal.ladi,,187.781,FR,DE,,R13,Spain,2019
+83,A4090,Y2,070703*,Solucions liquides aquoses amb brom,,50.4,,FR,,R12,Spain,2019
+84,A4150,Y14,160506*,Productes quimics de laboratori,,23.528,,FR,D13,,Spain,2019
+85,,Y23,100207*,Residus solids del tractament de gasos que contenen substancies perilloses,,11282.067,,IT,,R4,Spain,2019
+86,A2030,Y2,160802*,Catalitzador usats de niquel raney,,17.751,FR,DE,,R4,Spain,2019
+87,A4140,"Y35,Y39,Y45",160508*,Productes quimics organics rebutjats que contenen subst. perilloses,,26.84,,FR,D10,,Spain,2019
+88,A3140,Y42,070708*,Altres de residus de reaccio i de destilacio,,40.34,,FR,D10,,Spain,2019
+89,A4140,"Y34,Y35",160507*,Productes quimics inorganics amb substancies perilloses,,22.08,,FR,D10,,Spain,2019
+90,A3150,Y6,070507*,Residus de reaccio i destil.lacio halogenats,,17.4,FR,DE,D10,,Spain,2019
+91,A3150,Y41,070707*,Residus de reaccio i de destilacio halogenats,,5.72,,FR,D10,,Spain,2019
+92,,,191212*,Altres residus procedents del tractament mecanic,H_,4484.26,,AD,,R1,Spain,2019
+93,A1170,Y26,160602*,Acumuladors ni-cd,,72.0,,FR,,R4,Spain,2019
+94,A3140,Y42,070108*,Efluents reactius no halogenats,,12.44,,FR,D10,,Spain,2019
+95,A3140,Y6,140603*,Mescla de dissolvents no halogenats,,115.46,,FR,,R1,Spain,2019
+96,A3150,Y41,070107*,Efluents reactius halogenats,,3.21,,FR,D10,,Spain,2019
+97,A4140,Y45,140601*,"Cfc's, hcfc, hfc",,21.16,,FR,D10,,Spain,2019
+98,A2030,Y35,160807*,Catalitzador esgotat de paladi contaminat amb substancies periloses,,101.776,FR,DE,,R13,Spain,2019
+99,A3050,Y13,080501*,Residus polimeritzables,,12.132,,FR,D13,,Spain,2019
+100,A4160,Y18,150202*,Carbo actiu saturat,,4.18,FR,BE,,R7,Spain,2019
+101,A4160,Y18,150202*,Carbo actiu saturat,,224.68,FR,BE,,R7,Spain,2019
+102,A4140,Y32,160504*,Gasos en recipients a pressio que contenen substancies perilloses,,4.66,,FR,D10,,Spain,2019
+103,A4140,Y18,070707*,Residus solids i pastosos,,26.0,,FR,D10,,Spain,2019
+104,A4090,Y35,060205*,Líquids bàsics amb metalls preciosos,,16.21,"FR,BE",NL,,R13,Spain,2019
+105,A4140,Y45,140601*,Mescla de fluids refrigerants,,0.7,,FR,,R13,Spain,2019
+106,A4050,"Y7,Y17,Y33",110198*,Banys cianurats que contenen metalls preciosos,,0.25,"FR,BE",NL,,R4,Spain,2019
+107,A4140,"Y39,Y41","070107*, 07 02 08*",Fons peses de distillation,,23.84,,FR ,D10,,Spain,2019
+108,A2030,"Y39,Y41",160807*,Catalyseurs,,31.411,,FR ,,"R12,R1",Spain,2019
+109,A2030,"Y39,Y41","160806*, 160807*",Catalyseurs,,87.8,,FR ,D10,,Spain,2019
+110,A4140,"Y39,Y41","070107*, 070208*",Fons peses de distillation,,39.06,,FR ,D10,,Spain,2019
+111,A2030,"Y39,Y41",160807*,Catalyseurs,,54.479,,FR ,,"R12,R1",Spain,2019
+112,A4140,Y41,070107*,Fons peses de distillation,,90.626,,FR ,,"R12,R1",Spain,2019
+113,A4140,Y39,070208*,Fons peses de distillation avec phenol,,72.494,,FR ,,"R12,R1",Spain,2019
+114,,Y23,100207*,,H13,3531.2,,IT,,R4,Spain,2019
+115,,,191210,Combustible derivado de residuo ,H4.1,1312.7,,PT,,R1,Spain,2019
+116,,Y43,160601*,,H8,146.55,,PT,,R4,Spain,2019
+117,,Y3,180108*,,H6.1,98.934,,PT,D10,,Spain,2019
+118,,Y1,180103*,,H6.2,355.385,,PT,D9,,Spain,2019
+119,,Y3,180207*,,H11,5.735,,PT,D10,,Spain,2019
+120,,Y1,180103*,,H6.2,7.435,,PT,D10,,Spain,2019
+121,,Y1,180202*,,H6.2,6.004,,PT,D10,,Spain,2019
+122,,Y1,180103*,,H6.2,3.75,,PT,D9,,Spain,2019
+123,A4020,Y3,"180108*, 180207*",Medicamentos citotóxicos y citostáticos,"H11,H6.1",410.612,,PT,D10,,Spain,2019
+124,A4020,Y1,"180103*, 180202* ",Biosanitario especial,H6.2,5.92,,PT,D10,,Spain,2019
+125,A4010,Y45,070507*,Torta de destilación de ácido acético con compuestos conteniendo yodo,H8,19.66,"FR,BE",DE,,R5,Spain,2019
+126,A4160,Y45,070509*,Carbón agotado con compuestos conteniendo yodo,H12,139.26,"FR,BE",DE,,R5,Spain,2019
+127,A1170,Y26,160602*,Acumuladores fuera de uso niquel y cadmio   ,H8,173.86,,FR,,R4,Spain,2019
+128,A1180,,160213*,Equipos eléctricos y electrónicos desechados que contienen componentes peligrosos distintos de los especificados en los códigos 160209 al 160212,,140.657,,FR,,"R4,R5,R12",Spain,2019
+129,,Y33,110116*,Resinas intercambiadoras de iones saturadas,H6.1,0.0176,"FR,BE",DE,,R4,Spain,2019
+130,,Y18,190205*,Lodos compactados y deshidratados,H12,48.66,"FR,BE",DE,,R4,Spain,2019
+131,A4140,"Y34,Y35,Y41,Y42","160506*, 160507*, 160508*",Reactivos de laboratorio,"H3,H6.1",16.1,"FR,BE",DE,D10,,Spain,2019
+132,"B1130,A2030",,"160801, 160807*",Catalizadores,H_,3.467,FR,IT,,R8,Spain,2019
+133,A3180,Y10,130301*,Aceite contaminado con pcb,"H11,H12",70.38,,FR,D10,,Spain,2019
+134,A3180,Y10,150202*,Solidos contaminados con pcb,"H11,H12",49.348,,FR,D10,,Spain,2019
+135,A3180,Y10,160209*,Condensadores contaminados con pcb,"H11,H12",1.922,,FR,D10,,Spain,2019
+136,A4140,"Y32,Y33,Y45",160504*,gases en recipientes a presion que contienen sustancias peligrosas,,0.755,,FR,D10,,Spain,2019
+137,A4130,"Y32,Y41,Y42,Y45",160504*,gases en recipientes a presion que contienen sustancias peligrosas,,25.068,"FR,BE,NL",DE,D10,,Spain,2019
+138,A4140,Y45,140601*,"chlorofluorocarbonos, HCFC´S, HFC´S",,87.13,,FR,D10,,Spain,2019
+139,A4140,"Y32,Y33,Y45",160504*,gases en recipientes a presion que contienen sustancias peligrosas,,4.26,,FR,D10,,Spain,2019
+140,A4130,"Y32,Y41,Y42,Y45",160504*,gases en recipientes a presion que contienen sustancias peligrosas,,18.967,"FR,BE,NL",DE,D10,,Spain,2019
+141,A1010,,191211*,Residuos de cobre,H11,24.16,"FR,BE",DE,,R4,Spain,2019
+142,A1030,Y29,60404*,Lodos con sales de mercurio,H6.1,23.08,"FR,BE",DE,D9,,Spain,2019
+143,A1030,Y29,191211*,Residuos con mercurio,H6.1,23.02,"FR,BE",DE,D9,,Spain,2019
+144,A1050,Y17,190205*,Lodos con compuestos metalicos,H12,378.553,FR,DE,,R4,Spain,2019
+145,A1100,Y23,100606*,Oxidos de zinc,H12,273.8,,GB,,R4,Spain,2019
+146,A1100,Y23,100606*,Oxidos de zinc,H6.1,173.1,,BE,,R4,Spain,2019
+147,A1100,Y23,100606*,Oxidos de zinc,H6.1,1135.4,,IT,,R4,Spain,2019
+148,A1130,Y17,110107*,Solucion alcalina cupro-amoniacal,H6.1,240.15,FR,IT,,R5,Spain,2019
+149,A1170,Y26,160602*,Acumuladores ni-cd,H8,243.566,,FR,,R4,Spain,2019
+150,A4020,Y1,180103*,Residuos hospitalarios,H6.2,721.124,,FR,D10,,Spain,2019
+151,A4030,Y4,170503*,Tierras contaminadas,H12,135.72,FR,BE,D10,,Spain,2019
+152,A4030,Y4,170503*,Tierras contaminadas,H6.1,651.38,,FR,D10,,Spain,2019
+153,,Y23,100207*,Residuos sólidos del tratamiento de gases que contienen sustancias peligrosas,H12,12405.65,,FR,,R4,Spain,2019
+154,A1030,Y29,060404* 101401* 150202* 180109* 180110* 190806*,Desechos de mercurio,,2.183,,SE,,R4,Spain,2019
+155,A4160,Y29,060702*,Carbon activo gastado,,11.321,FR,CH,,R7,Spain,2019
+156,A1030,Y29,060404*,Desechos de mercurio,,31.28,FR,CH,,R4,Spain,2019
+157,A4100,Y23,100207*,Polvo de arco electrico de horno,H_,3440.58,"IT,EG,AE,SG,CN",KR,,R4,Spain,2019
+158,A4100,Y23,100207*,Residuos solidos de tratamiento de gases con sustancias peligrosas,,1436.74,,KR,,R4,Spain,2019

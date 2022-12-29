@@ -1,0 +1,14 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A1060,,,Metal bearing hydroxide and filtercakes containing dangerous substances from chemical surface treatment,H12,300,,DE,,R4,Brazil,2017
+1,A2030,,,Exhausted catalyst containing Rhodium,H12,120,,BE,,R4,Brazil,2017
+2,A1020,,,SnPb Residues,H12,250, ,BE,,R4,Brazil,2017
+3,A1020,,,Cu mud,H12,100, ,BE,,R4,Brazil,2017
+4,A1020,,,Sweeps Industry (jewelry and others) residues with precious metals,H12,95,,BE,,R4,Brazil,2017
+5,A2030,,,"PGM ashes – waste of ashes from spent automotive catalyst containing precious metals from platinum group (Pd, Pt and Rh)",H12,5,,BE,,R4,Brazil,2017
+6,A1020,,,Sweeps Industry (jewelry and others) residues with precious metals,H12,5,,BE,D5,R4,Brazil,2017
+7,A1180,Y18,,Electronic equipment/devices for recycling,H12,3000,,NL,,R4,Brazil,2017
+8,A1180,,,"Electronic scrap containing precious metals (Au bearing, cellphones without batteries, printed circuit boards, memory boards and processors scrap)",H12,1000,,SG,,R4,Brazil,2017
+9,A1020,Y31,,Pyrometallurgic and hydrometallurgic process,H12,550,,BE,,R4,Brazil,2017
+10,A1180,"Y18,Y27,Y31",,Electronic boards ,H12,1680,,JP,,R4,Brazil,2017
+11,A4160,Y18,,Carbon fines,H12,1200,,BE,,R4,Brazil,2017
+12,A1180,Y18,,"Electronic scrap containing precious metals (Au bearing, cellphones without batteries, printed circuit boards, memory boards and processors scrap)",H12,1000,,NL,,R4,Brazil,2017

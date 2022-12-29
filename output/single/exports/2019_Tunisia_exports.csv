@@ -1,0 +1,8 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A1130,Y17,80203.0,Spent alkaline solution containing copper,H_,220.0,,IT,,R5,Tunisia,2019
+1,A1130,Y17,130104.0,Spent acid  solution containing copper,H_,390.0,,IT,,R5,Tunisia,2019
+2,A4070,Y12,100103.0,"Sludge of painting containing inflammable  liquid
+",H4.1,100.0,,FR,,"R1,R12",Tunisia,2019
+3,A3150,"Y6,Y12,Y41",160102.0,Wastes containing halogenated solvent ,H_,264.0,,FR,,"R1,R12",Tunisia,2019
+4,A4130,,,"Absorbents, rags, materials and packaging containing hazardous substances",H13,442.0,,FR,,"R1,R12",Tunisia,2019
+5,A4140,,20202.0,Chemicals of laboratories containing hazardous substances,H_,255.0,,FR,,"R1,R12",Tunisia,2019

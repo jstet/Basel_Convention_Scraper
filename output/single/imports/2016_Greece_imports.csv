@@ -1,0 +1,13 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_origin,annex_4_a_code,annex_4_b_code,country,year
+0,A4010,"Y2,Y3",16 03 05*,organic wastes containing dangerous substances (EWC 16 03 05*),"H6.1,H11",13.38,,AL,,"R12,R13",Greece,2016
+1,,Y8,"13 02 05*, 13 02 06*","used lube oils (EWC 13 02 05*, 13 02 06*)",H12,344.53,, TR ,,R9,Greece,2016
+2,A3020,Y8,"13 01 10*,  13 01 11*,  13 02 05*,  13 02 06*,  13 02 08*,  13 03 07*,  13 03 08*,  13 03 10*","mineral based non-chlorinated hydraulic oils (EWC 13 01 10*), synthetic hydraulic oils (EWC 13 01 11*), mineral-based non-chlorinated engine, gear and lubricating oils (EWC 13 02 05*), synthetic engine, gear and lubricating oils (EWC 13 02 06*), other engine, gear and lubricating oils (EWC 13 02 08*), mineral-based non-chlorinated insulating and heat transmission oils (EWC 13 03 07*), synthetic insulating and heat transmission oils (EWC 13 03 08*), other insulating and heat transmission oils (EWC 13 03 10*)",H12,595.0,,BG,,R9,Greece,2016
+3,A3020,Y8,13 02 05*,"mineral-based non-chlorinated engine, gear and lubricating oils (EWC 13 02 05*)",H12,7112.0,,DZ,,R9,Greece,2016
+4,A3020,Y8,13 02 05*,"mineral-based non-chlorinated engine, gear and lubricating oils (EWC 13 02 05*)",H12,9102.0,,TR,,R9,Greece,2016
+5,A3020,Y8,"13 02 05*,  13 02 06*,  13 02 07*, 13 02 08*","mineral-based non-chlorinated engine, gear and lubricating oils (EWC 13 02 05*), synthetic engine, gear and lubricating oils (EWC 13 02 06*), readily biodegradable engine, gear and lubricating oils (EWC 13 02 07*) other engine, gear and lubricating oils (EWC 13 02 08*)",H12,3398.0,,TR,,R9,Greece,2016
+6,A3020,Y8,"13 02 05*, 13 02 06*","mineral-based non-chlorinated engine, gear and lubricating oils (EWC 13 02 05*), synthetic engine, gear and lubricating oils (EWC 13 02 06*)",H12,3457.0,,DZ,,R9,Greece,2016
+7,A4140,Y14,16 05 08*,discarded organic chemicals constisting of or containing dangerous substances (EWC 16 05 08*),"H3,H6.1,H8,H12",0.22,,AL,D15,,Greece,2016
+8,A4140,Y18,16 05 08*,discarded organic chemicals constisting of or containing dangerous substances (EWC 16 05 08*),"H6.1,H13",42.63,,RS,,"R12,R1",Greece,2016
+9,,Y18,19 12 10,combustible waste (refuse derived fuel) (EWC 19 12 10),H13,133.66,ES,IT,,"R12,R1",Greece,2016
+10,A1160,Y31,16 06 01*,lead batteries (EWC 16 06 01*),H8,3050.096,,CY,,R4,Greece,2016
+11,A1080,,10 05 01,fine zinc skimmings (slags from secondary production) (EWC 10 05 01),H4.3,1576.14,,IT,,R4,Greece,2016

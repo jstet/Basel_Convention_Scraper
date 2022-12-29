@@ -1,0 +1,37 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_origin,annex_4_a_code,annex_4_b_code,country,year
+0,A1160,Y_,160601,Waste lead acid batteries,,26411.82,,DE,,R4,Czechia,2020
+1,A1160,"Y31,Y34",160601,Waste lead acid batteries,,522.62,,AT,,R4,Czechia,2020
+2,A1160,Y31,160601,Waste lead acid batteries,,864.414,"HR,HU,SK",BA,,R4,Czechia,2020
+3,A1160,"Y31,Y34",160601,Waste lead acid batteries,,474.82,SK,HU,,R4,Czechia,2020
+4,A1160,"Y31,Y34","160601, 200133",Waste lead acid batteries,,229.645,,SK,,R4,Czechia,2020
+5,A1160,Y_,191211,Lead derived from lead acid batteries,,3959.231,PL,LT,,R4,Czechia,2020
+6,A1020,Y_,191211,Lead derived from lead acid batteries,,1318.296,PL,LT,,R4,Czechia,2020
+7,A1020,Y31,191211,Lead derived from lead acid batteries,,1180.208,"NL,DE",GB,,R4,Czechia,2020
+8,A1020,Y_,191211,Lead paste ,,93.98,DE,FR,,R4,Czechia,2020
+9,A1010,Y_,191211,Lead with tar,,25.22,,DE,,R4,Czechia,2020
+10,,Y45,160504; AC160,Halons,,3.5,,DE,,R3,Czechia,2020
+11,A1180,Y45,"160211, 200123",Refrigerators,,690.66,,SK,,"R12,R3,R4",Czechia,2020
+12,A1180,Y_,160213,LCD monitors and TV screens,,145.475,,DE,,R12,Czechia,2020
+13,A1180,Y_,160213,PC monitors and TV screens,,413.95,,DE,,R12,Czechia,2020
+14,A1180,"Y31,Y45","160213, 200135",Electronic devices,,84.75,DE,DK,,"R3,R4",Czechia,2020
+15,A1180,Y_,"160213, 200135",Electronic devices,,651.01,,DE,,"R3,R4",Czechia,2020
+16,A1180,Y_,"160213, 200135",Electronic devices,,2686.64,,DE,,"R12,R3,R4,R5",Czechia,2020
+17,A1180,Y_,"160213, 200135",Electronic devices,,995.04,,DE,,"R12,R3,R4",Czechia,2020
+18,A1170,Y26,160602,Ni-Cd batteries,,42.312,"FR,DE",ES,,R12,Czechia,2020
+19,A1170,Y26,160602,Ni-Cd batteries,,22.639,,AT,,"R12,R4",Czechia,2020
+20,A3140,"Y12,Y42",070104,Waste non-halogenated organic solvents ,,111.3,,SK,,R1,Czechia,2020
+21,A1060,"Y17,Y34",110105,Pickling liquor,,178.52,SK,HU,,R4,Czechia,2020
+22,A1030,Y24,060403,Waste containing arsenic,,10.8,,SK,,R5,Czechia,2020
+23,A2030,Y34,160805,Spent catalyst ,,59.561,"GB,BE,DE",CA,,R5,Czechia,2020
+24,A2030,Y_,160802,Spent catalyst,,216.286,"SN,MA,NL,DE",CI,,"R4,R8",Czechia,2020
+25,A2030,Y_,160802,Spent catalyst,,128.139,DE,GB,,R4,Czechia,2020
+26,A2030,"Y21,Y22,Y26",160802,Spent catalyst,,865.886,SK,HU,,"R13,R4",Czechia,2020
+27,A2030,Y_,160802,Spent catalyst,,105.894,PL,LT,,R4,Czechia,2020
+28,A2030,Y_,160802,Spent catalyst,,492.685,"BE,DE",LU,,R4,Czechia,2020
+29,A2030,Y_,"160802, 160807",Spent catalyst,,19.311,DE,NL,,R4,Czechia,2020
+30,A1010,Y29,160307,Mercury,,2.645,AT,IT,,R4,Czechia,2020
+31,A4130,"Y36,Y42",150111,Empty acetylene pressure containers containing asbestos,,99.3,DE,CH,,"R12,R4",Czechia,2020
+32,A2050,"Y36,Y42",150111,Empty acetylene pressure containers containing asbestos,,54.1,,DE,,"R12,R4",Czechia,2020
+33,A2050,Y_,150111,Empty acetylene pressure containers containing asbestos,,303.8,"BE,NL,DE",GB,,"R12,R4",Czechia,2020
+34,A2050,Y36,150111,Empty acetylene pressure containers containing asbestos,,139.7,,PL,,"R12,R4",Czechia,2020
+35,,Y17,"100308, 100309",Wastes from aluminium thermal metallurgy,,81.58,,SK,,R4,Czechia,2020

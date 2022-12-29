@@ -1,0 +1,4 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A4140,,16 05 04 ,Methyl Bromide with nom more than 2.0% chloropicrim,H11,10,"BE,DE,LT,MZ,NL,ZA,ES,GB",SE,D10,R5,Malawi,2017
+1,A4030,Y4,"02 01 08*, 20 01 19*, 15 01 10*, 15 02 02*",Pesticides and Solids Contaminated with Pesticides,"H5.1,H5.2",400,"BE,DE,LT,MZ,ZA,ES,GB",SE,D10,,Malawi,2017
+2,A4030,Y4,16 03 03 ,Ashes from burnt pesticides ,H12,50,TZ,UG,D1,R5,Malawi,2017

@@ -1,0 +1,10 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A4100,Y23,10 02 07 ,Electric Arc Furnace dust  ,H12,15000,AE,SA,,R4,Oman,2019
+1,A4060,Y9,,Tank bottoms,H12,500,"EG,IL,IT,MT,SA,LK,AE",GR,,"R1,R12",Oman,2019
+2,A4060,Y9,,slop/ sludge oil ,"H11,H12",4000,,PH,,"R1,R9",Oman,2019
+3,A4060,"Y6,Y7,Y8,Y9,Y42",,oil and fat waste (used oil / Diesel and solids containing),"H3,H4.1,H12,H13",50,"EG,IN,IT,MT,SA,ES,LK,AE",DE,D10,,Oman,2019
+4,A4070,Y12,,"waste paint, varnishes, inks and glues with organic solvents ","H3,H6.1,H12",400,"EG,SA,ES",PY,,"R1,R12",Oman,2019
+5,,Y12,,"waste oily filters, absorbents and rags ",H12,150,"EG,SA,ES,AE",PY,,"R1,R12",Oman,2019
+6,A4140,Y14,,Liquid combustible wastes containing hazardous substances ,H8,300,"IN,MT,LK,AE",ES,,"R1,R13",Oman,2019
+7,A4060,Y11,,oily sludge ,H12,500,"EG,SA,ES,AE",PY,,"R1,R12",Oman,2019
+8,A4140,Y35,,"waste consisting of containing faulty manufacture of chemicals and old chemical, unsuitable for intended use  ","H3,H6.1,H8",50,"EG,IN,IT,MT,SA,ES,AE",DE,D10,,Oman,2019

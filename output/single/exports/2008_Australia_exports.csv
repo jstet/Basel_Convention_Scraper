@@ -1,0 +1,22 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A2030,Y42,A2030,"Spent catalyst containing high value metals and organic solvents including benzene, ethylbenzene and xylene ","H11,H12",110,NZ,US,,R8,Australia,2008
+1,"A1020,A1030,A1040,A1160,A2050,A3020,A4060","Y8,Y9,Y21,Y29,Y31,Y36",160104,End-of-life vessel,"H3,H6.1,H8,H11",16079,,TR,,"R4,R12",Australia,2008
+2,A1160,Y31,A1160,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",3500,JP,KR,,R4,Australia,2008
+3,A1160,Y31,A1160,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",6000,JP,KR,,R4,Australia,2008
+4,A1160,Y31,A1160,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",4000,JP,KR,,R4,Australia,2008
+5,A1020,Y31,191211,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",18000,"SG,ES,GB,BE,EG,DE,ID,MY",PL,,R4,Australia,2008
+6,A2030,Y42,A2030,Spent catalyst containing platinum and hydrocarbons,"H11,H12",70,,JP,,R4,Australia,2008
+7,A1160,Y31,A1160,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",6000,JP,KR,,R4,Australia,2008
+8,A1020,Y31,60405,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",18000,"SG,MY,SA,EG,TR",BG,,R4,Australia,2008
+9,A1020,Y31,A1020,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",12000,"SG,MY,GR,EG,IT,FR",ES,,R4,Australia,2008
+10,A1170,Y26,514103,unsorted waste batteries,"H8,H11,H12",200,,KR,,R4,Australia,2008
+11,A1170,"Y15,Y34,Y35",A1170,Used lithium metal batteries,"H8,H10,H12",10,"NZ,US",CA,,R4,Australia,2008
+12,A1180,"Y15,Y34,Y35",A1180,Lithium metal batteries in electrical equipment ,"H8,H10,H12",5,"NZ,US",CA,,R4,Australia,2008
+13,A3170,Y41,A3170,hexachlorobenzene waste and chlorinated wastes containing hexachlorobenzene,"H6.1,H12",550,FI,SE,D10,,Australia,2008
+14,A3170,Y41,A3170,hexachlorobenzene waste and chlorinated wastes containing hexachlorobenzene,"H6.1,H12",1900,SE,FI,D10,,Australia,2008
+15,A3170,Y41,A3170,hexachlorobenzene waste and chlorinated wastes containing hexachlorobenzene,"H6.1,H12",600,,FI,D10,,Australia,2008
+16,A1160,Y31,A1160,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",2500,JP,KR,,R4,Australia,2008
+17,A3170,Y41,A3170,hexachlorobenzene waste and chlorinated wastes containing hexachlorobenzene,"H6.1,H12",1000,FI,SE,D10,,Australia,2008
+18,A3170,Y41,A3170,hexachlorobenzene and other chlorinated wastes ,"H6.1,H12",260,FI,SE,D10,,Australia,2008
+19,A1020,Y31,A1020,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",18000,"ID,MY,KR,SG",PH,,R4,Australia,2008
+20,A2030,Y42,A2030,spent refining catalyst,H4.2,2000,,SG,,R4,Australia,2008

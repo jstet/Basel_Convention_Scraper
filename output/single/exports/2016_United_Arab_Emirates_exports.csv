@@ -1,0 +1,37 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A4010,Y3,,Out-of-date pharmaceutical and cosmetic preparations,"H3,H6.1,H12",180,"SA,EG,MT,MA,GB",FR,,R1,United Arab Emirates,2016
+1,A1160,"Y31,Y35",,Spent Lead Batteries,H11,5000,,KR,,R4,United Arab Emirates,2016
+2,A1160,Y31,,Used Lead Acid Battery,H11,10000,,KR ,,R4,United Arab Emirates,2016
+3,A1160,Y31,,Used Lead Acid Battery,H11,3000,,KR ,,R4,United Arab Emirates,2016
+4,A1160,"Y31,Y35",,Spent Lead Batteries,H11,5000,,KR ,,R4,United Arab Emirates,2016
+5,"A1170,A1180",,,Lithium metal batteries,,15,US,CA,,R4,United Arab Emirates,2016
+6,A1160,Y31,,Used Lead Acid Batteries ,H11,10000,,KR ,,R4,United Arab Emirates,2016
+7,A1160,Y31,,Lead Acid Battery Scrap,H13,3000,,KR ,,R4,United Arab Emirates,2016
+8,A1160,Y31,,Used Lead Acid Battery,H13,10000,,KR ,,R4,United Arab Emirates,2016
+9,A1020,Y18,,Spent Refractory,H12,35,,BE,,R4,United Arab Emirates,2016
+10,A1160,Y31,,Used Lead Acid Batteries ,H13,5000,,IN,,R4,United Arab Emirates,2016
+11,A1160,Y31,,Used Lead Acid Batteries ,H11,3000,,IN,,R1,United Arab Emirates,2016
+12,A1160,Y31,,Used Lead Acid Battery Scrap ,H13,5000,,KR ,,R4,United Arab Emirates,2016
+13,A1160,Y31,,Used Lead Acid Batteries and Car Batteries ,H11,6000,,KR ,,R4,United Arab Emirates,2016
+14,A1160,Y31,,Used Lead Acid Batteries and Car Batteries ,H11,10000,,KR ,,R4,United Arab Emirates,2016
+15,A1160,"Y31,Y34",,Spent Lead Batteries,H11,5000,,KR ,,R4,United Arab Emirates,2016
+16,A1160,"Y31,Y34",,Spent Lead Batteries,H11,500,,KR ,,R4,United Arab Emirates,2016
+17,A1160,"Y31,Y34",,0,H11,5000,,KR ,,R4,United Arab Emirates,2016
+18,A1160,"Y31,Y34",,Spent Lead Batteries,H11,10000,,KR ,,R4,United Arab Emirates,2016
+19,A1160,Y31,,"Used Lead Acid Battery Scrap,(Rains,Rinks) Used Car Battery",H11,5000,,KR ,,R4,United Arab Emirates,2016
+20,A4030,Y4,,Redundant and Obsolete Pesticides,"H3,H6.1,H11,H12,H13",100,EG,DE ,D10,,United Arab Emirates,2016
+21,"A4140,Y46","Y6,Y16,Y17,Y18,Y21,Y22,Y23,Y24,Y25,Y26,Y29,Y31,Y33,Y34,Y35,Y37,Y38,Y39,Y40,Y41,Y42",,Obsolete and redundant chemicals,"H3,H4.1,H4.2,H4.3,H5.1,H6.1,H8,H10,H11,H12,H13",500,EG,DE ,D10,,United Arab Emirates,2016
+22,A4140,"Y1,Y2,Y4",,"Clinical, pharmaceutical and related wastes","H6.1,H12",500,EG,DE ,D10,,United Arab Emirates,2016
+23,A4060,"Y8,Y9,Y18",,"Obsolete and redundant fuel, oil emission and oil contaminated waste","H3,H4.1,H6.1,H8,H11,H12",500,EG,DE ,D10,,United Arab Emirates,2016
+24,A4070,Y12,,Obsolete paint and ink waste,"H3,H6.1,H8",500,EG,DE ,D10,,United Arab Emirates,2016
+25,A1160,Y31,,"LEAD SCRAP(ISRI-RINKS,RAINS, OR ROPERS), Batteries,
+Drained or wet acid and Electric Storage",H13,6000,,KR,,R4,United Arab Emirates,2016
+26,A1160,Y31,,used lead acid battery,H11,8000,,KR,,R4,United Arab Emirates,2016
+27,A1160,Y31,,used lead acid battery,H13,5000,,KR,,R4,United Arab Emirates,2016
+28,A4010,Y2,,Out of Date Pharmaceutical and Cosmetic Preparations,"H3,H6.1,H12",750,"SA,EG,MT,MA,GB",FR,D10,,United Arab Emirates,2016
+29,A1160,"Y31,Y35",,Spent Lead batteries,H11,10000,,KR,,R4,United Arab Emirates,2016
+30,A1020,Y26,,"flue dust waste containing selenium compounds, Silver and gold",H12,70,,BE ,,R4,United Arab Emirates,2016
+31,A1170,"Y26,Y31,Y34,Y36",,"Batteries , Accumulators  and Mixtures with EWC 160601,160602,160605","H8,H11",50,"BE,EG,NL,OM,IT,ES,GB",DE ,,"R13,R4",United Arab Emirates,2016
+32,A3140,Y43,,Other solvents and solvents mixture,"H3,H6.1",150,"BE,EG,NL,OM,IT,ES,GB",DE ,"D13,D10",,United Arab Emirates,2016
+33,A3140,"Y41,Y43",,"Abosrbents, filter materials including oil filters, wiping clothes,protective clothes",H4.1,150,"BE,EG,NL,OM,IT,ES,GB",DE ,"D13,D10",,United Arab Emirates,2016
+34,A4140,"Y2,Y3,Y5,Y15",,Loboratory chemicals,"H3,H4.1,H6.1,H8,H11,H12",100,"BE,EG,NL,OM,IT,ES,GB",DE ,"D13,D10",,United Arab Emirates,2016

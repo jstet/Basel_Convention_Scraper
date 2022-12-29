@@ -1,0 +1,14 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A1180,Y35,,Dust from waste lithium chemistry batteries,"H12,H4.1",240,,KR,,R4,Australia,2018
+1,A1020,Y31,,Waste lead paste and grid derived from broken used lead acid batteries (ULABs),"H11,H12",18000,"EG,DE,MY,NL",PL,,R4,Australia,2018
+2,A1020,Y31,,Waste lead paste and grid derived from broken used lead acid batteries (ULABs),"H11,H12",6000, ,JP,,R4,Australia,2018
+3,A1020,Y31,,Lead Waste and Scrap derived from Used Lead Acid Batteries,"H11,H12",12000,JP,KR,,R4,Australia,2018
+4,A1020,Y31,,Lead Waste and Scrap derived from Used Lead Acid Batteries,"H11,H12",12000,"MY,SG,EG,MT",ES,,R4,Australia,2018
+5,A1160,Y31,,Lead Waste and Scrap derived from Used Lead Acid Batteries,"H11,H12",3000,JP,KR,,R4,Australia,2018
+6,A3170,Y41,,Concentrated Hexachlorobenzene (HCB),"H6.1,H12",1720,,FI,D10,,Australia,2018
+7,A3170,Y41,,Low-level Hexachlorobenzene (HCB),"H6.1,H12",120,,FI,D10,,Australia,2018
+8,A3170,Y41,,Concentrated Hexachlorobenzene (HCB),"H6.1,H12",600,FI,SE,D10,,Australia,2018
+9,A1020,Y31,,Lead Waste and Scrap derived from Used Lead Acid Batteries,"H11,H12",4600,JP,KR,,R4,Australia,2018
+10,A1020,Y31,,Lead Waste and Scrap derived from Used Lead Acid Batteries,"H11,H12",6000,"SG,MY,EG,MT",ES,,R4,Australia,2018
+11,A3180,Y10,,Liquid Waste Contaminated with Polychlorinated Biphenyls,H12,350,"NZ,PE,PA,JM,US,BE,GB,NL",FR,D10,,Australia,2018
+12,A1160,"Y31,Y34",,Used Lead acid batteries,H8,100,,NZ,,"R13,R4",Australia,2018

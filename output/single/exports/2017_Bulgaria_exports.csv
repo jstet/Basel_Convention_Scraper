@@ -1,0 +1,21 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A4010,Y3,18 01 09,expired drugs,,104.0,"AT,HU,RO",DE,D10,,Bulgaria,2017
+1,A4010,Y3,07 05 03*,expired drugs,H6.1,7.0,"AT,HU,RO",DE,D10,,Bulgaria,2017
+2,A4010,Y3,16 03 05*,"organic waste, containing hazardous substances",H12,160.0,"AT,CZ,HU,RO",DE,D10,,Bulgaria,2017
+3,A4140,,16 05 08*,waste laboratory chemicals,,19.1,"CZ,RO,SK",DE,D10,,Bulgaria,2017
+4,A4140,,16 05 06*,waste laboratory chemicals,H11,28.5,"CZ,HU,RO,SK",DE,D10,,Bulgaria,2017
+5,A4140,,16 09 01*,permanganate waste,,3.0,"CZ,HU,RO,SK",DE,D10,,Bulgaria,2017
+6,A4090,Y34,06 01 01*,waste acids,"H8,H12",87.0,"AT,HU,RO",DE,D10,,Bulgaria,2017
+7,A1020,Y31,10 04 01*,solidified lead slag ,H12,47.4,"AT,HR,RS,SI",DE,,R5,Bulgaria,2017
+8,A1050,Y17,11 01 09*,sludge and filter cake containing hazardous substances,H11,135.6,"CZ,HU,RO,SK",DE,,R4,Bulgaria,2017
+9,A4090,Y34,06 01 01*,sulphuric acid containing amines,H8,89.0,"AT,CZ,HU,RO",DE,,R3,Bulgaria,2017
+10,,,19 02 11*,mixed material containing hazardous substances,H12,364.0,"CZ,HU,RO,SK",DE,D10,,Bulgaria,2017
+11,,,16 08 02*,"spent catalysts (CoMo, NiCoMo, NiMo)",H4.2,1072.3,"AT,DE,HU,RO",FR,,"R4,R8",Bulgaria,2017
+12,A2030,,16 08 02*,spent catalysts (MoV),H11,4523.3,"HU,RO",AT,,R4,Bulgaria,2017
+13,,,07 06 01*,guanadium thiocinate,H12,150.0,"HU,RO",AT,D10,,Bulgaria,2017
+14,,Y12,19 02 04*,premixed waste containing hazardous substances,H4.1,120.0,"HU,RO",AT,D10,,Bulgaria,2017
+15,A1030,Y29,20 01 21*,fluorescent tubes,H4.1,38.0,,RO,,R4,Bulgaria,2017
+16,A1020,Y31,10 04 05*,lead dust ,H12,285.0,,RO,,R4,Bulgaria,2017
+17,A3040,Y4,20 01 19*,pesticides,H6.1,11.2,"AT,DE,HU,RO",CH,D10,,Bulgaria,2017
+18,A1050,Y17,11 01 09*,filter cake,H12,16.0,TR,NL,,R4,Bulgaria,2017
+19,,Y22,10 06 03*,dust from copper smelter,H8,46.0,GR,BE,,R4,Bulgaria,2017

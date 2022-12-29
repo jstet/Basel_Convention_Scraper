@@ -1,0 +1,18 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A4010,Y3,16 03 05*,off-specification pharmaceuticals,H12,159.31,"RO,HU,AT,CZ",DE ,D10,,Bulgaria,2016
+1,A4010,Y3,18 01 09,expired drugs ,,104.1,"RO,HU,AT",DE,D10,,Bulgaria,2016
+2,A4010,Y3,07 05 03*,expired drugs ,,8.8,"RO,HU,AT",DE,D10,,Bulgaria,2016
+3,A4140,,16 05 08*,waste laboratory chemicals,,30.0,"RO,HU,SK,CZ",DE,D10,,Bulgaria,2016
+4,A4140,,16 05 06*,waste laboratory chemicals,,26.4,"RO,HU,SK,CZ",DE,D10,,Bulgaria,2016
+5,A4090,Y34,06 01 01*,waste acids,"H8,H12",35.0,"RO,HU,AT",DE,D10,,Bulgaria,2016
+6,A1020,Y31,10 04 01*,solidified lead slag ,H12,560.0,"RS,HR,SI,AT",DE,,R5,Bulgaria,2016
+7,A1020,Y31,10 04 01*,solidified lead slag ,H12,215.6,"RS,HR,SI,AT",DE,D12,,Bulgaria,2016
+8,A1050,Y17,11 01 09*,sludges and filter cakes cont. hazardous substances,H11,97.0,"RO,HU,SK,CZ",DE,,R4,Bulgaria,2016
+9,A4030,Y4,02 01 08*,pesticides,H6.1,58.0,"RO,HU,SK,CZ",DE,D10,,Bulgaria,2016
+10,A4090,Y34,06 01 01*,spent sulphutric acid containing amines,H8,45.5,"RO,HU,AT,CZ",DE,,R3,Bulgaria,2016
+11,A2030,,16 08 02*,Mo-V spent catalysts,H11,2598.2,"RO,HU",AT,,R4,Bulgaria,2016
+12,A2030,,16 08 02*,"spent catalysts (CoMo, NiCoMo, NiMo)",H3,56.9,"RO,HU,AT,DE",FR,,"R4,R8",Bulgaria,2016
+13,A1030,Y29,20 01 21*,fluoriscent tubes ,H12,23.5,no,RO,,R4,Bulgaria,2016
+14,A1160,Y31,16 06 01*,spend lead-acid batteries,"H8,H12",5234.3,no,RO,,R4,Bulgaria,2016
+15,A1020,Y31,19 12 11*,lead paste ,H12,232.6,no,RO,,R4,Bulgaria,2016
+16,A3020,Y8,13 01 10*,waste oils,H12,616.0,no,GR,,R9,Bulgaria,2016

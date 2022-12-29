@@ -1,0 +1,33 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_origin,annex_4_a_code,annex_4_b_code,country,year
+0,A1160,Y_,160601,Waste lead acid batteries,,16231.056,,DE,,R4,Czechia,2016
+1,A1160,Y31,160601,Waste lead acid batteries,,3927.96,"HR,HU,SK",BA,,R4,Czechia,2016
+2,A1160,Y_,160601,Waste lead acid batteries,,2027.686,SK,HU,,R4,Czechia,2016
+3,A1160,Y_,191211,Waste lead acid batteries,,4857.948,PL,LT,,R4,Czechia,2016
+4,A2050,"Y36,Y42",150111,Empty acetylene pressure containers containing asbestos,,152.1,DE,CH,,"R12,R4",Czechia,2016
+5,,"Y36,Y42",150111,Empty acetylene pressure containers containing asbestos,,59.3,,DE,,"R12,R4",Czechia,2016
+6,,"Y36,Y42",150111,Empty acetylene pressure containers containing asbestos,,153.8,"FR,DE",ES,,"R12,R4",Czechia,2016
+7,A4130,"Y36,Y42",150111,Empty pressure containers ,,15.2,DE,FR,,"R12,R4",Czechia,2016
+8,A2050,"Y36,Y42",150111,Empty acetylene pressure containers containing asbestos,,56.7,"BE,NL,DE",GB,,"R12,R4",Czechia,2016
+9,,"Y36,Y42",150111,Empty acetylene pressure containers containing asbestos,,949.96,"BE,NL,DE",GB,,"R12,R4",Czechia,2016
+10,A2050,"Y36,Y42",150111,Empty acetylene pressure containers containing asbestos,,15.5,"ES,FR,DE",PT,,"R12,R4",Czechia,2016
+11,,Y_,"160211, 200123",Discarded equipment containing chlorofluorocarbons,,1276.0,,DE,,R4,Czechia,2016
+12,,Y_,200123,Discarded equipment containing chlorofluorocarbons,,2069.872,,DE,,R4,Czechia,2016
+13,A1180,Y45,"160211, 200123",Refrigerators,,690.169,,SK,,"R3,R4",Czechia,2016
+14,A1180,Y_,160213,TV-sets and monitors,,841.08,,DE,,R12,Czechia,2016
+15,"A1180,Y46",,"160213, 200135",TV-sets and monitors,,231.311,,SK,,"R12,R3,R4",Czechia,2016
+16,A1020,Y31,100404,Flue-gas dust,,108.528,,DE,,R4,Czechia,2016
+17,A1170,Y26,160602,Ni-Cd batteries,,124.928,"FR,DE",ES,,R12,Czechia,2016
+18,A1170,"Y23,Y26",160602,Ni-Cd batteries,,18.09,"FR,DE",ES,,R12,Czechia,2016
+19,A1020,Y_,191211,Waste lead ,,3124.006,DE,FR,,R4,Czechia,2016
+20,A2030,Y_,160802,Spent catalyst,,1368.212,SK,HU,,R4,Czechia,2016
+21,A2030,Y_,"160802, 160803, 160807",Spent catalyst from refining of used lubricating oils,,21.94,"AT,DE",IT,,R4,Czechia,2016
+22,A1190,"Y31,Y34",170409,Lead cables,,204.5,DE,NL,,R4,Czechia,2016
+23,A1060,"Y17,Y23",110105,Pickling liquor containing zinc chloride,,371.43,,PL,,R4,Czechia,2016
+24,A4090,Y34,110105,Pickling liquor containing zinc chloride,,50.36,,SK,,R5,Czechia,2016
+25,A1030,Y24,060403,Waste containing arsenic,,10.8,,SK,,R5,Czechia,2016
+26,A3140,"Y42,Y12",070104,"Other organic solvents, washing liquids and mother liquors",,104.35,,SK,,R1,Czechia,2016
+27,,Y18,191210,Combustible waste (refuse derived fuel),,20128.73,,AT,,R1,Czechia,2016
+28,,Y18,190210,Combustible waste,,2870.34,AT,IT,,R1,Czechia,2016
+29,Y46,Y18,191210,Combustible waste (refuse derived fuel),,93.36,,SK,,R1,Czechia,2016
+30,,Y18,"030105,150103,170201,191207,200138; AC170",Wood,,15308.79,,AT,,R3,Czechia,2016
+31,,Y18,191207; AC170,Wood,,2143.06,,DE,,R3,Czechia,2016

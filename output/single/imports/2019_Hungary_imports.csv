@@ -1,0 +1,28 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_origin,annex_4_a_code,annex_4_b_code,country,year
+0,A3140,Y42,07 05 04 *,"other organic solvents, washing liquids and mother liquors",H3,60.16,,HR,,R1,Hungary,2019
+1,A3140,Y42,07 05 04 *,"other organic solvents, washing liquids and mother liquors",H3,204.94,,HR,,R2,Hungary,2019
+2,A3140,Y42,07 05 04 *,"other organic solvents, washing liquids and mother liquors","H3,H11,H12",1460.72,,SI,,R1,Hungary,2019
+3,A4070,Y12,08 01 17 *,wastes from paint or varnish removal containing organic solvents or other hazardous substances,"H3,H4.1,H6.1,H8,H12",23.125,"DE,AT",CH,,R1,Hungary,2019
+4,A1020,Y31,10 04 02 *,dross and skimmings from primary and secondary production,,5.852,"DE,AT",NL,,"R12,R4",Hungary,2019
+5,,"Y18,Y45",14 06 01 * (AC150),"chlorofluorocarbons, HCFC, HFC",H12,1.7376,,HR,,R3,Hungary,2019
+6,A4130,Y6,14 06 03 *,other solvents and solvent mixtures,"H3,H6.1,H8",21.045,"DE,AT",CH,,R1,Hungary,2019
+7,A3140,Y42,14 06 03 *,other solvents and solvent mixtures,,15.58,,SK,,R2,Hungary,2019
+8,A4130,Y18,15 01 10 *,packaging containing residues of or contaminated by hazardous substances,"H3,H4.1,H6.1,H8,H11,H12",3.235,"DE,AT",CH,,R1,Hungary,2019
+9,A4130,Y18,15 02 02 *,"absorbents, filter materials (including oil filters not otherwise specified), wiping cloths, protective clothing contaminated by hazardous substances","H4.1,H11,H12",7.39,"DE,AT",CH,,R1,Hungary,2019
+10,A1180,Y45,16 02 11 *; 20 01 23 *,"discarded equipment containing chlorofluorocarbons, HCFC, HFC; discarded equipment containing chlorofluorocarbons",H13,885.77,,RO,,R12,Hungary,2019
+11,A4010,"Y2,Y3",16 03 05 *,organic wastes containing hazardous substances,"H3,H6.1,H8,H12",81.395,"BG,RO",GR,,R1,Hungary,2019
+12,A4020,Y1,18 01 03 *,wastes whose collection and disposal is subject to special requirements in order to prevent infection,H6.2,81.48,,SI,,R1,Hungary,2019
+13,A4020,Y1,18 01 03 *,wastes whose collection and disposal is subject to special requirements in order to prevent infection,H6.2,53.567,,SK,,R1,Hungary,2019
+14,A4020,Y1,18 01 08 *,cytotoxic and cytostatic medicines,"H6.1,H6.2,H11",4.26,,SI,,R1,Hungary,2019
+15,,Y18,19 02 04 *,premixed wastes composed of at least one hazardous waste,"H3,H6.1,H12",591.94,SI,IT,,R1,Hungary,2019
+16,A3140,Y42,19 02 08 *,liquid combustible wastes containing hazardous substances,"H3,H13",888.0,,AT,,R1,Hungary,2019
+17,A3140,"Y18,Y42",19 02 08 *,liquid combustible wastes containing hazardous substances,"H3,H11,H12,H13",1465.8,,SI,,R1,Hungary,2019
+18,A4070,Y12,19 02 09 *,solid combustible wastes containing hazardous substances,,33.69,,AT,,R1,Hungary,2019
+19,,Y18,19 02 09 *,solid combustible wastes containing hazardous substances,"H4.1,H11,H12",1437.04,,SI,,R1,Hungary,2019
+20,,Y18,19 12 10,combustible waste (refuse derived fuel),,6426.02,,AT,,R1,Hungary,2019
+21,,Y18,19 12 10,combustible waste (refuse derived fuel),,326.66,AT,IT,,R1,Hungary,2019
+22,,Y18,19 12 11 *,other wastes (including mixtures of materials) from mechanical treatment of waste containing hazardous substances,"H4.1,H6.1,H8,H12",104.07,SI,IT,,R1,Hungary,2019
+23,Y46,,19 12 12,other wastes (including mixtures of materials) from mechanical treatment of wastes other than those mentioned in 19 12 11,,2524.82,SI,IT,D5,,Hungary,2019
+24,Y46,,19 12 12,other wastes (including mixtures of materials) from mechanical treatment of wastes other than those mentioned in 19 12 11,,279.82,,SI,,R1,Hungary,2019
+25,Y46,,19 12 12,other wastes (including mixtures of materials) from mechanical treatment of wastes other than those mentioned in 19 12 11,,8094.02,,SI,,R1,Hungary,2019
+26,A1030,Y29,20 01 21 *,fluorescent tubes and other mercury-containing waste,H12,132.732,,RO,,"R4,R5",Hungary,2019

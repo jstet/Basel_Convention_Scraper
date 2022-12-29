@@ -1,0 +1,40 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_origin,annex_4_a_code,annex_4_b_code,country,year
+0,A4010,Y3,,Pharmaceutical Waste ,"H6.1,H12",7.803,,FR,"D9,D10",,New Zealand,2020
+1,A4030,Y4,,"Wastes from the production, formulation and use of biocides and phytopharmaceuticals, including waste pesticides and herbicides which are off-specification, outdated or unfit for their originally intended use","H3,H4.1,H4.2,H5.1,H6.1,H8,H10,H11,H12,H13",0.893,FJ,FR,"D9,D10,D15",,New Zealand,2020
+2,,Y5,,Creosote treated wood,"H6.1,H11,H12,H13",58.2,FJ,FR,D5,,New Zealand,2020
+3,A3020,Y8,,"Rags soiled by hydrocarbons, oil filter, oil, earth soiled by hydrocarbons, wastes soiled by hydrocarbons","H3,H6.1,H10,H11,H12",296.283,FJ,FR,"D1,D9",,New Zealand,2020
+4,A3020,Y9,,Oily Rags and Filters,"H3,H12",28.185,,FR,D5,"R4,R9",New Zealand,2020
+5,A3020,Y9,,Used oils and oil sludges - Hydrocarbons,"H3,H12",994.108,,FR,"D1,D9",R9,New Zealand,2020
+6,A3020,Y9,,"Waste Hydrocarbon Contaminated Oils, Sludges and Solids","H3,H12",163.343,FJ,FR,"D5,D13,D14","R4,R9",New Zealand,2020
+7,"A3020,A4060",Y9,,"Used oil, oil sludge, hydrocarbons","H3,H12",24.655,,FR,"D1,D9",R9,New Zealand,2020
+8,A4060,Y9,,"Waste oils/water, hydrocarbons/water mixtures, emulsions OR Waste oils/water, hydrocarbons/water mixtures, emulsions, earth soiled by hydrocarbons",H12,64.003,FJ,FR,"D1,D9","R1,R9",New Zealand,2020
+9,A4060,Y9,,"Waste hydrocarbon oil and grease contaminated liquids, soils and solids","H3,H12",479.911,FJ,FR,"D5,D13",R9,New Zealand,2020
+10,A4130,Y9,,oily rags and oil/diesel filters - hydrocarbons,H12,34.413,,FR,"D1,D9",,New Zealand,2020
+11,A4070,Y12,,Paint waste,"H3,H4.1,H6.1,H12",8.3,,FR,"D1,D9,D13",R2,New Zealand,2020
+12,A4070,Y12,,"waste from the production, formulation and use of inks, dyes, pigment, paints, lacquers ","H3,H8",38.498,FJ,FR,"D5,D9",R2,New Zealand,2020
+13,A4070,Y12,,"Waste from production, formulation, and use of inks, dyes, pigments, paints, lacquers, varnish","H3,H12",11.933,,FR,"D5,D13","R2,R11",New Zealand,2020
+14,A3050,Y13,,"Glue, Resin, Adhesive","H3,H12",3.349,,FR,D13,R2,New Zealand,2020
+15,A3050,Y13,,"Waste from production, formulation and use of resins, latex, plasticizers, glue/adhesives","H3,H8,H11,H12,H13",16.977,FJ,FR,"D5,D13",R2,New Zealand,2020
+16,A3050,Y13,,"Waste from the MFSU of Resins, Latex, Plasticizers, Glue, Adhesives","H3,H8,H12",4.206,,FR,"D5,D9",R2,New Zealand,2020
+17,A3040,Y14,,Waste thermal fluids (heat transfer),H3,21.316,FJ,FR,"D1,D8,D9",,New Zealand,2020
+18,A4150,Y14,,waste chemical substances from reseach and development or teaching activities,"H3,H4.1,H5.1,H6.1,H8,H11,H12",38.505,FJ,FR,"D5,D6,D9",,New Zealand,2020
+19,A4140,Y18,,Waste consisting of or containing off specification or outdated chemicals,"H3,H4.1,H5.1,H6.1,H8,H11,H12",186.478,FJ,FR,D9,,New Zealand,2020
+20,A4140,Y18,,Cooling agents and Industrial Cleaning Products waste,"H5.1,H6.1,H12",8.308,,FR,"D1,D9,D13",,New Zealand,2020
+21,A1020,"Y25,Y35",,"Wastes having as constituents or contaminents, excluding metal waste in massive form, any of the following: Antimony, Cadmium, Selenium ( slag?) ","H11,H12,H13",7612.28,"AU,FJ",FR,D5,,New Zealand,2020
+22,A1030,Y29,,Mercury and mercury compounds and crushed fluorescent tubes,H8,9.241,FJ,FR,"D1,D9",,New Zealand,2020
+23,A4140,Y35,,Ammonium Nitrate,H5.1,13.9,,FR,"D5,D9",,New Zealand,2020
+24,A2050,Y36,,Waste asbestos and wastes contaminated with asbestos,H11,2.622,,FR,D5,,New Zealand,2020
+25,A2050,Y36,,Asbestos,H11,68.184,,FR,D5,,New Zealand,2020
+26,A2050,Y36,,Asbestos waste,"H11,H12",35.385,FJ,FR,D5,,New Zealand,2020
+27,A4160,"Y1,Y14",,Activated charcoal,"H11,H13",0.06,FJ,FR,"D5,D9",,New Zealand,2020
+28,A4020,"Y1,Y2,Y3,Y4,Y29",,Clinical and related waste,H6.1,16.599,FJ,FR,"D5,D9,D10,D15",,New Zealand,2020
+29,A4130,"Y12,Y13,Y14",,waste packages and containers containing annex 1 substances,H12,39.818,FJ,FR,"D5,D9",,New Zealand,2020
+30,A4130,"Y12,Y13",,Waste packages and containers containing Annex 1 substances/Packaging and solids soiled by chemicals,H12,0.997,,FR,"D5,D9",,New Zealand,2020
+31,A2030,"Y14,Y34",,Waste catalysts,H8,13.24,FJ,FR,"D5,D9,D13",,New Zealand,2020
+32,A1170,"Y23,Y26,Y29",,Electric accumulators and used unsorted batteries,"H11,H12",0.004,FJ,FR,"D5,D9,D14,D15",R13,New Zealand,2020
+33,A1160,"Y31,Y34",,Used lead acid batteries,H8,13.37,FJ,FR,"D14,D15",R13,New Zealand,2020
+34,A1160,"Y31,Y34",,Used lead acid batteries,"H8,H11",216.089,,FR,,R13,New Zealand,2020
+35,A4090,"Y34,Y35",,Waste acidic and basic solutions,"H5.1,H6.1,H8,H12",1.37,,FR,"D9,D13",,New Zealand,2020
+36,A4090,"Y34,Y35",,Waste acidic and basic solutions,H8,3.442,,FR,"D5,D9",,New Zealand,2020
+37,A3150,"Y6,Y41",,Halogenated solvents,"H11,H12",0.083,FJ,FR,"D10,D15",,New Zealand,2020
+38,A3140,"Y6,Y42",,Waste non-halogenated organic solvents,"H3,H6.1,H8",2431.01,FJ,FR,D5,R2,New Zealand,2020

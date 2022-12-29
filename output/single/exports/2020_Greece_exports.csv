@@ -1,0 +1,136 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,,Y_,19 08 05,sludges from treatment of urban waste water (EWC 19 08 05),,3810.79,,CY,,R1,Greece,2020
+1,,Y_,19 08 05,sludges from treatment of urban waste water (EWC 19 08 05),,4510.31,,CY,,R1,Greece,2020
+2,,Y_,07 06 99,"off-specification and/or expired products (hair paints, face and bodycreams) (EWC 07 06 99)",,358.168,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece,2020
+3,,Y3,20 01 32,expired medicines ( EWC 20 01 32) ,,135.646,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece,2020
+4,,Y3,20 01 32,expired medicines ( EWC 20 01 32) ,,131.634,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece,2020
+5,A1020,"Y18,Y31",19 12 11*,other wastes (including mixtures of materials) from mechanical treatment of waste containing hazardous substances - polyethylene separators (EWC 19 12 11*),H12,335.44,"BG,RO,HU,SK,CZ",DE,D10,,Greece,2020
+6,A1020,Y31,10 04 01*,lead slag from secondary treatment (EWC 10 04 01*),H12,1473.57,"TR,PT",ES,D9,,Greece,2020
+7,A1020,Y31,10 04 01*,lead slag from secondary treatment (EWC 10 04 01*),H12,1568.23,"TR,PT",ES,D9,,Greece,2020
+8,A1020,Y31,19 12 11*,other wastes (including mixtures of materials) from mechanical treatment of waste containing dangerous substances (EWC 19 12 11*),H12,114.52,"TR,PT",ES,D9,,Greece,2020
+9,A1020,Y31,19 12 11*,other wastes (including mixtures of materials) from mechanical treatment of waste containing dangerous substances (EWC 19 12 11*),H12,143.88,"TR,PT",ES,D9,,Greece,2020
+10,A1020,Y31,17 09 03*,"debris contaminated with lead, that occurred during cleanup works after a fire-insident (EWC 17 09 03*)",H11,58.44,"TR,IT,ES,PT,FR,BE,GB,NL",DE,"D13,D1",,Greece,2020
+11,A1020,Y31,10 04 05*,waste particulates and dust from lead thermal metallurgy (EWC 10 04 05*),H12,45.68,"TR,BE,IT,ES,GB,NL,FR",PT,D9,,Greece,2020
+12,A1030,Y29,20 01 21*,mercury vapour lamps & mercury lamps (EWC 20 01 21*),,131.01,BG,RO,,"R4,R5",Greece,2020
+13,A1040,Y17,06 01 06*,"chromic acids and chromic salts solutions (EWC 06 01 06*, 06 03 13*, 11 01 05*, 11 01 06*, 16 03 03*, 16 05 07*)",H8,15.64,"TR,PT,FR,GB,NL,IL,IT,ES,DE",BE,D9,,Greece,2020
+14,A1100,Y22,10 06 03*,copper smeltr bag filter dust (EWC 10 06 03*),,356.24,"TR,FR,IT",ES,D9,,Greece,2020
+15,A1170,"Y23,Y26,Y35",20 01 33*,mixted batteries & accumulators (EWC 20 01 33*),H12,19.875,BG,RO,,R4,Greece,2020
+16,A1170,"Y23,Y26,Y35",20 01 33*,mixted batteries & accumulators (EWC 20 01 33*),H12,63.299,BG,RO,,R4,Greece,2020
+17,A1180,Y31,19 12 11*,funnel lead glass (EWC 19 12 11*),H12,93.61,"BG,RO,HU,SK,CZ",DE,,R5,Greece,2020
+18,A1180,Y31,19 12 11*,funnel lead glass (EWC 19 12 11*),H12,492.32,"BG,RO,HU,SK,CZ",DE,,R5,Greece,2020
+19,A2030,Y9,16 08 02*,spent catalysts containing dangerous transition metals (17) or dangerous transition metal compounds (EWC 16 08 02*),H12,62.0,IT,FR,,R8,Greece,2020
+20,A2030,,"16 08 02*, 16 08 07*","spent catalysts containing hazardous transition metals or hazardous transition metal compounds & spent catalysts contaminated with hazardous substances (EWC 16 08 02*, 16 08 07*)",H4.2,1602.4,"GR,IT,AT,DE",FR,,"R8,R4",Greece,2020
+21,A2050,Y36,"17 06 01*, 17 06 05*","construction materials of asbestos cement & insulation materials containing asbestos (EWC 17 06 01*, 17 06 05*)",H11,97.37,"PT,GB,NL,BE",NO,D1,,Greece,2020
+22,A2050,Y36,17 06 05*,waste construction materials containing asbestos (EWC 17 06 05*) ,H11,42.88,IT,ES,D5,,Greece,2020
+23,A2050,Y36,"17 06 05*, 17 06 01*","waste construction and insulation materials containing asbestos (EWC 17 06 05*, EWC 17 06 01*) ",H11,156.228,"TR,GB,DE,NL,BE,ES,FR,IT,PT",NO,D1,,Greece,2020
+24,A2050,Y36,17 06 05*,waste construction materials containing asbestos (EWC 17 06 05*) ,H11,92.602,"TR,GB,DE,NL,BE,ES,FR,IT,PT",NO,D1,,Greece,2020
+25,A2050,Y36,"17 06 05*, 17 06 01*","waste construction and insulation materials containing asbestos (EWC 17 06 05*, EWC 17 06 01*) ",H11,170.406,"TR,GB,DE,NL,BE,ES,FR,IT,PT",NO,D1,,Greece,2020
+26,A2050,Y36,"17 06 01*, 17 06 05*","construction materials of asbestos cement, pvc tiles & insulation materials containing asbestos (friable asbestos) (EWC 17 06 01*, 17 06 05*)",H11,662.033,"TR,PT,GB,NL",NO,D1,,Greece,2020
+27,A2050,Y36,"17 06 05*, 17 06 01*","insulation and construction materials containig asbestos (EWC 17 06 01*, 17 06 05*)",,354.977,"PT,TR,IT,ES,NL,FR,GB",NO,D1,,Greece,2020
+28,A2050,Y36,17 06 05*,safety boxes (EWC 17 06 05*),H11,22.85,"PT,ES,IT,FR,GB,NL,BE",GB,D1,,Greece,2020
+29,A3020,Y8,13 05 08*,mixtures of wastes from grit chambers and oil/water separators,H12,248.32,BE,DE,,R12,Greece,2020
+30,A3050,"Y12,Y13","08 04 11*, 08 01 17*, 16 03 05*","mixture of paints, varnishes, glues, sealants with organic solvents (EWC 08 01 15*, 08 01 17*, 08 01 21*, 08 04 11*, 08 04 13*, 08 04 15*, 16 03 05*)","H3,H6.1,H12",24.77,"TR,PT,GB,BE,IT,IL,ES,FR,DE",NL,,"R12,R1",Greece,2020
+31,A3050,Y13,"08 04 09*, 08 04 09*, 08 04 11*, 08 04 13*, 08 04 15*, 08 04 17*","wastes from production, formulation and use of resins, latex, plasticizers, glues/adhesives (EWC 08 04 09*)","H3,H4.1,H8,H11,H12",41.272,"TR,IT,ES,PT,FR,NL,BE,GB",DE,D10,,Greece,2020
+32,A3140,Y6,"14 06 03*, 14 06 05*","waste sovlents and sludge containing sovlents (EWC 14 06 03*, 14 06 05*) ",H3,1.34,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece,2020
+33,A3150,"Y17,Y6,Y41","04 01 03*, 07 01 03*, 07 01 04*, 07 02 03*, 07 03 03*, 07 04 03*, 07 05 03*, 07 06 03*, 07 07 03*, 14 06 02*, 14 06 04*","other halogenated solvents and solvent mixtures (EWC 07 01 03*, 14 06 02*)","H8,H6.1,H11,H12",20.962,"TR,IT,ES,PT,FR,NL,BE,GB",DE,,R2,Greece,2020
+34,A3150,Y6,"14 06 02*, 14 06 04*","waste sovlents and sludge (EWC 14 06 02*, 14 06 04*) ",H6.1,7.186,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece,2020
+35,A3150,"Y6,Y41","14 06 02*, 14 06 04*, 04 01 03*","waste containing tetrachlorethylene and waste containing dichloromethane (EWC 14 06 02*, 14 06 04*, 04 01 03*)",H6.1,41.75,"TR,PT,FR,GB,NL",BE,,R2,Greece,2020
+36,A3180,Y10,"13 03 01*, 15 02 02*, 16 02 09*, 16 02 10*","transformers, capacitors, solid and liquid waste contaminated with PCBs (EWC 13 03 01*, 15 02 02*, 16 02 09*, 16 02 10*, 17 09 02*)",H12,45.09,"TR,EG,IL,IT,ES",FR,D10,,Greece,2020
+37,A3190,Y11,05 01 08*,"acidic and other tars (EWC 05 01 03*, 05 01 07*, 05 01 08*, 05 06 01*, 05 06 03*, 16 05 08*, 19 11 02*)",H11,245.118,"TR,BE,IT,ES,GB,NL,FR",PT,D9,,Greece,2020
+38,A4010,Y_,20 01 29*,"waste off specification, unused and/or expired/outdated detergents/chemicals and raw materials containing dangerous substances (EWC 20 01 29*)",H12,34.539,"BG,RO",HU,,R1,Greece,2020
+39,A4010,Y2,"07 05 13*, 16 05 06*, 16 03 05*, 16 05 08* ","solid wastes containing dangerous substances, laboratory chemicals, consisting of or containing dangerous substances, including mixtures of laboratory chemicals, organic wastes containing dangerous substances & discarded organic chemicals consisting of or containing dangerous substances (07 05 13*, 16 05 06*, 16 03 05*, 16 05 08*)","H3,H4.1,H5.1,H6.1,H8,H11,H12",39.985,"GR,IT,PT,ES,GB,FR,DE,NL,BE",DK,D10,,Greece,2020
+40,A4010,"Y2,Y3",16 03 05*,off specification and/or out of date or expired products/medicines/raw materials from pharmaceutical industries (EWC 16 03 05*),H12,95.325,"BG,RO",HU,,R1,Greece,2020
+41,A4010,"Y2,Y3",16 03 05*,off specification and/or out of date or expired products/medicines/raw materials from pharmaceutical industries (EWC 16 03 05*),H12,63.33,"BG,RO",HU,,R1,Greece,2020
+42,A4010,"Y2,Y3","07 05 13*, 16 03 05*, 20 01 31*",off specifications & expired pharmaceutical products & other pharmaceutical waste (EWC 16 03 05*) ,H12,9.805,"TR,IT,ES,PT,FR,NL,BE,GB",DE,D10,,Greece,2020
+43,A4010,"Y2,Y3","08 01 08*, 16 03 05*, 18 01 06*, 18 01 09*","out of specifications or expired pharmaceuticals (EWC 07 05 13*, 18 01 08*, 18 01 08*, 16 03 05*, 20 01 31*, 20 01 32)",H6.1,14.53,"TR,PT,FR,GB,NL",BE,D10,,Greece,2020
+44,A4010,"Y2,Y3","16 03 05*, 18 01 06*, 18 01 08*","out of specifications or expired pharmaceuticals (EWC 07 05 13*, 16 03 03*, 16 03 05*, 18 01 06*, 18 01 08*, 20 01 31*, 20 01 32*)",H12,110.394,"TR,PT,ES,FR,GB,DE,NL,BE,LT,SE,LV,IT",DK,D10,,Greece,2020
+45,A4010,"Y2,Y3","16 03 05*, 18 01 08*, 18 01 06*, 18 01 09*","out of specifications or expired pharmaceuticals (EWC 07 05 13*, 16 03 03*, 16 03 05*, 18 01 06*, 18 01 08*, 20 01 31*, 20 01 32*, 18 01 09*, 18 02 05*, 18 02 07*, 18 02 08*)","H12,H6.1",86.194,"TR,PT,FR,GB,NL,IL,IT,ES,DE",DK,D10,,Greece,2020
+46,A4010,Y3,20 01 31*,wastes from pharmaceutical industries and distributors (EWC 20 01 31*),H6.1,0.656,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece,2020
+47,A4010,Y3,"07 05 01*, 07 05 11*, 07 05 13*, 20 01 31*, 20 01 32","wastes from pharmaceutical industries and expired mediced (EWC 07 05 01*, 07 05 11*, 07 05 13*, 20 01 31*, 20 01 32)","H6.1,H11,H13",30.278,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece,2020
+48,A4010,Y3,"07 05 01*, 07 05 11*, 07 05 13*, 20 01 31*, 20 01 32","wastes from pharmaceutical industries and expired mediced (EWC 07 05 01*, 07 05 11*, 07 05 13*, 20 01 31*, 20 01 32)","H6.1,H11,H13",12.52,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece,2020
+49,A4030,Y4,"02 01 08*, 07 04 01*, 07 04 04*, 07 04 10*, 07 04 11*, 07 04 13*, 20 01 19*","expired pesticides/agrochemicals and liquid and solid wastes contianing dangerous substances from the MFS of organic plant protection products and other biocides (EWC 02 01 08*, 07 04 01*, 07 04 04*, 07 04 10*, 07 04 11*, 07 04 13*, 20 01 19*) ","H6.1,H11,H3",75.526,"PT,GB,NL,TR,BE,FR",DE,D10,,Greece,2020
+50,A4030,Y4,"02 01 08*, 07 04 01*, 07 04 04*, 07 04 10*, 07 04 11*, 07 04 13*, 20 01 19*","expired pesticides/agrochemicals and liquid and solid wastes contianing dangerous substances from the MFS of organic plant protection products and other biocides (EWC 02 01 08*, 07 04 01*, 07 04 04*, 07 04 10*, 07 04 11*, 07 04 13*, 20 01 19*) ","H6.1,H11,H3",90.065,"PT,GB,NL,TR,BE,FR",DE,D10,,Greece,2020
+51,A4030,Y4,"02 01 08*, 20 01 19*",expired pesticides (EWC 02 01 08*),,0.975,"TR,IT,ES,PT,FR,NL,BE,GB",DE,D10,,Greece,2020
+52,A4030,Y4,02 01 08*,"pesticides, insesticides and chemicals (EWC 02 01 08*, 07 04 03*, 07 04 04*, 07 04 10*, 07 04 11*, 07 04 13*, 07 05 13*, 20 01 19*)","H12,H3,H6.1",28.297,"GB,TR,DE,NL,BE,LT,LV,PT,FR,IT,NO,DK,ES,IL",SE,D10,,Greece,2020
+53,A4060,Y9,16 07 08*,wastes containing oil (EWC 16 07 08*),"H3,H4.1,H6.1,H12",209.84,"GR,PT,GB,NL,BE,FR",ES,D9,,Greece,2020
+54,A4060,Y9,16 07 08*,wastes containing oil (EWC 16 07 08*),H12,807.9,,BG,,R9,Greece,2020
+55,A4060,Y9,16 07 08*,wastes containing oil (EWC 160708*),H12,424.48,,BG,,"R13,R12,R9",Greece,2020
+56,A4070,Y12,08 03 12*,waste ink containing dangerous substances (EWC 08 03 12*),"H3,H4.1,H6.1,H11,H12",35.46,"GR,PT,GB,NL,BE,FR",ES,D9,,Greece,2020
+57,A4070,Y12,08 01 11*,waste paint and varnish containing organic solvents or other hazardous substances (EWC 08 01 11*),H3,171.996,IL,FR,,R1,Greece,2020
+58,A4070,Y12,08 01 13*,waste paint and varnish containing organic solvents or other hazardous substances (EWC 08 01 13*),H3,82.2,IL,FR,,R1,Greece,2020
+59,A4070,Y12,08 03 12*,waste ink containing hazardous substances (EWC 08 03 12*),H3,68.23,IL,FR,D10,,Greece,2020
+60,A4070,Y12,"08 01 11*, 08 01 13*, 08 01 15*, 08 01 17*, 20 01 27*","wastes from production and use of paints and varnishes (EWC 08 01 11*, 08 01 13*, 08 01 15*, 08 01 17*) ","H3,H12",67.182,"PT,GB,NL,TR,BE,FR",DE,D10,,Greece,2020
+61,A4070,Y12,"08 01 11*, 08 01 13*, 08 01 15*, 08 01 17*, 20 01 27*","wastes from production and use of paints and varnishes (EWC 08 01 11*, 08 01 13*, 08 01 15*, 08 01 17*) ","H3,H12",184.364,"PT,GB,NL,TR,BE,FR",DE,D10,,Greece,2020
+62,A4070,Y12,"08 03 12*, 08 03 17*","wastes from the use of inks in printing industry (EWC 08 03 12*, 08 03 17*)","H3,H12",9.124,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece,2020
+63,A4070,Y12,"08 03 12*, 08 03 17*","wastes from the use of inks in printing industry (EWC 08 03 12*, 08 03 17*)","H3,H12",4.448,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece,2020
+64,A4070,Y12,"04 02 16*, 08 01 11*, 08 01 13*, 08 01 15*, 08 01 17*, 08 01 19*, 08 01 21*, 08 03 12*, 08 03 14*, 08 0317*, 08 05 01*, 20 01 27*","wastes from the production, formulation and use of inks, dyes, pigments, paints, lacquers, varnish (EWC 08 01 11*, 08 01 13*, 08 01 17*, 08 01 19*, 08 03 12*)",,63.18,"TR,IT,ES,PT,FR,NL,BE,GB",DE,D10,,Greece,2020
+65,A4070,Y12,"08 04 09*, 08 01 11*","solidified paints (EWC 08 01 11*, 08 04 09*, 08 04 11*)","H4.1,H12",9.42,"TR,GB,DE,BE,CY,IL,ES,PT,IT,FR",NL,,R1,Greece,2020
+66,A4070,Y12,"07 01 04*, 08 01 11*, 08 03 12*, 08 03 14*, 08 04 09*, 16 05 08*","non- halogonated solvents (EWC 07 01 04*, 07 07 04*, 08 01 11*, 0 01 13*, 08 03 12*, 08 03 14*, 08 04 09*, 14 06 03*, 16 05 08*)","H3,H6.1",50.681,"TR,GB,DE,CY,IL,ES,PT,IT,FR",NL,,"R12,R1",Greece,2020
+67,A4070,Y12,15 02 02*,absorbent and filtered materials contaminated by dangerous substances (EWC 15 02 02*),H12,5.26,"TR,GB,NL,BE,LT,FR,ES,IL",PT,D9,,Greece,2020
+68,A4070,Y12,15 02 02*,absorbing materials contaminated by dangerous substances (EWC 15 02 02*),H12,8.92,"GB,TR,DE,NL,BE,LT,LV,PT,FR,IT,NO,DK,ES,IL",SE,,R1,Greece,2020
+69,A4090,"Y17,Y34","06 01 06*, 16 03 03*","acidic solutions (EWC 11 01 05*, 11 01 06*, 16 03 03*, 16 05 06*, 16 05 07*, 16 10 01*, 06 01 01*, 06 01 02*, 06 01 03*, 06 01 04*, 06 01 05*, 06 01 06*, 20 01 14*, 16 06 06*)","H8,H6.1",40.84,"TR,GB,NL,BE,IT,FR,ES",PT,D9,,Greece,2020
+70,A4090,Y2,07 01 04*,wastes from basic organic substances manufacture (EWC 07 01 04*),"H3,H6.1,H8,H11,H13",18.347,"PT,GB,NL,TR,BE,FR",DE,D10,,Greece,2020
+71,A4100,Y18,19 02 05*,sludges from physico/chemical treatment containing hazardous substances (EWC 19 02 05*),H12,39.043,"TR,IT,EG",ES,D9,,Greece,2020
+72,A4100,Y18,19 01 13*,fly ashes (EWC 19 01 13*),H12,381.414,"TR,FR,IT",ES,D9,,Greece,2020
+73,A4100,Y18,19 01 13*,fly ashes (EWC 19 01 13*),H12,39.836,"TR,GB,NL,BE,IT,FR,ES",PT ,"D9,D1",,Greece,2020
+74,A4100,Y23,10 02 07*,solid waste from gas treatment containing hazardous substances (EWC 10 02 07*),H12,5500.05,NL,DE,,R4,Greece,2020
+75,A4100,Y23,10 02 07*,solid waste from gas treatment containing hazardous substances (EWC 10 02 07*),H12,1529.27,,IT,,R4,Greece,2020
+76,A4100,Y23,10 02 07*,solid waste from gas treatment containing hazardous substances (EWC 10 02 07*),H12,4093.14,NL,FR,,R4,Greece,2020
+77,A4100,Y23,10 02 07*,solid waste from gas treatment containing hazardous substances (EWC 10 02 07*),H12,25121.23,,IT,,R13,Greece,2020
+78,A4100,Y23,10 02 07*,solid waste from gas treatment containing hazardous substances (EWC 10 02 07*),H12,3522.128,NL,FR,,R4,Greece,2020
+79,A4100,Y23,10 02 07*,steel mill dust ( EWC 10 02 07*),H12,5089.9,,IT,,R4,Greece,2020
+80,A4130,Y12,15 01 10*,packaging containing residues of or contaminated by hazardous substances (EWC 15 01 10*),H12,30.0,IT,ES,,R3,Greece,2020
+81,A4130,Y12,15 01 10*,waste packaging containing residues of or contaminated by dangerous substances (EWC 15 01 10*),H12,19.616,"GB,TR,IT,BE,ES,FR,NL,DE",PT,,R4,Greece,2020
+82,A4130,"Y12,Y13,Y31,Y4",15 01 10*,packaging materials contaminated with dangerous substances (EWC 15 01 10*) ,"H5.2,H13",19.174,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece,2020
+83,A4130,"Y12,Y13,Y31,Y4",15 01 10*,packaging materials contaminated with dangerous substances (EWC 15 01 10*) ,"H5.2,H13",40.632,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece,2020
+84,A4130,,15 01 10*,packaging containing residues of or contaminated by hazardous substances (EWC 15 01 10*),H12,20.86,"GR,BG,RO,HU,SK",PL,,R1,Greece,2020
+85,A4130,,15 01 10*, packaging containing residues of or contaminated by dangerous substances (EWC 15 01 10*),H12,18.79,"GR,BG,RO,HU,SK",PL,,R1,Greece,2020
+86,A4130,,15 01 10*,packaging containing residues of or contaminated with dangerous substances (EWC 15 01 10*),"H4.1,H6.1,H8,H11,H12",51.301,"TR,IT,ES,PT,FR,NL,BE,GB",DE,D10,,Greece,2020
+87,A4130,,16 05 04*,gases in pressure containers (excluding halons) containing dangerous substances (EWC 16 05 04*) ,,7.624,"BG,RO,HU,SK,CZ",DE,D10,,Greece,2020
+88,A4140,Y12,"16 03 03*, 16 03 05*","off specification batches and unused products containing dangerous substances (EWC 16 03 03*, 16 03 05*) ","H3,H6.1,H8,H12",83.449,"PT,GB,NL,TR,BE,FR,IT,ES",DE,D10,,Greece,2020
+89,A4140,Y12,"16 03 03*, 16 03 05*","off specification batches and unused products containing dangerous substances (EWC 16 03 03*, 16 03 05*) ","H3,H6.1,H8,H12",71.111,"PT,GB,NL,TR,BE,FR,IT,ES",DE,D10,,Greece,2020
+90,A4140,"Y12,Y14","16 05 08*, 16 05 06*, 16 05 07*","laboratory waste & various chemicals (EWC 06 03 13*, 07 03 04*, 08 04 09*, 11 01 06*, 11 03 01*, 16 03 03*, 16 03 05*, 16 05 06*, 16 05 07*, 16 05 08*, 18 01 06*)","H3,H6.1,H8,H12",30.217,"TR,PT,FR,GB,NL,IL,IT,ES,DE",BE,D10,,Greece,2020
+91,A4140,Y18,16 03 03*,inorganic wastes containing hazardous substances (EWC 16 03 03*),H12,15.145,IT,ES,D9,,Greece,2020
+92,A4140,"Y2,Y14","16 03 03*, 16 05 06*, 16 05 07*, 16 05 08*","laboratory waste & various chemicals (EWC 06 03 13*, 07 03 04*, 08 04 09*, 11 01 06*, 11 03 01*, 16 03 03*, 16 03 05*, 16 05 06*, 16 05 07*, 16 05 08*, 18 01 06*)","H6.1,H12,H3,H8",148.952,"TR,PT,FR,GB,NL,BE,DE,LT,LV,SE",DK,D10,,Greece,2020
+93,A4140,"Y2,Y3",16 03 05*,off specification and/or out of date or expired products and/or raw materials (EWC 16 03 05*),H12,48.914,"BG,RO",HU,,R1,Greece,2020
+94,A4140,"Y2,Y3",16 03 05*,off specification and/or out of date or expired products and/or raw materials (EWC 16 03 05*),H12,34.169,"BG,RO",HU,,R1,Greece,2020
+95,A4140,"Y2,Y3",16 03 05*,organic wastes containing hazardous substances (EWC 16 03 05*),H3,276.365,IL,FR,,R1,Greece,2020
+96,A4140,"Y2,Y3",16 03 05*,organic wastes containing hazardous substances (EWC 16 03 05*),H3,101.712,"BG,RO,HU,SK,CZ",DE,D10,,Greece,2020
+97,A4140,"Y2,Y3",16 03 05*,organic wastes containing hazardous substances (EWC 16 03 05*),H3,101.18,"BG,RO,HU,SK,CZ",DE,D10,,Greece,2020
+98,A4140,"Y21,Y22,Y23,Y24,Y25,Y26,Y27,Y28,Y30,Y31,Y32,Y33,Y34,Y35",16 05 07*,"off-specification, outdated and discarded inorganic solid waste (EWC 16 05 07*)","H4.1,H4.2,H4.3,H6.1,H8,H12,H13",8.329,"TR,IT,ES,PT,FR,NL,BE,GB",DE,D10,,Greece,2020
+99,A4140,"Y21,Y22,Y23,Y24,Y25,Y26,Y27,Y28,Y30,Y31,Y32,Y33,Y34,Y35",16 05 07*,"off-specification, outdated and discarded inorganic chemicals (EWC 16 05 07*)","H4.1,H4.2,H4.3,H6.1,H8,H12,H12",6.899,"TR,IT,ES,PT,FR,NL,BE,GB",DE,D10,,Greece,2020
+100,A4140,Y3,16 05 06*,"laboratory chemicals, consisting of or containing hazardous substances, including mixtures of laboratory chemicals (EWC 16 05 06*)",H3,3.438,"BG,RO,HU,SK,CZ",DE,D10,,Greece,2020
+101,A4140,"Y3,Y2","16 03 05*, 16 05 06*","off specification and/or out of date or expired products/medicines/raw materials/chemicals/laboratory residues (waste) (EWC 16 03 05*, 16 05 06*)","H12,H3",17.012,"PT,GB,DE,NL,BE,TR,FR,IT",DK,D10,,Greece,2020
+102,A4140,"Y3,Y2","16 03 05*, 16 05 06*, 16 05 07*, 16 05 08*","off specification and/or out of date or expired products/medicines/raw materials/chemicals/laboratory residues (waste) (EWC 16 03 05*, 16 05 07*, 16 05 08*, 16 05 06*)","H12,H3,H8",244.862,"PT,GB,DE,NL,BE,TR,FR,IT",DK,D10,,Greece,2020
+103,A4140,"Y34,Y35,Y39,Y40,Y41,Y42","16 05 06*, 16 05 07*, 16 05 08*","discarded chemicals (including lab smalls) containing dangerous substances (EWC 16 05 06*, 16 05 07*, 16 05 08*) ","H3,H4.1,H6.1,H8,H12",173.996,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece,2020
+104,A4140,"Y34,Y35,Y39,Y40,Y41,Y42","16 05 06*, 16 05 07*, 16 05 08*","discarded chemicals (including lab smalls) containing dangerous substances (EWC 16 05 06*, 16 05 07*, 16 05 08*) ","H3,H4.1,H6.1,H8,H12",110.698,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece,2020
+105,A4140,"Y34,Y35,Y37,Y38,Y39","16 03 05*, 16 05 08*","off-specification, outdated and discarded organic chemicals (EWC 16 03 05*, 16 05 08*)","H3,H4.1,H6.1,H8,H11,H12",12.705,"TR,IT,ES,PT,FR,NL,BE,GB",DE,D10,,Greece,2020
+106,A4140,,16 05 08*,unused partly or completely polymerized styrene monomer mixed with water (EWC 16 05 08*),"H3,H4.1,H11,H12",49.925,"TR,IT,PT,GB,NL,BE,FR",ES,D9,,Greece,2020
+107,A4150,Y14,07 05 11*,waste from physicochemical treatment of lab waste (EWC 07 05 11*),"H11,H12",8.441,"TR,IT,ES,PT,FR,NL,BE,GB",DE,D10,,Greece,2020
+108,A4150,"Y21,Y22,Y23,Y24,Y25,Y26,Y27,Y28,Y30,Y31,Y32,Y33,Y34,Y35,Y37,Y38,Y39,Y40,Y41,Y42",16 05 06*,laboratory waste (EWC 16 05 06*),"H3,H4.1,H4.2,H4.3,H6.1,H8,H11,H12",2.334,"TR,IT,ES,PT,FR,NL,BE,GB",DE,D10,,Greece,2020
+109,,Y12,16 01 07*,waste oil filters (EWC 16 01 07*),H12,16.225,"GB,TR,IT,BE,ES,PT,FR,NL",DE,,R4,Greece,2020
+110,,Y16,"09 01 01*, 09 01 02*, 09 01 05*, 09 01 13*","wastes from photographic industry (EWC 09 01 01*, 09 01 02*, 09 01 05*, 09 01 13*)","H8,H12",59.511,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece,2020
+111,,Y16,"09 01 01*, 09 01 02*, 09 01 05*, 09 01 13*","wastes from photographic industry (EWC 09 01 01*, 09 01 02*, 09 01 05*, 09 01 13*)","H8,H12",3.768,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece,2020
+112,,Y17,"11 01 08*, 11 01 09*, 11 01 98*","wastes from chemical surface treatment and coating of metals-sludge and filter cakes containing dangerous substances ( EWC 11 01 08*, 11 01 09*, 11 01 98*)","H12,H13",3.745,"PT,GB,NL,TR,FR",BE,,"R12,R5",Greece,2020
+113,,Y18,"19 02 05*, 19 02 11*","sludge from physic-chemical treatment containing dangerous substances (EWC 19 02 05*, 19 02 11*) ","H12,H13",13.059,"PT,GB,NL,TR,FR,ES,IT",BE,,"R12,R5",Greece,2020
+114,,Y18,"19 02 05*, 19 02 11*","sludge from physic-chemical treatment containing dangerous substances (EWC 19 02 05*, 19 02 11*) ","H12,H13",22.65,"PT,GB,NL,TR,FR,ES,IT",BE,,"R12,R5",Greece,2020
+115,,Y18,"19 02 05*, 19 02 11*","sludge from physic-chemical treatment containing dangerous substances (EWC 19 02 05*, 19 02 11*) ","H12,H13",15.421,"PT,GB,NL,TR,FR,ES,IT",BE,,"R12,R5",Greece,2020
+116,,Y18,"19 02 05*, 19 02 11*","sludge from physic-chemical treatment containing dangerous substances (EWC 19 02 05*, 19 02 11*) ","H12,H13",6.66,"PT,GB,NL,TR,FR,ES,IT",BE,,"R12,R5",Greece,2020
+117,,Y18,"19 02 05*, 19 02 11*","wastes from physico-chemical treatment contianing dangerous substances (EWC 19 02 05*, 19 02 11*) ","H12,H13",20.557,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece,2020
+118,,"Y34,Y35",16 10 01*,"wastewater from cleaning of metals and metal parts, destined for off-site treatment (EWC 16 10 01*)","H8,H13",19.935,"PT,GB,NL,TR,FR",BE,,R12,Greece,2020
+119,,Y36,17 06 05*,construction and insulation materials containing asbestos (asbestos cement materials) (EWC 17 06 05*) ,,186.32,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D1,,Greece,2020
+120,,Y45,14 06 01*,"chlorofluorocarbons, HCFC, HFC (EWC 14 06 01*)",H12,45.3,"TR,IL,IT,ES",GB,D10,,Greece,2020
+121,,Y8,15 02 02*,"absorbents, filter materials (including oil filters not otherwise specified), wiping cloths, protective clothing contaminated by hazardous substances (EWC 15 02 02*)",H12,100.6,IT,ES,D9,,Greece,2020
+122,,Y8,15 02 02*,"absorbents, filter materials (including oil filters not otherwise specified), wiping cloths, protective clothing contaminated by hazardous substances (EWC 15 02 02*)",H12,188.07,IT,ES,D9,,Greece,2020
+123,,Y8,15 02 02*,"absorbents, filter materials (including oil filters not otherwise specified), wiping cloths, protective clothing contaminated by hazardous substances (EWC 15 02 02*)",H12,34.64,IT,ES,,R3,Greece,2020
+124,,Y8,15 02 02*,"absorbents, filter materials (including oil filters not otherwise specified), wiping cloths, protective clothing contaminated by hazardous substances (EWC 15 02 02*)",H12,22.51,"BG,RO,HU,SK,CZ,DE",DK,D10,,Greece,2020
+125,,"Y9,Y16",15 02 02*,"absorbents, filters, wiping cloths and protective cloths contaminated by dangerous substances (EWC 15 02 02*) ","H4.1,H13",45.777,"PT,GB,NL,TR,BE,FR",DE,D10,,Greece,2020
+126,,"Y9,Y16",15 02 02*,"absorbents, filters, wiping cloths and protective cloths contaminated by dangerous substances (EWC 15 02 02*) ","H4.1,H13",46.593,"PT,GB,NL,TR,BE,FR",DE,D10,,Greece,2020
+127,,"Y9,Y12",15 02 02*,"absorbents, filter materials (including oil filters not otherwise specified), wiping cloths, protective clothing contaminated by hazardous substances (EWC 15 02 02*)","H4.1,H12",52.52,"GR,IL",FR,,"R12,R1",Greece,2020
+128,,,"19 08 09*, 19 08 10*, 19 08 11*, 19 08 13* ",waste from wastewater treatment facilities (EWC 19 08 10*),"H12,H13",9.106,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece,2020
+129,,,16 10 01*,liquid aqueous wastes contaminated with organic matter destined for off-site treatment (EWC 16 10 01*),H13,2.066,"PT,GB,NL,TR,BE,FR,ES,IT",DE,D10,,Greece,2020
+130,,,12 01 12*,mineral or synthetic grease waste (EWC 12 01 12*),"H11,H12",6.457,"TR,IT,ES,PT,FR,NL,BE,GB",DE,D10,,Greece,2020
+131,,,"15 02 02*, 16 01 07*","oil absorbing materials, oil & diesel filters, ventilation filters, wipping clothes, protective clothing (EWC 15 02 02*, 16 01 07*)","H4.1,H8,H12",74.141,"TR,IT,ES,PT,FR,NL,BE,GB",DE,D10,,Greece,2020
+132,,,16 01 13*,"brake fluids produced from end-of-life car recycling centers, workshops, during common repair works, car services etc. (EWC 16 01 13*)",H12,1.24,"TR,IT,ES,PT,FR,NL,BE,GB",DE,D10,,Greece,2020
+133,,,"16 01 14*, 16 05 08*","antifreeze liquids produced from various operations (EWC 16 01 14*, 16 05 08*)",H12,16.354,"TR,IT,ES,PT,FR,NL,BE,GB",DE,D10,,Greece,2020
+134,,,16 01 04*,end - of - life ship (ΕWC 16 01 04*),"H12,H13",58515.0,,TR,,"R12,R13,R4",Greece,2020

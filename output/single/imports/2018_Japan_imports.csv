@@ -1,0 +1,104 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_origin,annex_4_a_code,annex_4_b_code,country,year
+0,A1030,Y29,,solid waste contaminated by mercury,H6.1,0.024,,ID,,R4,Japan,2018
+1,A1030,Y29,,oil sludge contaminated with mercury,H6.1,25.392,,ID,,R4,Japan,2018
+2,A1030,Y29,,solid waste contaminated by mercury,H6.1,0.532, ,ID,,R4,Japan,2018
+3,A1030,Y29,,filter waste contaminated by mercury,H6.1,0.267, ,ID,,R4,Japan,2018
+4,A1030,Y29,,solid waste contaminated by mercury,H6.1,27.782,,ID,,R4,Japan,2018
+5,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,108.202,,SG,,R4,Japan,2018
+6,A1050,Y17,,sludge,H11,2.1575,,PH,,R4,Japan,2018
+7,A1180,"Y22,Y31",,waste electrical and electronic assemblies or scrap,H11,74.0838,,TH,,R4,Japan,2018
+8,A1180,Y18,,waste electrical and electronic assemblies or scrap,H11,25.923,,PH,,R4,Japan,2018
+9,A1180,"Y22,Y31",,waste electrical and electronic assemblies or scrap,H11,3.125,,SG,,R4,Japan,2018
+10,A1080,Y23,,zinc dust,H13,30.208,,ID,,R4,Japan,2018
+11,,Y22,,copper dust,H13,55.722,,ID,,R4,Japan,2018
+12,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,18.02937,,PH,,R4,Japan,2018
+13,,Y23,,zinc base ash,H13,32.981,,ID,,R4,Japan,2018
+14,A4100,"Y18,Y23",,zinc dust,"H4.1,H4.3",784.862,,TH,,R4,Japan,2018
+15,A1180,Y18,,waste electrical and electronic assemblies or scrap,H12,137.031,,LT,,R4,Japan,2018
+16,A1180,"Y22,Y31",,waste electrical and electronic assemblies or scrap,H11,42.276,,PE,,R4,Japan,2018
+17,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,169.549,,SG,,R4,Japan,2018
+18,A1030,Y29,,solid waste contaminated by mercury,H6.1,45.489,,ID,,R4,Japan,2018
+19,A1030,Y29,,used elemental mercury,H6.1,0.055,,ID,,R4,Japan,2018
+20,A1030,Y22,,equipment contaminated by mercury,H6.1,47.851,,ID,,R4,Japan,2018
+21,A1020,Y31,,sludge,H11,11.29089,,TH,,R4,Japan,2018
+22,A1050,Y17,,galvanic sludge,H11,70.1585,,TH,,R4,Japan,2018
+23,A1180,"Y27,Y31",,waste electrical and electronic assemblies or scrap,H4.1,3.975,,TH,,R4,Japan,2018
+24,A1050,Y17,,galvanic sludge,H11,86.527,,MY,,R4,Japan,2018
+25,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,36.721,,PH,,R4,Japan,2018
+26,A1180,"Y22,Y31",,waste electrical and electronic assemblies or scrap,H11,28.861,,PH,,R4,Japan,2018
+27,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,154.8936,,TH,,R4,Japan,2018
+28,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,402.9992,,TH,,R4,Japan,2018
+29,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,12.854,,TH,,R4,Japan,2018
+30,A1180,"Y22,Y27,Y31",,waste electrical and electronic assemblies or scrap,H11,92.1653,,BR,,R4,Japan,2018
+31,A1180,"Y22,Y31",,waste electrical and electronic assemblies or scrap,H11,28.5626,,PA,,R4,Japan,2018
+32,A1050,Y17,,silver sludge,H11,197.818,,PH,,R4,Japan,2018
+33,A1050,Y17,,silver sludge,H11,37.405,,PH,,R4,Japan,2018
+34,A1180,"Y18,Y31",,waste electrical and electronic assemblies or scrap,H11,551.442,,TH,,R4,Japan,2018
+35,"A1180,A1190","Y18,Y22,Y31",,waste electrical and electronic assemblies or scrap,H11,179.743,,TH,,R4,Japan,2018
+36,A1180,"Y22,Y31",,waste electrical and electronic assemblies or scrap,H11,621.84988,,PA,,R4,Japan,2018
+37,A1180,"Y22,Y31",,waste electrical and electronic assemblies or scrap,H11,1.19713,,PA,,R4,Japan,2018
+38,A1030,Y22,,spent catalyst contaminated by mercury,H6.1,73.646,,ID,,R4,Japan,2018
+39,A1030,Y22,,spent catalyst contaminated by mercury,H6.1,47.656,,ID,,R4,Japan,2018
+40,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,211.3508,,SG,,R4,Japan,2018
+41,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,39.2,,ZA,,R4,Japan,2018
+42,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,131.481,,TH,,R4,Japan,2018
+43,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,47.64,,SG,,R4,Japan,2018
+44,A1180,"Y22,Y31",,waste electrical and electronic assemblies or scrap,H11,19.2137,,PH,,R4,Japan,2018
+45,,Y22,,copper sludge,H11,23.9265,,PH,,R4,Japan,2018
+46,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,24.433,,PH,,R4,Japan,2018
+47,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,209.9756,,PH,,R4,Japan,2018
+48,A1150,"Y22,Y31",,copper ash,H11,48.54107,,SG,,R4,Japan,2018
+49,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,181.519,,PH,,R4,Japan,2018
+50,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,0.384,,PH,,R4,Japan,2018
+51,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,61.286,,SG,,R4,Japan,2018
+52,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,339.253,,ID,,R4,Japan,2018
+53,A1180,Y18,,waste electrical and electronic assemblies or scrap,H11,86.625,,LK,,R4,Japan,2018
+54,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,28.4635,,TH,,R4,Japan,2018
+55,A1170,Y26,,unsorted waste batteries,H11,210.332,,US,,R4,Japan,2018
+56,A4050,Y33,,circling filter of EG gold solution,H11,9.9868,,PH,,R4,Japan,2018
+57,"A1020,A4050","Y31,Y33",,EMEW CELL,H11,0.10748,,PH,,R4,Japan,2018
+58,A1030,Y29,,oil sludge contaminated with mercury,H6.1,55.016,,ID,,R4,Japan,2018
+59,A1180,Y18,,waste electrical and electronic assemblies or scrap,H11,134.74937,,SG,,R4,Japan,2018
+60,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,53.433,,SG,,R4,Japan,2018
+61,A1170,Y26,,unsorted waste batteries,H11,8.61025,,CN,,R4,Japan,2018
+62,A1050,Y18,,sludge,H11,13.461,,ID,,R4,Japan,2018
+63,A1180,"Y22,Y27,Y31",,waste electrical and electronic assemblies or scrap,H11,82.456,,BR,,R4,Japan,2018
+64,A1180,"Y22,Y27,Y31",,waste electrical and electronic assemblies or scrap,H11,58.578,,BR,,R4,Japan,2018
+65,"A1150,A1180",Y18,,waste electrical and electronic assemblies or scrap,H11,449.298,,TH,,R4,Japan,2018
+66,A1180,"Y22,Y31",,waste electrical and electronic assemblies or scrap,H11,286.2974,,TH,,R4,Japan,2018
+67,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,15.925,,LK,,R4,Japan,2018
+68,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,188.824,,SG,,R4,Japan,2018
+69,A1180,"Y22,Y31",,waste electrical and electronic assemblies or scrap,"H11,H12",56.838,,PH,,R4,Japan,2018
+70,A4050,Y33,,Au-absorption resin,H11,0.873,,PH,,R4,Japan,2018
+71,A1180,"Y22,Y31",,waste electrical and electronic assemblies or scrap,H11,30.863,,TH,,R4,Japan,2018
+72,A1050,Y17,,sludge,H11,10.495,,PH,,R4,Japan,2018
+73,A3140,Y42,,Ag paste bottle and Ag paste cloth,H11,13.03335,,PH,,R4,Japan,2018
+74,A3140,Y42,,Ag paste bottle and Ag paste cloth,H11,1.30743,,PH,,R4,Japan,2018
+75,A4050,Y17,,Au-absorption resin,H11,0.00023,,PH,,R4,Japan,2018
+76,A3130,Y42,,Ag paste bottle and Ag paste cloth,H11,0.2735,,PH,,R4,Japan,2018
+77,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,66.873,,PH,,R4,Japan,2018
+78,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,343.665,,SG,,R4,Japan,2018
+79,A1180,Y18,,waste electrical and electronic assemblies or scrap,H11,103.5145,,PH,,R4,Japan,2018
+80,A1180,"Y22,Y31",,waste electrical and electronic assemblies or scrap,H11,128.492,,PE,,R4,Japan,2018
+81,A1020,Y31,,lead paste,H11,264.632,,AU,,R4,Japan,2018
+82,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,3.828,,ID,,R4,Japan,2018
+83,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,1.664,,ID,,R4,Japan,2018
+84,A1020,Y31,,waste electrical and electronic assemblies or scrap,H11,1.616,,ID,,R4,Japan,2018
+85,A1180,Y18,,waste electrical and electronic assemblies or scrap,H12,63.206,,LT,,R4,Japan,2018
+86,A1180,Y18,,waste electrical and electronic assemblies or scrap,H12,190.541,,LT,,R4,Japan,2018
+87,A1180,"Y22,Y31",,waste electrical and electronic assemblies or scrap,H11,69.473,,MY,,R4,Japan,2018
+88,A1020,"Y22,Y23,Y29,Y31",,"residues containg gold, etc.","H11,H12",0.3204,,CA,,R4,Japan,2018
+89,A1180,"Y22,Y31",,waste electrical and electronic assemblies or scrap,H11,498.7958,,PA,,R4,Japan,2018
+90,A1180,"Y22,Y31",,waste electrical and electronic assemblies or scrap,H11,38.3298,,SG,,R4,Japan,2018
+91,A3140,Y17,,Ag paste,H11,0.2234,,ID,,R4,Japan,2018
+92,A1180,"Y22,Y27,Y31",,waste electrical and electronic assemblies or scrap,H11,9.244,,BR,,R4,Japan,2018
+93,A1180,"Y21,Y22,Y31",,waste electrical and electronic assemblies or scrap,H11,7.695,,BR,,R4,Japan,2018
+94,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,22.66825,,PH,,R4,Japan,2018
+95,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,41.32406,,PH,,R4,Japan,2018
+96,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,94.208,,PH,,R4,Japan,2018
+97,A1130,Y22,,copper cake,H13,79.945,,ID,,R4,Japan,2018
+98,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,20.501,,ZA,,R4,Japan,2018
+99,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,32.8906,,SG,,R4,Japan,2018
+100,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,29.734,,AU,,R4,Japan,2018
+101,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,96.16245,,US,,R4,Japan,2018
+102,A1180,Y31,,waste electrical and electronic assemblies or scrap,H11,44.0846,,US,,R4,Japan,2018

@@ -1,0 +1,84 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A3020,,13 01 11*,synthetichydraulic oils,,69.412,"HR,SI",AT,D10,,Serbia,2020
+1,A3020,,15 01 10*,packaging containing residues of or contaminated by dangerous substances,,3.261,"HR,SI",AT,D10,,Serbia,2020
+2,A3020,,15 02 02*,"absorbents, filter materials (including oil filters not otherwise specified), wiping cloths, protective clothing contaminated by dangerous substances",,8.876,"HR,SI",AT,D10,,Serbia,2020
+3,A3020,,16 01 07*,oil filters,,5.351,"HR,SI",AT,D10,,Serbia,2020
+4,A4010,,07 05 13*,solid wastes containing dangerous substances,,182.913,"HR,SI",AT,D10,,Serbia,2020
+5,A4010,,15 01 10*,packaging containing residues of or contaminated by dangerous substances,,8.205,"HR,SI",AT,D10,,Serbia,2020
+6,A4010,,16 03 03*,inorganic wastes containing dangerous substances,,0.102,"HR,SI",AT,D10,,Serbia,2020
+7,A4010,,16 03 05*,organic wastes containing dangerous substances,,0.119,"HR,SI",AT,D10,,Serbia,2020
+8,A4010,,18 01 08*,cytotoxic and cytostatic medicines,,3.424,"HR,SI",AT,D10,,Serbia,2020
+9,A4010,,18 02 07*,cytotoxic and cytostatic medicines,,0.11,"HR,SI",AT,D10,,Serbia,2020
+10,A4010,"Y2,Y3",16 03 05*,organic wastes containing dangerous substances,,25.777,"HR,SI",AT,D10,,Serbia,2020
+11,A4010,"Y2,Y3",18 01 08*,cytotoxic and cytostatic medicines,,59.11,"HR,SI",AT,D10,,Serbia,2020
+12,A4010,"Y2,Y3",07 05 13*,solid wastes containing dangerous substances,,13.45,"HR,SI",AT,D10,,Serbia,2020
+13,A4030,,16 03 05*,organic wastes containing dangerous substances,,15.105,"HR,SI",AT,D10,,Serbia,2020
+14,A4030,,20 01 19*,pesticides,,0.335,"HR,SI",AT,D10,,Serbia,2020
+15,A4030,Y4,16 03 05*,organic wastes containing dangerous substances,,11.19,"HR,SI",AT,D10,,Serbia,2020
+16,A4070,Y12,08 01 13*,sludges from paint or varnish containing organic solvents or other dangerous substances,,129.02,"HR,SI",AT,D10,,Serbia,2020
+17,A4070,Y12,08 01 13*,sludges from paint or varnish containing organic solvents or other dangerous substances,,41.44,"HR,SI",AT,D10,,Serbia,2020
+18,A4070,Y12,08 01 17*,wastes from paint or varnish removal containing organic solvents or other dangerous substances,,68.66,"HR,SI",AT,D10,,Serbia,2020
+19,A4070,Y12,08 01 17*,wastes from paint or varnish removal containing organic solvents or other dangerous substances,,4.18,"HR,SI",AT,D10,,Serbia,2020
+20,A4140,,16 03 05*,organic wastes containing dangerous substances,,14.536,"HR,SI",AT,D10,,Serbia,2020
+21,A4140,,16 05 06*,"laboratory chemicals, consisting of or containing dangerous substances, including mixtures of laboratory chemicals",,7.438,"HR,SI",AT,D10,,Serbia,2020
+22,A4140,,16 05 08*,discarded organic chemicals consisting of or containing dangerous substances,,1.986,"HR,SI",AT,D10,,Serbia,2020
+23,A4140,"Y14,Y2",16 05 06*,"laboratory chemicals, consisting of or containing dangerous substances, including mixtures of laboratory chemicals",,0.33,"HR,SI",AT,D10,,Serbia,2020
+24,A4140,"Y14,Y2",18 01 06*,chemicals consisting of or containing dangerous substances,,8.4,"HR,SI",AT,D10,,Serbia,2020
+25,A4140,"Y2,Y6,Y18",16 05 06*,"laboratory chemicals, consisting of or containing dangerous substances, including mixtures of laboratory chemicals",,6.16,"HR,SI",AT,D10,,Serbia,2020
+26,A4140,Y40,16 03 05*,organic wastes containing dangerous substances,,1.75,"HR,SI",AT,D10,,Serbia,2020
+27,A4140,Y40,16 05 06*,"laboratory chemicals, consisting of or containing dangerous substances, including mixtures of laboratory chemicals",,6.63,"HR,SI",AT,D10,,Serbia,2020
+28,A4140,Y40,18 01 06*,chemicals consisting of or containing dangerous substances,,30.96,"HR,SI",AT,D10,,Serbia,2020
+29,A1060,"Y17,Y34",11 01 05*,pickling acids,,669.66,HU,AT,,R4,Serbia,2020
+30,A1020,Y31,10 04 01*,slags from primary and secondary production,,530.14,,BG,,R4,Serbia,2020
+31,A3020,Y8,13 01 10*,mineral based non-chlorinated hydraulic oils,,21.917,,BG,,R9,Serbia,2020
+32,A3020,Y8,13 01 13*,other hydraulicoils,,5.542,,BG,,R9,Serbia,2020
+33,A3020,Y8,13 02 05*,"mineral-based non-chlorinated engine, gear and lubricating oils",,116.464,,BG,,R9,Serbia,2020
+34,A3020,Y8,13 02 05*,"mineral-based non-chlorinated engine, gear and lubricating oils",,404.98,,BG,,R9,Serbia,2020
+35,A3020,Y8,13 02 08*,"other engine, gear and lubricating oils",,80.386,,BG,,R9,Serbia,2020
+36,A3020,Y8,13 03 07*,mineral-based non-chlorinated insulating and heat transmission oils,,1.1,,BG,,R9,Serbia,2020
+37,A3020,Y8,13 03 10*,other insulating and heat transmission oils,,1.481,,BG,,R9,Serbia,2020
+38,A3020,Y8,13 08 99*,wastes not otherwise specified related to oil wastes not otherwise specified,,22.37,,BG,,R9,Serbia,2020
+39,A3020,Y8,19 02 07*,oil and concentrates from separation,,28.38,,BG,,R9,Serbia,2020
+40,A3180,,13 03 01*,insulating or heat transmission oils containing PCBs,,55.948,"AT,DE,HR,SI",CH,D10,,Serbia,2020
+41,A3180,,15 01 10*,packaging containing residues of or contaminated by dangerous substances,,3.086,"AT,DE,HR,SI",CH,D10,,Serbia,2020
+42,A3180,,15 02 02*,"absorbents, filter materials (including oil filters not otherwise specified), wiping cloths, protective clothing contaminated by dangerous substances",,4.606,"AT,DE,HR,SI",CH,D10,,Serbia,2020
+43,A4140,,20 01 17*,photochemicals,,2.805,"AT,DE,HR,SI",CH,D10,,Serbia,2020
+44,A4140,,16 05 07*,discarded inorganic chemicals consisting of or containing dangerous substances,,6.583,"AT,DE,HR,SI",CH,D10,,Serbia,2020
+45,A4140,,16 05 08*,discarded organic chemicals consisting of or containing dangerous substances,,13.962,"AT,DE,HR,SI",CH,D10,,Serbia,2020
+46,A4140,,16 05 06*,"laboratory chemicals, consisting of or containing dangerous substances, including mixtures of laboratory chemicals",,10.694,"AT,DE,HR,SI",CH,D10,,Serbia,2020
+47,A4140,,07 01 07*,halogenated still bottoms and reaction residues,,23.83,"AT,DE,HR,SI",CH,D10,,Serbia,2020
+48,A4140,,07 01 08*,other still bottoms and reaction residues,,6.63,"AT,DE,HR,SI",CH,D10,,Serbia,2020
+49,A4140,,07 07 08*,other still bottoms and reaction residues,,2.1,"AT,DE,HR,SI",CH,D10,,Serbia,2020
+50,A4140,,15 01 10*,packaging containing residues of or contaminated by dangerous substances,,5.296,"AT,DE,HR,SI",CH,D10,,Serbia,2020
+51,A4140,,16 03 03*,inorganic wastes containing dangerous substances,,6.088,"AT,DE,HR,SI",CH,D10,,Serbia,2020
+52,A4140,,16 03 05*,organic wastes containing dangerous substances,,70.796,"AT,DE,HR,SI",CH,D10,,Serbia,2020
+53,A1020,"Y31,Y22,Y23",10 04 02*,dross and skimmings from primary and secondary production,,1694.33,"AT,HR,SI",DE,,R4,Serbia,2020
+54,A1030,Y29,06 04 04*,wastes containing mercury,,0.011,"AT,HR,SI",DE,D9,,Serbia,2020
+55,A1030,Y29,16 02 15*,hazardous components removed from discarded equipment,,0.555,"AT,HR,SI",DE,D9,,Serbia,2020
+56,A1030,Y29,20 01 21*,fluorescent tubes and other mercury-containing waste,,0.211,"AT,HR,SI",DE,D9,,Serbia,2020
+57,A1170,"Y23,Y26,Y29",20 01 33*,"batteries and accumulators included in 16 06 01, 16 06 02 or 16 06 03 and unsorted batteries and accumulators containing these batteries",,17.173,"AT,HR,SI",DE,,R12,Serbia,2020
+58,A1180,Y10,16 02 15*,hazardous components removed from discarded equipment,,25.157,"AT,HR,SI",DE,D10,,Serbia,2020
+59,A2010,"Y18,Y31",16 02 15*,hazardous components removed from discarded equipment,,1781.015,"AT,HR,SI",DE,,R5,Serbia,2020
+60,A2010,Y40,16 02 15*,hazardous components removed from discarded equipment,,816.75,"AT,HR,SI",DE,,R5,Serbia,2020
+61,A3150,"Y41,Y18",07 01 03*,"organichalogenated solvents, washing liquids and mother liquors",,19.2,"AT,HR,SI",DE,,R2,Serbia,2020
+62,A3150,"Y41,Y18",14 06 02*,other halogenated solvents and solvent mixtures,,0.52,"AT,HR,SI",DE,,R2,Serbia,2020
+63,A4070,Y12,08 01 21*,waste paint or varnish remover,,1.054,"AT,HR,SI",DE,D10,,Serbia,2020
+64,A4070,Y12,16 03 05*,organic wastes containing dangerous substances,,0.308,"AT,HR,SI",DE,D10,,Serbia,2020
+65,A4070,Y12,08 01 17*,wastes from paint or varnish removal containing organic solvents or other dangerous substances,,4.653,"AT,HR,SI",DE,D10,,Serbia,2020
+66,A4070,,08 01 11*,waste paint and varnish containing organic solvents or other dangerous substances,,44.244,"AT,HR,SI",DE,D10,,Serbia,2020
+67,A4070,,08 01 13*,sludges from paint or varnish containing organic solvents or other dangerous substances,,13.676,"AT,HR,SI",DE,D10,,Serbia,2020
+68,A4070,,08 01 17*,wastes from paint or varnish removal containing organic solvents or other dangerous substances,,16.98,"AT,HR,SI",DE,D10,,Serbia,2020
+69,A4070,Y12,08 01 11*,waste paint and varnish containing organic solvents or other dangerous substances,,0.375,"AT,HR,SI",DE,D10,,Serbia,2020
+70,A4090,Y34,06 01 01*,sulphuric acid and sulphurous acid,,229.02,"AT,HR,SI",DE,,R6,Serbia,2020
+71,A4090,Y34,06 01 04*,phosphoricand phosphorous acid,,120.4,"AT,HU",DE,D9,,Serbia,2020
+72,A4010,Y2,16 03 05*,organic wastes containing dangerous substances,,327.14,"CZ,HU,RO,SK",DE,D10,,Serbia,2020
+73,A1170,"Y26,Y29,Y31",20 01 33*,"batteries and accumulators included in 16 06 01, 16 06 02 or 16 06 03 and unsorted batteries and accumulators containing these batteries",,5.736,"HR,IT,SI",FR,,R4,Serbia,2020
+74,A4090,Y34,11 01 05*,pickling acids,,234.18,MK,GR,,R5,Serbia,2020
+75,A1020,Y31,19 12 11*,other wastes (including mixtures of materials) from mechanical treatment of waste containing dangerous substances,,46.664,,HR,,R12,Serbia,2020
+76,A1160,Y31,16 06 01*,lead batteries,,793.889,,HR,,R13,Serbia,2020
+77,A1160,Y31,16 06 01*,lead batteries,,1745.4585,,HR,,R4,Serbia,2020
+78,A1160,Y31,16 06 01*,lead batteries,,777.382,,MK,,R4,Serbia,2020
+79,A1160,"Y31,Y34",16 06 01*,lead batteries,,941.236,,MK,,R4,Serbia,2020
+80,A2030,"Y22,Y41",16 08 07*,spent catalysts contaminated with dangerous substances,,5.358,,RO,,R2,Serbia,2020
+81,A2030,"Y26,Y40,Y22",16 08 06*,spent liquids used as catalysts,,56.709,,RO,,R2,Serbia,2020
+82,A3180,,16 02 09*,transformers and capacitors containing PCBs,,123.223,,RO,,R13,Serbia,2020

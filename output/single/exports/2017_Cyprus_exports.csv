@@ -1,0 +1,10 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A1160,Y31,16 06 01,Lead Acid Batteries,H8,3093.86,,GR,,R4,Cyprus,2017
+1,A1160,Y31,16 06 01,Lead Acid Batteries,H8,719.17,,IL,,R4,Cyprus,2017
+2,A1160,Y31,16 06 01,Lead Acid Batteries,H8,70.68,,KR,,R4,Cyprus,2017
+3,A4140,"Y6,Y14","16 03 03, 16 03 05",Off Specification batches and products containing hazardous substances,"H3,H6.1,H8,H12",7.29,"IL,IT,NL,ES,GB",DE,D10,,Cyprus,2017
+4,A2050,Y36,"17 06 01, 17 06 05",Asbestos Waste,H12,560.78,"IL,IT,ES",GB,D5,,Cyprus,2017
+5,A4140,"Y34,Y35,Y39,Y40,Y41,Y42","16 05 06, 16 05 07, 16 05 08",Laboratory Waste,"H3,H6.1,H8,H12",24.55,"IL,IT,NL,ES,GB",DE,D10,,Cyprus,2017
+6,A4010,Y3,"18 01 09, 20 01 32",Expired Medicines,"H11,H13",3.15,"IL,IT,NL,ES,GB",DE,D10,,Cyprus,2017
+7,A1170,"Y23,Y26,Y28","16 06 02, 16 06 03, 16 06 04, 16 06 05",Unsorted Portable Batteries,H13,128.0,"DK,EG,IE,IL,IT,NL,ES,SE,GB",BE,,R4,Cyprus,2017
+8,A1180,Y32,"16 02 11, 20 01 23",Waste Fridges,"H12,H13",738.12,,GR,,"R4,R12",Cyprus,2017

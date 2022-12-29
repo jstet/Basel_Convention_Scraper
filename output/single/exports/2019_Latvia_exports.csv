@@ -1,0 +1,15 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A1160,Y31,160601*,Lead batteries,"H8,H12",3284.743,,LT,,"R3,R4,R5,R12,R13",Latvia,2019
+1,A1160,"Y31,Y34",160601*,Lead batteries,"H8,H12",2269.379,,EE,,"R4,R13",Latvia,2019
+2,A3020,Y8,130208*,Waste mineral oils,"H11,H12",290.3,EE,FI,,R9,Latvia,2019
+3,"A1030,A4060",Y9,"130208*, 130506, 130111, 130113",Other oils,H3,670.0,,EE,,R1,Latvia,2019
+4,A3020,,"130403*, 130703*, 130506*",Waste mineral oils,H6.1,101.0,,LT,,R9,Latvia,2019
+5,A4060,Y9,"130506*, 160708*, 130507*, 130701*, 130703*",Waste oils,"H3,H4.1",646.92,,EE,,R3,Latvia,2019
+6,A4060,Y9,"130208*, 130403*, 130703*, 130506*",Waste oils,H3,970.34,,LT,,R9,Latvia,2019
+7,A3150,"Y6,Y14,Y45",070703*,"Organic halogenated solvents, washing liquids and mother liquors","H3,H11",114.167,,EE,,"R1,R12",Latvia,2019
+8,A3140,"Y12,Y14,Y41,Y42",200113*,Solvents,"H3,H12",228.668,,EE,,"R1,R12",Latvia,2019
+9,,Y_,191212,Other waste (including mixtures of material) from mechanical treatment of waste,,508.9,,EE,,"R1,R12,R13",Latvia,2019
+10,,Y_,191211,Other waste (including mixtures of material) from mechanical treatment of waste,,20.15,,EE,,"R1,R12",Latvia,2019
+11,,Y44,"140601*, AC150","Chlorofluorocarbons, HCFC, HFC",H12,1.245,,EE,D10,,Latvia,2019
+12,A4070,Y12,080111*,Waste paint and varnish containing organic solvents or other dangerous substances,H3,89.398,,EE,,"R1,R12",Latvia,2019
+13,A4140,Y2,"160305*, 160506*, 160508*",Waste laboratory chemicals,"H3,H4.1,H6.1",63.604,,EE,D10,"R1,R12",Latvia,2019

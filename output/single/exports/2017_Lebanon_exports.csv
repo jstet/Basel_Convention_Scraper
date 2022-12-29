@@ -1,0 +1,6 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A4010,Y3,,expired medicines,"H6.1,H11",115.0,,CY,D8,R1,Lebanon,2017
+1,A4020,Y3,,cytotoxic medicines,"H6.1,H12",32.5,,FR,,R1,Lebanon,2017
+2,A4130,,,contaminated packaging waste,H12,59.0,,GR,,R12,Lebanon,2017
+3,A4140,Y3,,expired chemicals,"H6.1,H11,H12",55.0,,FR,,R1,Lebanon,2017
+4,A4020,"Y1,Y3",,cytotoxic medicines,H11,9.0,,SE,D10,,Lebanon,2017

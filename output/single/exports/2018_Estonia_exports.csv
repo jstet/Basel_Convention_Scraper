@@ -1,0 +1,12 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A1180,"Y22,Y31",16 02 15*,CRT glass,,68, ,LV,,R12,Estonia,2018
+1,A4020,Y1,18 01 03*,Clinical waste,,240,,LV,,R12,Estonia,2018
+2,Y47,,19 01 13*,Flyash containing dangerous substances ,H12,2105,,FI,"D9,D1",,Estonia,2018
+3,Y47,,19 01 07*,Solid waste from gas treatment,H12,9416,,FI,"D9,D1",,Estonia,2018
+4,A1030,Y29,20 01 21*,Waste containing mercury,,1,,DE,D14,,Estonia,2018
+5,A1030,Y29,20 01 21*,Waste containing mercury,,12,,SE,,"R5,R4",Estonia,2018
+6,A1030,Y29,20 01 21*,Waste containing mercury,,106,,LV,,R12,Estonia,2018
+7,A1180,Y45,20 01 35*,WEEE ,,500,LV,LT,,R12,Estonia,2018
+8,A1180,Y45,20 01 23*,Cooling appliances,,150,LV,LT,,"R4,R5",Estonia,2018
+9,A1180,Y45,20 01 23*,Cooling appliances,,7,,LV,,"R4,R3",Estonia,2018
+10,A1180,Y45,20 01 23*,Cooling appliances,,182,,FI,,"R4,R3",Estonia,2018

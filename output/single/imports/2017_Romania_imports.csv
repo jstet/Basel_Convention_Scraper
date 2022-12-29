@@ -1,0 +1,13 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_origin,annex_4_a_code,annex_4_b_code,country,year
+0,A1030,Y29,20 01 21*,Fluorescent tubes,H12,33.34,,BG,,"R12,R4,R5",Romania,2017
+1,A1030,Y29,20 01 21*,Fluorescent tubes,,214.66,BG,GR,,"R4,R5",Romania,2017
+2,A1030,Y29,20 01 21*,Fluorescent tubes,H13,48.73,,HU,,"R12,R4",Romania,2017
+3,A1170,"Y23,Y26,Y35",20 01 33*,mixed batteries,H12,338.22,BG,GR,,R4,Romania,2017
+4,A3180,Y10,16 02 09*, capacitors contaminated with PCB,H11,21.87,BG,MK,,"R13,R12",Romania,2017
+5,A3180,Y10,16 02 09*,capacitors contaminated with PCB,"H11,H12,H13",44.04,,RS,,"R12,R13",Romania,2017
+6,A1020,Y31,10 04 05*,other particulates and dust,H12,284.55,,BG,,R4,Romania,2017
+7,A1160,Y31,16 06 01*,waste lead acid batteries,H8,1012.45,"DE,AT,HU",CH,,R4,Romania,2017
+8,A1160,Y31,16 06 01*,waste lead acid batteries,H8,1220.0,,MD,,R4,Romania,2017
+9,A1160,Y31,16 06 01*,waste lead acid batteries,H8,297.45,"SI,HU",IT,,R4,Romania,2017
+10,A1160,Y31,16 06 01*,waste lead acid batteries,H8,66.81,,UA,,R4,Romania,2017
+11,A1160,Y31,16 06 01*,waste lead acid batteries,H8,7733.75,,HU,,R4,Romania,2017

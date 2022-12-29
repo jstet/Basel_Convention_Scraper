@@ -1,0 +1,5 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A1160,"Y31,Y34",,Waste lead-acid batteries.,H8,195.779,PA,KR,,"R4,R6",Trinidad and Tobago,2019
+1,"A1020,A1180,A4060","Y9,Y31,Y45",,"Waste end-of-life vehicle: Ultra-Deepwater Drillship ""GSF C.R. Luigs"" (IMO No. 9189835)","H3,H5.1,H6.1,H11",31745.0,,TR,D5,"R4,R12,R13",Trinidad and Tobago,2019
+2,"A1030,A1180,A2050,A4060,A4070,A4090","Y9,Y29,Y36",,"Waste end-of-life vehicle: Ultra-Deepwater Drillship ""Discoverer Deepseas"" (IMO No: 9212802)","H3,H5.1,H6.1,H11",34401.0,,TR,D5,"R4,R12,R13",Trinidad and Tobago,2019
+3,"A1030,A1180,A2050,A4060,A4070,A4090","Y9,Y29,Y36",,"Waste end-of-life vehicle: Ultra-Deepwater Drillship ""Discoverer Spirit"" (IMO No: 9212797)","H3,H5.1,H6.1,H11",34688.0,,TR,D5,"R4,R12,R13",Trinidad and Tobago,2019

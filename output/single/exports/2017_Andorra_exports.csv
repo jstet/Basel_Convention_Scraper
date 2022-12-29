@@ -1,0 +1,40 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A4020,Y1,180108*,Cytotoxic and cytostatic medicines,H6.2,2.91,-,ES,D10,,Andorra,2017
+1,A4010,Y3,"200132,180109,180208",Expired medicines,,5.965,-,ES,D9,,Andorra,2017
+2,A4030,Y4,"200115*,060201*,060203*,060204*,060205*","Agrochemicals, pesticides and derivatives","H6.1,H13",0.166,-,ES,"D15,D10",,Andorra,2017
+3,A3020,Y8,1302XX,Mineral oils,H12,223.36,-,ES,,R9,Andorra,2017
+4,A4060,Y9,160708*,Waste containing hydrocarbons,H3,158.72,-,ES,,R3,Andorra,2017
+5,,Y9,190205*,sludges from physico/chemical treatment containing dangerous substances,H13,47.24,-,ES,D5,,Andorra,2017
+6,A4060,Y9,190207*,Oils and concentrates of Tanks,H3,386.0,-,ES,,R3,Andorra,2017
+7,A4130,Y12,150110*,contaminated packaging,H13,34.411,-,ES,"D15,D10","R13,R3,R4",Andorra,2017
+8,A4070,Y12,080317*,Toners,H3,6.028,-,ES,"D15,D5","R13,R3",Andorra,2017
+9,A3050,Y13,"070216*,080409*",Adhesives and silicones,"H11,H3",0.586,-,ES,"D15,D10",,Andorra,2017
+10,A4070,Y12,080312*,Printing inks,H3,2.343,-,ES,"D9,D15,D10",,Andorra,2017
+11,"A3050,A4070","Y12,Y13,Y18","200127*,080111*,080119*","Paintings, inks, adhesives and resins","H3,H11,H13",40.5,-,ES,"D9,D15,D10","R13,R12,R1",Andorra,2017
+12,A4140,Y16,"090101*,090102*,090103*,090104*,090105*",Photographic waste,"H3,H11,H13",3.1,-,ES,D9,,Andorra,2017
+13,,Y16,90107.090108000004,photolits,,1.341,-,ES,"D15,D5",,Andorra,2017
+14,A4140,Y18,200129*,Detergents,"H8,H13",2.129,-,ES,D9,,Andorra,2017
+15,A4140,Y18,150202*,Absorbents and filtration materials,H13,32.759,-,ES,"D5,D15,D10","R13,R3",Andorra,2017
+16,,Y18,170503*,Contaminated land,H13,6.92,-,ES,D5,,Andorra,2017
+17,A4110,Y18,161105*,Waste of refractory material,H12,18.96,-,ES,D5,,Andorra,2017
+18,A4030,Y18,120109*,Taladrina and other emulsions and dissolutions of mechanization,H13,3.724,-,ES,D9,,Andorra,2017
+19,A4140,Y35,160507*,Dangerous dust extinguisher,H13,11.632,-,ES,D9,,Andorra,2017
+20,A1180,Y29,200121*,Fluorescent tubes and tubes,H12,8.942,-,ES,,R4,Andorra,2017
+21,A1180,Y29,200121*,Light bulbs,H12,1.1,-,ES,,R4,Andorra,2017
+22,A1030,Y29,200133*,Batteries,H12,6.0,-,ES,,R4,Andorra,2017
+23,A1160,Y31,160601*,Batteries,H8,178.72,-,ES,,"R4,R6",Andorra,2017
+24,A4090,Y34,"200114*,060101*,060102*,060103*,060104*,060105*,060106*",Acids and acidic aqueous solutions,,0.566,-,ES,D9,,Andorra,2017
+25,,Y34,"160506*,160507*,160508*,160509",Reactive laboratories ,,2.856,-,ES,"D9,D15,D10",,Andorra,2017
+26,A4090,Y35,"200115*,060201*,060203*,060204*,060205*","Bases, alkalis and basic aqueous solutions",,1.19,-,ES,D9,,Andorra,2017
+27,A2050,Y36,"160111*,170601*,170605*",Asbests,H11,28.14,-,ES,D1,,Andorra,2017
+28,A3150,Y41,"140602*,140604*,200113*",Halogenated solvents,"H3,H13",1.379,-,ES,"D15,D10","R13,R2",Andorra,2017
+29,A3140,Y42,"140603*,200113*,140605*",Non-halogenated solvents and other similar waste,"H3,H13",10.564,-,ES,"D15,D10","R13,R2",Andorra,2017
+30,A3140,Y42,160113*,Brake fluids,H13,0.753,-,ES,"D15,D10",,Andorra,2017
+31,A3140,Y42,160114*,Hazardous antifreeze,H13,10.759,-,ES,"D15,D10",,Andorra,2017
+32,A1180,Y45,160211*,"Equipment containing CFC, HCFC, HFCs",,3.3,-,ES,,R13,Andorra,2017
+33,A1180,"Y45,Y21",200123*,Refrigerators,H13,139.657,-,ES,,R13,Andorra,2017
+34,A4140,Y45,140601*,"Coolant gases (chlorofluorocarbons, HCFC, HFC)",H13,0.806,-,ES,,R13,Andorra,2017
+35,A4130,"Y13,Y18,Y35,Y45","160504*,150111*",Aerosols and gases in pressure containers,,9.149,-,ES,,"R13,R4,R3,R1",Andorra,2017
+36,A1180,"Y20,Y22,Y25,Y27,Y29,Y31,Y45",200135*,RAEE,H12,134.87,-,ES,,R4,Andorra,2017
+37,Y47,,190113*,Ashes,H12,1068.2,-,ES,D5,,Andorra,2017
+38,Y47,,190113*,Ashes,H12,211.6,-,FR,D5,,Andorra,2017

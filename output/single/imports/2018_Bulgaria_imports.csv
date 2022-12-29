@@ -1,0 +1,53 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_origin,annex_4_a_code,annex_4_b_code,country,year
+0,A1120,Y31,10 04 02*,lead dross,H6.1,669.88,"BE,GR,PT,TR",NL,,R4,Bulgaria,2018
+1,A1020,Y31,10 04 05*,lead dust,H12,915.48,RS,HR,,R4,Bulgaria,2018
+2,A1020,Y31,10 04 01*,slags from primary and secondary production,H12,1560.48,,RS,,"R4,R12",Bulgaria,2018
+3,A1020,Y31,10 04 01*,slags from primary and secondary production,H12,1027.7,,RO,,R4,Bulgaria,2018
+4,A1020,Y31,10 04 01*,slags from primary and secondary production,H12,269.53,,GR,,R4,Bulgaria,2018
+5,A1020,Y31,19 12 11*,lead paste,H12,1482.6,TR,DZ,,R4,Bulgaria,2018
+6,A1020,Y31,19 12 11*,lead paste,H12,2947.656,,RO,,R4,Bulgaria,2018
+7,A1080,Y23,10 05 10*,zinc dust,H4.3,45.437,"BE,GR,PT,TR",NL,,R4,Bulgaria,2018
+8,A1080,"Y23,Y31",19 02 05*,zinc cake,H12,65.32,"BE,GR,PT,TR",NL,,R4,Bulgaria,2018
+9,A1160,Y31,16 06 01*,spent lead-acid baterries,H8,9944.16,,RO,,R4,Bulgaria,2018
+10,A1160,Y31,16 06 01*,spent lead-acid baterries,H8,283.347,"BE,GR,PT,TR",NL,,R4,Bulgaria,2018
+11,A1160,Y31,16 06 01*,spent lead-acid baterries,H8,1052.137,"HU,RO,SK",CZ,,"R4,R5,R12",Bulgaria,2018
+12,A1160,Y31,16 06 01*,spent lead-acid baterries,H8,948.233,,MK,,R4,Bulgaria,2018
+13,A1160,Y31,16 06 01*,spent lead-acid baterries,H8,187.233,"HU,RO",AT,,R4,Bulgaria,2018
+14,A1160,Y31,16 06 01*,spent lead-acid baterries,H8,2208.306,GR,IT,,"R4,R5,R12",Bulgaria,2018
+15,A1160,Y31,16 06 01*,spent lead-acid batteries,H8,94.5,"HR,RS,SI",IT,,R4,Bulgaria,2018
+16,A1160,Y31,16 06 01*,spent lead-acid batteries,H8,2074.5,"HR,RS,SI",IT,,"R4,R12",Bulgaria,2018
+17,A1160,Y31,16 06 01*,spent lead-acid batteries,H8,1375.029,"HU,RO",SI,,R4,Bulgaria,2018
+18,A1160,Y31,16 06 01*,spent lead-acid batteries,H8,112.84,,MK,,R4,Bulgaria,2018
+19,A3020,Y8,12 01 07*,waste mineral oils,H3,9.928,,RO,,R9,Bulgaria,2018
+20,A3020,Y8,12 01 10*,waste mineral oils,H3,13.882,,RO,,R9,Bulgaria,2018
+21,A3020,Y8,13 01 10*,waste mineral oils,H3,100.666,,RO,,R9,Bulgaria,2018
+22,A3020,Y8,13 01 13*,waste mineral oils,H3,31.022,,RO,,R9,Bulgaria,2018
+23,A3020,Y8,13 02 05*,waste mineral oils,H3,376.76,,RO,,R9,Bulgaria,2018
+24,A3020,Y8,13 02 06*,waste mineral oils,H3,755.12,,RO,,R9,Bulgaria,2018
+25,A3020,Y8,13 02 08*,waste mineral oils,H3,411.094,,RO,,R9,Bulgaria,2018
+26,A3020,Y8,13 03 07*,waste mineral oils,H3,40.726,,RO,,R9,Bulgaria,2018
+27,A3020,Y8,13 05 06*,waste mineral oils,H3,27.936,,RO,,R9,Bulgaria,2018
+28,A3020,Y8,13 02 05*,waste mineral oils,H3,794.4,"AT,BE,FR,DE,HU,RO",GB,,R9,Bulgaria,2018
+29,A3020,Y8,13 02 05*,waste mineral oils,H3,420.9,"AT,FR,DE,HU,RO",GB,,R9,Bulgaria,2018
+30,A3020,Y8,13 02 05*,waste mineral oils,H3,228.73,,RO,,R9,Bulgaria,2018
+31,A3020,Y8,13 02 05*,waste mineral oils,H3,153.28,RS,ME,,R9,Bulgaria,2018
+32,A3020,Y8,13 02 05*,waste mineral oils,H3,133.61,"AT,HR,RS,SI",CH,,R9,Bulgaria,2018
+33,A3020,Y8,13 01 10*,Mineral based non-chlorinated hydraulic oils,,16.81,,RS,,R9,Bulgaria,2018
+34,A3020,Y8,13 02 05*,"Mineral-based non-chlorinated engine, gear and lubricating oils",,114.13,,RS,,R9,Bulgaria,2018
+35,A3020,Y8,13 02 08*,"Other engine, gear and lubricating oils",,18.06,,RS,,R9,Bulgaria,2018
+36,A3020,Y8,13 03 10*,Other insulating and heat transmission oils,,2.62,,RS,,R9,Bulgaria,2018
+37,A3020,Y8,13 08 99*,Wastes not otherwise specified,,20.15,,RS,,R9,Bulgaria,2018
+38,A3020,Y8,19 02 07*,Oil and concentrates from separation,,24.27,,RS,,R9,Bulgaria,2018
+39,A4060,Y9,16 07 08*,waste containing oils,H12,2571.44,,GR,,R9,Bulgaria,2018
+40,A4100,Y23,10 02 07*,steel dust,H12,83.388,"BE,GR,PT,TR",NL,,R4,Bulgaria,2018
+41,A4100,Y23,10 02 07*,steel dust,H12,14107.03,,GR,,R4,Bulgaria,2018
+42,A4100,Y23,10 02 07*,steel dust,H12,3499.0,TR,FI,,R4,Bulgaria,2018
+43,A4100,Y23,10 02 07*,steel dust,H12,3945.2,TR,IL,,R4,Bulgaria,2018
+44,A4100,Y23,10 10 09*,zinc slag,,75.769,,RS,,R4,Bulgaria,2018
+45,Y46,,19 12 04,mixed plastics,,5069.52,"CZ,HU,RO,SK",DE,,R1,Bulgaria,2018
+46,,Y31,19 12 04*,polyethylene separators,H12,136.1,,RO,,"R3,R12",Bulgaria,2018
+47,Y46,,19 12 12,pretreated mixed waste,,4931.23,,IT,,"R3,R12",Bulgaria,2018
+48,Y46,,19 12 10,SRF,,44309.4,,GB,,R1,Bulgaria,2018
+49,Y46,,19 12 10,RDF,,16972.2,,IT,,R1,Bulgaria,2018
+50,Y46,,19 12 10,RDF,,29832.35,,IT,,"R12,R1",Bulgaria,2018
+51,Y46,,19 12 10,RDF,,2800.0,,IT,,"R12,R1",Bulgaria,2018

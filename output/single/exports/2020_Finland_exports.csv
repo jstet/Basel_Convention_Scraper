@@ -1,0 +1,109 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A4010,Y3, 20 01 32,"Wastes from the production, preparation and use of pharmaceutical products but excluding such wastes specified on list B",H12,132.34,,DE,D10,,Finland,2020
+1,A4010,Y3," 18 01 09, 20 01 32","Wastes from the production, preparation and use of pharmaceutical products but excluding such wastes specified on list B",H6.1,68.24,,SE,D10,,Finland,2020
+2,,Y5, 19 12 06*,Treated cork and wood wastes,H12,39964.75,,DE,,R1,Finland,2020
+3,,Y5, 17 02 04*,Treated cork and wood wastes,H12,4711.01,,SE,D10,,Finland,2020
+4,A2030,Y6, 16 08 07*,Waste catalysts but excluding such wastes specified on list B,H3,27.719,,DE,,R4,Finland,2020
+5,A2030,Y6, 16 08 02*,Waste catalysts but excluding such wastes specified on list B,"H4.2,H11,H12",375.926,,DE,,R4,Finland,2020
+6,A3020,Y8, 19 02 08*,Waste mineral oils unfit for their originally intended use,"H3,H12",2621.62,,EE,,R1,Finland,2020
+7,A4070,Y12, 19 12 11*,"Wastes from the production, formulation and use of inks, dyes, pigments, paints, lacquers, varnish excluding any such waste specified on list B (note the related entry on list B, B4010)",H3,275.46,,DE,D10,,Finland,2020
+8,A4070,Y12, 20 01 27*,"Wastes from the production, formulation and use of inks, dyes, pigments, paints, lacquers, varnish excluding any such waste specified on list B (note the related entry on list B, B4010)",H3,414.18,,DE,,R1,Finland,2020
+9,A4070,Y12," 08 01 11*, 20 01 27*","Wastes from the production, formulation and use of inks, dyes, pigments, paints, lacquers, varnish excluding any such waste specified on list B (note the related entry on list B, B4010)","H3,H4.1",323.39,SE,NO,,"R1,R12",Finland,2020
+10,A4070,Y12," 08 01 11*, 08 03 14*, 08 03 17*, 08 04 09*, 20 01 27*","Wastes from the production, formulation and use of inks, dyes, pigments, paints, lacquers, varnish excluding any such waste specified on list B (note the related entry on list B, B4010)",H4.1,283.06,,DE,D10,,Finland,2020
+11,A4070,Y12," 08 01 11*, 08 03 14*, 08 03 17*, 08 04 09*, 20 01 27*","Wastes from the production, formulation and use of inks, dyes, pigments, paints, lacquers, varnish excluding any such waste specified on list B (note the related entry on list B, B4010)",H4.1,518.32,,DE,,R1,Finland,2020
+12,A4080,Y15, 16 04 03*,Wastes of an explosive nature (but excluding such wastes specified on list B),"H1,H5.1",187.1,,SE,D10,,Finland,2020
+13,A1050,Y17, 11 01 09*,Galvanic sludges,"H11,H12",70.24,,DE,,R4,Finland,2020
+14,A1050,Y17," 11 01 09*, 11 01 10",Galvanic sludges,H12,46.124,,DE,,R4,Finland,2020
+15,,Y18, 16 01 07*,"Oil filters, used",H12,144.0,DE,DK,,R12,Finland,2020
+16,A4160,Y18, 07 04 09*,"Spent activated carbon not included on list B (note the related entry on list B, B2060)",H13,153.38,,BE,,R7,Finland,2020
+17,,Y18," 13 05 01*, 13 05 02*, 15 01 10*, 15 02 02*, 20 01 26*","Oil waste, solid","H4.1,H12",30.06,,SE,D10,,Finland,2020
+18,,Y18, 13 08 99*,"Oil waste, solid","H4.1,H12",24.34,,SE,D10,,Finland,2020
+19,A1070,Y18, 06 04 05*,"Leaching residues from zinc processing, dust and sludges such as jarosite, hematite, etc.",H6.1,8.0,,SE,,R12,Finland,2020
+20,,Y21, 16 07 08*,"Dross, scalings and other wastes from the iron and steel industry","H11,H12",430.77,,SE,,R4,Finland,2020
+21,A1020,Y22," 10 06 01, 10 06 02, 10 06 04, 10 06 99","Waste having as constituents or contaminants, excluding metal waste in massive form, any of the following: Antimony; antimony compounds, Beryllium; beryllium compounds, Cadmium; cadmium compounds, Lead; lead compounds, Selenium; selenium compounds,Tellurium, tellurium compounds",H11,129.72,NL,BE,,R4,Finland,2020
+22,A4100,Y23, 10 02 07*,Wastes from industrial pollution control devices for cleaning of industrial off-gases but excluding such wastes specified on list B,"H11,H12",21395.15,"SE,NL,BE",FR,,R4,Finland,2020
+23,A4100,Y23, 10 02 07*,Wastes from industrial pollution control devices for cleaning of industrial off-gases but excluding such wastes specified on list B,"H11,H12",2579.924,,PL,,R4,Finland,2020
+24,A4100,Y23, 10 02 07*,Wastes from industrial pollution control devices for cleaning of industrial off-gases but excluding such wastes specified on list B,"H11,H12",19637.33,,SE,,R4,Finland,2020
+25,A1170,Y23, 19 12 11*,Unsorted waste batteries excluding mixtures of only list B batteries.  Waste batteries not specified on list B containing Annex I constituents to an extent to render them hazardous.,"H6.1,H8,H12",1326.2,,PL,,R4,Finland,2020
+26,A1170,Y26, 16 06 02*,Unsorted waste batteries excluding mixtures of only list B batteries.  Waste batteries not specified on list B containing Annex I constituents to an extent to render them hazardous.,"H8,H11,H12",27.0,,SE,,R4,Finland,2020
+27,A1170,Y26, 16 06 02*,Unsorted waste batteries excluding mixtures of only list B batteries.  Waste batteries not specified on list B containing Annex I constituents to an extent to render them hazardous.,"H8,H11,H12",41.71,DE,US,,R4,Finland,2020
+28,A1030,Y29, 18 01 10*,"Wastes having as constituents or contaminants any of the following: Arsenic; arsenic compounds, Mercury; mercury compounds., Thallium; thallium compounds",H12,0.488,,DE,,R4,Finland,2020
+29,A1180,Y29," 20 01 35*, 20 01 36","Waste electrical and electronic assemblies or scrap containing components such as accumulators and other batteries included on list A, mercury-switches, glass from cathode-ray tubes and other activated glass and PCBcapacitors, or contaminated with Annex I constituents (e.g., cadmium, mercury, lead, polychlorinated biphenyl) to an extent that they possess any of the characteristics contained in Annex III (note the related entry on list B, B1110)",H12,483.1,,EE,,R12,Finland,2020
+30,A1030,Y29, 06 07 02*,"Wastes having as constituents or contaminants any of the following: Arsenic; arsenic compounds, Mercury; mercury compounds., Thallium; thallium compounds","H6.1,H11,H12",25.18,,DE,D12,,Finland,2020
+31,A1030,Y29, 17 09 01*,"Wastes having as constituents or contaminants any of the following: Arsenic; arsenic compounds, Mercury; mercury compounds., Thallium; thallium compounds","H6.1,H11,H12",361.2,,DE,D12,,Finland,2020
+32,A1030,Y29, 17 09 03*,"Wastes having as constituents or contaminants any of the following: Arsenic; arsenic compounds, Mercury; mercury compounds., Thallium; thallium compounds","H6.1,H11,H12",578.7,,DE,D12,,Finland,2020
+33,A1030,Y29, 18 01 10*,"Wastes having as constituents or contaminants any of the following: Arsenic; arsenic compounds, Mercury; mercury compounds., Thallium; thallium compounds","H6.1,H12",0.873,DE,AT,,R4,Finland,2020
+34,A1010,Y29, 16 03 07*,"Metal wastes and waste consisting of alloys of any of the following: Antimony, Arsenic, Beryllium, Cadmium, Lead, Mercury, Selenium, Tellurium, Thallium, but excluding such wastes specifically listed on list B.","H6.1,H8,H12",91.071,,DE,"D12,D9",,Finland,2020
+35,A1030,Y29, 20 01 21*,"Wastes having as constituents or contaminants any of the following: Arsenic; arsenic compounds, Mercury; mercury compounds., Thallium; thallium compounds",H8,3.963,,DE,,R12,Finland,2020
+36,A1020,Y31, 19 12 11*,"Waste having as constituents or contaminants, excluding metal waste in massive form, any of the following: Antimony; antimony compounds, Beryllium; beryllium compounds, Cadmium; cadmium compounds, Lead; lead compounds, Selenium; selenium compounds,Tellurium, tellurium compounds","H11,H12",3362.0,"DE,GR",IL,,R4,Finland,2020
+37,A1020,Y31, 19 12 11*,"Waste having as constituents or contaminants, excluding metal waste in massive form, any of the following: Antimony; antimony compounds, Beryllium; beryllium compounds, Cadmium; cadmium compounds, Lead; lead compounds, Selenium; selenium compounds,Tellurium, tellurium compounds","H11,H12",2290.0,"GR,DE",IL,,R4,Finland,2020
+38,A1020,Y31, 19 12 11*,"Waste having as constituents or contaminants, excluding metal waste in massive form, any of the following: Antimony; antimony compounds, Beryllium; beryllium compounds, Cadmium; cadmium compounds, Lead; lead compounds, Selenium; selenium compounds,Tellurium, tellurium compounds",H12,45.16,NL,BE,,R4,Finland,2020
+39,A1020,Y31, 10 04 02*,"Waste having as constituents or contaminants, excluding metal waste in massive form, any of the following: Antimony; antimony compounds, Beryllium; beryllium compounds, Cadmium; cadmium compounds, Lead; lead compounds, Selenium; selenium compounds,Tellurium, tellurium compounds","H6.1,H11,H12",79.46,,SE,,R4,Finland,2020
+40,A1160,Y31, 16 06 01*,"Waste lead-acid batteries, whole or crushed","H6.1,H8,H11,H12",7161.181,,EE,,R4,Finland,2020
+41,A1160,Y31, 16 06 01*,"Waste lead-acid batteries, whole or crushed","H6.1,H8,H11,H12",25.218,"EE,LV",LT,,R12,Finland,2020
+42,A1160,Y31, 16 06 01*,"Waste lead-acid batteries, whole or crushed","H6.1,H8,H11,H12",5085.349,,SE,,R4,Finland,2020
+43,A1180,Y31, 16 02 13*,"Waste electrical and electronic assemblies or scrap containing components such as accumulators and other batteries included on list A, mercury-switches, glass from cathode-ray tubes and other activated glass and PCBcapacitors, or contaminated with Annex I constituents (e.g., cadmium, mercury, lead, polychlorinated biphenyl) to an extent that they possess any of the characteristics contained in Annex III (note the related entry on list B, B1110)",H12,19.2,,DE,,R4,Finland,2020
+44,A4090,"Y31,Y34", 16 06 06*,"Waste acidic or basic solutions, other than those specified in the corresponding entry on list B (note the related entry on list B, B2120)","H6.1,H8,H11,H12",287.92,,SE,D9,,Finland,2020
+45,A4090,Y34, 11 01 05*,"Waste acidic or basic solutions, other than those specified in the corresponding entry on list B (note the related entry on list B, B2120)",H8,81.18,,SE,D9,,Finland,2020
+46,A4140,Y35, 16 05 07*,Waste consisting of or containing off-specification or out-dated chemicals corresponding to Annex I categories and exhibiting Annex III hazard characteristics,"H3,H8,H12",0.85,,DK,,R5,Finland,2020
+47,A2030,Y42, 16 08 07*,Waste catalysts but excluding such wastes specified on list B,H12,3.0,BE,GB,,R8,Finland,2020
+48,A3140,Y42, 07 07 04*,Waste non-halogenated organic solvents but excluding such wastes specified on list B,"H3,H6.1,H11",1067.3,,BE,,R2,Finland,2020
+49,A1180,Y45, 20 01 23*,"Waste electrical and electronic assemblies or scrap containing components such as accumulators and other batteries included on list A, mercury-switches, glass from cathode-ray tubes and other activated glass and PCBcapacitors, or contaminated with Annex I constituents (e.g., cadmium, mercury, lead, polychlorinated biphenyl) to an extent that they possess any of the characteristics contained in Annex III (note the related entry on list B, B1110)",H12,286.76,,SE,,R12,Finland,2020
+50,A1180,Y45, 20 01 23*,"Waste electrical and electronic assemblies or scrap containing components such as accumulators and other batteries included on list A, mercury-switches, glass from cathode-ray tubes and other activated glass and PCBcapacitors, or contaminated with Annex I constituents (e.g., cadmium, mercury, lead, polychlorinated biphenyl) to an extent that they possess any of the characteristics contained in Annex III (note the related entry on list B, B1110)",H12,6364.439,,SE,,"R3,R4",Finland,2020
+51,,," 10 02 10, 12 01 02","Dross, scalings and other wastes from the iron and steel industry",H11,2158.9,,IS,,R4,Finland,2020
+52,,," 10 02 10, 12 01 02","Dross, scalings and other wastes from the iron and steel industry",H11,2997.7,SE,IS,,R4,Finland,2020
+53,,," 10 02 10, 12 01 02","Dross, scalings and other wastes from the iron and steel industry",H11,2500.8,,SE,,R4,Finland,2020
+54,,, 10 02 11*,"Dross, scalings and other wastes from the iron and steel industry","H11,H12",2838.16,"SE,NL,BE",FR,,R4,Finland,2020
+55,,," 10 02 10, 10 02 11*, 12 01 02","Dross, scalings and other wastes from the iron and steel industry","H11,H12",283.72,,SE,,R4,Finland,2020
+56,,," 10 02 10, 10 02 11*, 12 01 02, 12 01 99","Dross, scalings and other wastes from the iron and steel industry","H11,H12",1607.18,,SE,,R4,Finland,2020
+57,,, 10 02 11*,"Dross, scalings and other wastes from the iron and steel industry","H11,H12",1143.9,,SE,,R4,Finland,2020
+58,,, 12 01 02,"Dross, scalings and other wastes from the iron and steel industry","H11,H12",850.48,,SE,,R4,Finland,2020
+59,A2030,, 16 08 07*,Waste catalysts but excluding such wastes specified on list B,H12,2.006,,DE,,R4,Finland,2020
+60,A1180,," 20 01 35*, 20 01 36","Waste electrical and electronic assemblies or scrap containing components such as accumulators and other batteries included on list A, mercury-switches, glass from cathode-ray tubes and other activated glass and PCBcapacitors, or contaminated with Annex I constituents (e.g., cadmium, mercury, lead, polychlorinated biphenyl) to an extent that they possess any of the characteristics contained in Annex III (note the related entry on list B, B1110)",H4.2,0.1,,EE,,R12,Finland,2020
+61,A2030,, 16 08 02*,Waste catalysts but excluding such wastes specified on list B,"H4.2,H11,H12",87.44,DE,BE,,R8,Finland,2020
+62,A2030,, 16 08 02*,Waste catalysts but excluding such wastes specified on list B,"H4.2,H11,H12",839.323,"DE,BE",NL,,R8,Finland,2020
+63,,, 10 03 08*,Aluminium slag,H4.3,4820.57,,DE,,"R4,R5",Finland,2020
+64,,, 10 03 15*,Unclassified;  Aluminium skimmings,H4.3,341.0,,DE,,R4,Finland,2020
+65,,," 10 02 02, 12 01 02","Dross, scalings and other wastes from the iron and steel industry","H6.1,H11",411.346,,SE,,R4,Finland,2020
+66,A2030,, 16 08 02*,Waste catalysts but excluding such wastes specified on list B,"H6.1,H11,H12",4118.38,DE,AT,,R8,Finland,2020
+67,A2030,, 16 08 07*,Waste catalysts but excluding such wastes specified on list B,"H4.1,H12",1.731,,DE,,R4,Finland,2020
+68,,, 15 01 02,"Unclassified. Plastic packaging, Y46",H_,4957.73,,DE,,"R12,R3",Finland,2020
+69,,, 20 03 01,"Domestic waste, Y46",H_,20673.81,,EE,,R1,Finland,2020
+70,,, 20 03 01,"Domestic waste, Y46",H_,30994.722,,SE,,R1,Finland,2020
+71,,, 15 01 02,"Unclassified, plastic packaging, Y46",H_,3013.83,,SE,,R3,Finland,2020
+72,,, 15 01 02,"Unclassified, plastic packaging waste from households, Y46",H_,21.4,,SE,,R3,Finland,2020
+73,,, 19 10 02,NFR non-ferrous metal fraction from shredder operation,H_,159.14,,DE,,R4,Finland,2020
+74,,, 19 10 06,"Unclassified,polystyrene fraction from shredding of cooling appliances",H_,205.78,,DE,,"R3,R4",Finland,2020
+75,,, 19 10 06,Unclassified; polystyrene fraction from shredding of cooling appliances,H_,19.58,,DE,,"R3,R4",Finland,2020
+76,,, 19 12 03,"Unclassified, non-ferrous metal concentrate",H_,118.4,SE,DK,,R12,Finland,2020
+77,,, 17 09 04,Construction and demolition waste,H_,28245.106,,EE,,R12,Finland,2020
+78,,, 17 09 04,Construction and demolition waste,H_,2620.88,,EE,,"R12,R5",Finland,2020
+79,,, 20 03 01,Mixed municipal waste from commercial origin,H_,12266.02,,EE,,R1,Finland,2020
+80,,, 19 12 10,RDF Refuse derived fuel,H_,5818.25,,EE,,R1,Finland,2020
+81,,, 06 08 99,"Unclassified, exhausted slicing slurry",H_,213.54,"NL,DE,CH",IT,,R5,Finland,2020
+82,,, 16 02 16,"Unclassified, mixed wee plastics",H_,359.58,"EE,LV",LT,,R12,Finland,2020
+83,A1180,, 16 02 13*,"Waste electrical and electronic assemblies or scrap containing components such as accumulators and other batteries included on list A, mercury-switches, glass from cathode-ray tubes and other activated glass and PCBcapacitors, or contaminated with Annex I constituents (e.g., cadmium, mercury, lead, polychlorinated biphenyl) to an extent that they possess any of the characteristics contained in Annex III (note the related entry on list B, B1110)",H_,38.251,"EE,LV",LT,,"R3,R4",Finland,2020
+84,,, 19 12 03,"Unclassified, non-ferrous metal concentrate",H_,142.58,,NL,,"R12,R4",Finland,2020
+85,,, 19 12 03,"Unclassified, non-ferrous metal concentrate",H_,1167.4,,NL,,R4,Finland,2020
+86,,, 19 12 03,"Unclassified, non-ferrous metal concentrate",H_,481.16,BE,NL,,"R4,R5",Finland,2020
+87,,, 19 12 03,"Unclassified, non-ferrous metal concentrate",H_,1402.01,DE,NL,,"R12,R4",Finland,2020
+88,,, 19 12 03,"Unclassified, non-ferrous metal concentrate extracted from MSWI slags",H_,292.88,,NL,,R4,Finland,2020
+89,,, 19 12 03,Unclassified; non-ferrous metal concentrate extracted from waste incineration slags,H_,146.14,,NL,,R4,Finland,2020
+90,,, 19 12 03,Unclassified; Non-ferrous metal concentrate from bottom ashes,H_,799.6,BE,NL,,"R12,R5",Finland,2020
+91,A1030,, 17 04 09*,"Wastes having as constituents or contaminants any of the following: Arsenic; arsenic compounds, Mercury; mercury compounds., Thallium; thallium compounds",H_,606.0,,NL,,R4,Finland,2020
+92,,, 19 10 04,Fluff - light fraction from shredding,H_,2859.05,,SE,,R1,Finland,2020
+93,,, 19 10 04,Fluff - light fraction from shredding,H_,3100.0,,SE,,"R1,R4",Finland,2020
+94,,," 19 12 10, 19 12 12, 20 03 01",Mixed municipal waste from commercial origin,H_,10159.59,,SE,,R1,Finland,2020
+95,,, 20 03 01,Mixed municipal waste from commercial origin,H_,21061.2,,SE,,R1,Finland,2020
+96,,, 19 10 02,NFR non-ferrous metal fraction from shredder operation,H_,17025.522,,SE,,"R1,R4",Finland,2020
+97,,, 19 12 10,RDF Refuse derived fuel,H_,15142.75,,SE,,R1,Finland,2020
+98,,," 19 12 10, 19 12 12",RDF Refuse derived fuel,H_,1838.5,,SE,,R1,Finland,2020
+99,,, 20 03 04,Sewage sludge,H_,201.3,,SE,,R3,Finland,2020
+100,,," 20 03 04, 20 03 06",Sewage sludge,H_,350.8,,SE,,R3,Finland,2020
+101,,, 20 01 38,Treated cork and wood wastes,H_,388.68,,SE,,R12,Finland,2020
+102,,, 20 03 07,"Unclassified - skrymmande blandavfall stoppade möbler, utemöbler, heltäckningsmattor",H_,19.44,,SE,,R12,Finland,2020
+103,,, 19 12 10,"Unclassified, burnable fractions from commercial origin",H_,194.88,,SE,,R1,Finland,2020
+104,,, 19 12 10,"Unclassified, crushed mixed waste from commercial origin",H_,1482.27,,SE,,R1,Finland,2020
+105,,, 19 12 12,"Unclassified, sorted construction waste",H_,1966.21,,SE,,R1,Finland,2020
+106,B4010,," 08 01 12, 20 01 28","Wastes consisting mainly of water-based/latex paints, inks and hardened varnishes not containing organic solvents, heavy metals or biocides to an extent to render them hazardous (note the related entry on list A, A4070)",H_,285.46,,SE,D10,,Finland,2020
+107,A4070,," 08 01 12, 20 01 28","Wastes from the production, formulation and use of inks, dyes, pigments, paints, lacquers, varnish excluding any such waste specified on list B (note the related entry on list B, B4010)",H_,329.79,,SE,D10,,Finland,2020

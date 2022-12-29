@@ -1,0 +1,60 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_origin,annex_4_a_code,annex_4_b_code,country,year
+0,A1120,Y31,10 04 02*,lead dross,H6.1,784.17,"BE,GR,PT,TR",NL,,R4,Bulgaria,2019
+1,A1020,Y31,10 04 05*,lead dust,H12,499.58,RS,HR,,R4,Bulgaria,2019
+2,A1020,Y31,10 04 01*,slags from primary and secondary production,H12,1461.04,,RS,,R4,Bulgaria,2019
+3,A1020,Y31,10 04 01*,slags from primary and secondary production,H12,1102.212,,RO,,R4,Bulgaria,2019
+4,A1020,Y31,10 04 01*,slags from primary and secondary production,H12,820.38,,GR,,R4,Bulgaria,2019
+5,A1020,Y31,06 04 05*,lead waste and scrap,H12,1500.782,"MY,SG,EG,TR",AU,,R4,Bulgaria,2019
+6,A1020,Y31,11 01 98*,lead ashes,H12,288.801,"HU,RO",SK,,R4,Bulgaria,2019
+7,A1020,Y31,19 12 11*,lead paste,H12,7166.98,TR,DZ,,R4,Bulgaria,2019
+8,A1020,Y31,19 12 11*,lead paste,H12,428.386,,RO,,R4,Bulgaria,2019
+9,A1020,Y31,19 12 11*,lead paste,H12,2741.43,"HR,RS,SI",IT,,R4,Bulgaria,2019
+10,A1020,Y31,19 12 11*,lead paste,H12,1996.52,"HR,RS,SI",IT,,R4,Bulgaria,2019
+11,A1080,Y23,10 05 10*,zinc dust,H4.3,626.575,"GR,PT,TR",BE,,R4,Bulgaria,2019
+12,A1080,,10 05 03*,zinc cake,H12,955.33,"GR,PT,TR",BE,,R4,Bulgaria,2019
+13,A1160,Y31,16 06 01*,spent lead-acid batteries,H8,7672.089,,RO,,R4,Bulgaria,2019
+14,A1160,Y31,16 06 01*,spent lead-acid batteries,H8,1885.5,,RO,,"R4,R5,R12",Bulgaria,2019
+15,A1160,Y31,16 06 01*,spent lead-acid batteries,H8,2528.108,"BE,GR,PT,TR",NL,,R4,Bulgaria,2019
+16,A1160,Y31,16 06 01*,spent lead-acid batteries,H8,1124.691,"HU,RO,SK",CZ,,"R4,R5,R12",Bulgaria,2019
+17,A1160,Y31,16 06 01*,spent lead-acid batteries,H8,854.026,,MK,,"R4,R5,R12",Bulgaria,2019
+18,A1160,Y31,16 06 01*,spent lead-acid batteries,H8,2888.009,RO,HU,,"R4,R5,R12",Bulgaria,2019
+19,A1160,Y31,16 06 01*,spent lead-acid batteries,H8,300.6,"HU,RO",AT,,"R4,R5,R12",Bulgaria,2019
+20,A1160,Y31,16 06 01*,spent lead-acid batteries,H8,4355.214,GR,IT,,"R4,R5,R12",Bulgaria,2019
+21,A1160,Y31,16 06 01*,spent lead-acid batteries,H8,3949.788,"HR,RS,SI",IT,,"R4,R5,R12",Bulgaria,2019
+22,A1160,Y31,16 06 01*,spent lead-acid batteries,H8,1750.634,,RO,,"R4,R5,R12",Bulgaria,2019
+23,A1160,Y31,16 06 01*,spent lead-acid batteries,H8,1213.106,"HU,RO",SK,,"R4,R5,R12",Bulgaria,2019
+24,A1160,Y31,16 06 01*,spent lead-acid batteries,H8,139.224,,MK,,"R4,R5,R12",Bulgaria,2019
+25,A3020,Y8,12 01 07*,waste mineral oils,H3,45.478,,RO,,R9,Bulgaria,2019
+26,A3020,Y8,13 01 10*,waste mineral oils,H3,51.89,,RO,,R9,Bulgaria,2019
+27,A3020,Y8,13 02 05*,waste mineral oils,H3,223.442,,RO,,R9,Bulgaria,2019
+28,A3020,Y8,13 02 06*,waste mineral oils,H3,728.82,,RO,,R9,Bulgaria,2019
+29,A3020,Y8,13 02 08*,waste mineral oils,H3,696.07,,RO,,R9,Bulgaria,2019
+30,A3020,Y8,13 05 06*,waste mineral oils,H3,65.6,,RO,,R9,Bulgaria,2019
+31,A3020,Y8,16 07 08*,waste mineral oils,H3,129.86,,RO,,R9,Bulgaria,2019
+32,A3020,Y8,13 02 05*,waste mineral oils,H3,96.94,,MK,,R9,Bulgaria,2019
+33,A3020,Y8,13 02 05*,waste mineral oils,H3,1041.0,"AT,FR,DE,HU,RO",GB,,R9,Bulgaria,2019
+34,A3020,Y8,13 02 05*,waste mineral oils,H3,498.6,"AT,FR,DE,HU,RO",GB,,R9,Bulgaria,2019
+35,A3020,Y8,13 02 05*,waste mineral oils,H3,152.78,RO,HU,,R9,Bulgaria,2019
+36,A3020,Y8,13 02 05*,waste mineral oils,H3,154.92,RS,ME,,R9,Bulgaria,2019
+37,A3020,Y8,13 02 05*,waste mineral oils,H3,47.45,"AT,HR,RS,SI",CH,,R9,Bulgaria,2019
+38,A3020,Y8,19 02 07*,Oil and concentrates from separation,,45.36,,RS,,R9,Bulgaria,2019
+39,A4060,Y9,16 07 08*,waste containing oils,H12,3149.24,,GR,,R9,Bulgaria,2019
+40,A4100,Y23,10 02 07*,steel dust,H12,409.55,"BE,GR,PT,TR",NL,,R4,Bulgaria,2019
+41,A4100,Y23,10 02 07*,steel dust,H12,7166.98,,GR,,R4,Bulgaria,2019
+42,A4100,Y23,10 02 07*,steel dust,H12,4727.8,TR,FI,,R4,Bulgaria,2019
+43,A4100,Y23,10 02 07*,steel dust,H12,1913.08,TR,IL,,R4,Bulgaria,2019
+44,A4100,Y23,10 10 09*,zinc slag,,74.568,,RS,,R4,Bulgaria,2019
+45,Y46,,19 12 01,waste paper ,,12683.87,"CZ,HU,RO,SK",DE,,R3,Bulgaria,2019
+46,Y46,,19 12 04,mixed plastics,,6617.04,"CZ,HU,RO,SK",DE,,R3,Bulgaria,2019
+47,Y46,,19 12 04,mixed plastics,,1752.98,"CZ,HU,RO,SK",DE,,R1,Bulgaria,2019
+48,A1020,Y31,19 12 04*,polyethylene separators,H12,1059.02,,RO,,"R3,R12",Bulgaria,2019
+49,A1020,Y31,19 12 11*,polyethylene separators,H12,359.198,,RS,,"R3,R12",Bulgaria,2019
+50,Y46,,19 12 12,pretreated mixed waste,,4038.95,,IT,,"R3,R12",Bulgaria,2019
+51,Y46,,19 12 12,pretreated mixed waste,,8398.14,,IT,,"R12,R1",Bulgaria,2019
+52,Y46,,19 12 10,RDF,,4545.38,,IT,,"R12,R1",Bulgaria,2019
+53,Y46,,19 12 10,SRF,,17643.02,,GB,,R1,Bulgaria,2019
+54,Y46,,19 12 10,SRF,,12496.14,,GB,,R1,Bulgaria,2019
+55,Y46,,19 12 10,RDF,,37053.01,,IT,,R1,Bulgaria,2019
+56,Y46,,19 12 10,RDF,,64451.44,,GB,,R1,Bulgaria,2019
+57,Y46,,19 12 10,RDF,,1182.66,,IT,,"R12,R1",Bulgaria,2019
+58,Y46,,19 12 10,RDF,,1752.184,"SI,HR,RS",IT,,R1,Bulgaria,2019

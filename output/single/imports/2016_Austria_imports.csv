@@ -1,0 +1,199 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_origin,annex_4_a_code,annex_4_b_code,country,year
+0,A4100,,10 12 09*,off-gas cleaning residues,H12,899.23,-,IT,D1,,Austria,2016
+1,A2030,,16 08 02*,spent catalysts,H11,1650.925,DE,BE,,R8,Austria,2016
+2,A2030,,16 08 02*,spent catalysts,H4.2,4388.98,"RO,HU",BG,,R8,Austria,2016
+3,A2030,,16 08 02*,spent catalysts,H6.1,4121.09,DE,FI,,R8,Austria,2016
+4,A2030,,16 08 02*,spent catalysts,H6.1,3127.886,,SK,,R8,Austria,2016
+5,A2030,,16 08 02*,spent catalysts,H4.2,5899.917,CZ,PL,,R4,Austria,2016
+6,A4140,,16 05 06*,chemicals,H8,47.849,SI,HR,D9,,Austria,2016
+7,A1180,,16 02 13*,WEEEs,H13,9797.804,,DE,,R4,Austria,2016
+8,,,16 05 07*,pyrophoric magnesium,H4.1,0.66,-,DE,,R4,Austria,2016
+9,A4140,,10 01 04*,V-bearing fly ash,H6.1,314.114,DE,NL,,R4,Austria,2016
+10,A4010,Y2,07 05 08*,production waste,H6.1,22.38,"HR,SI",BA,D10,,Austria,2016
+11,A4010,Y2,07 05 08*,production waste,H3,121.88,SI,HR,D10,,Austria,2016
+12,A4010,Y2,07 05 13*,production waste,H11,185.36,"HR,SI",RS,D10,,Austria,2016
+13,A4030,Y4,02 01 08*,chemicals,H6.1,68.5,SI,HR,D10,,Austria,2016
+14,A4030,Y4,20 01 19*,pesticides,H12,41.34,SI,HR,D10,,Austria,2016
+15,A4030,Y4,07 04 13*,production waste,H3,77.82,"HR,SI",RS,D10,,Austria,2016
+16,A4030,Y4,06 13 01*,pesticides,H6.1,53.54,"HR,SI",RS,D10,,Austria,2016
+17,A3150,Y6,19 02 08*,pre-mixed liquid waste,H3,314.68,SI,HR,D10,,Austria,2016
+18,A3020,Y8,13 02 05*,waste oil,H12,73.46,,SI,,R1,Austria,2016
+19,A3020,Y8,13 02 05*,waste oil,H13,881.34,,SI,,R13,Austria,2016
+20,A3020,Y8,19 02 07*,waste oil,H13,636.54,,SI,,R13,Austria,2016
+21,A3020,Y8,19 02 07*,waste oil,H12,25.68,,SI,,R1,Austria,2016
+22,A3020,Y8,19 02 07*,waste oil,H12,51.05,,SK,,R1,Austria,2016
+23,A3020,Y8,19 02 08*,waste oil,H12,47.44,,IT,,R1,Austria,2016
+24,A4130,Y8,15 01 10*,contaminated packaging,H12,25.04,"HR,SI",RS,D10,,Austria,2016
+25,A4140,Y8,06 06 02*,sludge,H3,54.96,"HR,SI",RS,D10,,Austria,2016
+26,A4060,Y8,13 04 03*,oil-water mixtures,H12,209.8,,SI,D10,,Austria,2016
+27,A4060,Y8,13 04 03*,oil-water mixtures,H12,45.6,,SI,D15,,Austria,2016
+28,,Y8,19 02 05*,oily sludge from C/P-treatment,H13,12.54,-,HU,D10,,Austria,2016
+29,A3020,Y8,13 01 11*,pre-mixed wastes,H13,98.96,"HR,SI",RS,D10,,Austria,2016
+30,A4060,Y9,13 05 07*,oil/water-mixtures,H13,387.15,-,DE,D9,,Austria,2016
+31,A4060,Y9,19 02 07*,oil/water-mixtures,H12,311.44,-,HU,D10,,Austria,2016
+32,A4060,Y9,12 01 12*,emulsions,H3,6.78,-,IT,D10,,Austria,2016
+33,A4060,Y9,12 01 09*,emulsions,H13,344.51,-,SI,,R3,Austria,2016
+34,A3180,Y10,13 03 01*,PCB-waste,H12,12.92,SI,HR,D10,,Austria,2016
+35,A3180,Y10,16 02 09*,PCB containing equipment,H12,5.8,-,SI,D10,,Austria,2016
+36,A1190,Y11,17 04 10*,tar containing cable,H13,97.87,-,CH,,R13,Austria,2016
+37,A1190,Y11,17 04 10*,tar containing cable,H13,89.66,-,DE,,R4,Austria,2016
+38,A4160,Y12,15 02 02*,activated carbon,H12,307.34,-,CZ,,R7,Austria,2016
+39,A4130,Y12,15 01 10*,packaging,H4.1,614.2,SI,HR,,R4,Austria,2016
+40,A4070,Y12,08 01 11*,paint,H4.1,0.7,-,IT,D10,,Austria,2016
+41,A4070,Y12,08 01 11*,paint,H3,419.58,"HR,SI",RS,D10,,Austria,2016
+42,A3050,Y13,08 04 09*,solvent containing sludge,H3,82.68,SI,HR,D10,,Austria,2016
+43,,Y16,09 01 01*,photo chemicals,H13,38.84,SI,HR,D9,,Austria,2016
+44,A1060,Y17,11 01 05*,etching solution,H8,271.35,LI,CH,,R5,Austria,2016
+45,A1050,Y17,11 01 09*,galvanic sludge,H13,52.14,-,CH,,R12,Austria,2016
+46,,Y17,12 01 18*,grinding sludge,H13,924.49,-,CH,,R4,Austria,2016
+47,A1060,Y17,11 01 05*,pickling solution,H8,49.36,-,CZ,,R4,Austria,2016
+48,,Y17,12 01 14*,metal bearing slude,H12,39.89,-,CZ,,R4,Austria,2016
+49,,Y17,16 03 03*,metal bearing residues,H12,9.0,-,DE,,R4,Austria,2016
+50,,Y17,06 03 13* ,metal bearing residues,H8,27.914,-,DE,,R4,Austria,2016
+51,A1060,Y17,11 01 05*,pickling solution,H8,287.97,-,DE,,R4,Austria,2016
+52,,Y17,12 01 14*,metal bearing slude,H13,10.728,-,DE,,R4,Austria,2016
+53,,Y17,12 01 18*,metal bearing sludge,H12,296.371,-,DE,,R4,Austria,2016
+54,,Y17,12 01 21 ,metal bearing sludge,H13,688.55,-,DE,,R4,Austria,2016
+55,A1060,Y17,11 01 05*,pickling solution,H8,91.211,-,DE,,R5,Austria,2016
+56,,Y17,12 01 14*,metal bearing slude,H12,140.845,DE,FR,,R4,Austria,2016
+57,,Y17,12 01 14*,metal bearing slude,H11,290.505,"BE,FR,DE",GB,,R4,Austria,2016
+58,A1060,Y17,11 01 05*,etching solution,H8,45.39,SI,HR,,R4,Austria,2016
+59,A1060,Y17,11 01 05*,etching solution,H8,194.64,-,HU,D9,,Austria,2016
+60,A1060,Y17,11 01 05*,pickling solution,H8,763.28,-,HU,,R4,Austria,2016
+61,A1060,Y17,11 01 05*,etching solution,H8,73.74,-,IT,,R4,Austria,2016
+62,,Y17,12 01 18*,metal bearing sludge,H13,137.99,-,LI,,R4,Austria,2016
+63,,Y17,12 01 14* ,metal bearing sludge,H12,292.331,DE,SE,,R4,Austria,2016
+64,A1060,Y17,11 01 05*,etching solution,H8,499.66,-,SI,,R4,Austria,2016
+65,A1050,Y17,11 01 09*,galvanic sludge,H13,300.0,-,SI,D15,,Austria,2016
+66,,Y18,19 02 09*,pre-mixed wastes,H4.1,586.41,-,SI,D15,,Austria,2016
+67,,Y18,17 05 03*,contaminated soil,H11,384.54,-,SI,D8,,Austria,2016
+68,,Y18,19 02 05*,sludge from C/P-treatment,H13,1808.92,-,SI,D9,,Austria,2016
+69,A4100,Y18,19 01 07*,fly ash,H13,793.6,-,SI,D9,,Austria,2016
+70,,Y18,16 10 01*,concentrates,H8,730.53,-,SI,D9,,Austria,2016
+71,,Y18,19 02 04*,pre-mixed wastes,H13,50.6,-,SI,,R1,Austria,2016
+72,,Y18,19 02 04*,pre-mixed wastes,H4.1,778.93,-,SI,,R11,Austria,2016
+73,,Y18,17 02 04*,railway sleepers,H11,1869.16,-,SI,,R1,Austria,2016
+74,,Y18,16 10 02,concentrates,H13,1114.86,-,SI,,R5,Austria,2016
+75,,Y18,19 12 11*,premixed wastes,H12,207.36,-,HU,D10,,Austria,2016
+76,,Y18,19 12 11*,premixed wastes,H12,43.42,"HR,SI",BA,D10,,Austria,2016
+77,,Y18,19 02 08*,premixed wastes,H3,209.94,"HR,SI",RS,D10,,Austria,2016
+78,,Y18,19 02 08*,premixed wastes,H12,78.88,"RS,HR,SI",MK,D10,,Austria,2016
+79,,Y18,19 02 04*,premixed wastes,H12,110.63,-,SI,D9,,Austria,2016
+80,,Y18,19 12 11*,premixed wastes,H12,192.24,"BA,HR,SI",ME,D10,,Austria,2016
+81,,Y18,19 02 04*,premixed wastes,H12,251.86,SI,HR,D10,,Austria,2016
+82,,Y18,19 12 11*,premixed wastes,H3,47.32,"HR,SI",BA,D10,,Austria,2016
+83,,Y18,19 12 11*,premixed wastes,H4.1,40.92,"HR,SI",BA,D10,,Austria,2016
+84,,Y18,19 02 04*,premixed wastes,H4.1,86.06,"RO,HU",BG,D10,,Austria,2016
+85,A1180,Y18,20 01 35*,WEEEs,H13,463.07,-,DE,,R3,Austria,2016
+86,,Y18,19 02 05*,sludge from C/P-treatment,H12,15.43,-,DE,,R4,Austria,2016
+87,,Y18,19 12 11*,premixed wastes,H4.1,527.16,SI,HR,D10,,Austria,2016
+88,,Y18,19 02 09*,premixed wastes,H12,330.56,SI,HR,D10,,Austria,2016
+89,A4130,Y18,15 01 10*,packaging,H12,12.68,SI,HR,D10,,Austria,2016
+90,,Y18,19 02 09*,premixed wastes,H12,35.34,SI,HR,D10,,Austria,2016
+91,,Y18,19 12 11*,premixed wastes,H4.1,1260.17,SI,HR,D10,,Austria,2016
+92,,Y18,12 01 12*,sludge,H4.1,108.12,SI,HR,D10,,Austria,2016
+93,,Y18,16 10 02*,aqueous solutions,H13,10.32,-,IT,D10,,Austria,2016
+94,,Y18,17 02 04*,impregnated wood,H11,6014.89,-,DE,,R3,Austria,2016
+95,,Y18,17 02 04*,impregnated wood,H11,392.38,-,DE,,R12,Austria,2016
+96,,Y18,17 02 04*,railway sleepers,H11,4844.13,-,IT,,R12,Austria,2016
+97,,Y18,19 02 04*,premixed wastes,H6.1,710.14,-,IT,D10,,Austria,2016
+98,,Y18,19 02 04*,premixed wastes,H3,608.97,-,IT,D10,,Austria,2016
+99,,Y18,19 02 04*,premixed wastes,H12,1874.02,-,IT,D10,,Austria,2016
+100,A3150,Y18,19 02 04*,premixed wastes,H3,23.2,-,IT,D10,,Austria,2016
+101,,Y18,19 02 04*,premixed wastes,H6.1,871.31,-,IT,D10,,Austria,2016
+102,,Y18,19 02 04*,premixed wastes,H12,493.21,-,IT,D10,,Austria,2016
+103,,Y18,19 02 04*,premixed wastes,H12,68.95,-,IT,D9,,Austria,2016
+104,,Y18,19 02 04*,premixed wastes,H12,920.83,-,IT,,R11,Austria,2016
+105,,Y18,19 03 04*,premixed wastes,H4.1,1197.68,-,IT,D10,,Austria,2016
+106,,Y18,19 03 04*,premixed wastes,H4.1,12147.57,-,IT,,R1,Austria,2016
+107,A3020,Y18,19 02 08*,waste oil,H12,70.9,-,IT,D10,,Austria,2016
+108,A3020,Y18,19 02 08*,waste oil,H12,161.26,-,IT,,R1,Austria,2016
+109,,Y18,19 02 09*,premixed wastes,H10,19.8,-,IT,D10,,Austria,2016
+110,,Y18,19 02 09*,premixed wastes,H4.1,842.99,-,IT,D10,,Austria,2016
+111,,Y18,19 02 09*,premixed wastes,H4.1,2999.42,-,IT,,R1,Austria,2016
+112,,Y18,15 01 10*,pretreated waste,H12,137.78,-,IT,,R4,Austria,2016
+113,A4130,Y18,15 01 10*,packaging,H12,24.72,-,IT,D10,,Austria,2016
+114,,Y18,19 01 11*,slag,H12,1577.64,-,IT,D1,,Austria,2016
+115,,Y18,19 12 11*,premixed wastes,H4.1,1091.06,-,IT,D10,,Austria,2016
+116,,Y18,19 12 11*,residues from waste treatment,H12,1661.02,-,IT,D9,,Austria,2016
+117,,Y18,19 12 11*,residues from waste treatment,H12,1101.95,-,IT,,R11,Austria,2016
+118,,Y18,19 12 11*,residues from waste treatment,H12,111.46,-,IT,,R4,Austria,2016
+119,,Y18,19 12 11*,residues from waste treatment,H12,1211.87,-,IT,,R12,Austria,2016
+120,,Y18,19 12 11*,contaminated plastics,H13,1674.57,-,SI,D10,,Austria,2016
+121,,Y18,19 03 04*,partly stabilized waste,H13,608.98,-,SI,D10,,Austria,2016
+122,,Y18,19 02 04*,premixed wastes,H3,858.58,-,SI,D10,,Austria,2016
+123,,Y18,19 02 04*,premixed wastes,H13,11840.94,-,SI,D10,,Austria,2016
+124,A4140,Y18,16 03 03*,chemicals,H3,88.1,"HR,SI",RS,D10,,Austria,2016
+125,A1180,Y18,16 02 15*,hazardous components,H12,77.0,"HR,SI",RS,D10,,Austria,2016
+126,,Y18,19 02 08*,premixed wastes,H3,69.38,"HR,SI",RS,D10,,Austria,2016
+127,A4140,Y21,16 05 06*,chemicals,H3,7.92,"HR,SI",BA,D10,,Austria,2016
+128,A4140,Y21,16 05 06*,chemicals,H3,25.76,SI,HR,D10,,Austria,2016
+129,A1020,Y22,10 06 02 ,dross,H13,3.04,-,CH,,R4,Austria,2016
+130,A1130,Y22,11 01 05*,etching solution,H8,258.62,-,CH,,R4,Austria,2016
+131,A4100,Y23,10 02 07*,steelmill dust,H11,17.8,SI,HR,D1,,Austria,2016
+132,A1020,Y24,10 06 03*,filter dust,H12,9.82,DE,US,,R4,Austria,2016
+133,A1030,Y29,18 01 10*,amalgam,H12,11.8,"BE,DE",CA,,R4,Austria,2016
+134,A1030,Y29,18 01 10*,amalgam,H12,0.841,-,CH,,R4,Austria,2016
+135,A1030,Y29,18 01 10*,amalgam,H12,1.79,-,CZ,,R4,Austria,2016
+136,A1030,Y29,18 01 10*,amalgam,H12,4.718,-,DE,,R4,Austria,2016
+137,A1030,Y29,18 01 10*,amalgam,H12,1.4,DE,FI,,R4,Austria,2016
+138,A1030,Y29,18 01 10*,amalgam,H12,5.0,DE,FR,,R4,Austria,2016
+139,A1030,Y29,18 01 10*,amalgam,H12,35.5,"GB,BE,DE",US,,R4,Austria,2016
+140,A1030,Y29,18 01 10*,amalgam,H12,27.2,"GB,BE,DE",US,,R13,Austria,2016
+141,A1030,Y29,18 01 10*,amalgam,H12,14.0,"NL,FR,DE",US,,R13,Austria,2016
+142,A1030,Y29,20 01 21*,fluorescent tubes,H12,16.03,-,SI,,R5,Austria,2016
+143,A1020,Y31,10 04 01*,slag,H11,1416.48,SI,HR,D9,,Austria,2016
+144,A1020,Y31,12 01 14*,lead sludge,H11,221.86,-,HU,,R4,Austria,2016
+145,A1160,Y31,16 06 01*,lead acid batteries,H8,23.06,"HR,SI",BA,,R4,Austria,2016
+146,A1160,Y31,16 06 01*,lead acid batteries,H8,1385.544,-,CH,,R13,Austria,2016
+147,A1160,Y31,16 06 01*,lead acid batteries,H8,254.041,-,DE,,R4,Austria,2016
+148,A1160,Y31,16 06 01*,lead acid batteries,H8,1061.899,SI,HR,,R4,Austria,2016
+149,A1160,Y31,16 06 01*,lead acid batteries,H8,2580.944,-,HU,,R4,Austria,2016
+150,A1160,Y31,16 06 01*,lead acid batteries,H8,1179.76,-,IT,,R4,Austria,2016
+151,A1160,Y31,16 06 01*,lead acid batteries,H8,39.75,SI,MT,,R4,Austria,2016
+152,A1180,Y31,20 01 35*,WEEEs,H13,486.38,-,SI,,R3,Austria,2016
+153,A4090,Y34,06 01 01*,various acids,H8,519.74,SI,HR,D9,,Austria,2016
+154,A4090,Y35,06 02 05*,alkalines,H8,15.54,-,IT,D10,,Austria,2016
+155,A2050,Y36,17 06 05*,asbestos cement,H11,22.4,-,IT,D1,,Austria,2016
+156,A4160,Y41,15 02 02*,activated carbon,H11,446.7,-,CZ,,R7,Austria,2016
+157,A3150,Y41,19 02 08*,solvet mixtures,H3,1557.0,SI,HR,D10,,Austria,2016
+158,A4160,Y41,15 02 02*,activated carbon,H11,409.54,-,DE,,R7,Austria,2016
+159,A3150,Y41,19 02 08*,solvent mixtures,H3,281.42,-,IT,D10,,Austria,2016
+160,A3150,Y41,19 02 08*,solvent mixtures,H3,5715.12,-,SI,D10,,Austria,2016
+161,A4130,Y42,16 05 04*,aerosol can,H3,10.24,-,CH,D10,,Austria,2016
+162,A4160,Y42,15 02 02*,activated carbon,H13,11.04,-,CZ,,R5,Austria,2016
+163,A3140,Y42,19 02 08*,solvent mixtures,H12,332.72,SI,HR,D10,,Austria,2016
+164,A3140,Y42,16 03 05*,mixtures,H3,40.82,,IT,D10,,Austria,2016
+165,A3140,Y42,14 06 03*,solvents,H3,15.26,-,IT,D10,,Austria,2016
+166,A3140,Y42,19 02 08*,solvent mixtures,H3,211.08,-,IT,,R13,Austria,2016
+167,A3140,Y42,19 02 08*,solvent mixtures,H3,1195.404,-,IT,,R1,Austria,2016
+168,A3140,Y42,07 05 04*,solvent mixtures,H3,1421.52,-,SI,,R1,Austria,2016
+169,A3140,Y42,07 05 04*,solvent mixtures,H3,752.06,-,SI,,R13,Austria,2016
+170,A3140,Y42,19 02 04*,solvent-water mixtures,H3,102.22,-,SI,,R5,Austria,2016
+171,A3140,Y42,19 02 08*,solvent mixtures,H3,497.82,-,SI,,R1,Austria,2016
+172,A3140,Y42,19 02 08*,solvent mixtures,H3,1081.06,-,SI,,R13,Austria,2016
+173,A1180,Y45,16 02 11*,CFC containing equipment,H12,19.84,"HR,SI",BA,,R4,Austria,2016
+174,A1180,Y45,16 02 11*,CFC containing equipment,H12,986.4,-,SI,,R4,Austria,2016
+175,A1180,Y45,20 01 23*,CFC containing equipment,H12,199.52,-,SI,,R4,Austria,2016
+176,Y47,,19 01 07*,fly ash,H13,139.74,-,SI,D9,,Austria,2016
+177,Y47,,19 01 05*,flue gas cleaning residues,H6.1,9616.93,-,IT,D9,,Austria,2016
+178,Y47,,19 01 12,slag,H13,13673.37,-,CH,D1,,Austria,2016
+179,Y47,,19 12 03,scrap from waste incineration,,2867.65,-,DE,,R4,Austria,2016
+180,Y47,,19 12 03,scrap from waste incineration,,24.49,-,CH,,R13,Austria,2016
+181,Y47,,19 12 03,scrap from waste incineration,,462.98,-,DE,,R12,Austria,2016
+182,Y46,,20 03 99,mixed biodegradable waste,,7788.74,-,DE,,R3,Austria,2016
+183,Y46,,20 01 08,biodegradable waste,,830.16,-,DE,,R3,Austria,2016
+184,Y46,,20 01 08,biodegradable waste,,50.81,-,SK,,R3,Austria,2016
+185,Y46,,20 01 08,biodegradable waste,,180.64,-,SI,,R3,Austria,2016
+186,Y46,,20 03 01,household waste,,5638.26,-,DE,,R12,Austria,2016
+187,Y46,,20 03 01,household waste,,7083.85,-,DE,,R1,Austria,2016
+188,Y46,,19 12 12,pre-treated waste,,4222.8,-,DE,,R1,Austria,2016
+189,Y46,,19 12 12,pre-treated waste,,1807.708,SI,HR,,R1,Austria,2016
+190,Y46,,19 05 01,pre-treated waste,,22642.51,-,IT,,R1,Austria,2016
+191,Y46,,19 12 10,RDF,,462.36,-,IT,,R1,Austria,2016
+192,Y46,,19 12 12,pre-treated waste,,66665.34,-,IT,,R1,Austria,2016
+193,Y46,,19 12 12,pre-treated waste,,24742.66,-,IT,,R12,Austria,2016
+194,Y46,,19 12 12,pre-treated waste,,5249.36,-,SI,D8,,Austria,2016
+195,Y46,,19 12 12,pre-treated waste,,25037.55,-,SI,,R1,Austria,2016
+196,Y46,,19 12 12,pre-treated waste,,29299.24,-,SI,,R12,Austria,2016
+197,Y46,,19 12 12,pre-treated waste,,17535.32,-,SI,,R3,Austria,2016

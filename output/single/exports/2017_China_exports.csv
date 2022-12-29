@@ -1,0 +1,224 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,,Y_,,Flammable Gases in contact with wate,H4.3,9.56821,,US      ,,R4,China,2017
+1,A4140,Y_,,Oxidizing,H5.1,1066.51917,,US      ,D9,,China,2017
+2,,Y_,,Miscellaneous waste dangerous,H_,7.277,,US      ,,R1,China,2017
+3,A1170,Y_,,Flammable Gases in contact with wate,H4.3,0.153,,US      ,,R4,China,2017
+4,,Y_,,Ecotoxic,H12,10.041,,US      ,,R4,China,2017
+5,,Y_,,Ecotoxic,H12,28.913,,US      ,D9,,China,2017
+6,,Y_,,Ecotoxic,H12,275.853,,US      ,D10,,China,2017
+7,A1170,Y_,,Miscellaneous waste dangerous,H_,623.32196,,US      ,,R4,China,2017
+8,A1170,Y_,,Miscellaneous waste dangerous,H_,6.803,DE,RU      ,,R4,China,2017
+9,A1170,Y_,,Miscellaneous waste dangerous,H_,8.307,US,AE      ,,R4,China,2017
+10,A1170,Y_,,Miscellaneous waste dangerous,H_,4.64824,,VE      ,,R4,China,2017
+11,A1170,Y_,,Miscellaneous waste dangerous,H_,97.00299,,US      ,,R13,China,2017
+12,A1170,Y_,,Ecotoxic,H12,55.167,,US      ,,R13,China,2017
+13,A1170,Y_,,Miscellaneous waste dangerous,H_,145.48201,,US      ,D9,,China,2017
+14,A1180,Y_,,Miscellaneous waste dangerous,H_,0.341,US,AE      ,,R4,China,2017
+15,A1180,Y_,,Miscellaneous waste dangerous,H_,14.678,,US      ,,R4,China,2017
+16,A4140,Y_,,Oxidizing,H5.1,2.525,,US      ,D9,,China,2017
+17,,Y_,,Oxidizing,H5.1,0.893,,US      ,D9,,China,2017
+18,A4010,Y2,Wastes from the production and preparation of pharmaceutical products,Flammable Liquids,H3,0.364,,US      ,,R2,China,2017
+19,A4030,Y4,"Wastes from the production, formulation, and use of biocides and phytopharmaceuticals",Toxic (Poisonous),H6.1,23.73,,US      ,D13,,China,2017
+20,A4030,Y4,"Wastes from the production, formulation, and use of biocides and phytopharmaceuticals",Ecotoxic,H12,6281.57471,,US      ,D10,,China,2017
+21,A4030,Y4,"Wastes from the production, formulation, and use of biocides and phytopharmaceuticals",Ecotoxic,H12,19.861,,US      ,D9,,China,2017
+22,A4040,Y4,"Wastes from the production, formulation, and use of biocides and phytopharmaceuticals",Toxic (Poisonous),H6.1,5.495,,US      ,D13,,China,2017
+23,A4030,Y4,"Wastes from the production, formulation, and use of biocides and phytopharmaceuticals",Ecotoxic,H12,713.7099,,US      ,D5,,China,2017
+24,A4030,Y4,"Wastes from the production, formulation, and use of biocides and phytopharmaceuticals",Toxic (Poisonous),H6.1,69.478,,US      ,D5,,China,2017
+25,A4030,Y4,"Wastes from the production, formulation, and use of biocides and phytopharmaceuticals",Leachate,H13,3.32,,US      ,D5,,China,2017
+26,A4040,Y5,Wastes from the manufacture and use of wood-preserving chemicals,Toxic (Poisonous),H6.1,85.356,,US      ,D13,,China,2017
+27,A3150,Y6,Wastes from the production and use of organic solvents,Toxic (Poisonous),H6.1,508.48511,,US      ,,R2,China,2017
+28,A3140,Y6,Wastes from the production and use of organic solvents,Flammable Liquids,H3,1.819,,US      ,,R2,China,2017
+29,A3140,Y6,Wastes from the production and use of organic solvents,Flammable Liquids,H3,46.951,,US      ,,R_,China,2017
+30,A3140,Y6,Wastes from the production and use of organic solvents,Flammable Liquids,H3,93.16493,,US      ,D13,,China,2017
+31,A4060,Y9,Waste oil;  water,Ecotoxic,H12,5716.038,,US      ,,R11,China,2017
+32,,Y9,(AC060) Waste oil;  water,Ecotoxic,H12,82756.255,,US      ,,R9,China,2017
+33,A3190,Y11,"Waste tarry residues arising from refining, distillation, and any pyrolytic treatment",Ecotoxic,H12,261.86899,,US      ,D10,,China,2017
+34,A3190,Y11,"Waste tarry residues arising from refining, distillation, and any pyrolytic treatment",Ecotoxic,H12,115.692,,US      ,D5,,China,2017
+35,A3190,Y11,"Waste tarry residues arising from refining, distillation, and any pyrolytic treatment",Leachate,H13,507.39502,,US      ,D5,,China,2017
+36,A3190,Y11,"Waste tarry residues arising from refining, distillation, and any pyrolytic treatment",Ecotoxic,H12,279.73999,,US      ,D8,,China,2017
+37,A4070,Y12,"Wastes from production, formulation, and use of inks, dyes, pigments, paints, lacquers, and varnishes",Flammable Liquids,H3,79.248,MX,UY      ,D9,,China,2017
+38,A3050,Y13,"Wastes from production, formulation, and use of resins, latex, plasticizers, and glues/adhesives",Toxic (Poisonous),H6.1,176.08601,,US      ,D13,,China,2017
+39,,Y16,"(AD090)  Wastes from the production, formulation, and use of photographic chemicals and processing materials",Leachate,H13,47.042,,US      ,,R4,China,2017
+40,A1050,Y17,Wastes resulting from the surface treatment of metals and plastics,Ecotoxic,H12,32.62,,US      ,D9,,China,2017
+41,A4050,Y17,Wastes resulting from the surface treatment of metals and plastics,Toxic (Poisonous),H6.1,54.038,,US      ,D9,,China,2017
+42,A4090,Y17,Wastes resulting from the surface treatment of metals and plastics,Corrosive,H8,67.47199,,US      ,D9,,China,2017
+43,,Y17,Wastes resulting from the surface treatment of metals and plastics,Spontaneous Combustion,H4.2,72.48399,,US      ,,R4,China,2017
+44,,Y17,Wastes resulting from the surface treatment of metals and plastics,Ecotoxic,H12,156.064,,US      ,D9,,China,2017
+45,,Y17,(AB030) Wastes resulting from the surface treatment of metals and plastics,Ecotoxic,H12,194.71802,,US      ,D9,,China,2017
+46,A1020,Y17,Wastes resulting from the surface treatment of metals and plastics,Ecotoxic,H12,461.48001,,US      ,D9,,China,2017
+47,A4120,Y18,Residues arising from industrial waste-disposal operations,Oxidizing,H5.1,162.52588,,US      ,D13,,China,2017
+48,A4140,Y18,Residues arising from industrial waste-disposal operations,Miscellaneous waste dangerous,H_,36.773,,US      ,D13,,China,2017
+49,A4140,Y18,Residues arising from industrial waste-disposal operations,Miscellaneous waste dangerous,H_,2.853,,US      ,,R1,China,2017
+50,A4140,Y18,Residues arising from industrial waste-disposal operations,Toxic (Poisonous),H6.1,2.141,,US      ,D13,,China,2017
+51,A4140,Y18,Residues arising from industrial waste-disposal operations,Flammable Liquids,H3,12.103,,US      ,D13,,China,2017
+52,A4120,Y18,Residues arising from industrial waste-disposal operations,Oxidizing,H5.1,1.606,,US      ,,R5,China,2017
+53,A3050,Y18,Residues arising from industrial waste-disposal operations,Flammable solids,H4.1,0.014,,US      ,D13,,China,2017
+54,A1080,Y18,Residues arising from industrial waste-disposal operations,Flammable solids,H4.1,0.498,,US      ,D13,,China,2017
+55,A3160,Y18,Residues arising from industrial waste-disposal operations,Toxic (Poisonous),H6.1,0.209,,US      ,D13,,China,2017
+56,A1020,Y20,"Beryllium, beryllium compounds",Ecotoxic,H12,6812.35352,,US      ,,R4,China,2017
+57,A1040,Y21,Hexavalent chromium compounds,Oxidizing,H5.1,35.658,,US      ,D9,,China,2017
+58,A1040,Y21,Hexavalent chromium compounds,Leachate,H13,6936.7243,,US      ,D9,,China,2017
+59,A1040,Y21,Hexavalent chromium compounds,Leachate,H13,935.18567,,US      ,D5,,China,2017
+60,A1040,Y21,Hexavalent chromium compounds,Toxic (Poisonous),H6.1,58.431,,US      ,D9,,China,2017
+61,A1020,Y21,Hexavalent chromium compounds,Leachate,H13,49.46,,US      ,,R4,China,2017
+62,A1040,Y21,Hexavalent chromium compounds,Ecotoxic,H12,42.423,,US      ,D9,,China,2017
+63,,Y21,(AB030) Hexavalent chromium compounds,Ecotoxic,H12,1.361,,US      ,D9,,China,2017
+64,,Y21,(AA010) Hexavalent chromium compounds,Leachate,H13,203.29301,,US      ,,R4,China,2017
+65,A1040,Y21,Hexavalent chromium compounds,Leachate,H13,479.99402,,US      ,D10,,China,2017
+66,A1040,Y21,Hexavalent chromium compounds,Ecotoxic,H12,4938.896,,US      ,D5,,China,2017
+67,A4090,Y21,Hexavalent chromium compounds,Oxidizing,H5.1,5.104,,US      ,D9,,China,2017
+68,A1020,Y22,Copper,Ecotoxic,H12,17.582,,US      ,D9,,China,2017
+69,,Y22,(AB070) Copper,Leachate,H13,756.72687,,US      ,,R4,China,2017
+70,A1120,Y22,Copper,Leachate,H13,87.075,,US      ,,R4,China,2017
+71,A4100,Y22,Copper,Leachate,H13,4.723,,US      ,,R4,China,2017
+72,A1100,Y22,Copper,Leachate,H13,134.52299,,US      ,,R4,China,2017
+73,B1170,Y22,Copper,Corrosive,H8,197.30701,,US      ,,R4,China,2017
+74,A1180,Y22,Copper,Corrosive,H8,38.0087,,US      ,,R4,China,2017
+75,,Y22,Copper,Ecotoxic,H12,4974.09052,,US      ,D9,,China,2017
+76,A4140,Y22,Copper,Ecotoxic,H12,122.47201,,US      ,,R4,China,2017
+77,,Y22,Copper,Leachate,H13,1155.85474,,US      ,,R4,China,2017
+78,A1180,Y22,Copper,Flammable solids,H4.1,16.544,,US      ,,R4,China,2017
+79,,Y22,(AB030) Copper,Leachate,H13,0.227,,US      ,D9,,China,2017
+80,A1020,Y22,Copper,Leachate,H13,8850.61426,,US      ,,R4,China,2017
+81,A1020,Y22,Copper,Ecotoxic,H12,102.98799,,US      ,D5,,China,2017
+82,A1170,Y23,Zinc,Corrosive,H8,378.46402,,US      ,,R4,China,2017
+83,,Y23,Zinc,Ecotoxic,H12,54.981,,US      ,D9,,China,2017
+84,,Y23,(AB030) Zinc,Ecotoxic,H12,16.184,,US      ,D9,,China,2017
+85,A1030,Y24,Arsenic,Toxic (Poisonous),H6.1,0.326,,US      ,D9,,China,2017
+86,A1030,Y24,Arsenic,Toxic (Poisonous),H6.1,142.9472,,US      ,,R4,China,2017
+87,A4160,Y24,Arsenic,Leachate,H13,18.785,,US      ,,R4,China,2017
+88,A1030,Y24,Arsenic,Leachate,H13,739.89392,,US      ,D10,,China,2017
+89,A2030,Y24,Arsenic,Spontaneous Combustion,H4.2,124.454,,US      ,D10,,China,2017
+90,A1020,Y24,Arsenic,Corrosive,H8,290.30399,,US      ,,R4,China,2017
+91,A1030,Y24,Arsenic,Ecotoxic,H12,544.8501,,US      ,D5,,China,2017
+92,A4140,Y24,Arsenic,Ecotoxic,H12,639.7171,,US      ,D5,,China,2017
+93,A1020,Y25,Selenium,Leachate,H13,530.766,,US      ,D5,,China,2017
+94,A1020,Y25,Selenium,Toxic (Poisonous),H6.1,1.6886,,US      ,,R4,China,2017
+95,A1020,Y25,Selenium,Toxic (Poisonous),H6.1,31.96299,,US      ,D13,,China,2017
+96,A3190,Y25,Selenium,Ecotoxic,H12,1448.16187,,US      ,D5,,China,2017
+97,A1020,Y26,Cadmium,Leachate,H13,13.636,,US      ,D5,,China,2017
+98,A1020,Y26,Cadmium,Leachate,H13,1.994,,US      ,D9,,China,2017
+99,A1020,Y26,Cadmium,Leachate,H13,28.02,,US      ,,R4,China,2017
+100,A1020,Y26,Cadmium,Leachate,H13,87.30811,,US      ,,R_,China,2017
+101,A1020,Y26,Cadmium,Toxic (Poisonous),H6.1,0.025,,US      ,D14,,China,2017
+102,A1020,Y26,Cadmium,Flammable Gases in contact with wate,H4.3,7.634,,US      ,D13,,China,2017
+103,A1170,Y26,Cadmium,Corrosive,H8,8.119,,US      ,,R13,China,2017
+104,A1020,Y28,Tellurium,Leachate,H13,3.306,,US      ,D9,,China,2017
+105,A1020,Y28,Tellurium,Leachate,H13,156.97499,,US      ,D9,,China,2017
+106,A1030,Y29,Mercury,Toxic (Poisonous),H6.1,11.351,,US      ,D9,,China,2017
+107,A1030,Y29,Mercury,Corrosive,H8,0.346,,US      ,D13,,China,2017
+108,A1030,Y29,Mercury,Leachate,H13,29729.60339,,US      ,D9,,China,2017
+109,A1030,Y29,Mercury,Corrosive,H8,9.563,,US      ,D9,,China,2017
+110,A1010,Y31,Lead,Toxic (Poisonous),H6.1,17.3,,US      ,,R4,China,2017
+111,A3010,Y31,Lead,Toxic (Poisonous),H6.1,3.778,,US      ,D13,,China,2017
+112,A1020,Y31,Lead,Ecotoxic,H12,82.36598,,US      ,D13,,China,2017
+113,A1020,Y31,Lead,Ecotoxic,H12,28.662,,US      ,,R4,China,2017
+114,A1020,Y31,Lead,Leachate,H13,14879.75053,,US      ,D9,,China,2017
+115,A1020,Y31,Lead,Leachate,H13,2770.4812,,US      ,,R4,China,2017
+116,A2010,Y31,Lead,Leachate,H13,6863.22314,,US      ,,R4,China,2017
+117,A1020,Y31,Lead,Leachate,H13,2468.52441,,US      ,D5,,China,2017
+118,A1010,Y31,Lead,Leachate,H13,811.53003,,US      ,D9,,China,2017
+119,A1020,Y31,Lead,Toxic (Poisonous),H6.1,0.005,,US      ,D13,,China,2017
+120,A3140,Y31,Lead,Leachate,H13,9.485,,US      ,,R2,China,2017
+121,A1090,Y31,Lead,Leachate,H13,113.86,,US      ,,R4,China,2017
+122,A1120,Y31,Lead,Leachate,H13,328.44501,,US      ,,R4,China,2017
+123,A1020,Y31,Lead,Toxic (Poisonous),H6.1,26.846,,US      ,D9,,China,2017
+124,A1160,Y31,Lead,Corrosive,H8,113034.01563,,US      ,,R4,China,2017
+125,A1160,Y31,Lead,Corrosive,H8,1.974,,US      ,,R13,China,2017
+126,A4090,Y31,Lead,Corrosive,H8,1.782,,US      ,D13,,China,2017
+127,A4070,Y31,Lead,Flammable Liquids,H3,144.407,,US      ,,R_,China,2017
+128,A2020,Y32,Inorganic fluorine compounds,Toxic (Poisonous),H6.1,0.76,,US      ,D9,,China,2017
+129,,Y32,Inorganic fluorine compounds,Toxic (Poisonous),H6.1,5.662,,US      ,D9,,China,2017
+130,A2020,Y32,Inorganic fluorine compounds,Leachate,H13,39.851,,US      ,D9,,China,2017
+131,A4050,Y32,Inorganic fluorine compounds,Flammable Gases in contact with wate,H4.3,4801.184,,US      ,D5,,China,2017
+132,A4050,Y33,Inorganic cyanides,Toxic (Poisonous),H6.1,2254.40698,,US      ,D9,,China,2017
+133,A4050,Y33,Inorganic cyanides,Toxic (Poisonous),H6.1,1.619,,US      ,D13,,China,2017
+134,A4050,Y33,Inorganic cyanides,Toxic (Poisonous),H6.1,0.021,,US      ,D9,,China,2017
+135,A4050,Y33,Inorganic cyanides,Corrosive,H8,45.809,,US      ,D9,,China,2017
+136,A4050,Y33,Inorganic cyanides,Leachate,H13,106.378,,US      ,D9,,China,2017
+137,A1060,Y34,Acidic solutions (or solids),Corrosive,H8,33448.32422,,US      ,,R_,China,2017
+138,A1040,Y34,Acidic solutions (or solids),Corrosive,H8,376.97891,,US      ,D9,,China,2017
+139,A4090,Y34,Acidic solutions (or solids),Corrosive,H8,86.651,,US      ,D10,,China,2017
+140,A1040,Y34,Acidic solutions (or solids),Oxidizing,H5.1,41.496,,US      ,D9,,China,2017
+141,A1030,Y34,Acidic solutions (or solids),Corrosive,H8,182.61002,,US      ,D9,,China,2017
+142,A1160,Y34,Acidic solutions (or solids),Corrosive,H8,19.059,,US      ,D9,,China,2017
+143,A1020,Y34,Acidic solutions (or solids),Corrosive,H8,10.934,,US      ,D5,,China,2017
+144,A4120,Y34,Acidic solutions (or solids),Oxidizing,H5.1,5.768,,US      ,D13,,China,2017
+145,,Y34,Acidic solutions (or solids),Corrosive,H8,315.99878,,US      ,D9,,China,2017
+146,A4090,Y34,Acidic solutions (or solids),Corrosive,H8,522.55817,,US      ,D13,,China,2017
+147,A4090,Y34,Acidic solutions (or solids),Corrosive,H8,5240.0332,,US      ,D9,,China,2017
+148,A4090,Y34,Acidic solutions (or solids),Corrosive,H8,2963.39746,,US      ,,R_,China,2017
+149,A4090,Y34,Acidic solutions (or solids),Oxidizing,H5.1,21.189,,US      ,D13,,China,2017
+150,A4140,Y34,Acidic solutions (or solids),Corrosive,H8,14.024,,US      ,D13,,China,2017
+151,A4140,Y34,Acidic solutions (or solids),Corrosive,H8,1.196,,US      ,D9,,China,2017
+152,A4090,Y34,Acidic solutions (or solids),Flammable Liquids,H3,4.483,,US      ,D13,,China,2017
+153,A4090,Y35,Basic solutions (or solids),Corrosive,H8,1588.18787,,US      ,D9,,China,2017
+154,A4140,Y35,Basic solutions (or solids),Corrosive,H8,11.623,,US      ,D13,,China,2017
+155,A4090,Y35,Basic solutions (or solids),Corrosive,H8,223.66399,,US      ,D13,,China,2017
+156,,Y35,Basic solutions (or solids),Corrosive,H8,309.72174,,US      ,D9,,China,2017
+157,A1170,Y35,Basic solutions (or solids),Corrosive,H8,19.48,,US      ,D9,,China,2017
+158,A1170,Y35,Basic solutions (or solids),Corrosive,H8,18.217,,US      ,,R13,China,2017
+159,A4130,Y35,Basic solutions (or solids),Corrosive,H8,13.55,,US      ,D9,,China,2017
+160,A1170,Y35,Basic solutions (or solids),Ecotoxic,H12,1.841,,US      ,,R13,China,2017
+161,A1040,Y35,Basic solutions (or solids),Corrosive,H8,12.702,,US      ,D9,,China,2017
+162,A1040,Y35,Basic solutions (or solids),Oxidizing,H5.1,1.457,,US      ,D9,,China,2017
+163,A1040,Y35,Basic solutions (or solids),Corrosive,H8,131.845,,US      ,D5,,China,2017
+164,A4090,Y35,Basic solutions (or solids),Corrosive,H8,1453.89978,,US      ,D10,,China,2017
+165,A1020,Y35,Basic solutions (or solids),Toxic (Poisonous),H6.1,134.94899,,US      ,D9,,China,2017
+166,A4050,Y35,Basic solutions (or solids),Corrosive,H8,100.273,,US      ,D10,,China,2017
+167,A2050,Y36,Asbestos (dust and fibres),,H11,729.00299,,US      ,D9,,China,2017
+168,A4040,Y37,Organic phosphorous compounds,Toxic (Poisonous),H6.1,134.06099,,US      ,D5,,China,2017
+169,A3130,Y37,Organic phosphorous compounds,Toxic (Poisonous),H6.1,0.4,,US      ,D14,,China,2017
+170,A3130,Y37,Organic phosphorous compounds,Toxic (Poisonous),H6.1,1.784,,US      ,D13,,China,2017
+171,A4160,Y38,Organic cyanides,Miscellaneous waste dangerous,H_,702.61591,,US      ,,R4,China,2017
+172,A4160,Y38,Organic cyanides,Ecotoxic,H12,170.528,,US      ,,R4,China,2017
+173,A4050,Y38,Organic cyanides,Ecotoxic,H12,78.887,,US      ,,R4,China,2017
+174,A4160,Y38,Organic cyanides,Leachate,H13,38.091,,US      ,,R4,China,2017
+175,A3070,Y39,"Phenols, phenol compounds, including chlorophenols",Ecotoxic,H12,173.17902,,US      ,D10,,China,2017
+176,A4040,Y39,"Phenols, phenol compounds, including chlorophenols",Ecotoxic,H12,522.25305,,US      ,D5,,China,2017
+177,A3070,Y39,"Phenols, phenol compounds, including chlorophenols",Toxic (Poisonous),H6.1,12.969,,US      ,D10,,China,2017
+178,A3070,Y39,"Phenols, phenol compounds, including chlorophenols",Flammable Liquids,H3,64.251,,US      ,D10,,China,2017
+179,A3070,Y39,"Phenols, phenol compounds, including chlorophenols",Toxic (Poisonous),H6.1,2.59,,US      ,D14,,China,2017
+180,A4060,Y39,"Phenols, phenol compounds, including chlorophenols",Ecotoxic,H12,5.219,,US      ,,R1,China,2017
+181,A3070,Y39,"Phenols, phenol compounds, including chlorophenols",Flammable solids,H4.1,9.922,,US      ,D13,,China,2017
+182,A3070,Y39,"Phenols, phenol compounds, including chlorophenols",Flammable solids,H4.1,32.712,,US      ,,R1,China,2017
+183,,Y39,"Phenols, phenol compounds, including chlorophenols",Ecotoxic,H12,2.105,,US      ,D14,,China,2017
+184,A4140,Y39,"Phenols, phenol compounds, including chlorophenols",Leachate,H13,37.17,,US      ,D5,,China,2017
+185,A3160,Y41,Halogenated organic solvents,Leachate,H13,2237.896,,US      ,D5,,China,2017
+186,A3150,Y41,Halogenated organic solvents,Toxic (Poisonous),H6.1,363.68704,,US      ,,R2,China,2017
+187,A3150,Y41,Halogenated organic solvents,Flammable Liquids,H3,1.6,,US      ,D14,,China,2017
+188,A3150,Y41,Halogenated organic solvents,Toxic (Poisonous),H6.1,43.13401,,US      ,,R13,China,2017
+189,A3150,Y41,Halogenated organic solvents,Leachate,H13,0.952,,US      ,,R13,China,2017
+190,A3150,Y41,Halogenated organic solvents,Toxic (Poisonous),H6.1,86.13,,US      ,,R1,China,2017
+191,A3150,Y41,Halogenated organic solvents,Flammable Liquids,H3,1303.14526,,US      ,,R1,China,2017
+192,A3150,Y41,Halogenated organic solvents,Ecotoxic,H12,943.11997,,US      ,D8,,China,2017
+193,A3160,Y41,Halogenated organic solvents,Toxic (Poisonous),H6.1,1.061,,US      ,D13,,China,2017
+194,,Y41,Halogenated organic solvents,Ecotoxic,H12,86.562,,US      ,D9,,China,2017
+195,A3150,Y41,Halogenated organic solvents,Ecotoxic,H12,1718.36108,,US      ,D10,,China,2017
+196,A4030,Y41,Halogenated organic solvents,Flammable Liquids,H3,7.08,,US      ,D13,,China,2017
+197,A3140,Y41,Halogenated organic solvents,Flammable Liquids,H3,13.94,,US      ,,R2,China,2017
+198,A3150,Y41,Halogenated organic solvents,Flammable Liquids,H3,297.87711,,US      ,,R2,China,2017
+199,A3150,Y41,Halogenated organic solvents,Flammable Liquids,H3,393.543,,US      ,,R13,China,2017
+200,A3160,Y41,Halogenated organic solvents,Flammable Liquids,H3,6941.70654,,US      ,D10,,China,2017
+201,A3150,Y41,Halogenated organic solvents,Flammable Liquids,H3,21.752,,US      ,D13,,China,2017
+202,A3190,Y41,Halogenated organic solvents,Ecotoxic,H12,4243.58,,US      ,D5,,China,2017
+203,A1020,Y41,Halogenated organic solvents,Ecotoxic,H12,29.512,,US      ,D9,,China,2017
+204,A4060,Y41,Halogenated organic solvents,Flammable Liquids,H3,4658.58691,,US      ,D10,,China,2017
+205,A3140,Y42,Organic solvents,Flammable Liquids,H3,1137.48706,,US      ,,R13,China,2017
+206,A3140,Y42,Organic solvents,Miscellaneous waste dangerous,H_,0.11,,US      ,,R13,China,2017
+207,,Y42,Organic solvents,Miscellaneous waste dangerous,H_,0.522,,US      ,,R1,China,2017
+208,A3140,Y42,Organic solvents,Flammable Liquids,H3,306.36813,,US      ,D13,,China,2017
+209,A3140,Y42,Organic solvents,Flammable Liquids,H3,7198.18213,,US      ,D10,,China,2017
+210,A3160,Y42,Organic solvents,Toxic (Poisonous),H6.1,2.084,,US      ,D13,,China,2017
+211,A3140,Y42,Organic solvents,Flammable Liquids,H3,4949.841,,US      ,,R2,China,2017
+212,A3140,Y42,Organic solvents,Flammable Liquids,H3,1498.59009,,US      ,,R1,China,2017
+213,A3190,Y42,Organic solvents,Ecotoxic,H12,5288.6001,,US      ,D5,,China,2017
+214,A3190,Y42,Organic solvents,Ecotoxic,H12,31.483,,US      ,D10,,China,2017
+215,A4070,Y42,Organic solvents,Flammable Liquids,H3,88.15,,US      ,,R2,China,2017
+216,A4070,Y42,Organic solvents,Flammable Liquids,H3,8.044,,US      ,,R1,China,2017
+217,A4070,Y42,Organic solvents,Flammable Liquids,H3,55.451,,US      ,,R3,China,2017
+218,A4070,Y42,Organic solvents,Flammable solids,H4.1,14.767,,US      ,D13,,China,2017
+219,A3140,Y42,Organic solvents,Miscellaneous waste dangerous,H_,626.276,,US      ,D13,,China,2017
+220,A4070,Y42,Organic solvents,Flammable Liquids,H3,147.79198,,US      ,D13,,China,2017
+221,A3150,Y42,Organic solvents,Flammable Liquids,H3,0.854,,US      ,,R1,China,2017
+222,A4040,Y44,Any congenor of polychlorinated dibenzo-p-dioxin,Ecotoxic,H12,39.0,,US      ,D10,,China,2017

@@ -1,0 +1,6 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A1160,Y31,"H11, H12","USED LEAD BATTERIES
+","H11,H12",30000,,KR,,"R4,R5",Kenya,2020
+1,"A1070,A1080",Y23,"H11, H12",ZINC DROSS,"H11,H12",10,,BE,D1,R4,Kenya,2020
+2,"A1170,A1180,A1190","Y10,Y22,Y24,Y26,Y29,Y31","H11, H12","USED TELECOMMUNICATION EQUIPMENT(E-WASTE) - PCBAs,MODULES,CABLES,ANTENNAS,BATTERIES
+","H11,H12",600,,MY,,"R4,R5",Kenya,2020

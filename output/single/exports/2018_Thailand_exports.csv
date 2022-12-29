@@ -1,0 +1,43 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A1020,Y31,,Waste Sludge Scrap (SnPb),"H11,H12",11.29,,JP,,R4,Thailand,2018
+1,A1020,,,Nickel Concentrate / Nickel Hydroxide,"H11,H12",170.0,,BE,,R4,Thailand,2018
+2,A1020,Y31,,Metallic Waste (Sludge and Slag),"H11,H12",453.86,,KR,,R4,Thailand,2018
+3,A1020,Y31,,Metallic Waste Metallic Sludge,"H11,H12",1175.56,,KR,,R4,Thailand,2018
+4,A1020,Y31,,Metallic Waste Sludge,"H11,H12",2582.54,,KR,,R4,Thailand,2018
+5,A1020,Y31,,Metallic Waste Sludge & Slag,"H11,H12",617.2,,KR,,R4,Thailand,2018
+6,A1020,Y31,,Metallic Waste (Cu),"H11,H12",374.49,,KR,,R4,Thailand,2018
+7,A1020,,,"Lead Solder (Dross, Bar, Ingot, and Paste)","H11,H12",20.2,,SG,,R4,Thailand,2018
+8,"A1020,A4100","Y43,Y44",,Electric Arc Furnace Dust (EAFD),"H11,H12",2982.0,,KR,,R4,Thailand,2018
+9,"A1020,A1030,A1040",Y24,,Metallic Waste Sludge,"H11,H12",412.0,,KR,,R4,Thailand,2018
+10,"A1020,A4100","Y43,Y44",,"EAF (Electric Arc Furnace) Powder, Zinc Powder or Dust","H11,H12",4528.8,,KR,,R4,Thailand,2018
+11,"A1020,A4100","Y43,Y44",,Electric Arc Furnace Dust (EAFD),"H11,H12",26878.8,,KR,,R4,Thailand,2018
+12,"A1020,A4100","Y43,Y44",,ELECTRIC ARC FURNACE DUST (EAFD) / FILTER DUST,"H11,H12",6115.78,,KR,,R4,Thailand,2018
+13,"A1020,A4100","Y43,Y44",,ELECTRIC ARC FURNACE DUST (EAFD) EAF/FILTER DUST,"H11,H12",15014.55,,KR,,R4,Thailand,2018
+14,"A1020,A4100","Y43,Y44",,Electric Arc Furnace Dust (EAFD) or Zinc Powder,"H11,H12",3443.24,,KR,,R4,Thailand,2018
+15,"A1020,A1030",,,Sn Dross,"H11,H12",19.89,,BE,,R4,Thailand,2018
+16,A1030,Y24,,"Mercury Waste (Slurries, sludge, solid waste contaminated with mercury e.g. PPE, gas filters, membranes)","H11,H12",9.09,,CH,,R4,Thailand,2018
+17,A1030,Y24,,"Mercury contaminated PPE, gas filter, used membrane","H11,H12",49.42,,BE,,R4,Thailand,2018
+18,A1030,Y30,,Residues Containing Mercury from Natural Gas Production (Mercury Sludge),"H11,H12",119.62,,BE,,R4,Thailand,2018
+19,"A1030,A4050",Y38,,Ion Exchanged Resin,"H11,H12",0.058,,SG,,R4,Thailand,2018
+20,A1050,Y17,,Galvanic Sludges,"H11,H12",70.16,,JP,,R4,Thailand,2018
+21,A1050,Y17,,Galvanic sludge,"H11,H12",0.5,,SG,,R4,Thailand,2018
+22,A1150,,,Precious metal ash from incineration of printed circuit boards,"H11,H12",111.03,,JP,,R4,Thailand,2018
+23,A1170,"Y10,Y22,Y29,Y31",,Li-ion batteries,"H11,H12",9.94,,SG,,R4,Thailand,2018
+24,A1180,"Y10,Y22,Y29,Y31",,"Electrical & Electronic Equipment, Parts and Assemblies (computer and mobile phones)","H11,H12",149.26,,SG,,R4,Thailand,2018
+25,A1180,"Y10,Y22,Y29,Y31",,Electronic Waste,"H11,H12",178.5,,SG,,R4,Thailand,2018
+26,A1180,"Y10,Y22,Y29,Y31",,Printed Circuit Board Laminate Scrap with Solder,"H11,H12",903.05,,SG,,R4,Thailand,2018
+27,"A1170,A1180","Y10,Y22,Y29,Y31",,"Electrical & Electronic Equipment, Parts and Assemblies (computer and mobile phone) and Li-ion batteries ","H11,H12",158.73,,SG,,R4,Thailand,2018
+28,A1180,"Y10,Y22,Y29,Y31",,Electrical and Electronic Scrap Containing Precious Metal,"H11,H12",136.13,,JP,,R4,Thailand,2018
+29,A1180,"Y10,Y22,Y29,Y31",,Electronic Components,"H11,H12",3.98,,JP,,R4,Thailand,2018
+30,A1180,"Y10,Y22,Y29,Y31",,Precious metal bearing e-waste sush as printed circuit boards,"H11,H12",362.11,,JP,,R4,Thailand,2018
+31,A1180,"Y10,Y22,Y29,Y31",,"Printed Circuit Boards, Electronic wastes (Motor, Copper wire, Terminal), Connectors","H11,H12",159.59,,JP,,R4,Thailand,2018
+32,A1180,"Y10,Y22,Y29,Y31",,Scrap of Electric Component Parts,"H11,H12",570.9,,JP,,R4,Thailand,2018
+33,A1180,"Y10,Y22,Y29,Y31",,Crushed IC's (Integrated circuit boards which contain precious metals),"H11,H12",20.91,,BE,,R4,Thailand,2018
+34,A1180,"Y10,Y22,Y29,Y31",,PCB Scrap,"H11,H12",127.77,,KR,,R4,Thailand,2018
+35,A1180,"Y10,Y22,Y29,Y31",,Printed Circuit Board Scraps,"H11,H12",182.0,,KR,,R4,Thailand,2018
+36,A1180,"Y10,Y22,Y29,Y31",,Printed Circuit Boards,"H11,H12",3440.6,,KR,,R4,Thailand,2018
+37,A1180,"Y10,Y22,Y29,Y31",,Electronic Parts Scrap and PCB,"H11,H12",25.91,,KR,,R4,Thailand,2018
+38,A1180,"Y10,Y22,Y29,Y31",,Electronic Scrap and PCB,"H11,H12",341.9,,KR,,R4,Thailand,2018
+39,A2030,Y24,,Spent Mercury (Hg) Absorbent,"H11,H12",44.85,,CH,,R4,Thailand,2018
+40,A4100,Y23,,Zinc Dust,"H11,H12",791.09,,JP,,R4,Thailand,2018
+41,"A1020,A4100",,,Tin Alloy and Carbon Ash,,39.4,,PH,,R4,Thailand,2018

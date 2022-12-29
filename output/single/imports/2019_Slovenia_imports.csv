@@ -1,0 +1,23 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_origin,annex_4_a_code,annex_4_b_code,country,year
+0,Y46,,15 01 06,mixed packaging,nonhazardous,2126.78,,AT,,"R12,R1",Slovenia,2019
+1,,,10 03 04*,aluminium slag,H4.3,388.36,"HR,BA",ME,,R5,Slovenia,2019
+2,A4140,Y22,19 12 11*,Copper compounds,H4.1,88.623,"CZ,HU,PL,SK",LT,,R3,Slovenia,2019
+3,A1160,Y31,16 06 01*,Lead; lead compounds,"H12,H11,H6.1",45.246,,HR,,R4,Slovenia,2019
+4,A1160,Y31,16 06 01*,Lead; lead compounds,"H6.1,H11,H12",45.33,,HR,,R4,Slovenia,2019
+5,A1160,"Y31,Y34",16 06 01*,Lead; lead compounds + Acidic solutions or acids in solid form,"H6.1,H8,H11",3327.525,,AT,,R4,Slovenia,2019
+6,A1160,"Y31,Y34",16 06 01*,Lead; lead compounds + Acidic solutions or acids in solid form,"H6.1,H8,H11",1378.014,HR,BA,,R4,Slovenia,2019
+7,A1160,"Y31,Y34",16 06 01*,Lead; lead compounds + Acidic solutions or acids in solid form,"H6.1,H8,H12",864.672,HR,BA,,R4,Slovenia,2019
+8,A1160,"Y31,Y34",16 06 01*,Lead; lead compounds + Acidic solutions or acids in solid form,"H6.1,H8,H11",4461.2,AT,DE,,R4,Slovenia,2019
+9,A1160,"Y31,Y34",16 06 01*,Lead; lead compounds + Acidic solutions or acids in solid form,"H6.1,H11,H12",1124.04,"DE,AT",FR,,R4,Slovenia,2019
+10,A1160,"Y31,Y34",16 06 01*,Lead; lead compounds + Acidic solutions or acids in solid form,"H6.1,H8,H11",560.54,"DE,AT",FR,,R4,Slovenia,2019
+11,A1160,"Y31,Y34",16 06 01*,Lead; lead compounds + Acidic solutions or acids in solid form,"H6.1,H8,H11",24.0,IT,FR,,R4,Slovenia,2019
+12,A1160,"Y31,Y34",16 06 01*,Lead; lead compounds + Acidic solutions or acids in solid form,"H6.1,H8,H11",3882.538,,HR,,R4,Slovenia,2019
+13,A1160,"Y31,Y34",16 06 01*,Lead; lead compounds + Acidic solutions or acids in solid form,"H8,H11,H12",180.83,,HR,,R4,Slovenia,2019
+14,A1160,"Y31,Y34",16 06 01*,Lead; lead compounds + Acidic solutions or acids in solid form,"H6.1,H8,H11",3129.502,,HU,,R4,Slovenia,2019
+15,A1160,"Y31,Y34",16 06 01*,Lead; lead compounds + Acidic solutions or acids in solid form,"H6.1,H8,H11",9823.07,,IT,,R4,Slovenia,2019
+16,A1160,"Y31,Y34",16 06 01*,Lead; lead compounds + Acidic solutions or acids in solid form,"H6.1,H8,H11",3187.32,AT,IT,,R4,Slovenia,2019
+17,A1160,"Y31,Y34",16 06 01*,Lead; lead compounds + Acidic solutions or acids in solid form,"H6.1,H8,H12",238.412,,IT,,R4,Slovenia,2019
+18,A1160,"Y31,Y34",16 06 01*,Lead; lead compounds + Acidic solutions or acids in solid form,"H6.1,H8,H11",295.992,"HR,BA",ME,,R4,Slovenia,2019
+19,A1160,"Y31,Y34",16 06 01*,Lead; lead compounds + Acidic solutions or acids in solid form,"H6.1,H8,H11",644.84,"DE,AT",NL,,R4,Slovenia,2019
+20,A1160,"Y31,Y34",16 06 01*,Lead; lead compounds + Acidic solutions or acids in solid form,"H6.1,H8,H11",1285.548,HR,RS,,R4,Slovenia,2019
+21,A1160,"Y31,Y34",16 06 01*,Lead; lead compounds + Acidic solutions or acids in solid form,"H6.1,H8,H12",139.435,"DE,AT,DK",SE,,R4,Slovenia,2019

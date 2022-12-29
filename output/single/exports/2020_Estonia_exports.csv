@@ -1,0 +1,10 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A1030,Y29,20 01 21*,Waste containing mercury,,22.99,,FI,D9,"R4,R5,R12",Estonia,2020
+1,A1180,Y45,20 01 23*,Cooling appliances,,347.376,LV,LT,,"R4,R5",Estonia,2020
+2,A3020,Y8,13 02 08*,Waste oil,,352.0,,FI,,R9,Estonia,2020
+3,A4020,Y1,18 01 03*,Clinical waste,,270.09,,LV,,R12,Estonia,2020
+4,A4070,Y12,"08 01 11*, 08 03 12*",Waste paint ,,163.0,,SE,,R12,Estonia,2020
+5,A4130,,"15 01 10*, 15 02 02*",waste containing hazardous substances,,207.716,,SE,,R1,Estonia,2020
+6,,,19 01 07*,Solid waste from gas treatment,H12,8030.3,,FI,"D9,D1",,Estonia,2020
+7,Y46,,19 12 10,RDF,,4847.1,,LV,,R1,Estonia,2020
+8,Y46,,19 12 12,RDF,,36.72,,LV,,R12,Estonia,2020

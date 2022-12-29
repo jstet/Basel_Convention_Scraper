@@ -1,0 +1,27 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,A1170,"Y23,Y26,Y31",20 01 33*,"Batteries,dry,containing potassium hydroxide solid",H8,68,"GB,NL,BE",FR,,R4,Iceland,2017
+1,,,10 03 04*,Aluminum skimmings ,H4.3,137,NL,GB,,R4,Iceland,2017
+2,A1160,"Y31,Y34",16 06 01*,"Batteries,dry,containing potassium hydroxide solid",H8,317,,SE,,R4,Iceland,2017
+3,A4050,Y33,"16 11 01*,16 11 03*",Aluminium smelting by-products,H4.3,730,NL,GB,,R5,Iceland,2017
+4,"A1180,Y46","Y19,Y22",20 01 35*,Plasma and LCD televisions and monitors,H12,434,"FO,GB,NL,DE",DK,,R13,Iceland,2017
+5,A1170,"Y26,Y29","16 06 02*,16 06 03*","Batteries,dry,containing potassium hydroxide solid","H6.1,H8",6,"FO,NL",DE,,"R12,R4",Iceland,2017
+6,"A3150,Y46",,"20 01 23,14 06 01",Used refrigerators may incl. CFC,H12,62,"FO,NL,DE",DK,D10,"R12,R9,R3,R4",Iceland,2017
+7,A2010,Y31,16 02 13*,TV sets and monitors,H12,65,"FO,NL",DE,,R5,Iceland,2017
+8,,,10 03 04*,Aluminium smelting by-products,"H11,H12",147,NL,GB,,R4,Iceland,2017
+9,A1060,Y34,11 01 06*,Hydrochloric acid,H8,10,"FO,NL",DE,D10,,Iceland,2017
+10,,"Y8,Y18","10 03 21*,10 03 23*,15 02 02*,15 01 10*","Oil spilled solid waste,oil contaminated cloth,filters from gas cleaning","H4.1,H12",129,"GB,NL,BE,FR",ES,,"R13,R3",Iceland,2017
+11,A4060,"Y18,Y9,Y12","12 01 09*,10 03 27*,09 01 01*,09 01 04*","Oil components containing sulfates,bromides,aluminium oxide",H12,56,"GB,NL,BE,FR",ES,D9,,Iceland,2017
+12,A3180,Y10,17 05 03*,Solid with PCB,H12,40,"FO,NL",DE,D10,,Iceland,2017
+13,,,10 03 04*,Aluminum skimmings ,H4.3,2353,NL,GB,,R4,Iceland,2017
+14,"A3150,Y46",,"20 01 23*,14 06 01*",Used refrigerators and gas cylinders containing CFC,H12,65,"GB,NL",DK,D10,"R12,R9",Iceland,2017
+15,,Y32,10 03 21*,MSDS 1340 Carbon Dust,"H11,H12",2951,NL,GB,,"R4,R5",Iceland,2017
+16,,,10 03 04*,Aluminium smelting by-products,"H11,H12",8,NL,GB,,R4,Iceland,2017
+17,Y47,,19 01 13*,Fly ash containing hazardous substances,H13,1285,,NO,,R5,Iceland,2017
+18,A4050,Y33,,"Spent pot lining,spent pot lining insulation",H4.3,507,NL,GB,,R5,Iceland,2017
+19,,"Y8,Y9,Y31,Y36",16 01 04*,Recovery of metal from ships,"H3,H4.1,H5.1,H8,H11",1,NL,BE,,"R4,R12",Iceland,2017
+20,A3020,Y8,"13 02 06*,13 02 05*",Bilge oil and used lubricants,"H3,H12",3,,NO,,R1,Iceland,2017
+21,A1160,"Y31,Y34",16 06 01*,"Batteries,dry,containing potassium hydroxide solid","H8,H12",90,,GB,,"R13,R4",Iceland,2017
+22,,"Y8,Y9,Y31,Y36",16 01 04*,Recovery of metal from ships,"H3,H4.1,H5.1,H8,H11",1160,NL,BE,,"R4,R12",Iceland,2017
+23,,"Y8,Y9,Y31,Y36",16 01 04*,Recovery of metal from ships,"H3,H4.1,H5.1,H8,H11",1150,NL,BE,,"R4,R12",Iceland,2017
+24,A4100,Y18,10 01 18*,Outdated filter bags from Aluminium recycling industry,H11,2,"GB,FO,NL",DE,D10,,Iceland,2017
+25,"A3150,Y46",,"20 01 23*,14 06 01*","Used refridgerators,may include C.F.C",H12,5,"FO,NL,DE",DK,D10,"R12,R9,R3,R4",Iceland,2017

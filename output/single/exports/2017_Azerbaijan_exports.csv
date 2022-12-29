@@ -1,0 +1,170 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+0,Y46,,20 03 01,municipal waste,,2923.8,-,DE,,R1,Azerbaijan,2017
+1,A1180,"Y18,Y31",20 01 35,WEEEs,H13,440.8,-,DE,,R3,Azerbaijan,2017
+2,Y46,,20 01 99,biodgradable waste from households,,7693.0,-,DE,,R3,Azerbaijan,2017
+3,Y46,,20 03 01,municipal waste,,4913.0,-,DE,,R3,Azerbaijan,2017
+4,A3120,"Y18,Y31",19 10 03,FLUFF,H12,1618.0,-,DE,,R3,Azerbaijan,2017
+5,A1180,Y31,20 01 35,WEEEs,"H12,H13",190.7,-,DE,,R4,Azerbaijan,2017
+6,A1160,"Y31,Y34",16 06 01,lead acid batteries,"H8,H11,H12",538.8,-,DE,,R4,Azerbaijan,2017
+7,,Y17,16 03 03,production residues,"H11,H12",36.7,-,DE,,R4,Azerbaijan,2017
+8,A1060,"Y17,Y34",11 01 05,etching solutions,"H8,H12,H13",427.0,-,DE,,R4,Azerbaijan,2017
+9,,"Y18,Y31",19 02 05,sludge from C/P-treatment,"H11,H12",10.7,-,DE,,R4,Azerbaijan,2017
+10,A1190,Y11,17 04 10,tar containing cables,H11,136.2,-,DE,,R4,Azerbaijan,2017
+11,,"Y18,Y31",10 08 10,dross,H4.1,67.1,-,DE,,R4,Azerbaijan,2017
+12,A1180,Y45,16 02 11,CFC containing equipment,H12,1058.8,-,DE,,R4,Azerbaijan,2017
+13,A1180,"Y18,Y31",16 02 13,WEEEs,H12,16779.6,-,DE,,R4,Azerbaijan,2017
+14,,Y17,12 01 14,sludge,H12,10.0,-,DE,,R4,Azerbaijan,2017
+15,,Y17,12 01 18,sludge,"H11,H12",327.9,-,DE,,R4,Azerbaijan,2017
+16,,Y17,12 01 21,sludge,"H11,H12",554.6,-,DE,,R4,Azerbaijan,2017
+17,A1060,Y34,11 01 05,etching solutions,"H8,H12",103.2,-,DE,,R5,Azerbaijan,2017
+18,A4160,Y41,15 02 02,activated carbon,H11,725.0,-,DE,,R7,Azerbaijan,2017
+19,Y46,,20 03 01,municipal waste,,2282.0,-,DE,,R12,Azerbaijan,2017
+20,Y47,,19 12 03 ,scrap frm MSW incineration,,188.7,-,DE,,R12,Azerbaijan,2017
+21,,Y11,17 02 04,impregnated wood,"H11,H12",147.0,-,DE,,R12,Azerbaijan,2017
+22,A4060,Y9,19 02 07,oil-water mixtures,"H12,H13",22.3,-,DE,,R12,Azerbaijan,2017
+23,,Y18,17 05 03,contaminated soil ,H11,1484.0,-,SI,D8,,Azerbaijan,2017
+24,,,16 11 01,furnace lining,H12,74.0,-,SI,D9,,Azerbaijan,2017
+25,,,16 10 02,rinsing water,H13,724.5,-,SI,D9,,Azerbaijan,2017
+26,A4060,"Y9,Y18",19 02 04,pre-mixed wastes,"H12,H13",292.5,-,SI,D9,,Azerbaijan,2017
+27,,Y18,19 03 04,pre-mixed wastes,"H11,H12,H13",2730.9,-,SI,D9,,Azerbaijan,2017
+28,A4100,Y23,10 02 07,steelmill dust,"H11,H12",371.3,-,SI,D9,,Azerbaijan,2017
+29,,Y18,19 02 05,sludge from CP-treatment,"H11,H12",785.7,-,SI,D9,,Azerbaijan,2017
+30,A4100,Y18,19 01 07,fly ash,"H11,H13",1038.5,-,SI,D9,,Azerbaijan,2017
+31,A3150,Y18,19 13 03,residues from clean-up procedures,"H11,H13",39.7,-,SI,D10,,Azerbaijan,2017
+32,A3050,Y13,08 05 01,isocyanates,H6.1,49.7,-,SI,D10,,Azerbaijan,2017
+33,A4060,Y8,13 04 03,oil-water mixtures,"H12,H13",23.0,-,SI,D10,,Azerbaijan,2017
+34,A3140,Y18,19 02 04,premixed solvents,"H3,H13",2778.4,-,SI,D10,,Azerbaijan,2017
+35,,Y18,19 02 04,premixed waste,"H4.1,H11,H12,H13",4421.3,-,SI,D10,,Azerbaijan,2017
+36,A3140,Y42,07 03 04,solvents,"H3,H13",937.1,-,SI,D10,,Azerbaijan,2017
+37,,Y18,19 03 04,premixed waste,"H11,H13",2857.0,-,SI,D10,,Azerbaijan,2017
+38,A3140,"Y3,Y42",07 05 04,solvents,"H3,H13",1859.7,-,SI,D10,,Azerbaijan,2017
+39,A3150,Y18,19 02 08,mixed solvents,"H3,H11,H12,H13",2467.3,-,SI,D10,,Azerbaijan,2017
+40,A3180,Y10,16 02 09,capacitors,"H11,H12,H13",2.0,-,SI,D10,,Azerbaijan,2017
+41,,Y18,19 12 11,premixed waste,"H11,H12,H13",1319.0,-,SI,D10,,Azerbaijan,2017
+42,,Y18,19 02 09,premixed combustible waste,"H4.1,H12,H12",355.4,-,SI,D10,,Azerbaijan,2017
+43,A4070,"Y12,Y42",08 01 11,paint waste,"H3,H13",760.9,-,SI,D10,,Azerbaijan,2017
+44,Y46,,19 12 12,municipal waste,,2883.5,-,SI,D10,,Azerbaijan,2017
+45,,Y18,19 02 09,premixed combustible waste,"H4.1,H12,H13",873.6,-,SI,D15,,Azerbaijan,2017
+46,A4060,Y8,13 04 03,oil-water mixtures,"H12,H13",414.6,-,SI,D15,,Azerbaijan,2017
+47,,Y11,17 02 04,tar impregnated wood,"H11,H13",1632.5,-,SI,,R1,Azerbaijan,2017
+48,A3140,"Y3,Y42",07 05 04,solvents,"H3,H12,H13",1189.9,-,SI,,R1,Azerbaijan,2017
+49,A3020,Y8,13 02 05,waste oil,"H12,H13",73.4,-,SI,,R1,Azerbaijan,2017
+50,A3140,"Y18,Y42",19 02 08,premixed solvents,"H3,H12,H13",44.3,-,SI,,R1,Azerbaijan,2017
+51,Y46,,19 12 12,residues from waste treatment,,28871.7,-,SI,,R1,Azerbaijan,2017
+52,,Y18,19 02 11,premixed wastes,H12,2471.1,-,SI,,R3,Azerbaijan,2017
+53,A1060,"Y17,Y34",11 01 05,etching solutions,"H8,H12,H13",575.9,-,SI,,R4,Azerbaijan,2017
+54,A1180,Y45,20 01 23,CFC-containing equipment,H12,1640.8,-,SI,,R4,Azerbaijan,2017
+55,,,16 10 02,rinsing water,H13,1517.0,-,SI,,R5,Azerbaijan,2017
+56,A1030,Y29,20 01 21,fluorescent tubes,H13,7.5,-,SI,,R5,Azerbaijan,2017
+57,,Y18,19 02 09,combustible waste,"H4.1,H12",953.6,-,SI,,R11,Azerbaijan,2017
+58,Y46,,19 12 12,residues from waste treatment,,14790.0,-,SI,,R12,Azerbaijan,2017
+59,A3020,Y8,19 02 07,waste oil,"H12,H13",2051.9,-,SI,,R13,Azerbaijan,2017
+60,A3140,"Y18,Y42",19 02 08,mixed solvents,"H3,H12,H13",3515.9,-,SI,,R13,Azerbaijan,2017
+61,A4100,,10 12 09,Filter dusts,H12,1679.2,-,IT,D1,,Azerbaijan,2017
+62,,Y18,19 01 11,premixed wastes,H12,1142.3,-,IT,D1,,Azerbaijan,2017
+63,A4010,Y2,07 07 01,solvents,"H3,H13",163.8,-,IT,D10,,Azerbaijan,2017
+64,A4060,"Y8,Y18",16 10 01,oil-water mixtures,"H12,H13",25.4,-,IT,D10,,Azerbaijan,2017
+65,,Y18,19 02 04,premixed waste,"H3,H6.1,H11,H12",8292.2,-,IT,D10,,Azerbaijan,2017
+66,,Y18,19 03 04,partly stablized wastes,"H6.1,H11",171.7,-,IT,D10,,Azerbaijan,2017
+67,A4010,"Y2,Y42",07 07 04,solvents,"H3,H12,H13",45.3,-,IT,D10,,Azerbaijan,2017
+68,A4140,,16 05 06,mixed chemicals,"H3,H6.1,H8,H11,H12,H13",5.3,-,IT,D10,,Azerbaijan,2017
+69,A3050,Y13,07 01 08,reaction residues,"H3,H11,H12",140.3,-,IT,D10,,Azerbaijan,2017
+70,A3140,"Y18,Y42",19 02 08,mixed soplvents,"H3,H11,H12",186.2,-,IT,D10,,Azerbaijan,2017
+71,,Y18,19 02 09,premixed combustible waste,"H4.1,H11,H12",1120.7,-,IT,D10,,Azerbaijan,2017
+72,,Y18,19 12 11,premixed wastes,"H4.1,H11,H12",1454.1,-,IT,D10,,Azerbaijan,2017
+73,,Y18,19 02 04,premixed waste,"H11,H12",931.8,-,IT,D9,,Azerbaijan,2017
+74,A4100,Y18,19 01 05,flue gas cleaning residues,"H6.1,H12",7301.9,-,IT,D9,,Azerbaijan,2017
+75,,Y18,19 12 11,premixed wastes,"H11,H12",1839.0,-,IT,D9,,Azerbaijan,2017
+76,Y46,,20 03 01,municipal waste,,50429.0,-,IT,,R1,Azerbaijan,2017
+77,Y46,,19 05 01,residues from bilogical treatment,,4134.2,-,IT,,R1,Azerbaijan,2017
+78,A3140,"Y18,Y42",19 02 08,mixed solvents,"H3,H12,H13",1667.3,-,IT,,R1,Azerbaijan,2017
+79,,Y18,19 02 09,premixed combustible waste,"H4.1,H11,H12",16533.0,-,IT,,R1,Azerbaijan,2017
+80,Y46,,19 12 10,RDF,,2640.9,-,IT,,R1,Azerbaijan,2017
+81,,Y18,19 02 04,premixed waste,H12,119.7,-,IT,,R3,Azerbaijan,2017
+82,A1060,"Y17,Y34",11 01 05,etching solutions,"H8,H12,H13",140.2,-,IT,,R4,Azerbaijan,2017
+83,A1030,Y18,15 01 10,packaging with residues,H12,91.0,-,IT,,R4,Azerbaijan,2017
+84,,Y18,19 12 11,premixed waste ,"H11,H12",543.8,-,IT,,R4,Azerbaijan,2017
+85,,Y17,12 01 14,production residues,"H11,H12",3.3,-,IT,,R4,Azerbaijan,2017
+86,A2010,Y31,16 02 15,monitors,H11,72.8,-,IT,,R4,Azerbaijan,2017
+87,,Y18,19 02 04,premixed waste,"H11,H12",382.6,-,IT,,R11,Azerbaijan,2017
+88,,Y18,19 12 11,premixed waste,H12,1090.1,-,IT,,R11,Azerbaijan,2017
+89,,Y11,17 02 04,tar impregnated wood,"H11,H13",366.2,-,IT,,R12,Azerbaijan,2017
+90,Y46,,19 12 04,plastics,,569.0,-,IT,,R12,Azerbaijan,2017
+91,A4130,,15 01 10,packaging with residues,H12,16.1,-,IT,,R12,Azerbaijan,2017
+92,,Y18,19 12 11,premixed waste,"H11,H12",3224.4,-,IT,,R12,Azerbaijan,2017
+93,,,07 06 01,solvent-water mixtures,"H12,H13",149.9,"RO,HU",BG,D10,,Azerbaijan,2017
+94,,Y18,19 02 04,premixed wastes,"H4.1,H11",120.0,"RO,HU",BG,D10,,Azerbaijan,2017
+95,A2030,,16 08 02,spent catalysts,"H4.2,H11",4573.6,"RO,HU",BG,,R4,Azerbaijan,2017
+96,A2030,,16 08 02,spent catalysts,"H4.2,H11",877.8,DE,BE,,R8,Azerbaijan,2017
+97,A2030,,16 08 02,spent catalysts,"H4.2,H11",4676.8,DE,FI,,R8,Azerbaijan,2017
+98,,,12 01 14,production residues,"H11,H12",113.1,DE,FR,,R4,Azerbaijan,2017
+99,A1010,Y29,18 01 10,amalgam,"H12,H13",3.9,DE,FR,,R4,Azerbaijan,2017
+100,,,12 01 14,production residues,"H11,H12",139.9,"FR,DE",GB,,R4,Azerbaijan,2017
+101,A1010,Y29,18 01 10,amalgam,"H12,H13",0.5,"FR,DE",GB,,R4,Azerbaijan,2017
+102,,Y18,12 01 18,oily sludge,"H12,H13",331.6,-,LI,,R4,Azerbaijan,2017
+103,A4010,Y2,07 05 11,production residues,"H3,H13",6.2,SI,HR,D10,,Azerbaijan,2017
+104,A4010,Y18,16 05 06,chemcals,"H4.1,H6.1,H8",14.1,SI,HR,D10,,Azerbaijan,2017
+105,,Y18,19 12 11,pretreated waste,"H4.1,H13",208.2,SI,HR,D10,,Azerbaijan,2017
+106,A3150,"Y16,Y41",19 02 08,mixed solvents,"H11,H12,H13",291.7,SI,HR,D10,,Azerbaijan,2017
+107,,Y18,19 02 09,premixed combustible waste,H12,191.7,SI,HR,D10,,Azerbaijan,2017
+108,,Y18,19 02 04,premixed waste,"H3,H4.1,H11",584.2,SI,HR,D10,,Azerbaijan,2017
+109,,Y18,19 02 08,premixed combustible waste,"H3,H11,H12",2229.4,SI,HR,D10,,Azerbaijan,2017
+110,A3150,"Y6,Y18",19 02 08,premixed combustible waste,"H3,H11,H12",277.9,SI,HR,D10,,Azerbaijan,2017
+111,,"Y16,Y41",09 01 01,developer,"H12,H13",20.3,SI,HR,D10,,Azerbaijan,2017
+112,A4030,Y4,02 01 08,pesticides,"H3,H6.1",21.7,SI,HR,D10,,Azerbaijan,2017
+113,A4090,"Y2,Y34",06 01 01,acids,H8,237.8,SI,HR,D10,,Azerbaijan,2017
+114,A4090,Y35,06 02 01,bases,H8,127.92,SI,HR,D10,,Azerbaijan,2017
+115,A4020,Y1,18 01 03,healtcare waste,H6.2,18.32,SI,HR,D10,,Azerbaijan,2017
+116,A4140,"Y21,Y26,Y29,Y34,Y35",16 05 06,chemicals,"H8,H11,H12",5.3,SI,HR,D10,,Azerbaijan,2017
+117,,Y18,19 02 09,premixed combustible waste,"H4.1,H12",48.5,SI,HR,D10,,Azerbaijan,2017
+118,A4130,Y18,15 01 10,packaging with residues,"H4.1,H11,H12",10.7,SI,HR,D10,,Azerbaijan,2017
+119,A3050,Y13,08 04 11,production residues,"H3,H4.1,H11",3.8,SI,HR,D10,,Azerbaijan,2017
+120,A4010,Y2,07 05 11,production residues,"H3,H12,H13",3.16,SI,HR,D10,,Azerbaijan,2017
+121,,Y18,19 12 11,premixed wastes,"H3,H4.1,H11,H12",1704.2,SI,HR,D10,,Azerbaijan,2017
+122,A4090,Y34,06 10 10,acids,H8,558.6,SI,HR,D9,,Azerbaijan,2017
+123,A4010,Y18,16 05 06,chemicals,"H6.1,H11,H12",1785.1,SI,HR,D9,,Azerbaijan,2017
+124,,"Y16,Y41",09 01 01,developer,"H8,H12",20.0,SI,HR,D9,,Azerbaijan,2017
+125,A1060,"Y17,Y34",11 01 05,etching solutions,"H8,H12,H13",119.9,SI,HR,,R4,Azerbaijan,2017
+126,A4130,"Y12,Y42",15 01 10,packaging with residues,"H4.1,H13",633.5,SI,HR,,R4,Azerbaijan,2017
+127,A1160,"Y31,Y34",16 06 01,lead acid batteries,"H8,H11,H12,H13",1050.7,SI,HR,,R4,Azerbaijan,2017
+128,A4090,Y34,11 01 05,acids,H8,23.6,SI,HR,,R6,Azerbaijan,2017
+129,A4160,"Y6,Y18",06 13 02,activated carbon,"H6.1,H12",45.5,SI,HR,,R7,Azerbaijan,2017
+130,Y47,, ,slag,H13,12885.8,-,CH,D1,,Azerbaijan,2017
+131,A1130,"Y17,Y22,Y34",11 01 05,etching solutions,"H8,H12,H13",288.0,-,CH,,R4,Azerbaijan,2017
+132,,Y8,12 01 18,oily sludge,"H12,H13",488.1,-,CH,,R4,Azerbaijan,2017
+133,A1030,Y29,18 01 10,amalgam,"H12,H13",0.9,-,CH,,R4,Azerbaijan,2017
+134,A1130,"Y17,Y22,Y34",11 01 05,etching solutions,"H8,H12,H13",49.53,-,CH,,R4,Azerbaijan,2017
+135,A1060,"Y17,Y34",110105,etching solutions,"H8,H12,H13",166.5,-,CH,,R5,Azerbaijan,2017
+136,A1050,Y17,11 01 09,electroplating sludge,"H11,H12,H13",30.6,-,CH,,R12,Azerbaijan,2017
+137,A1160,"Y31,Y34",16 06 01,lead acid batteries,"H8,H11,H12",1826.6,-,CH,,R13,Azerbaijan,2017
+138,A1190,Y11,17 04 10,tar containing cables,"H11,H13",2.5,-,CH,,R13,Azerbaijan,2017
+139,A1010,"Y18,Y31",19 13 02,contaminated soil ,H11,42.8,-,CH,,R13,Azerbaijan,2017
+140,A4160,Y41,15 02 02,activated carbon,"H11,H12",430.9,-,CZ,,R7,Azerbaijan,2017
+141,A4160,Y42,15 02 02 ,activated carbon,H12,221.8,-,CZ,,R7,Azerbaijan,2017
+142,,Y17,12 01 14,production residues,"H11,H12",31.6,-,CZ,,R4,Azerbaijan,2017
+143,A1060,"Y17,Y34",11 01 05,etching solutions,"H8,H12",305.3,-,HU,D9,,Azerbaijan,2017
+144,A4070,Y8,19 02 05,sludge from CP-treatment,"H12,H13",50.8,-,HU,D10,,Azerbaijan,2017
+145,A1160,"Y31,Y34",16 06 01,lead acid batteries,"H8,H11,H12",1676.6,-,HU,,R4,Azerbaijan,2017
+146,A1060,"Y17,Y34",11 01 04,etching solutions,"H8,H12,H13",233.1,-,HU,,R4,Azerbaijan,2017
+147,A3160,"Y12,Y42",07 07 08,production residues,"H3,H12",75.0,-,SK,,R1,Azerbaijan,2017
+148,A1060,"Y17,Y34",11 01 05,etching solutions,"H8,H12,H13",21.4,-,SK,,R4,Azerbaijan,2017
+149,A1190,,16 02 13,WEEEs,"H12,H13",240.3,-,SK,,R4,Azerbaijan,2017
+150,A2030,,16 08 02,spent catalysts,"H11,H12",2725.6,-,SK,,R4,Azerbaijan,2017
+151,,,10 01 04,fly ash,"H6.1,H11",288.7,DE,NL,,R4,Azerbaijan,2017
+152,,Y17,12 01 14,production residues,"H11,H12",277.6,DE,SE,,R4,Azerbaijan,2017
+153,A2030,,16 08 02,spent catalysts,"H11,H12",4538.2,CZ,PL,,R4,Azerbaijan,2017
+154,,"Y8,Y18,Y42",19 12 11,premixed wastes,"H3,H4.1,H11,H12,H13",191.9,"HR,SI",BA,D10,,Azerbaijan,2017
+155,A1180,Y45,16 02 11,CFC-containing equipment,"H12,H13",117.8,"HR,SI",BA,,R4,Azerbaijan,2017
+156,A4140,Y18,16 05 06,mixed chemicals,"H3,H6.1,H8,H11,H12",12.1,"BA,HR,SI",ME,D10,,Azerbaijan,2017
+157,,Y18,19 12 11,premixed wastes,"H3,H4.1,H11,H12,H13",134.0,"BA,HR,SI",ME,D10,,Azerbaijan,2017
+158,A1180,Y18,16 02 15,residues from WEEE treatment,"H12,H13",14.0,"HR,SI",RS,D10,,Azerbaijan,2017
+159,A3020,"Y8,Y18",15 02 02,oily wastes,"H11,H12,H13",53.1,"HR,SI",RS,D10,,Azerbaijan,2017
+160,A4070,"Y12,Y18,Y42",15 02 02,premixed wastes,"H3,H4.1,H11,H12",287.6,"HR,SI",RS,D10,,Azerbaijan,2017
+161,A4130,Y18,15 01 10,premixed wastes,"H3,H4.1,H11,H12",14.6,"HR,SI",RS,D10,,Azerbaijan,2017
+162,A4070,Y12,08 01 11,paint waste,"H3,H4.1",57.0,"HR,SI",RS,D10,,Azerbaijan,2017
+163,A4030,Y4,06 13 01,pesticides,"H6.1,H11,H12",12.9,"HR,SI",RS,D10,,Azerbaijan,2017
+164,A4010,Y2,07 05 13,production residues,"H3,H4.1,H11,H12",293.4,"HR,SI",RS,D10,,Azerbaijan,2017
+165,A4140,Y18,16 05 06,chemicals,"H6.1,H11",56.4,"HR,SI",RS,D10,,Azerbaijan,2017
+166,,"Y6,Y8,Y18",19 02 08,premixed wastes,H3,69.6,"HR,SI",RS,D10,,Azerbaijan,2017
+167,A1160,"Y31,Y34",16 06 01,lead acid batteries,"H8,H11,H12",45.2,"HR,SI",RS,D10,,Azerbaijan,2017
+168,A1010,Y29,18 01 10,amalgam,"H8,H11,H12",46.9,"FR,NL,DE",US,,R4,Azerbaijan,2017

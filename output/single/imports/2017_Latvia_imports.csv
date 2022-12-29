@@ -1,0 +1,19 @@
+,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_origin,annex_4_a_code,annex_4_b_code,country,year
+0,Y46,,191210,combustible waste (refuse derived fuel),,84846.81,DE,GB,,R1,Latvia,2017
+1,Y46,,191210,combustible waste (refuse derived fuel),,200.76,DE,NL,,R1,Latvia,2017
+2,,Y_,190204*,premixed waste composed of at least one hazardous waste,H_,9656.8,,NO,,R1,Latvia,2017
+3,Y46,,191212,other waste (including mixtures of material) from mechanical treatment of waste,,3477.58,,IE,,R12,Latvia,2017
+4,A4020,Y1,180103*,medicine waste,H6.2,212.97,,EE,,R12,Latvia,2017
+5,A4020,Y1,"180101,180103*, 180202*",Medicine waste,H6.2,121.0,,LT,,R12,Latvia,2017
+6,A1030,Y29,200121*,Fluorescent tubes and other mercury-containing waste,H11,54.46,,LT,,"R4,R5,R12",Latvia,2017
+7,A1030,Y29,200121*,Fluorescent tubes and other mercury-containing waste,H6.1,96.31,,EE,,R12,Latvia,2017
+8,,Y4,170503*,Soil and stones containing dangerous substances,H12,68.44,,LT,,R5,Latvia,2017
+9,A1180,Y_,200135,Waste electrical and electronic equipment,H12,274.57,,LT,,"R3,R4,R12",Latvia,2017
+10,A1180,Y31,160215*,Waste electrical and electronic equipment,H12,204.4,,EE,,"R3,R4,R5,R12",Latvia,2017
+11,A1180,Y_,200123*,Waste electrical and electronical equipment,H12,20.12,,EE,,"R3,R4,R12",Latvia,2017
+12,A4060,Y_,130403*,Bilge oils from other navigation,H12,461.38,,LT,,R13,Latvia,2017
+13,A4070,Y12,080111*,waste paint and varnish containing organic solvents or other dangerous substances,H3,32.71,,LT,,"R12,R13",Latvia,2017
+14,A4070,"Y6,Y12,Y42","080312*, 140603*",waste ink and other solvents,H3,126.83,,LT,,R2,Latvia,2017
+15,A4070,Y_,191211*,other wastes containing dangerous substances,H_,156.31,,LT,,"R3,R4,R12,R13",Latvia,2017
+16,A4140,Y_,160305*,organic waste containing dangerous substances,H8,7.08,,LT,,"R12,R13",Latvia,2017
+17,A1170,Y_,160605,Lithium-ion batteries,H12,46.83,EE,FI,,R13,Latvia,2017
