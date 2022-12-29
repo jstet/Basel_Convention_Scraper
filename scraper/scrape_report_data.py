@@ -116,7 +116,7 @@ def get_dfs(url, driver, dl_folder, country, year, count, maxi):
         # sometimes the column names are not exported correctly
         # also chance to rename them
         # some columns are removed, some are named differentently after 2015
-        # we are assuming that some differently named columns are the same:
+        # assuming that some differently named columns are the same:
         # Final disposal operation -> annex_4_a
         # Recovery operation -> annex_4_b
         # h code -> annex_3
@@ -209,4 +209,4 @@ def download(reports):
 
 
 reports = pd.read_csv("../output/national_reports.csv")
-download(reports[:3])
+download(reports)
