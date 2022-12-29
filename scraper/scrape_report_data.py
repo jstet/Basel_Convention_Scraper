@@ -124,7 +124,7 @@ def get_dfs(url, driver, dl_folder, country, year, count, maxi):
         if year >= 2015:
             zero = "annex_2_8_9"
             one = "annex_1"
-            two = "national"
+            two = "national_code"
             three = "type_of_waste"
             four = "annex_3"
             five = "amount"
