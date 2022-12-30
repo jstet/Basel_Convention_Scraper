@@ -8,9 +8,9 @@ from selenium import webdriver
 import chromedriver_autoinstaller
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions
 from selenium.common.exceptions import TimeoutException
 from selenium.common.exceptions import NoSuchElementException
+from selenium.common.exceptions import ElementClickInterceptedException
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import StaleElementReferenceException
 from rich.console import Console
@@ -53,13 +53,13 @@ op.add_argument('--headless')
 
 def get_dfs(url, driver, dl_folder, country, year, count, maxi):
     console.log(
-        f"trying national report {count}/{maxi}. Url: {url} belonging to {country} in year {year}")
+        f"Trying national report {count}/{maxi}. \n Url: {url} \n belonging to {country} in year {year} \n")
 
     results = []
 
+    
     for i in ["Export", "Import"]:
-        print(url)
-
+        console.log(f"Downloading {i}s")
         driver.get(url)
         driver.implicitly_wait(2)
 
@@ -78,20 +78,27 @@ def get_dfs(url, driver, dl_folder, country, year, count, maxi):
                 "window.scrollTo(0, document.body.scrollHeight)")
             # table load times can be pretty long
             ignored_exceptions = (NoSuchElementException,
-                                  StaleElementReferenceException,)
-            export_btn = WebDriverWait(driver, 60, ignored_exceptions=ignored_exceptions)\
-                .until(expected_conditions.presence_of_element_located((By.XPATH, "//*[contains(text(), 'Export to Excel')]")))
+                                  StaleElementReferenceException, ElementClickInterceptedException)
+
+            w8 = WebDriverWait(driver, 60, ignored_exceptions=ignored_exceptions).until(
+                EC.all_of(
+                    EC.invisibility_of_element_located((By.XPATH, "//*[contains(text(), '1a - Designated Competent Authority to the Basel Convention.')]")),
+                    EC.invisibility_of_element_located((By.XPATH, "//*[contains(text(), 'The table is loading, please wait ...')]")),
+                    
+                )
+            )
             driver.execute_script(
                 "window.scrollTo(0, document.body.scrollHeight)")
+            export_btn = driver.find_element(By.XPATH, "//*[contains(text(), 'Export to Excel')]")
             export_btn.click()
-        except Exception as e:
-            dct["error"] = e
-            traceback.print_exc()
+        except Exception as err:
+            msg = "".join(traceback.format_exception(type(err), err, err.__traceback__))
+            dct["error"] = msg
             results.append(dct)
             continue
 
         # wating some time for file dl
-        
+
         for y in range(60):
             time.sleep(2)
             lst = os.listdir(dl_folder)
@@ -146,7 +153,7 @@ def get_dfs(url, driver, dl_folder, country, year, count, maxi):
 
             temp_df = temp_df.rename(columns={temp_df.columns[0]: zero,  temp_df.columns[1]: one,  temp_df.columns[2]: two,  temp_df.columns[3]: three,
                                               temp_df.columns[4]: four,  temp_df.columns[5]: five,  temp_df.columns[6]: six,  temp_df.columns[7]: seven,  temp_df.columns[8]: eight,  temp_df.columns[9]: nine})
-            
+
         else:
             zero = "y_code"
             one = "waste_constituents"
@@ -165,7 +172,6 @@ def get_dfs(url, driver, dl_folder, country, year, count, maxi):
 
             temp_df = temp_df.rename(columns={temp_df.columns[0]: zero,  temp_df.columns[1]: one,  temp_df.columns[2]: two,  temp_df.columns[3]: three,
                                               temp_df.columns[4]: four,  temp_df.columns[5]: five,  temp_df.columns[6]: six,  temp_df.columns[7]: seven,  temp_df.columns[8]: eight,  temp_df.columns[9]: nine, temp_df.columns[10]: ten})
-            
 
         dct["df"] = temp_df
         results.append(dct)
@@ -218,4 +224,5 @@ def download(reports):
 
 reports = pd.read_csv("../output/national_reports.csv")
 # download(reports.iloc[[59]].reset_index())
+# download(reports.iloc[::-1].reset_index())
 download(reports)

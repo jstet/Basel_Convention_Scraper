@@ -1,4 +1,4 @@
-,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_origin,annex_4_a_code,annex_4_b_code,country,year
+,annex_2_8_9,annex_1,national_code,type_of_waste,annex_3,amount,countries_of_transit ,country_of_origin,annex_4_a,annex_4_b,country,year
 0,A3140,Y6,A3140,non-halogenated organic solvents,H3,500.0,,NZ,,"R1,R13",Australia,2021
 1,A4090,Y35,A4090,waste alkalis,"H6.1,H8,H10",100.0,,PG,"D5,D9",,Australia,2021
 2,A4090,Y34,A4090,waste acids,"H6.1,H8,H10",100.0,,PG,"D5,D9",,Australia,2021

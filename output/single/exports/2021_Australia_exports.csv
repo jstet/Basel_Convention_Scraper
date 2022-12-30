@@ -1,4 +1,4 @@
-,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
+,annex_2_8_9,annex_1,national_code,type_of_waste,annex_3,amount,countries_of_transit ,country_of_destination,annex_4_a,annex_4_b,country,year
 0,A2030,Y42,A2030,"Spent catalyst containing high value metals and organic solvents including benzene, ethylbenzene and xylene ","H11,H12",110,NZ,US,,R8,Australia,2021
 1,"A1020,A1030,A1040,A1160,A2050,A3020,A4060","Y8,Y9,Y21,Y29,Y31,Y36",160104,End-of-life vessel,"H3,H6.1,H8,H11",16079,,TR,,"R4,R12",Australia,2021
 2,A1160,Y31,A1160,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",3500,JP,KR,,R4,Australia,2021

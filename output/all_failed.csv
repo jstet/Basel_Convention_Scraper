@@ -1,45 +1,34 @@
 ,year,country,link,reason,kind
-0,2020,France,http://ers.basel.int/ERS-Extended/FeedbackServer/fsadmin.aspx?fscontrol=respondentReport&surveyid=82&voterid=51188&readonly=1&nomenu=1,"Message: 
+0,2021,Benin,http://ers.basel.int/ERS-Extended/FeedbackServer/fsadmin.aspx?fscontrol=respondentReport&surveyid=83&voterid=56177&readonly=1&nomenu=1,"Traceback (most recent call last):
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/scraper/scrape_report_data.py"", line 92, in get_dfs
+    export_btn = driver.find_element(By.XPATH, ""//*[contains(text(), 'Export to Excel')]"")
+  File ""/home/jstet/.local/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py"", line 861, in find_element
+    return self.execute(Command.FIND_ELEMENT, {""using"": by, ""value"": value})[""value""]
+  File ""/home/jstet/.local/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py"", line 444, in execute
+    self.error_handler.check_response(response)
+  File ""/home/jstet/.local/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py"", line 249, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(), 'Export to Excel')]""}
+  (Session info: headless chrome=108.0.5359.124)
 Stacktrace:
-#0 0x563ca724c563 <unknown>
-#1 0x563ca700b667 <unknown>
-#2 0x563ca7047e0b <unknown>
-#3 0x563ca7048071 <unknown>
-#4 0x563ca7081d34 <unknown>
-#5 0x563ca706814d <unknown>
-#6 0x563ca707fa7c <unknown>
-#7 0x563ca7067ef3 <unknown>
-#8 0x563ca703b49e <unknown>
-#9 0x563ca703c5ae <unknown>
-#10 0x563ca729bfde <unknown>
-#11 0x563ca729f4c4 <unknown>
-#12 0x563ca728278e <unknown>
-#13 0x563ca72a0393 <unknown>
-#14 0x563ca7275665 <unknown>
-#15 0x563ca72c1108 <unknown>
-#16 0x563ca72c1296 <unknown>
-#17 0x563ca72dc183 <unknown>
-#18 0x7f32b8a9d8fd <unknown>
-",exports
-1,2020,France,http://ers.basel.int/ERS-Extended/FeedbackServer/fsadmin.aspx?fscontrol=respondentReport&surveyid=82&voterid=51188&readonly=1&nomenu=1,"Message: 
-Stacktrace:
-#0 0x563ca724c563 <unknown>
-#1 0x563ca700b667 <unknown>
-#2 0x563ca7047e0b <unknown>
-#3 0x563ca7048071 <unknown>
-#4 0x563ca7081d34 <unknown>
-#5 0x563ca706814d <unknown>
-#6 0x563ca707fa7c <unknown>
-#7 0x563ca7067ef3 <unknown>
-#8 0x563ca703b49e <unknown>
-#9 0x563ca703c5ae <unknown>
-#10 0x563ca729bfde <unknown>
-#11 0x563ca729f4c4 <unknown>
-#12 0x563ca728278e <unknown>
-#13 0x563ca72a0393 <unknown>
-#14 0x563ca7275665 <unknown>
-#15 0x563ca72c1108 <unknown>
-#16 0x563ca72c1296 <unknown>
-#17 0x563ca72dc183 <unknown>
-#18 0x7f32b8a9d8fd <unknown>
+#0 0x55adf9324563 <unknown>
+#1 0x55adf90e3667 <unknown>
+#2 0x55adf911fe0b <unknown>
+#3 0x55adf9120071 <unknown>
+#4 0x55adf9159d34 <unknown>
+#5 0x55adf914014d <unknown>
+#6 0x55adf9157a7c <unknown>
+#7 0x55adf913fef3 <unknown>
+#8 0x55adf911349e <unknown>
+#9 0x55adf91145ae <unknown>
+#10 0x55adf9373fde <unknown>
+#11 0x55adf93774c4 <unknown>
+#12 0x55adf935a78e <unknown>
+#13 0x55adf9378393 <unknown>
+#14 0x55adf934d665 <unknown>
+#15 0x55adf9399108 <unknown>
+#16 0x55adf9399296 <unknown>
+#17 0x55adf93b4183 <unknown>
+#18 0x7f2958e558fd <unknown>
+
 ",imports
