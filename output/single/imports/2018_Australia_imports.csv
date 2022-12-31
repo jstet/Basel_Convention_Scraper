@@ -1,9 +1,0 @@
-,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_origin,annex_4_a_code,annex_4_b_code,country,year
-0,A1170,"Y26,Y31",A1170,"Household batteries (including Lithium ion, Nickel Metal Hydride)","H8,H13",100,NZ,FR,,"R4,R13",Australia,2018
-1,A1180,"Y22,Y23,Y31,Y45",A1180,"WEEE, CRT, LCD, household batteries (inc lithium ion, Nickel Metal Hydride)","H12,H13",500,NZ,FR,,R13,Australia,2018
-2,A4160,"Y11,Y18,Y41",A4160,Spent activated carbon,"H1,H3,H4.2",60,,PG,"D5,D9",,Australia,2018
-3,A1180,"Y26,Y29,Y31,Y45",,E-waste (mixed electronic waste)/WEEE,H12,1200,,NZ,,R4,Australia,2018
-4,A1180,"Y22,Y23,Y31,Y45",A1180,Waste electrical and electronic equipment and assemblies and household batteries,"H12,H13",500,NZ,FR,,R13,Australia,2018
-5,A4020,Y1,,Cytotoxic clinical waste,H6.1,150,,NZ,D10,,Australia,2018
-6,A3140,Y6,G160,Mixture of waste non-halogenated organic solvents,H3,300,,NZ,,R1,Australia,2018
-7,A4030,Y4,H100,Mixed pesticide residue,H6.1,300,,NZ,,R1,Australia,2018

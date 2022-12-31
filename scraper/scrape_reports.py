@@ -53,11 +53,12 @@ for count, link in enumerate(links):
         url = link
         r_soup = r_obj.get(url)
     # some links are not a real url but something like this: LinkClick.aspx?link=4751&tabid=9379&portalid=4&mid=13039
-    # so we have to manually build an url by extracting year and tab_id (whatever that is)
+    # so we have to manually build an url by extracting year and link parameter (whatever that is)
     except requests.exceptions.RequestException as e:
         console.log(f"We need to build this url.")
-        tab_id = re.findall("(?<=tabid=)(.*)(?=&portal)", link)[0]
+        tab_id = re.findall("(?<=link=)(.*)(?=&tabid)", link)[0]
         url = f"http://www.basel.int/Countries/NationalReporting/NationalReports/BC{year}Reports/tabid/{tab_id}/Default.aspx"
+        console.log(f"url: {url}")
         r_soup = r_obj.get(url)
 
     # the country reports are embedded in a iframe, so we cant retreive links directly with beautiful soup

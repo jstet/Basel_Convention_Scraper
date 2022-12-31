@@ -1,0 +1,15 @@
+,y_code,waste_constituents,annex_8,un_class,annex_3,characteristics,amount,countries_of_transit,country_of_origin,annex_4_a,annex_4_b,country,year
+0,Y1,Clinical and related waste,A4020,,H6.1,2,120,,NZ,D10,,Australia,2015
+1,Y29,Crushed lamps and Fluorescent tubes ,"A1180,A1010",,H6.1,"1, 2 ",50,,NZ,,"R4,R5",Australia,2015
+2,Y6,Waste Solvent,A3140,,H3,5,400,,NZ,,R1,Australia,2015
+3,Y4,Waste Pesticides ,A4030,,H6.1,"4, 2",180,,NZ,,R1,Australia,2015
+4,Y8,Waste oil ,A3020,,H3,5,250,,PG,,R9,Australia,2015
+5,"Y26,Y29,Y31,Y45","Waste electrical and electronic assemblies or scrap, including steel, plastic, copper, nickel, zinc, gold, silver, aluminium, tantalum, and other metals and compounds found on electronics and printed circuit boards",A1180,,H12,2,1200,,NZ,,R4,Australia,2015
+6,Y1,Clinical and related waste,A4020,,H6.1,"2, 4, 5",150,,NZ  ,D10,,Australia,2015
+7,Y41,Halogenated solvents ,A3150,,H6.1,5,10000,,PG,,R1,Australia,2015
+8,Y42,Non-halogenated Solvents,A3140,,H3,5,100,,PG,,R1,Australia,2015
+9,Y34,Waste Acids ,A4090,,H8,5,50,,PG,D9,,Australia,2015
+10,Y35,Waste Bases/Alkalis,A4090,,H8,5,50,,PG,D9,,Australia,2015
+11,Y31,Resins ,A3050,,H3,5,50,,PG,,R1,Australia,2015
+12,Y_,Oxidisers ,A4140,,H5.1,2,10,,PG,D9,,Australia,2015
+13,Y8,Waste lubricating oil,A3020,,H12,5,50,,PG,,R9,Australia,2015

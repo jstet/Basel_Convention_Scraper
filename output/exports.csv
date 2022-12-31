@@ -1,24 +1,208 @@
-annex_2_8_9,annex_1,national_code,type_of_waste,annex_3,amount,countries_of_transit ,country_of_destination,annex_4_a,annex_4_b,country,year
-A2030,Y42,A2030,"Spent catalyst containing high value metals and organic solvents including benzene, ethylbenzene and xylene ","H11,H12",110,NZ,US,,R8,Australia,2021
-"A1020,A1030,A1040,A1160,A2050,A3020,A4060","Y8,Y9,Y21,Y29,Y31,Y36",160104,End-of-life vessel,"H3,H6.1,H8,H11",16079,,TR,,"R4,R12",Australia,2021
-A1160,Y31,A1160,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",3500,JP,KR,,R4,Australia,2021
-A1160,Y31,A1160,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",6000,JP,KR,,R4,Australia,2021
-A1160,Y31,A1160,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",4000,JP,KR,,R4,Australia,2021
-A1020,Y31,191211,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",18000,"SG,ES,GB,BE,EG,DE,ID,MY",PL,,R4,Australia,2021
-A2030,Y42,A2030,Spent catalyst containing platinum and hydrocarbons,"H11,H12",70,,JP,,R4,Australia,2021
-A1160,Y31,A1160,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",6000,JP,KR,,R4,Australia,2021
-A1020,Y31,60405,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",18000,"SG,MY,SA,EG,TR",BG,,R4,Australia,2021
-A1020,Y31,A1020,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",12000,"SG,MY,GR,EG,IT,FR",ES,,R4,Australia,2021
-A1170,Y26,514103,unsorted waste batteries,"H8,H11,H12",200,,KR,,R4,Australia,2021
-A1170,"Y15,Y34,Y35",A1170,Used lithium metal batteries,"H8,H10,H12",10,"NZ,US",CA,,R4,Australia,2021
-A1180,"Y15,Y34,Y35",A1180,Lithium metal batteries in electrical equipment ,"H8,H10,H12",5,"NZ,US",CA,,R4,Australia,2021
-A3170,Y41,A3170,hexachlorobenzene waste and chlorinated wastes containing hexachlorobenzene,"H6.1,H12",550,FI,SE,D10,,Australia,2021
-A3170,Y41,A3170,hexachlorobenzene waste and chlorinated wastes containing hexachlorobenzene,"H6.1,H12",1900,SE,FI,D10,,Australia,2021
-A3170,Y41,A3170,hexachlorobenzene waste and chlorinated wastes containing hexachlorobenzene,"H6.1,H12",600,,FI,D10,,Australia,2021
-A1160,Y31,A1160,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",2500,JP,KR,,R4,Australia,2021
-A3170,Y41,A3170,hexachlorobenzene waste and chlorinated wastes containing hexachlorobenzene,"H6.1,H12",1000,FI,SE,D10,,Australia,2021
-A3170,Y41,A3170,hexachlorobenzene and other chlorinated wastes ,"H6.1,H12",260,FI,SE,D10,,Australia,2021
-A1020,Y31,A1020,Lead Waste derived from Used Lead Acid Batteries,"H11,H12",18000,"ID,MY,KR,SG",PH,,R4,Australia,2021
-A2030,Y42,A2030,spent refining catalyst,H4.2,2000,,SG,,R4,Australia,2021
-A4060,Y8,no national code,minéral waste oil,,250,TG,,D2,R9,Benin,2021
-A4060,Y8,no national code,minéral waste oil,,250,TG,,D2,R9,Benin,2021
+annex_2_8_9,annex_1,national_code,type_of_waste,annex_3,amount,countries_of_transit,country_of_destination,annex_4_a,annex_4_b,country,year,y_code,waste_constituents,annex_8,un_class,characteristics
+,"Y31,Y34",8548101000,lead acid batteries containing acidic solutions and/or acidic solid forms,H11,48.0,"BR,MA",ES,,R4,Uruguay,2016,,,,,
+A3020,Y8,1522009900,Soapstock,H4.1,179.8,,KZ,,R2,Uzbekistan,2016,,,,,
+A1030,Y29,2503.00.0000,Azufre fuera de especificación,H8,1500.0,,KR,,R_,Venezuela (Bolivarian Republic of),2016,,,,,
+A4160,,12 01 04,Used activated carbon ,H11,300.0,"BE,EG,DE,MY,NL,SG,ES,LK",CH,D10,,Viet Nam,2016,,,,,
+A1060,"Y31,Y34","Y31 - Lead; lead compounds
+Y34 - Acidic solutions or acids in solid form",Spent Lead Batteries,H11,2007.0,"DJ,OM",KR,,"R4,R6",Yemen,2016,,,,,
+,,,,,2.6,,ES,D10,,Andorra,2015,Y1,,,,Clinical medical waste
+,,,,,5.2,,ES,D9,,Andorra,2015,Y3,,,,"Waste pharmaceuticals, drugs and medicines"
+,,,,,204.9,,ES,,R9,Andorra,2015,Y8,,,,Waste mineral oils
+,,,,,173.6,,ES,,R3,Andorra,2015,Y9,,,,"Waste oils/water, hydrocarbons/water mixtures, emulsions"
+,,,,,130.60000000000002,,ES,D9,,Andorra,2015,"Y12,Y13",,,,Waste of pain and varnish / Waste of glue and water glue
+,,,,,6.2,,ES,D9,,Andorra,2015,Y16,,,,Waste photographic chemicals
+,,,,,608.3,,ES,"D5,D9",,Andorra,2015,Y18,,,,waste resulting from the operations of disposal of industrial wastes
+,,,,,124.9,,ES,,R13,Andorra,2015,"Y21,Y45",,,,Hexavalent chromium and organohalogen compounds
+,,,,,16.1,,ES,,R4,Andorra,2015,Y29,,,,Mercury compounds
+,,,,,212.2,,ES,,R4,Andorra,2015,Y31,,,,Bateries 
+,,,,,6.5,,ES,D9,,Andorra,2015,Y34,,,,Lab reagents and inorganic acids
+,,,,,6.5,,ES,D9,,Andorra,2015,Y35,,,,Basic solutions or basis in solid form
+,,,,,66.5,,ES,D5,,Andorra,2015,Y36,,,,Asbestos
+,,,,,1.3,,ES,D9,,Andorra,2015,Y41,,,,Halogenated organic solvents
+,,,,,27.2,,ES,D9,,Andorra,2015,Y42,,,,Organic solvents excluding halogenated solvents
+,,,,,12.2,,ES,,R3,Andorra,2015,Y45,,,,Organohalogen compounds
+,,,,,1087.2,,ES,D12,,Andorra,2015,Y47,,,,Ashes from the incineration of household wastes
+,,,,14.0,183.2,,ES,,R4,Andorra,2015,Y_,,,,"Electric and electronic wastes (seryllium, copper, selenium, antomony, lead compounds and organohalogen compounds)"
+,,,,"H11,H12",372.13,BR,FR,D9,,Argentina,2015,Y10,"Liquids and capacitors containing PCBs inside and PCB contaminated solid materials such as rags, absorbent, porous materials, elelentos personal protection, land and housings for electrical equipmen",A3180,9,Toxic (delayed or chronic effects); Ecotoxicological
+,,,,H13,97.15,,BE,,R4,Argentina,2015,"Y20,Y21,Y22,Y23,Y25,Y26,Y27,Y29,Y31",Y48 Resolution SADS 897/2002 Printed Circuit Boards from WEE (PCB),A1180,9,Material that could leach hazardous constituent
+,,,,"H11,H12,H13",3.22,,BE,,"R4,R8",Argentina,2015,Y23,Depleted catalysts of zinc oxide,B2030,9,Material that could leach hazardous constituent
+,,,,H11,2000.0,,IR,,R4,Armenia,2015,Y31,Lead; lead compounds,A1160,9,"Waste lead-acid batteries, whole or crushed"
+,,,,H6.1,5500.0,"ZA,ES,DE,GB",BE,,R4,Australia,2015,"Y31,Y32",Lead dross copper-rich ,A1020,6.1,2
+,,,,"H11,H12",1800.0,,KR,,R4,Australia,2015,Y31,"Crushed, mixed cathode ray tube glass ",A2010,9,2
+,,,,"H11,H12",1500.0,,KR,,R4,Australia,2015,Y31,Lead waste and scrap derived from used lead acid batteries,A1020,9,2
+,,,,"H4.2,H12",500.0,"SG,MY,LK,OM,EG,PT,FR,GB,DE,BE,NL",CH,,R4,Australia,2015,"Y22,Y23,Y29","Spent puraspec absorbent and CMG guard beds containing a mixture of copper sulfide/basic copper carbonate, zinc sulfide/basic zinc carbonate and cementious binder contaminated with trace levels of organic impurities and low levels of mercury sulfide ",A2030,4.2,"1, 2"
+,,,,"H11,H12",6000.0,,KR,,R4,Australia,2015,Y31,Lead waste and scrap derived from used lead acid batteries,A1020,9,2
+,,,,H4.2,20.0,"MY,EG,GB,BE",NL,,R8,Australia,2015,Y_,"Waste catalyst containing aluminium oxide, molybdenum trioxide and cobalt oxide ",A2030,4.2,2
+,,,,H4.2,150.0,"MY,EG,GB,BE",NL,,R8,Australia,2015,Y22,"Waste catalyst containing iron oxide, chromium oxide, copper oxide and graphite ",A2030,4.2,2
+,,,,,5.0,"NZ,US",CA,,R4,Australia,2015,Y_,Waste Lithium metal batteries not contained in equipment ,A1170,9,2
+,,,,,2.0,"NZ,US",CA,,R4,Australia,2015,Y_,Waste Lithium batteries contained in equipment,A1180,9,2
+,,,,H8,500.0,,KR,,R4,Australia,2015,"Y23,Y35",Used alkaline and manganese batteries,A1170,8,2
+,,,,H12,3000.0,"SG,EG,NL,DE,GB",BE,,R4,Australia,2015,"Y23,Y31",Zinc ashes,A1080,9,1
+,,,,H12,3000.0,"SG,EG,NL,DE,GB",BE,,R4,Australia,2015,"Y23,Y31",Zinc skimmings,A1080,9,1
+,,,,"H11,H12",12000.0,,KR,,R4,Australia,2015,Y31,Lead waste and scrap derived from used lead acid batteries ,A1020,9,2
+,,,,"H8,H11,H12",1000.0,,KR,,R4,Australia,2015,Y35,Waste alkaline and manganese batteries,A1170,8,2
+,,,,"H8,H11,H12",1000.0,,KR,,R4,Australia,2015,Y35,Waste alkaline and manganese batteries,A1170,8,2
+,,,,"H4.2,H11,H12",600.0,,SG,,"R4,R8",Australia,2015,Y42,Waste catalysts but excluding such wastes specified on list B ,A2030,"4.2,9",2
+,,,,,20.0,"NZ,US",CA,,R4,Australia,2015,Y_,Waste Lithium metal batteries ,A1170,9,2
+,,,,,2.0,"NZ,US",CA,,R4,Australia,2015,Y_,Waste Lithium metal batteries in equipment ,A1180,9,2
+,,,,H6.1,120.0,"MY,EG,GB,BE",BE,,R4,Australia,2015,Y31,Solder dross ,A1020,6.1,7
+,,,,H11,100.0,,JP,,R4,Australia,2015,Y26,"Scraps of Ni-Cd Battery, Ni-MH Battery and/or Li-Ion Battery ",A1170,9,2
+,,,,"H6.1,H8,H11",150.0,"SG,MY",KR,,R4,Australia,2015,Y26,Waste nickel-cadmium batteries ,A1170,8,"2, 3, 4, 5"
+,,,,"H11,H12,H13",20000.0,"PH,SG,MY,EG,ZA,GB,DE,NL",BE,,R4,Australia,2015,"Y31,Y22",Lead Copper Dross ,A1020,9,2
+,,,,6.1,0.6079999999999999,,DE,D10,,Austria,2015,Y_,chemicals in gas cylinders,A4010,2,hazardous gases
+,,,,H13,32.96,,DE,,R5,Austria,2015,Y_,leachable metals,A4100,,fly ash
+,,,,4.1,292.86,,DE,,R4,Austria,2015,Y_,Mo  Ni  catalysts,A2030,4.1,spent catalysts
+,,,,H13,16.88,,DE,D10,,Austria,2015,Y_,Li batteries,A1170,9,hazardous batteries
+,,,,H13,1656.773,"DE,PL,SK",FI,,R4,Austria,2015,Y_,"Co, Ni",,9,sludge from C/P treatment
+,,,,H13,65.35,DE,NL,,R12,Austria,2015,Y_,used electrical equipment,A1180,,WEEEs with hazardous components
+,,,,H12,84.94,DE,FI,,R4,Austria,2015,Y_,Li batteries,A1170,9,hazardous batteries
+,,,,H8,0.3,,DE,D10,,Austria,2015,Y_,tin(IV)chloride,A4140,8,hazardous chemicals
+,,,,H13,20.0,,SE,D15,,Austria,2015,Y_,unsorted chemicals,A4140,9,hazardous chemicals
+,,,,H11,17.57,,DE,,R3,Austria,2015,Y_,contaminated wood,,,waste from C&D
+,,,,H6.2,264.32,,DE,D10,,Austria,2015,Y1,waste from healthcare,A4020,6.2,mixed clinical wastes
+,,,,H12,10.24,,CH,,R1,Austria,2015,Y1,unsorted medicines,A4010,9,unsorted medicines
+,,,,H6.2,7.575999999999999,,DE,,R12,Austria,2015,Y1,waste from healthcare,A4020,6.2,clinical wastes
+,,,,H3,740.55,"DE,NL",BE,,R2,Austria,2015,Y2,solvent containing waste,A3140,3,waste from production
+,,,,H3,239.4,,DE,,R2,Austria,2015,Y2,solvent containing waste,A3140,3,waste from production
+,,,,H3,99.8,,DE,,R5,Austria,2015,Y2,solvent containing waste,A4010,3,waste from production
+,,,,H13,70.74,,DE,D13,,Austria,2015,Y2,solvent containing waste,A4010,,waste from production
+,,,,H11,21.44,,DE,D10,,Austria,2015,Y3,unsorted medicines,A4010,4.1,unsorted medicines
+,,,,H11,13.806,,DE,,R13,Austria,2015,Y6,solvent containing waste,A3150,6.1,perchloroethylene
+,,,,H3,179.18,DE,NL,,R2,Austria,2015,Y6,solvent containing waste,A3140,3,solvent mixtures
+,,,,H13,41.098,,DE,,R2,Austria,2015,Y6,solvent containing waste,A3140,8,solvent mixtures
+,,,,H13,207.138,,DE,,R12,Austria,2015,Y6,solvent containing waste,,,break fluid
+,,,,H12,191.38,,HU,,R9,Austria,2015,Y8,waste oil,A3020,9,waste oil
+,,,,13,1048.3,,CH,,R1,Austria,2015,Y8,oily waste,,9,waste from craft shops
+,,,,H12,15895.4,,DE,,R9,Austria,2015,Y8,waste oil,A3020,9,waste oil
+,,,,H13,749.38,,DE,,R9,Austria,2015,Y8,waste oil,A3020,,transformer oil
+,,,,H11,17207.27,,DE,,R1,Austria,2015,Y11,creosote containing wood,,,railway sleeper
+,,,,H11,101.5,CZ,DE,,R1,Austria,2015,Y11,creosote containing wood,,,railway sleeper
+,,,,H11,148.24,,DE,,R1,Austria,2015,Y11,creosote containing wood,,,railway sleeper
+,,,,H11,5453.04,,DE,,R12,Austria,2015,Y11,creosote containing wood,,,railway sleeper
+,,,,H11,297.37,,DE,,R4,Austria,2015,Y11,tar containing waste,A1190,,cable scrap
+,,,,H3,77.59999999999998,,DE,,R2,Austria,2015,Y12,solvent containing waste,A3140,3,waste from production
+,,,,H11,39.4341,,DE,D10,,Austria,2015,Y15,explosives,A4080,1,gas generators
+,,,,H12,22.958,DE,BE,,R4,Austria,2015,Y17,copper bearing wastes,A1130,8,etching solutions
+,,,,H11,855.9,"DE,NL",BE,,R4,Austria,2015,Y17,Ni bearing sludge,A1050,9,galvanic sludge
+,,,,H8,101.728,,DE,,R4,Austria,2015,Y17,acids,A1060,8,etching solutions
+,,,,H13,106.585,,DE,,R4,Austria,2015,Y17,oily waste,,,grinding sludge
+,,,,H11,334.958,,DE,,R4,Austria,2015,Y17,Ni  Cu  and Zn  bearing waste,A1050,9,galvanic sludge
+,,,,H12,21.352,,DE,,R4,Austria,2015,Y17,Cu bearing waste,A1050,9,galvanic sludge
+,,,,H6.1,56.17,,DE,D12,,Austria,2015,Y17,cyanidic waste,,"6,1",hardening salt
+,,,,H13,1783.02,,CH,,R1,Austria,2015,Y18,waste from shredding,A3120,,FLUFF
+,,,,H3,10.94,,DE,D10,,Austria,2015,Y18,mixed chemicals,A4140,9,chemicals
+,,,,H3,3861.0,,DE,D10,,Austria,2015,Y18,solvent containing waste,,3,premixed wastes
+,,,,H4.1,755.42,,DE,D10,,Austria,2015,Y18,pre treated hazardouse waste,,4.1,premixed wastes
+,,,,H11,1.695,,DE,D10,,Austria,2015,Y18,spent catalysts,A2030,4.3,gas cleaning device
+,,,,H13,2299.38,,DE,D10,,Austria,2015,Y18,liquid waste from treatment,,9,aquouse waste
+,,,,H4.1,1271.02,,DE,,R1,Austria,2015,Y18,oily wastes,,4.1,adsorbents
+,,,,H13,498.74,,DE,,R1,Austria,2015,Y18,waste from shredding,A3120,9,FLUFF
+,,,,H11,350.144,,DE,,R1,Austria,2015,Y18,tar containing waste,,,production residues
+,,,,H13,2430.25,,DE,,R12,Austria,2015,Y18,waste from C/P treatment,,9,waste water treatment sludge
+,,,,H12,689.88,,DE,,R5,Austria,2015,Y18,waste from shredding,A3120,9,FLUFF
+,,,,H11,727.9289999999999,,DE,,R4,Austria,2015,Y18,V  bearing waste,,8,residues from flue gas treatment
+,,,,H6.1,1.039,,DE,,R4,Austria,2015,Y18,spent adsorbent,A4100,6.1,gas cleaning device
+,,,,H4.3,18827.88,,DE,,R5,Austria,2015,Y18,residues from secondary smelters,,4.3,salt slag
+,,,,H4.3,170.31,,DE,,R4,Austria,2015,Y18,residues from secondary smelters,,4.3,salt slag
+,,,,H11,23.92,,DE,,R4,Austria,2015,Y18,tar containing waste,A1190,,pretreated cable
+,,,,H11,4055.512,,DE,,R5,Austria,2015,Y18,lead glass,A2010,,waste from monitors
+,,,,H4.3,24.5,,DE,,R4,Austria,2015,Y18,Mg bearing waste,,4.3,drosses
+,,,,H13,24.33,,DE,,R5,Austria,2015,Y18,waste from clean up procedure,,,drosses
+,,,,H4.3,24917.725,DE,FR,,R4,Austria,2015,Y18,residues from secondary smelters,,4.3,salt slag
+,,,,H12,358.57,,IT,,R4,Austria,2015,Y18,waste from mechanical treatment,,,metal bearing waste
+,,,,H13,22.5,,IT,,R4,Austria,2015,Y18,waste from car dismantling,,,oil filters
+,,,,H11,890.1,DE,NL,,R12,Austria,2015,Y18,waste from clean up procedures,,,contaminted soil
+,,,,H11,3136.94,DE,NL,,R5,Austria,2015,Y18,waste from clean up procedures,,,contaminted soil
+,,,,H11,373.22,,DE,,R1,Austria,2015,Y18,contaminated wood,,,waste from C&D
+,,,,H12,234.167,,DE,,R4,Austria,2015,Y18,Ni  and Co bearing sludges,,9,metal bearing sludge
+,,,,H12,127.853,,DE,,R4,Austria,2015,Y18,Ni  and Co bearing sludges,,9,metal bearing sludge
+,,,,H12,77.91,,CH,,R12,Austria,2015,Y22,Cu bearing wastes,A1050,9,galvanic sludge
+,,,,H12,51.021,,DE,,R4,Austria,2015,Y22,Cu bearing wastes,A1050,9,galvanic sludge
+,,,,H13,89.8,,DE,,R4,Austria,2015,Y22,Cu bearing wastes,A2030,9,spent catalysts
+,,,,H8,58.8,,DE,,R4,Austria,2015,Y22,Cu bearing wastes,A1060,8,etching solutions
+,,,,H6.1,1227.679,DE,BE,,R4,Austria,2015,Y23,Zn bearing wastes,A1100,6.1,filter dusts
+,,,,H8,1383.031,,DE,,R4,Austria,2015,Y23,Zn bearing wastes,A1170,,unsorted batteries
+,,,,H13,15.532,,DE,,R4,Austria,2015,Y23,Zn bearing wastes,A1100,9,filter dusts
+,,,,H8,202.75,,DE,,R4,Austria,2015,Y23,Zn bearing wastes,A1060,8,pickling acids
+,,,,H8,1235.63,,DE,,R5,Austria,2015,Y23,Zn bearing wastes,A1060,8,pickling acids
+,,,,H13,98192.824,,DE,,R4,Austria,2015,Y23,Zn bearing wastes,A4100,9,steel work dust
+,,,,H11,54.356,,DE,,R4,Austria,2015,Y23,Zn bearing wastes,A1080,,filter dusts
+,,,,H12,38.84,,DE,,R4,Austria,2015,Y23,Zn bearing wastes,A4100,9,filter dusts
+,,,,H12,599.64,,DE,,R4,Austria,2015,Y23,Zn bearing wastes,A4100,9,gout gas sludge
+,,,,H12,1.02,,DE,,R4,Austria,2015,Y23,Zinc bearing wastes,A4100,9,filter dust
+,,,,H13,19.91,,DE,,R4,Austria,2015,Y23,Zn bearing wastes,A1180,,WEEEs with hazardous components
+,,,,H8,643.58,,IT,,R4,Austria,2015,Y23,Zn bearing wastes,A1060,8,etching solutions
+,,,,H13,18355.593,CZ,PL,,R4,Austria,2015,Y23,Zn bearing wastes,A4100,9,steel work dust
+,,,,H12,740.42,"CZ,DE",PL,,R4,Austria,2015,Y23,Zn bearing wastes,A4100,9,gout gas sludge
+,,,,H11,191.156,DE,FR,,R4,Austria,2015,Y26,Cd bearing wastes,A1170,8,Ni Cd batteries
+,,,,H11,69.7,,DE,,R4,Austria,2015,Y26,Cd bearing wastes,A1170,8,unsorted batteries
+,,,,H11,12.412,,DE,,R4,Austria,2015,Y29,Hg bearing wastes,A1170,8,round cells
+,,,,H11,0.432,,DE,,R13,Austria,2015,Y29,Hg bearing wastes,A1170,8,round cells
+,,,,H11,2.526,DE,NL,,R4,Austria,2015,Y29,Hg bearing wastes,A1010,8,mercury wastes
+,,,,H12,1.055,,DE,,R4,Austria,2015,Y29,Hg bearing wastes,A1030,,mercury wastes
+,,,,H13,22.56,,DE,,R5,Austria,2015,Y29,Hg bearing wastes,A4140,9,test sets
+,,,,H13,0.3519999999999999,,DE,,R4,Austria,2015,Y29,Hg bearing wastes,A1010,,amalgam
+,,,,H13,0.308,,DE,,R13,Austria,2015,Y29,Hg bearing wastes,A1010,,amalgam
+,,,,H13,1.206,,DE,,R4,Austria,2015,Y29,Hg bearing wastes,A1030,,amalgam
+,,,,H12,80.685,,DE,,R5,Austria,2015,Y29,Hg bearing wastes,A1030,,fluorescent tubes
+,,,,H12,85.15,,DE,D12,,Austria,2015,Y29,Hg bearing wastes,A1030,,residuses from fluorscent tube recycling
+,,,,H12,278.684,,DE,,R5,Austria,2015,Y29,Hg bearing wastes,A1030,,fluorescent tubes
+,,,,H12,178.702,,DE,,R4,Austria,2015,Y29,Hg bearing wastes,A1030,,fluorescent tubes
+,,,,H12,0.2,,DE,,R13,Austria,2015,Y29,Hg bearing wastes,A1030,,amalgam
+,,,,h11,196.6,DE,BE,,R4,Austria,2015,Y31,Pb bearing wastes,A1100,6.1,filter dusts
+,,,,H6.1,359.65,DE,BE,,R4,Austria,2015,Y31,Pb bearing wastes,A1120,6.1,metal bearing sludge
+,,,,H6.1,47.084,DE,BE,,R4,Austria,2015,Y31,Pb bearing wastes,A1020,6.1,lead salts
+,,,,H11,339.8,DE,NL,,R13,Austria,2015,Y31,Pb bearing wastes,A1100,6.1,filter dusts
+,,,,H8,1379.667,,DE,,R4,Austria,2015,Y31,Pb bearing wastes,A1160,8,lead acid batteries
+,,,,H11,28.05,,DE,,R4,Austria,2015,Y31,Pb bearing wastes,A1020,,ceramic residues
+,,,,H112,15.12,,DE,,R4,Austria,2015,Y31,Pb bearing wastes,A4060,9,grinding sludge
+,,,,H11,937.05,,DE,,R4,Austria,2015,Y31,Pb bearing wastes,A1180,,monitors
+,,,,H11,1309.446,,DE,,R5,Austria,2015,Y31,Pb bearing wastes,A1180,,monitors
+,,,,H11,937.27,,DE,,R5,Austria,2015,Y31,Pb bearing wastes,A1180,,monitors
+,,,,H11,1784.35,CZ,DE,,R5,Austria,2015,Y31,Pb bearing wastes,A1180,,monitors
+,,,,H6.1,21.01,,DE,D12,,Austria,2015,Y33,cyanidic waste,A4050,6.1,hardening salt
+,,,,H8,373.46,,DE,,R6,Austria,2015,Y34,acids,A4090,8,sulfuric acid
+,,,,H8,92.54,,DE,,R5,Austria,2015,Y34,acids,A4090,8,oil containing acid
+,,,,H8,143.68,DE,FR,,R4,Austria,2015,Y35,alkaline waste,A1170,8,Ni Cd batteries
+,,,,H8,54.926,DE,FR,,R4,Austria,2015,Y35,alkaline waste,A1170,8,Ni NiH batteries
+,,,,H8,41.25,,SI,,R4,Austria,2015,Y35,alkaline waste,A4090,8,etching solutions
+,,,,H11,226.916,,DE,,R4,Austria,2015,Y36,asbestos wastes,A4130,2,acetylene cylinders
+,,,,H11,4.24,,DE,D1,,Austria,2015,Y36,asbestos wastes,A2050,,asbestos waste
+,,,,H11,16.98,,DE,,R4,Austria,2015,Y36,asbestos wastes,A1180,,asbestos containing equipment
+,,,,H6.1,116.62,,DE,,R5,Austria,2015,Y39,phenoles,A3070,6.1,production residues
+,,,,H6.1,84.80599999999998,,DE,,R2,Austria,2015,Y41,solvent wastes,A3150,6.1,halogenated solvents
+,,,,H6.1,23.84,,DE,,R5,Austria,2015,Y41,solvent wastes,A3150,6.1,production residues
+,,,,H3,265.89,,DE,,R2,Austria,2015,Y41,solvent wastes,A3150,3,production residues
+,,,,H3,3.8,,DE,,R13,Austria,2015,Y42,solvent wastes,A3150,3,sludge  
+,,,,H4.1,5.753,,DE,,R4,Austria,2015,Y42,solvent containing waste,A3140,4.1,adsorbents
+,,,,H3,1397.632,,DE,,R2,Austria,2015,Y42,solvent wastes,A3140,3,solvent mixtures
+,,,,H3,1097.32,,DE,D10,,Austria,2015,Y42,solvent wastes,A3140,3,solvent mixtures
+,,,,H3,0.569,,DE,,R4,Austria,2015,Y42,solvent wastes,A3140,3,sludges
+,,,,H3,463.6,,DE,,R1,Austria,2015,Y42,solvent wastes,A3140,3,production residues
+,,,,H12,124.487,,DE,D10,,Austria,2015,Y45,halogenated organic compounds,,2,CFCs
+,,,,H12,68.909,,DE,,R3,Austria,2015,Y45,halogenated organic compounds,,2,CFCs
+,,,,H12,109.67,DE,NL,,R4,Austria,2015,Y45,WEEEs,A1180,,CFC containing equipment
+,,,,,10389.585,,CH,D10,,Austria,2015,Y46,wastes from households,,,partly pre treated wastes
+,,,,,15105.6,,CH,,R1,Austria,2015,Y46,wastes from households,,,wastes from households
+,,,,,2284.4,,SK,,R1,Austria,2015,Y46,wastes from households,,,RDF
+,,,,,386.12,,HU,,R12,Austria,2015,Y46,wastes from households,,,packaging waste light fraction
+,,,,,55096.33,,CH,,R1,Austria,2015,Y46,wastes from households,,,partly pre treated wastes
+,,,,,2592.7,,DE,,R3,Austria,2015,Y46,wastes from households,,,kitchen waste
+,,,,,772.75,,DE,D10,,Austria,2015,Y46,wastes from households,,,bulky wastes
+,,,,,356.04,,DE,,R3,Austria,2015,Y46,wastes from households,,,bulky wastes
+,,,,,860.086,,DE,,R3,Austria,2015,Y46,wastes from households,,,packaging waste light fraction
+,,,,,6499.6,,DE,,R1,Austria,2015,Y46,wastes from households,,,wastes from households
+,,,,,22.22,,DE,,R13,Austria,2015,Y46,wastes from households,,,packaging waste light fraction
+,,,,,4683.44,,DE,D10,,Austria,2015,Y46,wastes from households,,,wastes from households
+,,,,,447.6,,IT,,R4,Austria,2015,Y47,residues from waste incineration,,,scrap
+,,,,,870.3,,DE,,R4,Austria,2015,Y47,residues from waste incineration,,,scrap
+,,,,,168.32,DE,BE,,R4,Austria,2015,Y47,residues from waste incineration,,,scrap
+,,,,,92.26,DE,BE,,R12,Austria,2015,Y47,residues from waste incineration,,,scrap
+,,,,,1829.17,,DE,,R11,Austria,2015,Y47,residues from waste incineration,,,fly ash
+,,,,,72.25,DE,NL,,R12,Austria,2015,Y47,residues from waste incineration,,,scrap
+,,,,H11,2249.36,,DE,D12,,Austria,2015,Y47,residues from waste incineration,A4100,,fly ash
+,,,,H13,209.91,,DE,,R11,Austria,2015,Y47,residues from waste incineration,A4100,,residues from flue gas treatment
+,,,,H13,2965.78,,DE,D12,,Austria,2015,Y47,residues from waste incineration,A4100,,residues from flue gas treatment
+,,,,H11,7486.1,,DE,,R5,Austria,2015,Y47,residues from waste incineration,A4100,,fly ash
+,,,,H12,400.5,,DE,,R4,Azerbaijan,2015,"Y16,Y19","metal recycling waste
+slags","B1100,B1200,B1210",9,Ecotoxic

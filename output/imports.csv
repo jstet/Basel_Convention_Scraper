@@ -1,13 +1,181 @@
-annex_2_8_9,annex_1,national_code,type_of_waste,annex_3,amount,countries_of_transit ,country_of_origin,annex_4_a,annex_4_b,country,year
-A3140,Y6,A3140,non-halogenated organic solvents,H3,500.0,,NZ,,"R1,R13",Australia,2021
-A4090,Y35,A4090,waste alkalis,"H6.1,H8,H10",100.0,,PG,"D5,D9",,Australia,2021
-A4090,Y34,A4090,waste acids,"H6.1,H8,H10",100.0,,PG,"D5,D9",,Australia,2021
-A4030,Y4,A4030,waste mixed pesticides,"H6.1,H11,H12",300.0,,NZ,,"R1,R13",Australia,2021
-A4020,Y1,A4020,cytotoxic waste,"H6.1,H11,H12",250.0,,NZ,D10,,Australia,2021
-A3140,Y6,A3140,non-halogenated organic solvents,H3,600.0,,NZ,,"R1,R13",Australia,2021
-"A1020,A1030,A1070","Y18,Y31","A1020, A1030, A1070",mixture of zinc and lead residues,"H11,H12",5.448,"KR,SG",JP,,R4,Australia,2021
-A4020,Y1,A4020,cytotoxic waste,"H6.1,H11,H12",200.0,,NZ,D10,,Australia,2021
-A3020,Y8,A3020,waste oils,"H3,H11,H12",2000.0,SB,PG,"D5,D9","R1,R13",Australia,2021
-A4140,Y45,A4140, foam fire foam waste streams containing PFAS,H12,100.0,,NZ,"D10,D13",,Australia,2021
-A1080,"Y20,Y21,Y22,Y23,Y26,Y29,Y31",A1080,e-waste,"H11,H12,H13",200.0,SB,PG,D5,"R1,R3,R4,R5,R13",Australia,2021
-A1170,"Y26,Y42",A1170,mixed waste batteries,"H3,H8,H10,H13",100.0,,NZ,,"R4,R13",Australia,2021
+annex_2_8_9,annex_1,national_code,type_of_waste,annex_3,amount,countries_of_transit,country_of_origin,annex_4_a,annex_4_b,country,year,y_code,waste_constituents,annex_8,un_class,characteristics
+A3020,Y8,1522009100.0,Soapstock,H4.1,2058.0,,KZ,,R2,Uzbekistan,2016,,,,,
+,Y18,2618000000.0,Granulated slag,,117063.3,,KZ,,R5,Uzbekistan,2016,,,,,
+,Y45,401220000.0,"Pneumatic tires, used, and other",,68307.0,,FI,,R5,Uzbekistan,2016,,,,,
+,,,,H6.1,120.0,,NZ,D10,,Australia,2015,Y1,Clinical and related waste,A4020,,2
+,,,,H6.1,50.0,,NZ,,"R4,R5",Australia,2015,Y29,Crushed lamps and Fluorescent tubes ,"A1180,A1010",,"1, 2 "
+,,,,H3,400.0,,NZ,,R1,Australia,2015,Y6,Waste Solvent,A3140,,5
+,,,,H6.1,180.0,,NZ,,R1,Australia,2015,Y4,Waste Pesticides ,A4030,,"4, 2"
+,,,,H3,250.0,,PG,,R9,Australia,2015,Y8,Waste oil ,A3020,,5
+,,,,H12,1200.0,,NZ,,R4,Australia,2015,"Y26,Y29,Y31,Y45","Waste electrical and electronic assemblies or scrap, including steel, plastic, copper, nickel, zinc, gold, silver, aluminium, tantalum, and other metals and compounds found on electronics and printed circuit boards",A1180,,2
+,,,,H6.1,150.0,,NZ  ,D10,,Australia,2015,Y1,Clinical and related waste,A4020,,"2, 4, 5"
+,,,,H6.1,10000.0,,PG,,R1,Australia,2015,Y41,Halogenated solvents ,A3150,,5
+,,,,H3,100.0,,PG,,R1,Australia,2015,Y42,Non-halogenated Solvents,A3140,,5
+,,,,H8,50.0,,PG,D9,,Australia,2015,Y34,Waste Acids ,A4090,,5
+,,,,H8,50.0,,PG,D9,,Australia,2015,Y35,Waste Bases/Alkalis,A4090,,5
+,,,,H3,50.0,,PG,,R1,Australia,2015,Y31,Resins ,A3050,,5
+,,,,H5.1,10.0,,PG,D9,,Australia,2015,Y_,Oxidisers ,A4140,,2
+,,,,H12,50.0,,PG,,R9,Australia,2015,Y8,Waste lubricating oil,A3020,,5
+,,,,H11,3445.984,DE,BE,,R8,Austria,2015,Y_,Ni bearing wastes,A2030,,spent catalysts
+,,,,H11,2933.88,DE,FI,,R8,Austria,2015,Y_,Ni bearing wastes,A2030,,spent catalysts
+,,,,H11,674.11,"RO,HU",BG,,R4,Austria,2015,Y_,Mo V bearing wastes,A2030,,spent catalysts
+,,,,H11,294.16,"RS,HR,SI",BG,,R4,Austria,2015,Y_,Mo V bearing wastes,A2030,,spent catalysts
+,,,,H11,5378.136,CZ,PL,,R4,Austria,2015,Y_,Mo V bearing wastes,A2030,,spent catalysts
+,,,,H11,2980.77,,SK,,R8,Austria,2015,Y_,Mo V bearing wastes,A2030,,spent catalysts
+,,,,H12,36.2,,IT,,R8,Austria,2015,Y_,V bearing wastes,A2030,,spent catalysts
+,,,,H12,23.88,,DE,,R4,Austria,2015,Y_,W bearing wastes,,,metal bearing sludges
+,,,,H12,21.542,,DE,,R4,Austria,2015,Y_,W bearing wastes,,,metal bearing sludges
+,,,,H12,126.222,DE,FR,,R4,Austria,2015,Y_,W bearing wastes,,,metal bearing dust
+,,,,H12,231.573,"BE,FR,DE",GB,,R4,Austria,2015,Y_,W bearing wastes,,,metal bearing dust
+,,,,H12,292.277,DE,SE,,R4,Austria,2015,Y_,W bearing wastes,,,metal bearing dust
+,,,,H12,42.953,-,CZ,,R4,Austria,2015,Y_,W-bearing wastes,,,metal bearing sludges
+,,,,H12,17.414,,DE,,R4,Austria,2015,Y_,W bearing wastes,,,metal bearing dust
+,,,,H6.1,221.724,DE,NL,,R4,Austria,2015,Y_,V bearing wastes,A4100,,ash from heavy oil incineration
+,,,,H13,3853.247,-,DE,,R3,Austria,2015,Y_,impregnated wood,,,swood from C&D
+,,,,H12,1058.79,,DE,,R4,Austria,2015,Y_,WEEE,A1180,,equipment
+,,,,H3,39.82,"HR,SI",BA,D10,,Austria,2015,Y2,pharmazeutical wastes,A4010,,production waste
+,,,,H11,61.84,SI,HR,D10,,Austria,2015,Y2,pharmazeutical wastes,A4010,,production waste
+,,,,H11,181.66,"HR,SI",RS,D10,,Austria,2015,Y2,pharmazeutical wastes,A4010,,production waste
+,,,,H12,7.56,SI,HR,D10,,Austria,2015,Y4,pesticides,A4030,,collected wastes
+,,,,H6.1,31.88,"HR,SI",RS,D10,,Austria,2015,Y4,pesticides,A4030,,production waste
+,,,,H3,346.58,SI,HR,D10,,Austria,2015,Y6,solvent wastes,A3150,,production waste
+,,,,H3,68.52,SI,HR,D10,,Austria,2015,Y6,solvent wastes,A3150,,premixed waste
+,,,,H3,198.24,"BA,HR,SI",ME,D10,,Austria,2015,Y6,solvent containing wastes,,,premixed waste
+,,,,H3,17.58,"HR,SI",RS,D10,,Austria,2015,Y6,solvent containing wastes,A4070,,production waste
+,,,,H13,418.99,,SI,D15,,Austria,2015,Y8,oil containing wastes,A4060,,oil water mixtures
+,,,,H13,64.42,,SI,D8,,Austria,2015,Y8,oil containing wastes,,,contaminated soil
+,,,,H12,426.48,,SI,,R1,Austria,2015,Y8,waste oil,A3020,,waste oil
+,,,,H12,378.88,,SI,,R1,Austria,2015,Y8,waste oil,A3020,,waste oil
+,,,,H12,528.74,,SI,,R13,Austria,2015,Y8,waste oil,A3020,,waste oil
+,,,,H12,443.6,,SK,,R1,Austria,2015,Y8,waste oil,A3020,,waste oil
+,,,,H12,109.77,"RS,HR,SI",ME,,R1,Austria,2015,Y8,waste oil,A3020,,waste oil
+,,,,H12,831.79,,IT,,R11,Austria,2015,Y8,oil containing wastes,,,premixed waste
+,,,,H12,90.7,,IT,D10,,Austria,2015,Y8,waste oil,A3020,,premixed waste
+,,,,H12,48.62,,IT,,R13,Austria,2015,Y8,waste oil,A3020,,premixed waste
+,,,,H12,16.2,,HU,D10,,Austria,2015,Y8,oil containing wastes,,,premixed waste
+,,,,H12,383.26,,HU,D10,,Austria,2015,Y9,oil water mixtures,A4060,,concentrates
+,,,,H12,79.61499999999998,,SI,D9,,Austria,2015,Y9,oil water mixtures,A4060,,oil separator content
+,,,,H13,469.99,,SI,D9,,Austria,2015,Y9,oil water mixtures,,,emulsions
+,,,,H13,73.7,,SI,D9,,Austria,2015,Y9,oil water mixtures,,,premixed waste
+,,,,H13,99.26,,SI,D15,,Austria,2015,Y9,oil water mixtures,,,oil separator content
+,,,,H11,682.76,"HR,SI",RS,D10,,Austria,2015,Y10,PCB containing wastes,A3180,,contaminated soil
+,,,,H11,13.98,SI,HR,,R12,Austria,2015,Y11,tar containing wastes,,,railway sleepers
+,,,,H11,27.765,,CH,,R13,Austria,2015,Y11,tar containing wastes,A1190,,cable waste
+,,,,H4.1,775.0,SI,HR,,R4,Austria,2015,Y12,paint waste,A4130,,packaging waste
+,,,,H3,364.1,"HR,SI",RS,D10,,Austria,2015,Y12,paint waste,A4070,,solvent containing wastes
+,,,,H3,137.36,,SK,,R1,Austria,2015,Y12,paint waste,A3140,,production waste
+,,,,H8,64.84,"HR,SI",RS,D9,,Austria,2015,Y13,fixing baths,,,photograpic waste
+,,,,H13,19.34,SI,HR,D9,,Austria,2015,Y16,fixing baths,,,photograpic waste
+,,,,H12,224.08,,CH,,R4,Austria,2015,Y17,waste from surface treatment,A1130,,Cu bearing wastes
+,,,,H8,438.88,CH,LI,,R5,Austria,2015,Y17,waste from surface treatment,A1060,,pickling acids
+,,,,H8,90.0,,HU,D9,,Austria,2015,Y17,waste from surface treatment,A1060,,pickling acids
+,,,,H12,36.79,,CH,,R12,Austria,2015,Y17,waste from surface treatment,A1050,,galvanic sludge
+,,,,H13,537.7,SI,HR,D9,,Austria,2015,Y17,waste from surface treatment,A1050,,galvanic sludge
+,,,,H13,765.18,,SI,D15,,Austria,2015,Y17,waste from surface treatment,A1050,,galvanic sludge
+,,,,H12,1293.07,,SI,D9,,Austria,2015,Y17,waste from surface treatment,A4060,,emulsions
+,,,,H12,1133.54,,SI,,R4,Austria,2015,Y17,waste from surface treatment,A4060,,emulsions
+,,,,H8,67.773,,DE,,R4,Austria,2015,Y17,waste from surface treatment,A1060,,concentrates
+,,,,H12,15.551,,HU,,R4,Austria,2015,Y17,waste from surface treatment,,,W bearing sludge
+,,,,H12,1153.77,,CH,,R4,Austria,2015,Y17,waste from surface treatment,,,grinding sludge
+,,,,H13,134.44,,DE,,R4,Austria,2015,Y17,waste from surface treatment,,,grinding sludge
+,,,,H12,147.647,,DE,,R4,Austria,2015,Y17,waste from surface treatment,,,W bearing sludge
+,,,,H13,620.02,,DE,,R4,Austria,2015,Y17,waste from surface treatment,,,grinding sludge
+,,,,H13,353.87,,DE,,R3,Austria,2015,Y18,waste from waste treatment,A1180,,WEEE
+,,,,H11,3137.04,,IT,,R12,Austria,2015,Y18,waste from waste treatment,,,railway sleepers
+,,,,H6.1,2813.01,,IT,D10,,Austria,2015,Y18,waste from waste treatment,,,premixed waste
+,,,,H4.1,68.92,"RO,HU",BG,D10,,Austria,2015,Y18,waste from waste treatment,,,premixed waste
+,,,,H12,318.46,SI,HR,D10,,Austria,2015,Y18,waste from waste treatment,,,premixed waste
+,,,,H11,855.85,,IT,,R11,Austria,2015,Y18,waste from waste treatment,,,premixed waste
+,,,,H11,2891.84,,IT,D10,,Austria,2015,Y18,waste from waste treatment,,,premixed waste
+,,,,H12,746.52,,IT,D9,,Austria,2015,Y18,waste from waste treatment,,,premixed waste
+,,,,H13,2845.66,,SI,D10,,Austria,2015,Y18,waste from waste treatment,,,premixed waste
+,,,,H3,4121.35,,SI,D10,,Austria,2015,Y18,waste from waste treatment,A3140,,premixed waste
+,,,,H13,2269.66,,SI,D10,,Austria,2015,Y18,waste from waste treatment,,,premixed waste
+,,,,H13,1178.58,,SI,,R11,Austria,2015,Y18,waste from waste treatment,,,premixed waste
+,,,,H13,2535.66,,SI,,R1,Austria,2015,Y18,waste from waste treatment,,,premixed waste
+,,,,H12,56.9,"RO,HU",BG,D10,,Austria,2015,Y18,waste from waste treatment,,,liquid waste
+,,,,H13,840.13,,SI,D9,,Austria,2015,Y18,waste from waste treatment,,,liquid waste
+,,,,H13,393.56,SI,HR,D9,,Austria,2015,Y18,waste from waste treatment,A1030,,sludge from gas cleaning
+,,,,H3,36.98,"HR,SI",RS,D10,,Austria,2015,Y18,waste from waste treatment,A4140,,unsorted chemicals
+,,,,H4.1,605.14,,IT,D9,,Austria,2015,Y18,waste from waste treatment,,,partly stabilised premixed waste
+,,,,H4.1,3497.68,,IT,D10,,Austria,2015,Y18,waste from waste treatment,,,partly stabilised premixed waste
+,,,,H4.1,13999.83,,IT,,R1,Austria,2015,Y18,waste from waste treatment,,,partly stabilised premixed waste
+,,,,H3,398.14,,SI,D10,,Austria,2015,Y18,waste from waste treatment,,,partly stabilised premixed waste
+,,,,H3,1469.74,,SI,,R1,Austria,2015,Y18,waste from waste treatment,A3140,,solvent nixtures
+,,,,H12,38.0,,DE,,R4,Austria,2015,Y18,waste from waste treatment,,,sludge from C/P treatment
+,,,,H12,325.58,,SI,D9,,Austria,2015,Y18,waste from waste treatment,A1020,,sludge from C/P treatment
+,,,,H6.1,112.3,SI,HR,D9,,Austria,2015,Y18,waste from waste treatment,A4140,,chemicals
+,,,,H12,379.7,SI,HR,D10,,Austria,2015,Y18,waste from waste treatment,A3140,,solvent mixtures
+,,,,H12,1993.66,SI,HR,D10,,Austria,2015,Y18,waste from waste treatment,,,halogenated mixtures
+,,,,H3,845.46,,IT,,R13,Austria,2015,Y18,waste from waste treatment,A3140,,solvent mixtures
+,,,,H12,236.8,,IT,,R13,Austria,2015,Y18,waste from waste treatment,A3020,,waste oil mixtures
+,,,,H3,617.56,,IT,D10,,Austria,2015,Y18,waste from waste treatment,A3150,,solvent mixtures
+,,,,H13,1180.46,,IT,D1,,Austria,2015,Y18,waste from waste treatment,A4100,,residues from flue gas cleanqing
+,,,,H3,82.8,"HR,SI",RS,D10,,Austria,2015,Y18,waste from waste treatment,,,premixed waste
+,,,,H3,34.88,"HR,SI",RS,D10,,Austria,2015,Y18,waste from waste treatment,,,premixed waste
+,,,,H3,5639.26,,SI,D10,,Austria,2015,Y18,waste from waste treatment,A3150,,premixed waste
+,,,,H12,108.74,SI,HR,D10,,Austria,2015,Y18,waste from waste treatment,,,oil sludge
+,,,,H13,1168.0,,IT,,R13,Austria,2015,Y18,waste from waste treatment,,,premixed waste
+,,,,H10,23.38,,IT,D10,,Austria,2015,Y18,waste from waste treatment,,,premixed waste
+,,,,H3,85.68,SI,HR,D10,,Austria,2015,Y18,waste from waste treatment,A3050,,premixed waste
+,,,,H12,14.7,SI,HR,D10,,Austria,2015,Y18,waste from waste treatment,A4130,,packaging waste
+,,,,H11,232.52,,IT,D8,,Austria,2015,Y18,waste from waste treatment,,,waste from remediation
+,,,,H4.1,67.56,"HR,SI",BA,D10,,Austria,2015,Y18,waste from waste treatment,,,premixed waste
+,,,,H4.1,34.66,"RO,HU",BG,D10,,Austria,2015,Y18,waste from waste treatment,,,premixed waste
+,,,,H4.1,1730.8,SI,HR,D10,,Austria,2015,Y18,waste from waste treatment,,,premixed waste
+,,,,H4.1,1825.44,,IT,D10,,Austria,2015,Y18,waste from waste treatment,,,premixed waste
+,,,,H12,2051.66,,IT,D9,,Austria,2015,Y18,waste from waste treatment,,,premixed waste
+,,,,H12,149.04,,IT,,R11,Austria,2015,Y18,waste from waste treatment,,,premixed waste
+,,,,H12,1139.51,,IT,,R12,Austria,2015,Y18,waste from waste treatment,,,premixed waste
+,,,,H13,1384.47,,IT,D10,,Austria,2015,Y18,waste from waste treatment,,,premixed waste
+,,,,H4.1,63.48,SI,HR,D10,,Austria,2015,Y18,waste from waste treatment,,,grease
+,,,,H4.1,140.8,"HR,SI",RS,D10,,Austria,2015,Y18,waste from waste treatment,,,grease
+,,,,H3,22.58,SI,HR,D10,,Austria,2015,Y21,Cr(VI) compounds,A4140,,mixed chemicals
+,,,,H13,4.03,,CH,,R4,Austria,2015,Y22,Cu compounds,A1020,,filter dusts
+,,,,H13,49.06,,IT,,R4,Austria,2015,Y22,Cu compounds,A1020,,slags
+,,,,H12,1214.6,SI,HR,D9,,Austria,2015,Y23,Zn compounds,A4100,,steel work dut
+,,,,H12,14.6,"BE,DE",CA,,R4,Austria,2015,Y29,Hg bearing wastes,A1010,,amalgam
+,,,,H12,1.159,,CH,,R4,Austria,2015,Y29,Hg bearing wastes,A1010,,amalgam
+,,,,H12,5.531,,DE,,R4,Austria,2015,Y29,Hg bearing wastes,A1010,,amalgam
+,,,,H12,0.4,,CZ,,R4,Austria,2015,Y29,Hg bearing wastes,A1010,,amalgam
+,,,,H12,59.8,"GB,BE,DE",US,,R4,Austria,2015,Y29,Hg bearing wastes,A1010,,amalgam
+,,,,H12,3.3,DE,FR,,R4,Austria,2015,Y29,Hg bearing wastes,A1010,,amalgam
+,,,,H12,0.4,DE,SI,,R4,Austria,2015,Y29,Hg bearing wastes,A1010,,amalgam
+,,,,H8,746.332,,CH,,R13,Austria,2015,Y31,Pb bearing wastes,A1160,,lead acid batteries
+,,,,H12,387.625,,DE,,R3,Austria,2015,Y31,Pb bearing wastes,A1180,,WEEEs
+,,,,H8,5606.297,,HU,,R4,Austria,2015,Y31,Pb bearing wastes,A1160,,lead acid batteries
+,,,,H8,972.42,,IT,,R4,Austria,2015,Y31,Pb bearing wastes,A1160,,lead acid batteries
+,,,,H8,122.337,SI,MT,,R4,Austria,2015,Y31,Pb bearing wastes,A1160,,lead acid batteries
+,,,,H8,22.32,"HR,SI",BA,D9,,Austria,2015,Y34,acids,A4090,,sulfuric acid
+,,,,H8,103.52,,DE,,R5,Austria,2015,Y34,acids,A1060,,spent flux
+,,,,H8,103.13,SI,HR,D9,,Austria,2015,Y34,acids,A4090,,sulfuric acid
+,,,,H8,111.56,SI,HR,,R4,Austria,2015,Y34,acids,A4090,,pickling acids
+,,,,H11,450.2,,CZ,,R7,Austria,2015,Y41,solvent bearing wastes,A4160,,spent activated carbon
+,,,,H11,372.85,,DE,,R7,Austria,2015,Y41,solvent bearing wastes,A4160,,spent activated carbon
+,,,,H3,157.2,SI,HR,D10,,Austria,2015,Y41,solvent bearing wastes,A3150,,solvent mixtures
+,,,,H13,419.72,,CZ,,R7,Austria,2015,Y42,solvent bearing wastes,A4160,,spent activated carbon
+,,,,H13,18.64,,CZ,,R5,Austria,2015,Y42,solvent bearing wastes,A4160,,spent activated carbon
+,,,,H3,1468.8,,SI,D10,,Austria,2015,Y42,solvent bearing wastes,A3140,,solvent mixturs
+,,,,H3,941.13,DE,FR,,R2,Austria,2015,Y42,solvent bearing wastes,A3140,,waste from pharmaceutical production
+,,,,H3,1473.92,,SI,,R13,Austria,2015,Y42,solvent bearing wastes,A3140,,waste from pharmaceutical production
+,,,,H12,20.28,,SI,D9,,Austria,2015,Y43,PCDD/PCDF,A4100,,filter dusts
+,,,,H12,190.78,HU,RO,,R4,Austria,2015,Y45,CFC containing wastes,A1180,,WEEEs
+,,,,H12,1146.34,,SI,,R4,Austria,2015,Y45,CFC containing wastes,A1180,,WEEEs
+,,,,,11.82,,DE,,R3,Austria,2015,Y46,waste from households,,,packaging wastes
+,,,,,2251.54,,IT,,R12,Austria,2015,Y46,waste from households,,,residues from treatment
+,,,,,387.7,,IT,,R1,Austria,2015,Y46,waste from households,,,residues from treatment
+,,,,,2405.28,,SI,D8,,Austria,2015,Y46,waste from households,,,residues from treatment
+,,,,,2849.88,,SI,,R1,Austria,2015,Y46,waste from households,,,residues from treatment
+,,,,,10328.95,,SI,,R12,Austria,2015,Y46,waste from households,,,residues from treatment
+,,,,,11322.23,,IT,,R3,Austria,2015,Y46,waste from households,,,residues from treatment
+,,,,,403.91,,DE,,R12,Austria,2015,Y47,residues from incineration,,,scrap
+,,,,,1764.75,,DE,,R4,Austria,2015,Y47,residues from incineration,,,scrap
+,,,,H13,17632.817,,CH,D1,,Austria,2015,Y47,residues from incineration,,,slags
+,,,,H6.1,1550.28,,IT,D9,,Austria,2015,Y47,residues from incineration,A4100,,residues from flue gas cleaning
+,,,,H13,813.7,,SI,D9,,Austria,2015,Y47,residues from incineration,A4100,,residues from flue gas cleaning
+,,,,"H3,H8,H12",6585.47,,RU,,"R1,R4",Azerbaijan,2015,"Y17,Y22","metal recycling waste
+slags
+waste oils
+plastic and rubber waste","A4060,B1010,B1070,B1100,B1200,B1210,B3010",,"Ecotoxic
+Corrosives
+Flammable liquids"

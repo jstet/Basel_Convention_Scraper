@@ -1,34 +1,298 @@
 ,year,country,link,reason,kind
-0,2021,Benin,http://ers.basel.int/ERS-Extended/FeedbackServer/fsadmin.aspx?fscontrol=respondentReport&surveyid=83&voterid=56177&readonly=1&nomenu=1,"Traceback (most recent call last):
+0,2016,Uruguay,http://ers.basel.int/ERS-Extended/FeedbackServer/fsadmin.aspx?fscontrol=respondentReport&surveyid=70&voterid=48810&readonly=1&nomenu=1,"Traceback (most recent call last):
   File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/scraper/scrape_report_data.py"", line 92, in get_dfs
     export_btn = driver.find_element(By.XPATH, ""//*[contains(text(), 'Export to Excel')]"")
-  File ""/home/jstet/.local/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py"", line 861, in find_element
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/venv/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py"", line 861, in find_element
     return self.execute(Command.FIND_ELEMENT, {""using"": by, ""value"": value})[""value""]
-  File ""/home/jstet/.local/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py"", line 444, in execute
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/venv/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py"", line 444, in execute
     self.error_handler.check_response(response)
-  File ""/home/jstet/.local/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py"", line 249, in check_response
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/venv/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py"", line 249, in check_response
     raise exception_class(message, screen, stacktrace)
 selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(), 'Export to Excel')]""}
   (Session info: headless chrome=108.0.5359.124)
 Stacktrace:
-#0 0x55adf9324563 <unknown>
-#1 0x55adf90e3667 <unknown>
-#2 0x55adf911fe0b <unknown>
-#3 0x55adf9120071 <unknown>
-#4 0x55adf9159d34 <unknown>
-#5 0x55adf914014d <unknown>
-#6 0x55adf9157a7c <unknown>
-#7 0x55adf913fef3 <unknown>
-#8 0x55adf911349e <unknown>
-#9 0x55adf91145ae <unknown>
-#10 0x55adf9373fde <unknown>
-#11 0x55adf93774c4 <unknown>
-#12 0x55adf935a78e <unknown>
-#13 0x55adf9378393 <unknown>
-#14 0x55adf934d665 <unknown>
-#15 0x55adf9399108 <unknown>
-#16 0x55adf9399296 <unknown>
-#17 0x55adf93b4183 <unknown>
-#18 0x7f2958e558fd <unknown>
+#0 0x5598df2c1563 <unknown>
+#1 0x5598df080667 <unknown>
+#2 0x5598df0bce0b <unknown>
+#3 0x5598df0bd071 <unknown>
+#4 0x5598df0f6d34 <unknown>
+#5 0x5598df0dd14d <unknown>
+#6 0x5598df0f4a7c <unknown>
+#7 0x5598df0dcef3 <unknown>
+#8 0x5598df0b049e <unknown>
+#9 0x5598df0b15ae <unknown>
+#10 0x5598df310fde <unknown>
+#11 0x5598df3144c4 <unknown>
+#12 0x5598df2f778e <unknown>
+#13 0x5598df315393 <unknown>
+#14 0x5598df2ea665 <unknown>
+#15 0x5598df336108 <unknown>
+#16 0x5598df336296 <unknown>
+#17 0x5598df351183 <unknown>
+#18 0x7f4b5406b8fd <unknown>
+
+",imports
+1,2016,Venezuela (Bolivarian Republic of),http://ers.basel.int/ERS-Extended/FeedbackServer/fsadmin.aspx?fscontrol=respondentReport&surveyid=70&voterid=48812&readonly=1&nomenu=1,"Traceback (most recent call last):
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/scraper/scrape_report_data.py"", line 92, in get_dfs
+    export_btn = driver.find_element(By.XPATH, ""//*[contains(text(), 'Export to Excel')]"")
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/venv/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py"", line 861, in find_element
+    return self.execute(Command.FIND_ELEMENT, {""using"": by, ""value"": value})[""value""]
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/venv/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py"", line 444, in execute
+    self.error_handler.check_response(response)
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/venv/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py"", line 249, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(), 'Export to Excel')]""}
+  (Session info: headless chrome=108.0.5359.124)
+Stacktrace:
+#0 0x5598df2c1563 <unknown>
+#1 0x5598df080667 <unknown>
+#2 0x5598df0bce0b <unknown>
+#3 0x5598df0bd071 <unknown>
+#4 0x5598df0f6d34 <unknown>
+#5 0x5598df0dd14d <unknown>
+#6 0x5598df0f4a7c <unknown>
+#7 0x5598df0dcef3 <unknown>
+#8 0x5598df0b049e <unknown>
+#9 0x5598df0b15ae <unknown>
+#10 0x5598df310fde <unknown>
+#11 0x5598df3144c4 <unknown>
+#12 0x5598df2f778e <unknown>
+#13 0x5598df315393 <unknown>
+#14 0x5598df2ea665 <unknown>
+#15 0x5598df336108 <unknown>
+#16 0x5598df336296 <unknown>
+#17 0x5598df351183 <unknown>
+#18 0x7f4b5406b8fd <unknown>
+
+",imports
+2,2016,Viet Nam,http://ers.basel.int/ERS-Extended/FeedbackServer/fsadmin.aspx?fscontrol=respondentReport&surveyid=70&voterid=48813&readonly=1&nomenu=1,"Traceback (most recent call last):
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/scraper/scrape_report_data.py"", line 92, in get_dfs
+    export_btn = driver.find_element(By.XPATH, ""//*[contains(text(), 'Export to Excel')]"")
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/venv/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py"", line 861, in find_element
+    return self.execute(Command.FIND_ELEMENT, {""using"": by, ""value"": value})[""value""]
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/venv/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py"", line 444, in execute
+    self.error_handler.check_response(response)
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/venv/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py"", line 249, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(), 'Export to Excel')]""}
+  (Session info: headless chrome=108.0.5359.124)
+Stacktrace:
+#0 0x5598df2c1563 <unknown>
+#1 0x5598df080667 <unknown>
+#2 0x5598df0bce0b <unknown>
+#3 0x5598df0bd071 <unknown>
+#4 0x5598df0f6d34 <unknown>
+#5 0x5598df0dd14d <unknown>
+#6 0x5598df0f4a7c <unknown>
+#7 0x5598df0dcef3 <unknown>
+#8 0x5598df0b049e <unknown>
+#9 0x5598df0b15ae <unknown>
+#10 0x5598df310fde <unknown>
+#11 0x5598df3144c4 <unknown>
+#12 0x5598df2f778e <unknown>
+#13 0x5598df315393 <unknown>
+#14 0x5598df2ea665 <unknown>
+#15 0x5598df336108 <unknown>
+#16 0x5598df336296 <unknown>
+#17 0x5598df351183 <unknown>
+#18 0x7f4b5406b8fd <unknown>
+
+",imports
+3,2016,Yemen,http://ers.basel.int/ERS-Extended/FeedbackServer/fsadmin.aspx?fscontrol=respondentReport&surveyid=70&voterid=48814&readonly=1&nomenu=1,"Traceback (most recent call last):
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/scraper/scrape_report_data.py"", line 92, in get_dfs
+    export_btn = driver.find_element(By.XPATH, ""//*[contains(text(), 'Export to Excel')]"")
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/venv/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py"", line 861, in find_element
+    return self.execute(Command.FIND_ELEMENT, {""using"": by, ""value"": value})[""value""]
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/venv/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py"", line 444, in execute
+    self.error_handler.check_response(response)
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/venv/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py"", line 249, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(), 'Export to Excel')]""}
+  (Session info: headless chrome=108.0.5359.124)
+Stacktrace:
+#0 0x5598df2c1563 <unknown>
+#1 0x5598df080667 <unknown>
+#2 0x5598df0bce0b <unknown>
+#3 0x5598df0bd071 <unknown>
+#4 0x5598df0f6d34 <unknown>
+#5 0x5598df0dd14d <unknown>
+#6 0x5598df0f4a7c <unknown>
+#7 0x5598df0dcef3 <unknown>
+#8 0x5598df0b049e <unknown>
+#9 0x5598df0b15ae <unknown>
+#10 0x5598df310fde <unknown>
+#11 0x5598df3144c4 <unknown>
+#12 0x5598df2f778e <unknown>
+#13 0x5598df315393 <unknown>
+#14 0x5598df2ea665 <unknown>
+#15 0x5598df336108 <unknown>
+#16 0x5598df336296 <unknown>
+#17 0x5598df351183 <unknown>
+#18 0x7f4b5406b8fd <unknown>
+
+",imports
+4,2015,Algeria,http://ers.basel.int/ERS-Extended/FeedbackServer/fsadmin.aspx?fscontrol=respondentReport&surveyid=66&voterid=48267&readonly=1&nomenu=1,"Traceback (most recent call last):
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/scraper/scrape_report_data.py"", line 92, in get_dfs
+    export_btn = driver.find_element(By.XPATH, ""//*[contains(text(), 'Export to Excel')]"")
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/venv/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py"", line 861, in find_element
+    return self.execute(Command.FIND_ELEMENT, {""using"": by, ""value"": value})[""value""]
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/venv/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py"", line 444, in execute
+    self.error_handler.check_response(response)
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/venv/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py"", line 249, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(), 'Export to Excel')]""}
+  (Session info: headless chrome=108.0.5359.124)
+Stacktrace:
+#0 0x5598df2c1563 <unknown>
+#1 0x5598df080667 <unknown>
+#2 0x5598df0bce0b <unknown>
+#3 0x5598df0bd071 <unknown>
+#4 0x5598df0f6d34 <unknown>
+#5 0x5598df0dd14d <unknown>
+#6 0x5598df0f4a7c <unknown>
+#7 0x5598df0dcef3 <unknown>
+#8 0x5598df0b049e <unknown>
+#9 0x5598df0b15ae <unknown>
+#10 0x5598df310fde <unknown>
+#11 0x5598df3144c4 <unknown>
+#12 0x5598df2f778e <unknown>
+#13 0x5598df315393 <unknown>
+#14 0x5598df2ea665 <unknown>
+#15 0x5598df336108 <unknown>
+#16 0x5598df336296 <unknown>
+#17 0x5598df351183 <unknown>
+#18 0x7f4b5406b8fd <unknown>
+
+",exports
+5,2015,Algeria,http://ers.basel.int/ERS-Extended/FeedbackServer/fsadmin.aspx?fscontrol=respondentReport&surveyid=66&voterid=48267&readonly=1&nomenu=1,"Traceback (most recent call last):
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/scraper/scrape_report_data.py"", line 92, in get_dfs
+    export_btn = driver.find_element(By.XPATH, ""//*[contains(text(), 'Export to Excel')]"")
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/venv/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py"", line 861, in find_element
+    return self.execute(Command.FIND_ELEMENT, {""using"": by, ""value"": value})[""value""]
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/venv/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py"", line 444, in execute
+    self.error_handler.check_response(response)
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/venv/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py"", line 249, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(), 'Export to Excel')]""}
+  (Session info: headless chrome=108.0.5359.124)
+Stacktrace:
+#0 0x5598df2c1563 <unknown>
+#1 0x5598df080667 <unknown>
+#2 0x5598df0bce0b <unknown>
+#3 0x5598df0bd071 <unknown>
+#4 0x5598df0f6d34 <unknown>
+#5 0x5598df0dd14d <unknown>
+#6 0x5598df0f4a7c <unknown>
+#7 0x5598df0dcef3 <unknown>
+#8 0x5598df0b049e <unknown>
+#9 0x5598df0b15ae <unknown>
+#10 0x5598df310fde <unknown>
+#11 0x5598df3144c4 <unknown>
+#12 0x5598df2f778e <unknown>
+#13 0x5598df315393 <unknown>
+#14 0x5598df2ea665 <unknown>
+#15 0x5598df336108 <unknown>
+#16 0x5598df336296 <unknown>
+#17 0x5598df351183 <unknown>
+#18 0x7f4b5406b8fd <unknown>
+
+",imports
+6,2015,Andorra,http://ers.basel.int/ERS-Extended/FeedbackServer/fsadmin.aspx?fscontrol=respondentReport&surveyid=66&voterid=48268&readonly=1&nomenu=1,"Traceback (most recent call last):
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/scraper/scrape_report_data.py"", line 92, in get_dfs
+    export_btn = driver.find_element(By.XPATH, ""//*[contains(text(), 'Export to Excel')]"")
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/venv/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py"", line 861, in find_element
+    return self.execute(Command.FIND_ELEMENT, {""using"": by, ""value"": value})[""value""]
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/venv/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py"", line 444, in execute
+    self.error_handler.check_response(response)
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/venv/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py"", line 249, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(), 'Export to Excel')]""}
+  (Session info: headless chrome=108.0.5359.124)
+Stacktrace:
+#0 0x5598df2c1563 <unknown>
+#1 0x5598df080667 <unknown>
+#2 0x5598df0bce0b <unknown>
+#3 0x5598df0bd071 <unknown>
+#4 0x5598df0f6d34 <unknown>
+#5 0x5598df0dd14d <unknown>
+#6 0x5598df0f4a7c <unknown>
+#7 0x5598df0dcef3 <unknown>
+#8 0x5598df0b049e <unknown>
+#9 0x5598df0b15ae <unknown>
+#10 0x5598df310fde <unknown>
+#11 0x5598df3144c4 <unknown>
+#12 0x5598df2f778e <unknown>
+#13 0x5598df315393 <unknown>
+#14 0x5598df2ea665 <unknown>
+#15 0x5598df336108 <unknown>
+#16 0x5598df336296 <unknown>
+#17 0x5598df351183 <unknown>
+#18 0x7f4b5406b8fd <unknown>
+
+",imports
+7,2015,Argentina,http://ers.basel.int/ERS-Extended/FeedbackServer/fsadmin.aspx?fscontrol=respondentReport&surveyid=66&voterid=48270&readonly=1&nomenu=1,"Traceback (most recent call last):
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/scraper/scrape_report_data.py"", line 92, in get_dfs
+    export_btn = driver.find_element(By.XPATH, ""//*[contains(text(), 'Export to Excel')]"")
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/venv/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py"", line 861, in find_element
+    return self.execute(Command.FIND_ELEMENT, {""using"": by, ""value"": value})[""value""]
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/venv/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py"", line 444, in execute
+    self.error_handler.check_response(response)
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/venv/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py"", line 249, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(), 'Export to Excel')]""}
+  (Session info: headless chrome=108.0.5359.124)
+Stacktrace:
+#0 0x5598df2c1563 <unknown>
+#1 0x5598df080667 <unknown>
+#2 0x5598df0bce0b <unknown>
+#3 0x5598df0bd071 <unknown>
+#4 0x5598df0f6d34 <unknown>
+#5 0x5598df0dd14d <unknown>
+#6 0x5598df0f4a7c <unknown>
+#7 0x5598df0dcef3 <unknown>
+#8 0x5598df0b049e <unknown>
+#9 0x5598df0b15ae <unknown>
+#10 0x5598df310fde <unknown>
+#11 0x5598df3144c4 <unknown>
+#12 0x5598df2f778e <unknown>
+#13 0x5598df315393 <unknown>
+#14 0x5598df2ea665 <unknown>
+#15 0x5598df336108 <unknown>
+#16 0x5598df336296 <unknown>
+#17 0x5598df351183 <unknown>
+#18 0x7f4b5406b8fd <unknown>
+
+",imports
+8,2015,Armenia,http://ers.basel.int/ERS-Extended/FeedbackServer/fsadmin.aspx?fscontrol=respondentReport&surveyid=66&voterid=48271&readonly=1&nomenu=1,"Traceback (most recent call last):
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/scraper/scrape_report_data.py"", line 92, in get_dfs
+    export_btn = driver.find_element(By.XPATH, ""//*[contains(text(), 'Export to Excel')]"")
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/venv/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py"", line 861, in find_element
+    return self.execute(Command.FIND_ELEMENT, {""using"": by, ""value"": value})[""value""]
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/venv/lib/python3.10/site-packages/selenium/webdriver/remote/webdriver.py"", line 444, in execute
+    self.error_handler.check_response(response)
+  File ""/home/jstet/Cloud/Code/Uni/Basel_Scraper/venv/lib/python3.10/site-packages/selenium/webdriver/remote/errorhandler.py"", line 249, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//*[contains(text(), 'Export to Excel')]""}
+  (Session info: headless chrome=108.0.5359.124)
+Stacktrace:
+#0 0x5598df2c1563 <unknown>
+#1 0x5598df080667 <unknown>
+#2 0x5598df0bce0b <unknown>
+#3 0x5598df0bd071 <unknown>
+#4 0x5598df0f6d34 <unknown>
+#5 0x5598df0dd14d <unknown>
+#6 0x5598df0f4a7c <unknown>
+#7 0x5598df0dcef3 <unknown>
+#8 0x5598df0b049e <unknown>
+#9 0x5598df0b15ae <unknown>
+#10 0x5598df310fde <unknown>
+#11 0x5598df3144c4 <unknown>
+#12 0x5598df2f778e <unknown>
+#13 0x5598df315393 <unknown>
+#14 0x5598df2ea665 <unknown>
+#15 0x5598df336108 <unknown>
+#16 0x5598df336296 <unknown>
+#17 0x5598df351183 <unknown>
+#18 0x7f4b5406b8fd <unknown>
 
 ",imports

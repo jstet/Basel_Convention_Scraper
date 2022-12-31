@@ -1,0 +1,23 @@
+,y_code,waste_constituents,annex_8,un_class,annex_3,characteristics,amount,countries_of_transit,country_of_destination,annex_4_a,annex_4_b,country,year
+0,"Y31,Y32",Lead dross copper-rich ,A1020,6.1,H6.1,2,5500,"ZA,ES,DE,GB",BE,,R4,Australia,2015
+1,Y31,"Crushed, mixed cathode ray tube glass ",A2010,9,"H11,H12",2,1800,,KR,,R4,Australia,2015
+2,Y31,Lead waste and scrap derived from used lead acid batteries,A1020,9,"H11,H12",2,1500,,KR,,R4,Australia,2015
+3,"Y22,Y23,Y29","Spent puraspec absorbent and CMG guard beds containing a mixture of copper sulfide/basic copper carbonate, zinc sulfide/basic zinc carbonate and cementious binder contaminated with trace levels of organic impurities and low levels of mercury sulfide ",A2030,4.2,"H4.2,H12","1, 2",500,"SG,MY,LK,OM,EG,PT,FR,GB,DE,BE,NL",CH,,R4,Australia,2015
+4,Y31,Lead waste and scrap derived from used lead acid batteries,A1020,9,"H11,H12",2,6000,,KR,,R4,Australia,2015
+5,Y_,"Waste catalyst containing aluminium oxide, molybdenum trioxide and cobalt oxide ",A2030,4.2,H4.2,2,20,"MY,EG,GB,BE",NL,,R8,Australia,2015
+6,Y22,"Waste catalyst containing iron oxide, chromium oxide, copper oxide and graphite ",A2030,4.2,H4.2,2,150,"MY,EG,GB,BE",NL,,R8,Australia,2015
+7,Y_,Waste Lithium metal batteries not contained in equipment ,A1170,9,,2,5,"NZ,US",CA,,R4,Australia,2015
+8,Y_,Waste Lithium batteries contained in equipment,A1180,9,,2,2,"NZ,US",CA,,R4,Australia,2015
+9,"Y23,Y35",Used alkaline and manganese batteries,A1170,8,H8,2,500,,KR,,R4,Australia,2015
+10,"Y23,Y31",Zinc ashes,A1080,9,H12,1,3000,"SG,EG,NL,DE,GB",BE,,R4,Australia,2015
+11,"Y23,Y31",Zinc skimmings,A1080,9,H12,1,3000,"SG,EG,NL,DE,GB",BE,,R4,Australia,2015
+12,Y31,Lead waste and scrap derived from used lead acid batteries ,A1020,9,"H11,H12",2,12000,,KR,,R4,Australia,2015
+13,Y35,Waste alkaline and manganese batteries,A1170,8,"H8,H11,H12",2,1000,,KR,,R4,Australia,2015
+14,Y35,Waste alkaline and manganese batteries,A1170,8,"H8,H11,H12",2,1000,,KR,,R4,Australia,2015
+15,Y42,Waste catalysts but excluding such wastes specified on list B ,A2030,"4.2,9","H4.2,H11,H12",2,600,,SG,,"R4,R8",Australia,2015
+16,Y_,Waste Lithium metal batteries ,A1170,9,,2,20,"NZ,US",CA,,R4,Australia,2015
+17,Y_,Waste Lithium metal batteries in equipment ,A1180,9,,2,2,"NZ,US",CA,,R4,Australia,2015
+18,Y31,Solder dross ,A1020,6.1,H6.1,7,120,"MY,EG,GB,BE",BE,,R4,Australia,2015
+19,Y26,"Scraps of Ni-Cd Battery, Ni-MH Battery and/or Li-Ion Battery ",A1170,9,H11,2,100,,JP,,R4,Australia,2015
+20,Y26,Waste nickel-cadmium batteries ,A1170,8,"H6.1,H8,H11","2, 3, 4, 5",150,"SG,MY",KR,,R4,Australia,2015
+21,"Y31,Y22",Lead Copper Dross ,A1020,9,"H11,H12,H13",2,20000,"PH,SG,MY,EG,ZA,GB,DE,NL",BE,,R4,Australia,2015

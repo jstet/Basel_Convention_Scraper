@@ -1,13 +1,19 @@
-,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_origin,annex_4_a_code,annex_4_b_code,country,year
-0,A3140,Y6,A3140,non-halogenated organic solvents,H3,500.0,,NZ,,"R1,R13",Australia,2014
-1,A4090,Y35,A4090,waste alkalis,"H6.1,H8,H10",100.0,,PG,"D5,D9",,Australia,2014
-2,A4090,Y34,A4090,waste acids,"H6.1,H8,H10",100.0,,PG,"D5,D9",,Australia,2014
-3,A4030,Y4,A4030,waste mixed pesticides,"H6.1,H11,H12",300.0,,NZ,,"R1,R13",Australia,2014
-4,A4020,Y1,A4020,cytotoxic waste,"H6.1,H11,H12",250.0,,NZ,D10,,Australia,2014
-5,A3140,Y6,A3140,non-halogenated organic solvents,H3,600.0,,NZ,,"R1,R13",Australia,2014
-6,"A1020,A1030,A1070","Y18,Y31","A1020, A1030, A1070",mixture of zinc and lead residues,"H11,H12",5.448,"KR,SG",JP,,R4,Australia,2014
-7,A4020,Y1,A4020,cytotoxic waste,"H6.1,H11,H12",200.0,,NZ,D10,,Australia,2014
-8,A3020,Y8,A3020,waste oils,"H3,H11,H12",2000.0,SB,PG,"D5,D9","R1,R13",Australia,2014
-9,A4140,Y45,A4140, foam fire foam waste streams containing PFAS,H12,100.0,,NZ,"D10,D13",,Australia,2014
-10,A1080,"Y20,Y21,Y22,Y23,Y26,Y29,Y31",A1080,e-waste,"H11,H12,H13",200.0,SB,PG,D5,"R1,R3,R4,R5,R13",Australia,2014
-11,A1170,"Y26,Y42",A1170,mixed waste batteries,"H3,H8,H10,H13",100.0,,NZ,,"R4,R13",Australia,2014
+,y_code,waste_constituents,annex_8,un_class,annex_3,characteristics,amount,countries_of_transit,country_of_origin,annex_4_a,annex_4_b,country,year
+0,"Y46,Y8,Y9,Y31,Y34,Y47",Mixed wastes,,,"12,13,8,11,3","Includes many waste streams and fates, but predominantly oils for recycling",32.3,,FR,,R12,Australia,2014
+1,Y8,Oil filters,A3020,,H4.1,,75.0,,PG,,"R13,R9,R4",Australia,2014
+2,Y_,Oxidisers,A4140,,H5.1,,10.0,,PG,D9,,Australia,2014
+3,Y12,Waste paint,A1160,,H3,,13.0,,PG,,R1,Australia,2014
+4,Y34,Acids,A4090,,H8,,50.0,,PG,D9,,Australia,2014
+5,Y35,Bases,A4090,,H8,,50.0,,PG,D9,,Australia,2014
+6,Y37,Organic Phosphorus compounds,A3130,,H6.1,,25.0,,PG,,"R13,R1",Australia,2014
+7,"Y31,Y34",Used lead acid batteries,A1160,,H8,,240.0,,PG,,"R13,R4",Australia,2014
+8,Y13,Resins,A3050,,H3,,50.0,,PG,,R1,Australia,2014
+9,Y12,Paint waste ,A4070,,H3,,60.0,,PG,,R1,Australia,2014
+10,Y1,Clinical and related waste ,A4020,,H6.1,,150.0,,NZ,D10,,Australia,2014
+11,Y42,Non-halogenated organic solvents ,A3140,,H3,,60.0,,PG,,R1,Australia,2014
+12,Y29,Crushed waste fluorescent tubes ,A1030,,H12,,15.0,,PG,,"R13,R4",Australia,2014
+13,Y1,Clinical waste ,A4020,,H6.1,,75.0,,NZ,D10,,Australia,2014
+14,"Y26,Y29,Y31,Y45",Mixed electronic waste ,A1180,,H12,,1200.0,,NZ,,R4,Australia,2014
+15,Y9,Mixture of waste oil and water  ,A4060,,3,,250.0,,PG,,R3,Australia,2014
+16,Y13,Waste containing isocyanates ,A4050,,11,Key fate is landfill,50.0,,PG,D1,,Australia,2014
+17,"Y36,Y42",Condemned acetylene gas cylinders,A4130,,2.1,Key fate is landfill of asbestos,350.0,,NZ,D1,,Australia,2014

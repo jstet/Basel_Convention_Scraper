@@ -95,12 +95,12 @@ def get_dfs(url, driver, dl_folder, country, year, count, maxi):
             msg = "".join(traceback.format_exception(type(err), err, err.__traceback__))
             dct["error"] = msg
             results.append(dct)
+            console.log(msg)
             continue
 
         # wating some time for file dl
-
-        for y in range(60):
-            time.sleep(2)
+        for y in range(25):
+            time.sleep(4)
             lst = os.listdir(dl_folder)
             if lst != []:
                 f = lst[0]
@@ -116,18 +116,15 @@ def get_dfs(url, driver, dl_folder, country, year, count, maxi):
                 warnings.simplefilter("always")
                 temp_df = pd.read_excel(f"{dl_folder}/{f}")
         except Exception as e:
-            console.log("Something went wrong with the file")
-            console.log(e)
-            dct["error"] = "Something went wrong with the file"
+            msg = "".join(traceback.format_exception(type(err), err, err.__traceback__))
+            dct["error"] = msg
             results.append(dct)
+            console.log(msg)
             continue
 
         for f in os.listdir(dl_folder):
             os.remove(os.path.join(dl_folder, f))
-
-        temp_df["country"] = country
-        temp_df["year"] = year
-
+        
         # sometimes the column names are not exported correctly
         # also chance to rename them
         # some columns are removed, some are named differentently after 2015
@@ -136,14 +133,14 @@ def get_dfs(url, driver, dl_folder, country, year, count, maxi):
         # Recovery operation -> annex_4_b
         # h code -> annex_3
 
-        if year >= 2015:
+        if year >= 2016:
             zero = "annex_2_8_9"
             one = "annex_1"
             two = "national_code"
             three = "type_of_waste"
             four = "annex_3"
             five = "amount"
-            six = "countries_of_transit "
+            six = "countries_of_transit"
             if i == "Export":
                 seven = "country_of_destination"
             if i == "Import":
@@ -153,6 +150,7 @@ def get_dfs(url, driver, dl_folder, country, year, count, maxi):
 
             temp_df = temp_df.rename(columns={temp_df.columns[0]: zero,  temp_df.columns[1]: one,  temp_df.columns[2]: two,  temp_df.columns[3]: three,
                                               temp_df.columns[4]: four,  temp_df.columns[5]: five,  temp_df.columns[6]: six,  temp_df.columns[7]: seven,  temp_df.columns[8]: eight,  temp_df.columns[9]: nine})
+            
 
         else:
             zero = "y_code"
@@ -172,6 +170,14 @@ def get_dfs(url, driver, dl_folder, country, year, count, maxi):
 
             temp_df = temp_df.rename(columns={temp_df.columns[0]: zero,  temp_df.columns[1]: one,  temp_df.columns[2]: two,  temp_df.columns[3]: three,
                                               temp_df.columns[4]: four,  temp_df.columns[5]: five,  temp_df.columns[6]: six,  temp_df.columns[7]: seven,  temp_df.columns[8]: eight,  temp_df.columns[9]: nine, temp_df.columns[10]: ten})
+        temp_df["country"] = country
+        temp_df["year"] = year
+
+        # if i == "Export":
+        #         temp_df = temp_df[["country", "country_of_destination", "countries_of_transit", "year","annex_3", "annex_4_a", "annex_4_b", "amount"]]
+        # if i == "Import":
+        #         temp_df = temp_df[["country", "country_of_origin", "countries_of_transit", "year","annex_3", "annex_4_a", "annex_4_b", "amount"]]
+        
 
         dct["df"] = temp_df
         results.append(dct)
@@ -213,7 +219,7 @@ def download(reports):
 
     for i in ["exports", "imports"]:
         if eval(f"frames_{i}") != []:
-            df = eval(f"pd.concat(frames_{i})")
+            df = eval(f"pd.concat(frames_{i}, axis=0, ignore_index=True)")
             df.to_csv(f"../output/{i}.csv", index=False)
 
     failed = pd.DataFrame(failed)
@@ -223,6 +229,6 @@ def download(reports):
 
 
 reports = pd.read_csv("../output/national_reports.csv")
-# download(reports.iloc[[59]].reset_index())
+# download(reports.iloc[626:638].reset_index())
 # download(reports.iloc[::-1].reset_index())
 download(reports)

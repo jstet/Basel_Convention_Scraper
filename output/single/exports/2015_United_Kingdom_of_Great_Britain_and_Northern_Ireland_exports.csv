@@ -1,0 +1,494 @@
+,y_code,waste_constituents,annex_8,un_class,annex_3,characteristics,amount,countries_of_transit,country_of_destination,annex_4_a,annex_4_b,country,year
+0,Y46,Refuse derived fuel,,,,,30052.83,,NL,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+1,Y46,Refuse derived fuel,,,,,25764.57,,SE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+2,Y46,Refuse derived fuel,,,,,6266.78,,DK,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+3,11B,Discarded electrical and electronic equipment,,,,,781.77,NL,DE,,"R12,R4",United Kingdom of Great Britain and Northern Ireland,2015
+4,11B,Mixtures from mechanical treatment of waste,,,"H7,H14",,1113.52,,NL,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+5,11B,Spent catalysts,,4.2,"H4.2,H12",,870.0,,FR,,"R4,R8",United Kingdom of Great Britain and Northern Ireland,2015
+6,Y46,Combustable Waste,,,,,17816.0,,SE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+7,Y46,Combustible Waste,,,,,1624.6,,PT,,R3,United Kingdom of Great Britain and Northern Ireland,2015
+8,11B,FES 3000 DPR Silicon Gels,,,H12,,1031.8,,BE,,"R12,R1",United Kingdom of Great Britain and Northern Ireland,2015
+9,Y46,Technology employed Furnace Combustion,,,,,2985.9,,PT,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+10,Y46,Combined Heat & Power,,,,,7395.1,,SE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+11,Y46,Combustible Waste,,,,,11500.0,,DK,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+12,Y31,CRT Dismantling ,,,H13,,2656.8,,NL,,"R12,R5",United Kingdom of Great Britain and Northern Ireland,2015
+13,11B,FES 3000 DPR Silicon Gels,,,H12,,2553.3,,DE,,"R12,R1",United Kingdom of Great Britain and Northern Ireland,2015
+14,Y46,Waste Wood Chip for Bioenergy based electricity Generation,,,,,27280.2,,NL,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+15,Y34,Spent Sulphuric Acid (liquid),,,"H3,H6.1,H8",,401.3,,DE,,R6,United Kingdom of Great Britain and Northern Ireland,2015
+16,Y34,Incinerable Chlorosilane Waste,,,H4,,74.0,,DE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+17,Y46,Refuse Derived Fuel (Furnace Combustion),,,,,13423.4,,DK,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+18,Y23,,,,H12,,12172.5,,IT,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+19,Y46,Technology Employed ,,,,,10346.0,,DK,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+20,Y46,Combusible Waste,,,,,13854.1,,SE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+21,Y46,Waste Wood Chip ,,,,,9516.0,,FI,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+22,11B,Copper Rich Silicon,,,H12,,2562.6,,BE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+23,Y31,Chemical Stabilisation and Blending Granular Furnace Slag,,,H6,,1962.1,,NO,,R11,United Kingdom of Great Britain and Northern Ireland,2015
+24,11B,"Renewal of GB0004000010, FES 3000 DPR Silcone Gels",,,H12,,137.0,,BE,,"R12,R1",United Kingdom of Great Britain and Northern Ireland,2015
+25,Y31,Glass from CRT dismantling,,,H13,,435.5,,NL,,"R12,R5",United Kingdom of Great Britain and Northern Ireland,2015
+26,Y_,Solid recovered fuel (SRF),,,,Not applicable,12178.64,,LV,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+27,Y_,A2030 Waste catalysts but excluding such wastes specified on list B ,,4.2,H4.2,Substances or wastes liable to spontaneous combustion,101.68,NL,BE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+28,Y_,A2030 Waste catalysts but excluding such wastes specified on list B ,,9,H13,"Capable, by any means, after disposal, of yielding an material, eg leachate, which possesses any characteristics listed above",18.38,,US,,R8,United Kingdom of Great Britain and Northern Ireland,2015
+29,Y_,A2030 Waste catalysts but excluding such wastes specified on list B ,,,"H4.2,H12","Substances or wastes liable to spontaneous combustion
+Ecotoxic",316.74,,FR,,"R4,R8",United Kingdom of Great Britain and Northern Ireland,2015
+30,Y_,A2030 Waste catalysts but excluding such wastes specified on list B ,,,,Not applicable,80.3,"FR,DE,CH,BE",IT,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+31,Y_,A4130 Waste packages and containers containing Annex I substances in concentrations sufficient to exhibit Annex III hazard characteristics ,,9,H12,Ecotoxic,340.58,,NL,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+32,Y_,A4130 Waste packages and containers containing Annex I substances in concentrations sufficient to exhibit Annex III hazard characteristics ,,9,,,156.21,FR,ES,,R3,United Kingdom of Great Britain and Northern Ireland,2015
+33,Y_,"AA010 Dross, scalings and other wastes from the manufacture of iron or steel",,,,Not applicable,12681.44,,IT,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+34,Y_,"AA010 Dross, scalings and other wastes from the manufacture of iron or steel",,,,Not applicable,3065.6,,NL,,"R4,R12",United Kingdom of Great Britain and Northern Ireland,2015
+35,Y_,B3010 Solid plastic waste: ,,,,Not applicable,43.3,EG,SA,,R5,United Kingdom of Great Britain and Northern Ireland,2015
+36,Y_,Biofat composite,,,,Not applicable,1028.24,,NL,,R3,United Kingdom of Great Britain and Northern Ireland,2015
+37,Y_,"Dross, scalings and other wastes from the manufacture of iron and steel",,,,Not applicable,74.73,BE,NL,,"R4,R12",United Kingdom of Great Britain and Northern Ireland,2015
+38,Y_,"Metal and metal-alloy wastes in metallic, non-dispersable form:",,,,Not applicable,162019.3,,EG,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+39,Y_,Non ferrous metal concentrate,,,,Not applicable,109.78,"BE,FR",NL,,"R4,R5,R12",United Kingdom of Great Britain and Northern Ireland,2015
+40,Y_,Refuse derived fuel (RDF),,,,Not applicable,16473.11,,DE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+41,Y_,Refuse derived fuel (RDF),,,,Not applicable,5820.78,,DK,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+42,Y_,Refuse derived fuel (RDF),,,,Not applicable,7700.34,,FR,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+43,Y_,Refuse derived fuel (RDF),,,,Not applicable,147606.0,,NL,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+44,Y_,Refuse derived fuel (RDF),,,,Not applicable,2343.11,,PT,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+45,Y_,Refuse derived fuel (RDF),,,,Not applicable,27.18,,SE,,R12,United Kingdom of Great Britain and Northern Ireland,2015
+46,Y_,Refuse derived fuel (RDF),,,,Not applicable,359.41,BE,DE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+47,Y_,Refuse derived fuel (RDF),,,,Not applicable,3814.71,BE,NL,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+48,Y_,Refuse derived fuel (RDF),,,,Not applicable,9567.41,"BE,FR",NL,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+49,Y_,Refuse derived fuel (RDF),,,,Not applicable,4611.39,"BE,FR,NL",DE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+50,Y_,Refuse derived fuel (RDF),,,,Not applicable,3332.64,"BE,NL",DE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+51,Y_,Refuse derived fuel (RDF),,,,Not applicable,6244.14,"BE,FR,NL",DE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+52,Y_,Refuse derived fuel (RDF),,,,Not applicable,4625.0,DE,DK,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+53,Y_,Refuse derived fuel (RDF),,,,Not applicable,20501.96,DE,SE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+54,Y_,Refuse derived fuel (RDF),,,,Not applicable,4461.88,"DK,DE",EE,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+55,Y_,Refuse derived fuel (RDF),,,,Not applicable,750.05,"BE,FR,NL",DE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+56,Y_,Refuse derived fuel (RDF),,,,Not applicable,1042.82,"BE,FR,NL",DE,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+57,Y_,Refuse derived fuel (RDF),,,,Not applicable,4814.88,NL,DE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+58,Y_,Refuse derived fuel (RDF),,,,Not applicable,5461.95,"BE,NL",DE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+59,Y_,Refuse derived fuel (RDF),,,,Not applicable,16671.31,"BE,FR,NL",DE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+60,Y_,Refuse derived fuel (RDF),,,,Not applicable,21054.38,"BE,FR,NL",DE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+61,Y_,Solid recovered fuel (SRF),,,,Not applicable,464.67,,CY,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+62,Y12,"A3050 Wastes from production, formulation and use of resins, latex, plasticisers, glues/adhesives excluding such wastes specified on list B (note the related entry on list B, B4020) ",,4.1,H4.1,Inflammable solids,521.27,,NL,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+63,Y12,"A4070 Wastes from the production, formulation and use of inks, dyes, pigments, paints, lacquers, varnish excluding any such waste specified on list B (note the related entry on list B, B4010) ",,,"H3,H6.1,H11","Inflammable liquids
+Poisonous(acute)
+Toxic(delayed or chronic)",670.47,,DE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+64,Y12,"A4070 Wastes from the production, formulation and use of inks, dyes, pigments, paints, lacquers, varnish excluding any such waste specified on list B (note the related entry on list B, B4010) ",,3,"H3,H6.1","Inflammable liquids
+Poisonous(acute)",453.25,,DE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+65,Y12,"A4070 Wastes from the production, formulation and use of inks, dyes, pigments, paints, lacquers, varnish excluding any such waste specified on list B (note the related entry on list B, B4010) ",,"3,4.1","H3,H4.1","Inflammable liquids
+Inflammable solids",413.38,,NL,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+66,Y12,"A4070 Wastes from the production, formulation and use of inks, dyes, pigments, paints, lacquers, varnish excluding any such waste specified on list B (note the related entry on list B, B4010) ",,"3,4.1","H3,H4.1","Inflammable liquids
+Inflammable solids",1608.69,,NL,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+67,Y12,"A4070 Wastes from the production, formulation and use of inks, dyes, pigments, paints, lacquers, varnish excluding any such waste specified on list B (note the related entry on list B, B4010) ",,"3,4.1","H3,H4.1","Inflammable liquids
+Inflammable solids",743.86,,NL,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+68,Y12,"A4070 Wastes from the production, formulation and use of inks, dyes, pigments, paints, lacquers, varnish excluding any such waste specified on list B (note the related entry on list B, B4010) ",,"3,4.1","H3,H4.1","Inflammable liquids
+Inflammable solids",672.88,NL,DE,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+69,Y12,"A4070 Wastes from the production, formulation and use of inks, dyes, pigments, paints, lacquers, varnish excluding any such waste specified on list B (note the related entry on list B, B4010) ",,"3,4.1","H3,H4.1","Inflammable liquids
+Inflammable solids",64.68,NL,DE,,R12,United Kingdom of Great Britain and Northern Ireland,2015
+70,Y12,"A4070 Wastes from the production, formulation and use of inks, dyes, pigments, paints, lacquers, varnish excluding any such waste specified on list B (note the related entry on list B, B4010) ",,"3,4.1",H3A,Highly flammable,1452.77,,NL,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+71,Y12,"A4070 Wastes from the production, formulation and use of inks, dyes, pigments, paints, lacquers, varnish excluding any such waste specified on list B (note the related entry on list B, B4010) ",,"3,4.1",H4.1,Inflammable solids,317.51,NL,DE,,R13,United Kingdom of Great Britain and Northern Ireland,2015
+72,Y12,"A4070 Wastes from the production, formulation and use of inks, dyes, pigments, paints, lacquers, varnish excluding any such waste specified on list B (note the related entry on list B, B4010) ",,"3,4.1,6.1,8","H3,H4.1,H6.1,H8","Inflammable liquids
+Inflammable solids
+Poisonous(acute)
+Corrosives",940.59,,NL,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+73,Y12,"A4070 Wastes from the production, formulation and use of inks, dyes, pigments, paints, lacquers, varnish excluding any such waste specified on list B (note the related entry on list B, B4010) ",,4.1,H4.1,Inflammable solids,247.17,,NL,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+74,Y12,"A4070 Wastes from the production, formulation and use of inks, dyes, pigments, paints, lacquers, varnish excluding any such waste specified on list B (note the related entry on list B, B4010) ",,4.1,H4.1,Inflammable solids,2121.989,,NL,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+75,Y12,"A4070 Wastes from the production, formulation and use of inks, dyes, pigments, paints, lacquers, varnish excluding any such waste specified on list B (note the related entry on list B, B4010) ",,4.1,H4.1,Inflammable solids,54.14,,NL,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+76,Y12,"A4070 Wastes from the production, formulation and use of inks, dyes, pigments, paints, lacquers, varnish excluding any such waste specified on list B (note the related entry on list B, B4010) ",,,"H3,H6.1,H8","Inflammable liquids
+Poisonous(acute)
+Corrosives",513.27,NL,DE,,R12,United Kingdom of Great Britain and Northern Ireland,2015
+77,"Y12,Y13","A3050 Wastes from production, formulation and use of resins, latex, plasticisers, glues/adhesives excluding such wastes specified on list B (note the related entry on list B, B4020) ",,"3,4.1,6.1","H3,H4.1,H6.1","Inflammable liquids
+Inflammable solids
+Poisonous(acute)",147.04,NL,DE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+78,"Y12,Y13","A3050 Wastes from production, formulation and use of resins, latex, plasticisers, glues/adhesives excluding such wastes specified on list B (note the related entry on list B, B4020) ",,"3,6.1","H3,H6.1","Inflammable liquids
+Poisonous(acute)",97.3,NL,DE,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+79,"Y12,Y13",A4130 Waste packages and containers containing Annex I substances in concentrations sufficient to exhibit Annex III hazard characteristics ,,,"H3,H4.1,H9","Inflammable liquids
+Inflammable solids",1397.66,NL,BE,,"R1,R4,R5,R12",United Kingdom of Great Britain and Northern Ireland,2015
+80,Y13,"A3050 Wastes from production, formulation and use of resins, latex, plasticisers, glues/adhesives excluding such wastes specified on list B (note the related entry on list B, B4020) ",,"3,4.1,6.1,8","H3,H4.1,H6.1,H8","Inflammable liquids
+Inflammable solids
+Poisonous(acute)
+Corrosives",936.02,,NL,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+81,Y13,"A3050 Wastes from production, formulation and use of resins, latex, plasticisers, glues/adhesives excluding such wastes specified on list B (note the related entry on list B, B4020) ",,"3,4.1,6.1,8","H4.1,H6.1,H8","Inflammable solids
+Poisonous(acute)
+Corrosives",545.1699,,NL,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+82,Y13,"A3050 Wastes from production, formulation and use of resins, latex, plasticisers, glues/adhesives excluding such wastes specified on list B (note the related entry on list B, B4020) ",,"3,4.1,6.1,8,9","H3,H4.1,H6.1,H8,H12","Inflammable liquids
+Inflammable solids
+Poisonous(acute)
+Corrosives
+Ecotoxic",376.63,,NL,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+83,Y13,"A3050 Wastes from production, formulation and use of resins, latex, plasticisers, glues/adhesives excluding such wastes specified on list B (note the related entry on list B, B4020) ",,"3,6.1,9","H3,H6.1,H12","Inflammable liquids
+Poisonous(acute)
+Ecotoxic",277.33,NL,DE,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+84,Y13,"A3050 Wastes from production, formulation and use of resins, latex, plasticisers, glues/adhesives excluding such wastes specified on list B (note the related entry on list B, B4020) ",,,"H3,H6.1","Inflammable liquids
+Poisonous(acute)",326.5299,NL,DE,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+85,Y14,Laboratory waste,,"3,4.1,6.1,8","H3,H4.1,H6,H8","Inflammable liquids
+Inflammable solids
+Toxic
+Corrosives",217.85,,NL,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+86,Y16,"AD090 Wastes from the production, formulation and use of reprographic and photographic chemicals and materials not elsewhere specified or included. ",,,,,0.49,,BE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+87,Y16,"AD090 Wastes from the production, formulation and use of reprographic and photographic chemicals and materials not elsewhere specified or included. ",,,,,4.73,,DE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+88,Y16,"AD090 Wastes from the production, formulation and use of reprographic and photographic chemicals and materials not elsewhere specified or included. ",,,,,2.19,BE,DE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+89,Y17,AB030 Wastes from non-cyanide based systems which arise from surface treatment of metals. ,,6.1,H6.1,Poisonous(acute),22.0,,NL,,"R4,R13",United Kingdom of Great Britain and Northern Ireland,2015
+90,Y17,AB130 Used blasting grit. ,,,,Not applicable,70.23,"FR,BE",DE,,"R4,R5",United Kingdom of Great Britain and Northern Ireland,2015
+91,Y17,Hard metal powder residue and sludge,,9,H11,Toxic(delayed or chronic),231.52,"BE,DE,FR",AT,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+92,Y17,A1050 Galvanic sludges ,,9,"H11,H12","Toxic(delayed or chronic)
+Ecotoxic",405.55,"BE,FR,NL",DE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+93,Y17,A1050 Galvanic sludges ,,9,"H11,H12","Toxic(delayed or chronic)
+Ecotoxic",183.61,"BE,FR,NL",DE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+94,Y17,A1050 Galvanic sludges ,,9,"H11,H12","Toxic(delayed or chronic)
+Ecotoxic",51.24,"BE,FR,NL",DE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+95,Y17,A1050 Galvanic sludges ,,,,Not applicable,75.31,"BE,FR,NL",DE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+96,Y17,A1050 Galvanic sludges ,,,,Not applicable,18.43,"BE,FR,NL",DE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+97,Y17,AB030 Wastes from non-cyanide based systems which arise from surface treatment of metals. ,,9,H11,Toxic(delayed or chronic),42.3,"BE,FR,NL",DE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+98,Y17,AB030 Wastes from non-cyanide based systems which arise from surface treatment of metals. ,,9,H11,Toxic(delayed or chronic),259.2099,"BE,FR,NL",DE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+99,Y17,AB130 Used blasting grit. ,,,,Not applicable,92.7,"BE,FR,NL",DE,,"R4,R5",United Kingdom of Great Britain and Northern Ireland,2015
+100,Y18,A4160 Spent activated carbon not included on list B,,4.1,H4.1,Inflammable solids,291.8,,DE,,R7,United Kingdom of Great Britain and Northern Ireland,2015
+101,Y18,End of life material after mechanical treatment,,,,Not applicable,1391.24,,FR,,"R1,R4,R12",United Kingdom of Great Britain and Northern Ireland,2015
+102,Y18,Filtercake and sludges,,,H12,Ecotoxic,647.08,NL,BE,,"R1,R4,R5,R12",United Kingdom of Great Britain and Northern Ireland,2015
+103,Y18,Fluff light fraction from shredding of metal containing wastes (non hazardous),,,,Not applicable,2359.29,FR,BE,,R12,United Kingdom of Great Britain and Northern Ireland,2015
+104,Y18,Heavy shredder fraction,,,,Not applicable,925.43,FR,BE,,R12,United Kingdom of Great Britain and Northern Ireland,2015
+105,Y18,Material after mechanical treatment,,,,Not applicable,3239.53,"FR,BE",BE,,"R5,R12",United Kingdom of Great Britain and Northern Ireland,2015
+106,Y18,Shredder residue,,,,Not applicable,374.8,FR,BE,,R12,United Kingdom of Great Britain and Northern Ireland,2015
+107,Y18,Waste centrifuge cake,,,,,24.18,FR,BE,,"R5,R12",United Kingdom of Great Britain and Northern Ireland,2015
+108,Y18,A1050 Galvanic sludges ,,9,H12,Ecotoxic,54.21,,DE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+109,Y18,A2030 Waste catalysts but excluding such wastes specified on list B ,,4.1,H4.1,Inflammable solids,17.45,,DE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+110,Y18,A2030 Waste catalysts but excluding such wastes specified on list B ,,9,H12,Ecotoxic,19.97,,DE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+111,Y18,A4130 Waste packages and containers containing Annex I substances in concentrations sufficient to exhibit Annex III hazard characteristics ,,4.1,H4.1,Inflammable solids,513.5499,NL,DE,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+112,Y18,A4160 Spent activated carbon not included on list B,,,,Not applicable,349.04,,BE,,R7,United Kingdom of Great Britain and Northern Ireland,2015
+113,Y18,A4160 Spent activated carbon not included on list B,,,,Not applicable,196.05,FR,BE,,R7,United Kingdom of Great Britain and Northern Ireland,2015
+114,Y18,A4160 Spent activated carbon not included on list B,,,,Not applicable,350.59,FR,BE,,R7,United Kingdom of Great Britain and Northern Ireland,2015
+115,Y18,A4160 Spent activated carbon not included on list B,,,,Not applicable,27.92,FR,BE,,R7,United Kingdom of Great Britain and Northern Ireland,2015
+116,Y18,A4160 Spent activated carbon not included on list B,,,,Not applicable,17.0,FR,BE,,R7,United Kingdom of Great Britain and Northern Ireland,2015
+117,Y18,Fragmentised non-ferrous metal fluff,,,,Not applicable,590.98,FR,BE,,"R3,R4,R12",United Kingdom of Great Britain and Northern Ireland,2015
+118,Y18,Fragmentised non-ferrous metal shredder fluff,,,,Not applicable,4726.93,FR,BE,,"R3,R4,R12",United Kingdom of Great Britain and Northern Ireland,2015
+119,Y18,Refuse derived fuel (RDF),,,,Not applicable,2363.81,FR,BE,,"R3,R4,R12",United Kingdom of Great Britain and Northern Ireland,2015
+120,Y18,Tin Bearing Residues,,9,H11,Toxic(delayed or chronic),17.47,,BE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+121,Y2,"A4010 Wastes from the production, preparation and use of pharmaceutical products but excluding such wastes specified on list B ",,"3,6.1","H3,H6.1","Inflammable liquids
+Poisonous(acute)",392.23,,DE,,R3,United Kingdom of Great Britain and Northern Ireland,2015
+122,"Y2,Y3","A4010 Wastes from the production, preparation and use of pharmaceutical products but excluding such wastes specified on list B ",,,H14,,74.92,NL,DE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+123,"Y2,Y3","A4010 Wastes from the production, preparation and use of pharmaceutical products but excluding such wastes specified on list B ",,,,Not applicable,75.02,,NL,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+124,Y22,"A1020 Waste having as constituents or contaminants, excluding metal waste in massive form, 1020 and the note on B1020 in Annex III to this Regulation, Part 1(b)- Tellurium; tellurium compounds",,,H12,Ecotoxic,32.5,,BE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+125,Y22,A1050 Galvanic sludges ,,9,H12,Ecotoxic,134.97,,DE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+126,Y22,Copper Filter Press Cake,,8,H8,Corrosives,74.89,NL,BE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+127,"Y22,Y23",A2030 Waste catalysts but excluding such wastes specified on list B ,,4.2,H4.2,Substances or wastes liable to spontaneous combustion,15.65,,DE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+128,"Y22,Y23",A2030 Waste catalysts but excluding such wastes specified on list B ,,9,"H11,H12","Toxic(delayed or chronic)
+Ecotoxic",59.3,,DE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+129,"Y22,Y23",A2030 Waste catalysts but excluding such wastes specified on list B ,,9,H12,Ecotoxic,106.45,FR,IT,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+130,"Y22,Y23",A2030 Waste catalysts but excluding such wastes specified on list B ,,,H12,Ecotoxic,38.04,FR,IT,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+131,"Y22,Y23",A2030 Waste catalysts but excluding such wastes specified on list B ,,"4.2,9","H4.2,H12","Substances or wastes liable to spontaneous combustion
+Ecotoxic",41.94,,DE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+132,"Y22,Y23",A2030 Waste catalysts but excluding such wastes specified on list B ,,"4.2,9","H4.2,H12","Substances or wastes liable to spontaneous combustion
+Ecotoxic",360.73,,DE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+133,"Y22,Y23",A2030 Waste catalysts but excluding such wastes specified on list B ,,9,H12,Ecotoxic,237.72,,DE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+134,"Y22,Y23",A2030 Waste catalysts but excluding such wastes specified on list B ,,9,H12,Ecotoxic,44.75,,DE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+135,"Y22,Y23",A2030 Waste catalysts but excluding such wastes specified on list B ,,9,H12,Ecotoxic,30.72,,DE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+136,"Y22,Y23",A2030 Waste catalysts but excluding such wastes specified on list B ,,,H12,Ecotoxic,14.77,,DE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+137,"Y22,Y23,Y29",A2030 Waste catalysts but excluding such wastes specified on list B ,,"4.2,9","H4.2,H12","Substances or wastes liable to spontaneous combustion
+Ecotoxic",147.7299,DE,CH,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+138,"Y22,Y23,Y31","A1020 Waste having as constituents or contaminants, excluding metal waste in massive form, 1020 and the note on B1020 in Annex III to this Regulation, Part 1(b)- Tellurium; tellurium compounds",,9,H12,Ecotoxic,205.32,,BE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+139,"Y22,Y23,Y31","A1020 Waste having as constituents or contaminants, excluding metal waste in massive form, 1020 and the note on B1020 in Annex III to this Regulation, Part 1(b)- Tellurium; tellurium compounds",,,H12,Ecotoxic,427.32,,BE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+140,Y23,"A1020 Waste having as constituents or contaminants, excluding metal waste in massive form, 1020 and the note on B1020 in Annex III to this Regulation, Part 1(b)- Tellurium; tellurium compounds",,9,"H11,H12","Toxic(delayed or chronic)
+Ecotoxic",177.62,FR,BE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+141,Y23,"A1020 Waste having as constituents or contaminants, excluding metal waste in massive form, 1020 and the note on B1020 in Annex III to this Regulation, Part 1(b)- Tellurium; tellurium compounds",,9,H12,Ecotoxic,158.72,FR,BE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+142,Y23,A2030 Waste catalysts but excluding such wastes specified on list B ,,9,"H11,H12","Toxic(delayed or chronic)
+Ecotoxic",199.34,,NL,,"R4,R12",United Kingdom of Great Britain and Northern Ireland,2015
+143,Y23,A2030 Waste catalysts but excluding such wastes specified on list B ,,9,"H11,H12","Toxic(delayed or chronic)
+Ecotoxic",60.19,DE,CH,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+144,Y23,"AA010 Dross, scalings and other wastes from the manufacture of iron or steel",,9,H12,Ecotoxic,770.12,,BE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+145,Y23,"AA010 Dross, scalings and other wastes from the manufacture of iron or steel",,9,H12,Ecotoxic,143.37,FR,BE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+146,Y23,"AA010 Dross, scalings and other wastes from the manufacture of iron or steel",,9,H12,Ecotoxic,150.52,"FR,BE",NL,,"R4,R12",United Kingdom of Great Britain and Northern Ireland,2015
+147,"Y23,Y31","A1020 Waste having as constituents or contaminants, excluding metal waste in massive form, 1020 and the note on B1020 in Annex III to this Regulation, Part 1(b)- Tellurium; tellurium compounds",,,H12,Ecotoxic,377.58,,BE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+148,Y26,A1170 Unsorted waste batteries excluding mixtures of only list B batteries. Waste batteries not specified on list B containing Annex I constituents to an extent to render them hazardous ,,8,H8,Corrosives,487.71,,FR,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+149,Y26,Nickel cadmium cells containing potassium hydroxide,,8,H8,Corrosives,33.82,,FR,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+150,"Y27,Y29",A2010 Glass waste from cathode-ray tubes and other activated glasses Note that mirror entry on list B (B1160) does not specify exceptions. (3) PCBs at a concentration level of 50mg/kg or more.,,9,H12,Ecotoxic,155.86,,FR,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+151,Y29,A1010 Metal wastes and waste consisting of alloys of any of the following: ,,6.1,H6.1,Poisonous(acute),26.54,NL,DE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+152,Y29,A1030 Wastes having as constituents or contaminants any of the following: ,,6.1,H6.1,Poisonous(acute),12.85,,DE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+153,"Y29,Y33,Y34,Y35",A4140 Waste consisting of or containing off-specification or out-dated 18 chemicals corresponding to Annex I categories and exhibiting Annex III hazard characteristics ,,9,"H6.1,H8","Poisonous(acute)
+Corrosives",14.98,BE,DE,,"R4,R5,R6",United Kingdom of Great Britain and Northern Ireland,2015
+154,Y31,A2010 Glass waste from cathode-ray tubes and other activated glasses Note that mirror entry on list B (B1160) does not specify exceptions. (3) PCBs at a concentration level of 50mg/kg or more.,,9,H11,Toxic(delayed or chronic),142.5,"BE,FR",NL,,R12,United Kingdom of Great Britain and Northern Ireland,2015
+155,Y31,A2010 Glass waste from cathode-ray tubes and other activated glasses Note that mirror entry on list B (B1160) does not specify exceptions. (3) PCBs at a concentration level of 50mg/kg or more.,,9,H13,"Capable, by any means, after disposal, of yielding an material, eg leachate, which possesses any characteristics listed above",155.81,,NL,,"R5,R13",United Kingdom of Great Britain and Northern Ireland,2015
+156,Y31,A2010 Glass waste from cathode-ray tubes and other activated glasses Note that mirror entry on list B (B1160) does not specify exceptions. (3) PCBs at a concentration level of 50mg/kg or more.,,,,Not applicable,529.61,,NL,,"R5,R12",United Kingdom of Great Britain and Northern Ireland,2015
+157,Y31,A1010 Metal wastes and waste consisting of alloys of any of the following: ,,8,H8,Corrosives,6526.09,,IL,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+158,Y31,A1010 Metal wastes and waste consisting of alloys of any of the following: ,,,H12,Ecotoxic,108.21,"FR,BE",DE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+159,Y31,"A1020 Waste having as constituents or contaminants, excluding metal waste in massive form, 1020 and the note on B1020 in Annex III to this Regulation, Part 1(b)- Tellurium; tellurium compounds",,6.1,H6.1,Poisonous(acute),61.57,,BE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+160,Y31,"A1020 Waste having as constituents or contaminants, excluding metal waste in massive form, 1020 and the note on B1020 in Annex III to this Regulation, Part 1(b)- Tellurium; tellurium compounds",,6.1,H6.1,Poisonous(acute),149.6399,,BE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+161,Y31,"A1020 Waste having as constituents or contaminants, excluding metal waste in massive form, 1020 and the note on B1020 in Annex III to this Regulation, Part 1(b)- Tellurium; tellurium compounds",,6.1,H6.1,Poisonous(acute),267.36,,PL,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+162,Y31,"A1020 Waste having as constituents or contaminants, excluding metal waste in massive form, 1020 and the note on B1020 in Annex III to this Regulation, Part 1(b)- Tellurium; tellurium compounds",,6.1,H6.1,Poisonous(acute),166.8,,PL,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+163,Y31,"A1020 Waste having as constituents or contaminants, excluding metal waste in massive form, 1020 and the note on B1020 in Annex III to this Regulation, Part 1(b)- Tellurium; tellurium compounds",,6.1,"H6.1,H12","Poisonous(acute)
+Ecotoxic",1681.72,,BE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+164,Y31,"A1020 Waste having as constituents or contaminants, excluding metal waste in massive form, 1020 and the note on B1020 in Annex III to this Regulation, Part 1(b)- Tellurium; tellurium compounds",,8,H12,Ecotoxic,2430.64,,DE,,R2,United Kingdom of Great Britain and Northern Ireland,2015
+165,Y31,"A1020 Waste having as constituents or contaminants, excluding metal waste in massive form, 1020 and the note on B1020 in Annex III to this Regulation, Part 1(b)- Tellurium; tellurium compounds",,8,H12,Ecotoxic,3318.5,,DE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+166,Y31,"A1020 Waste having as constituents or contaminants, excluding metal waste in massive form, 1020 and the note on B1020 in Annex III to this Regulation, Part 1(b)- Tellurium; tellurium compounds",,8,H12,Ecotoxic,259.8399,,PL,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+167,Y31,"A1020 Waste having as constituents or contaminants, excluding metal waste in massive form, 1020 and the note on B1020 in Annex III to this Regulation, Part 1(b)- Tellurium; tellurium compounds",,8,H12,Ecotoxic,1314.45,,PT,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+168,Y31,"A1020 Waste having as constituents or contaminants, excluding metal waste in massive form, 1020 and the note on B1020 in Annex III to this Regulation, Part 1(b)- Tellurium; tellurium compounds",,8,H12,Ecotoxic,1035.69,"BE,NL,DE,FR",PL,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+169,Y31,"A1020 Waste having as constituents or contaminants, excluding metal waste in massive form, 1020 and the note on B1020 in Annex III to this Regulation, Part 1(b)- Tellurium; tellurium compounds",,9,H12,Ecotoxic,1349.67,,PT,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+170,Y31,"A1020 Waste having as constituents or contaminants, excluding metal waste in massive form, 1020 and the note on B1020 in Annex III to this Regulation, Part 1(b)- Tellurium; tellurium compounds",,9,H12,Ecotoxic,2048.1,"DE,BE,FR",PL,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+171,Y31,"A1020 Waste having as constituents or contaminants, excluding metal waste in massive form, 1020 and the note on B1020 in Annex III to this Regulation, Part 1(b)- Tellurium; tellurium compounds",,,H12,Ecotoxic,401.94,,BE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+172,Y31,"A1020 Waste having as constituents or contaminants, excluding metal waste in massive form, 1020 and the note on B1020 in Annex III to this Regulation, Part 1(b)- Tellurium; tellurium compounds",,,H12,Ecotoxic,1809.82,,SE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+173,Y31,"A1020 Waste having as constituents or contaminants, excluding metal waste in massive form, 1020 and the note on B1020 in Annex III to this Regulation, Part 1(b)- Tellurium; tellurium compounds",,,,Not applicable,19.46,"BE,DE",PL,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+174,Y31,"A1160 Waste lead-acid batteries, whole or crushed ",,8,H8,Corrosives,335.51,,BE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+175,Y31,"A1160 Waste lead-acid batteries, whole or crushed ",,8,H8,Corrosives,3480.14,FR,ES,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+176,Y31,A2010 Glass waste from cathode-ray tubes and other activated glasses Note that mirror entry on list B (B1160) does not specify exceptions. (3) PCBs at a concentration level of 50mg/kg or more.,,9,H11,Toxic(delayed or chronic),998.38,,NL,,"R5,R12",United Kingdom of Great Britain and Northern Ireland,2015
+177,Y31,A2010 Glass waste from cathode-ray tubes and other activated glasses Note that mirror entry on list B (B1160) does not specify exceptions. (3) PCBs at a concentration level of 50mg/kg or more.,,9,H12,Ecotoxic,413.98,"BE,FR",NL,,"R4,R5,R13",United Kingdom of Great Britain and Northern Ireland,2015
+178,Y31,A4100 Wastes from industrial pollution control devices for cleaning of industrial off-gases but excluding such wastes specified on list B ,,6.1,H6.1,Poisonous(acute),12.54,"FR,BE",DE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+179,Y31,Monitors,,,,Not applicable,2.009999,,FR,,"R4,R5",United Kingdom of Great Britain and Northern Ireland,2015
+180,Y31,"AA010 Dross, scalings and other wastes from the manufacture of iron or steel",,9,"H11,H12","Toxic(delayed or chronic)
+Ecotoxic",544.95,,FR,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+181,Y31,"Tin, tin/lead, lead/tin containing scrap dross,ash and fines, including solder scrap and dross",,6.1,H6.1,Poisonous(acute),61.74,,PL,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+182,"Y31,Y34","A1160 Waste lead-acid batteries, whole or crushed ",,8,H8,Corrosives,543.1699,,BE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+183,"Y31,Y34","A1160 Waste lead-acid batteries, whole or crushed ",,8,H8,Corrosives,164.37,,FR,,R12,United Kingdom of Great Britain and Northern Ireland,2015
+184,"Y31,Y34","A1160 Waste lead-acid batteries, whole or crushed ",,8,H8,Corrosives,93.71,FR,BE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+185,"Y31,Y34","A1160 Waste lead-acid batteries, whole or crushed ",,"8,9",H12,Ecotoxic,226.93,,BE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+186,Y32,AD120 Ion exchange resins. ,,,,,12.24,,JP,,R3,United Kingdom of Great Britain and Northern Ireland,2015
+187,Y34,"A4090 Waste acidic or basic solutions, other than those specified in the corresponding entry on list B (note the related entry on list B, B2120) ",,8,"H8,H14",Corrosives,103.62,,BE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+188,"Y36,Y42",A4130 Waste packages and containers containing Annex I substances in concentrations sufficient to exhibit Annex III hazard characteristics ,,2.1,"H3,H11","Inflammable liquids
+Toxic(delayed or chronic)",72.56,,DE,,"R2,R4",United Kingdom of Great Britain and Northern Ireland,2015
+189,"Y36,Y42",Empty and presure less cylinders containing the rest of acetylene,,2.1,"H11,H12","Toxic(delayed or chronic)
+Ecotoxic",918.76,"DE,BE,NL",CZ,,"R4,R12",United Kingdom of Great Britain and Northern Ireland,2015
+190,"Y36,Y42",Empty and presure less cylinders containing the rest of acetylene,,9,"H11,H12","Toxic(delayed or chronic)
+Ecotoxic",132.51,"DE,BE,NL",CZ,,"R4,R12",United Kingdom of Great Britain and Northern Ireland,2015
+191,Y4,"A4030 Wastes from the production, formulation and use of biocides and phytopharmaceuticals, including waste pesticides and herbicides which are off-specification, out-dated15, or unfit for their originally intended use ",,"6.1,9","H6.1,H12","Poisonous(acute)
+Ecotoxic",37.59,,NL,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+192,Y41,A3160 Waste halogenated or unhalogenated non-aqueous distillation residues arising from organic solvent recovery operations ,,6.1,H6.1,Poisonous(acute),166.22,,BE,,R2,United Kingdom of Great Britain and Northern Ireland,2015
+193,Y42,A3140 Waste non-halogenated organic solvents but excluding such wastes specified on list B ,,3,H3,Inflammable liquids,1693.78,BE,FR,,R2,United Kingdom of Great Britain and Northern Ireland,2015
+194,Y46,AC170 Treated cork and wood wastes ,,,,Not applicable,27110.37,DE,SE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+195,Y46,Material source for SRF production,,,,Not applicable,282.94,,PT,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+196,Y46,Monitors,,,,Not applicable,43.05,,RO,,"R4,R5",United Kingdom of Great Britain and Northern Ireland,2015
+197,Y46,Refuse derived fuel (RDF),,,,Not applicable,45841.49,,BE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+198,Y46,Refuse derived fuel (RDF),,,,Not applicable,2850.39,,BG,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+199,Y46,Refuse derived fuel (RDF),,,,Not applicable,8305.67,,CY,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+200,Y46,Refuse derived fuel (RDF),,,,Not applicable,98294.34,,DE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+201,Y46,Refuse derived fuel (RDF),,,,Not applicable,11465.35,,DE,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+202,Y46,Refuse derived fuel (RDF),,,,Not applicable,6363.94,,DE,,R12,United Kingdom of Great Britain and Northern Ireland,2015
+203,Y46,Refuse derived fuel (RDF),,,,Not applicable,94168.79,,DK,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+204,Y46,Refuse derived fuel (RDF),,,,Not applicable,8794.86,,DK,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+205,Y46,Refuse derived fuel (RDF),,,,Not applicable,28017.59,,DK,,"R1,R13",United Kingdom of Great Britain and Northern Ireland,2015
+206,Y46,Refuse derived fuel (RDF),,,,Not applicable,10794.77,,DK,,R12,United Kingdom of Great Britain and Northern Ireland,2015
+207,Y46,Refuse derived fuel (RDF),,,,Not applicable,10641.36,,EE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+208,Y46,Refuse derived fuel (RDF),,,,Not applicable,18632.12,,FR,,"R1,R13",United Kingdom of Great Britain and Northern Ireland,2015
+209,Y46,Refuse derived fuel (RDF),,,,Not applicable,1152248.0,,NL,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+210,Y46,Refuse derived fuel (RDF),,,,Not applicable,158.6399,,NL,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+211,Y46,Refuse derived fuel (RDF),,,,Not applicable,3737.21,,NL,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+212,Y46,Refuse derived fuel (RDF),,,,Not applicable,651.64,,NL,,R12,United Kingdom of Great Britain and Northern Ireland,2015
+213,Y46,Refuse derived fuel (RDF),,,,Not applicable,95548.02,,NO,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+214,Y46,Refuse derived fuel (RDF),,,,Not applicable,33319.42,,PT,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+215,Y46,Refuse derived fuel (RDF),,,,Not applicable,2768.59,,PT,,R3,United Kingdom of Great Britain and Northern Ireland,2015
+216,Y46,Refuse derived fuel (RDF),,,,Not applicable,255033.8,,SE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+217,Y46,Refuse derived fuel (RDF),,,,Not applicable,5977.42,,SE,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+218,Y46,Refuse derived fuel (RDF),,,,Not applicable,18023.59,BE,DE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+219,Y46,Refuse derived fuel (RDF),,,,Not applicable,42980.75,"BE,FR",DE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+220,Y46,Refuse derived fuel (rdf),,,,Not applicable,8030.15,"BE,FR",DE,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+221,Y46,Refuse derived fuel (RDF),,,,Not applicable,24360.57,"BE,FR",NL,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+222,Y46,Refuse derived fuel (RDF),,,,Not applicable,37303.74,"BE,FR,NL",DE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+223,Y46,Refuse derived fuel (RDF),,,,Not applicable,20139.33,"BE,FR,NL",DE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+224,Y46,Refuse derived fuel (RDF),,,,Not applicable,54170.44,DE,DK,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+225,Y46,Refuse derived fuel (RDF),,,,Not applicable,7980.4,DE,DK,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+226,Y46,Refuse derived fuel (RDF),,,,Not applicable,52914.64,DE,LV,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+227,Y46,Refuse derived fuel (RDF),,,,Not applicable,150699.9,DE,SE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+228,Y46,Refuse derived fuel (RDF),,,,Not applicable,8054.0,DE,SE,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+229,Y46,Refuse derived fuel (rdf),,,,Not applicable,3650.16,"DE,DK",SE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+230,Y46,Refuse derived fuel (RDF),,,,Not applicable,8272.98,"DE,DK,PL",SE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+231,Y46,Refuse derived fuel (RDF),,,,Not applicable,2715.42,"DE,FR,DK",SE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+232,Y46,Refuse derived fuel (RDF),,,,Not applicable,7538.49,"DK,NL",SE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+233,Y46,Refuse derived fuel (RDF),,,,Not applicable,14020.46,FR,BE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+234,Y46,Refuse derived fuel (RDF),,,,Not applicable,66.73999,FR,BE,,R12,United Kingdom of Great Britain and Northern Ireland,2015
+235,Y46,Refuse derived fuel (RDF),,,,Not applicable,4315.56,"FR,BE",DE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+236,Y46,Refuse derived fuel (RDF),,,,Not applicable,4394.57,"FR,BE",DE,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+237,Y46,Refuse derived fuel (RDF),,,,Not applicable,12914.67,"FR,BE",NL,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+238,Y46,Refuse derived fuel (RDF),,,,Not applicable,46402.9,"BE,FR,NL",DE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+239,Y46,Refuse derived fuel (RDF),,,,Not applicable,1282.24,"BE,FR,NL",DE,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+240,Y46,Refuse derived fuel (RDF),,,,Not applicable,6259.95,"BE,FR,NL",DE,,R12,United Kingdom of Great Britain and Northern Ireland,2015
+241,Y46,Refuse derived fuel (RDF),,,,Not applicable,71185.35,"BE,FR,NL",DE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+242,Y46,Refuse derived fuel (RDF),,,,Not applicable,4391.83,"BE,FR,NL",DE,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+243,Y46,Refuse derived fuel (RDF),,,,Not applicable,187209.5,NL,DE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+244,Y46,Refuse derived fuel (RDF),,,,Not applicable,240.89,NL,DE,,R12,United Kingdom of Great Britain and Northern Ireland,2015
+245,Y46,Refuse derived fuel (RDF),,,,Not applicable,7657.55,NL,NO,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+246,Y46,Refuse derived fuel (RDF),,,,Not applicable,1699.52,NL,PT,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+247,Y46,Refuse derived fuel (RDF),,,,Not applicable,6072.1,NL,PT,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+248,Y46,Refuse derived fuel (RDF),,,,Not applicable,233.81,"BE,NL",DE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+249,Y46,Refuse derived fuel (RDF),,,,Not applicable,36967.67,"BE,FR,NL",DE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+250,Y46,Refuse derived fuel (RDF),,,,Not applicable,1359.69,"BE,FR,NL",DE,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+251,Y46,Refuse derived fuel (RDF),,,,Not applicable,16522.74,"DE,NL",SE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+252,Y46,Refuse derived fuel (RDF),,,,Not applicable,46176.48,"BE,FR,NL",DE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+253,Y46,Refuse derived fuel (RDF),,,,Not applicable,8495.01,"BE,FR,NL",DE,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+254,Y46,Refuse derived fuel (RDF),,,,Not applicable,9545.07,"BE,FR,NL",DE,,"R1,R12,R13",United Kingdom of Great Britain and Northern Ireland,2015
+255,Y46,Refuse derived fuel (RDF),,,,Not applicable,24.62,"BE,FR,NL",DE,,R12,United Kingdom of Great Britain and Northern Ireland,2015
+256,Y46,Refuse derived fuel (rdf),,,,Not applicable,8938.7,"RU,DE",SE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+257,Y46,Refuse derived fuel (RDF),,,,Not applicable,3069.81,SE,DK,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+258,Y46,Solid recovered fuel (SRF),,,,Not applicable,386.27,,FR,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+259,Y46,Solid recovered fuel (SRF),,,,Not applicable,16961.93,,LV,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+260,Y46,Solid recovered fuel (SRF),,,,Not applicable,1599.04,,PT,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+261,Y46,Solid recovered fuel (SRF),,,,Not applicable,32079.86,DE,LV,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+262,Y47,Incinerator bottom ash,,,,Not applicable,18379.11,,NL,,"R4,R5,R12",United Kingdom of Great Britain and Northern Ireland,2015
+263,Y47,Non ferrous metal concentrate,,,,Not applicable,103.28,"FR,BE",NL,,R12,United Kingdom of Great Britain and Northern Ireland,2015
+264,Y47,Non ferrous metal concentrate,,,,Not applicable,768.9,"FR,BE",NL,,"R4,R5,R12",United Kingdom of Great Britain and Northern Ireland,2015
+265,Y5,AC170 Treated cork and wood wastes ,,,,Not applicable,9529.65,,BE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+266,Y5,AC170 Treated cork and wood wastes ,,,,Not applicable,1791.75,,BE,,R3,United Kingdom of Great Britain and Northern Ireland,2015
+267,Y5,AC170 Treated cork and wood wastes ,,,,Not applicable,25127.38,,DE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+268,Y5,AC170 Treated cork and wood wastes ,,,,Not applicable,5287.07,,DE,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+269,Y5,AC170 Treated cork and wood wastes ,,,,Not applicable,6313.1,,FI,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+270,Y5,AC170 Treated cork and wood wastes ,,,,Not applicable,116622.6,,NL,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+271,Y5,AC170 Treated cork and wood wastes ,,,,Not applicable,110.0,,SE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+272,Y5,AC170 Treated cork and wood wastes ,,,,Not applicable,21673.69,,SE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+273,Y5,AC170 Treated cork and wood wastes ,,,,Not applicable,21398.45,DE,FI,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+274,Y5,AC170 Treated cork and wood wastes ,,,,Not applicable,148537.2,DE,SE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+275,Y5,AC170 Treated cork and wood wastes ,,,,Not applicable,9960.61,DE,SE,,"R1,R13",United Kingdom of Great Britain and Northern Ireland,2015
+276,Y5,AC170 Treated cork and wood wastes ,,,,Not applicable,32148.27,FR,BE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+277,Y5,AC170 Treated cork and wood wastes ,,,,Not applicable,7967.78,FR,BE,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+278,Y5,AC170 Treated cork and wood wastes ,,,,Not applicable,1281.2,"BE,FR,NL",DE,,R12,United Kingdom of Great Britain and Northern Ireland,2015
+279,Y5,AC170 Treated cork and wood wastes ,,,,Not applicable,4373.84,,NL,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+280,Y5,AC170 Treated cork and wood wastes ,,,,Not applicable,37086.75,DE,SE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+281,Y6,A3140 Waste non-halogenated organic solvents but excluding such wastes specified on list B ,,3,H3,Inflammable liquids,166.72,,BE,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+282,Y6,A3140 Waste non-halogenated organic solvents but excluding such wastes specified on list B ,,3,H3,Inflammable liquids,2755.74,,BE,,"R1,R13",United Kingdom of Great Britain and Northern Ireland,2015
+283,Y6,A4160 Spent activated carbon not included on list B,,4.1,H4.1,Inflammable solids,186.8,BE,DE,,R7,United Kingdom of Great Britain and Northern Ireland,2015
+284,Y6,Solids and sludges containing solvents,,"3,4.1,6.1","H3,H4.1,H6.1","Inflammable liquids
+Inflammable solids
+Poisonous(acute)",1986.67,,DE,,R3,United Kingdom of Great Britain and Northern Ireland,2015
+285,Y6,Solids and sludges containing solvents,,"3,4.1,9","H3,H4.1,H11","Inflammable liquids
+Inflammable solids
+Toxic(delayed or chronic)",43.88,BE,DE,,"R1,R4,R12",United Kingdom of Great Britain and Northern Ireland,2015
+286,Y6,Solids and sludges containing solvents,,"4.1,9","H4.1,H11","Inflammable solids
+Toxic(delayed or chronic)",319.02,NL,DE,,"R1,R4,R12",United Kingdom of Great Britain and Northern Ireland,2015
+287,"Y6,Y11,Y12,Y13,Y39","A3050 Wastes from production, formulation and use of resins, latex, plasticisers, glues/adhesives excluding such wastes specified on list B (note the related entry on list B, B4020) ",,"4.1,6.1","H4.1,H6.1","Inflammable solids
+Poisonous(acute)",1211.92,,BE,,"R1,R13",United Kingdom of Great Britain and Northern Ireland,2015
+288,"Y6,Y11,Y12,Y13,Y39","A3050 Wastes from production, formulation and use of resins, latex, plasticisers, glues/adhesives excluding such wastes specified on list B (note the related entry on list B, B4020) ",,"4.1,6.1,8","H4.1,H6.1,H8","Inflammable solids
+Poisonous(acute)
+Corrosives",125.91,,BE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+289,"Y6,Y11,Y12,Y13,Y39","A3050 Wastes from production, formulation and use of resins, latex, plasticisers, glues/adhesives excluding such wastes specified on list B (note the related entry on list B, B4020) ",,"4.1,6.1,8","H4.1,H6.1,H8","Inflammable solids
+Poisonous(acute)
+Corrosives",163.65,,NL,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+290,"Y6,Y11,Y12,Y13,Y39","A3050 Wastes from production, formulation and use of resins, latex, plasticisers, glues/adhesives excluding such wastes specified on list B (note the related entry on list B, B4020) ",,"4.1,6.1,8,9","H4.1,H6.1,H8,H12","Inflammable solids
+Poisonous(acute)
+Corrosives
+Ecotoxic",971.02,,NL,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+291,"Y6,Y11,Y12,Y13,Y39",Solids and sludges containing solvents,,"3,4.1,6.1,9","H3,H4.1,H9","Inflammable liquids
+Inflammable solids",181.81,,BE,,"R1,R12",United Kingdom of Great Britain and Northern Ireland,2015
+292,Y8,A3020 Waste mineral oils unfit for their originally intended use ,,9,H12,Ecotoxic,599.7,,ES,,R9,United Kingdom of Great Britain and Northern Ireland,2015
+293,Y8,A3020 Waste mineral oils unfit for their originally intended use ,,9,H12,Ecotoxic,3182.25,,FR,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+294,Y8,A3020 Waste mineral oils unfit for their originally intended use ,,9,H12,Ecotoxic,4638.25,,NO,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+295,Y8,A3020 Waste mineral oils unfit for their originally intended use ,,9,H12,Ecotoxic,4604.12,,SE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+296,Y8,A3020 Waste mineral oils unfit for their originally intended use ,,9,H12,Ecotoxic,71.28,BE,ES,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+297,Y8,A3020 Waste mineral oils unfit for their originally intended use ,,9,H12,Ecotoxic,2162.77,BE,FR,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+298,Y8,A3020 Waste mineral oils unfit for their originally intended use ,,9,H12,Ecotoxic,105.02,BE,FR,,R9,United Kingdom of Great Britain and Northern Ireland,2015
+299,Y8,A3020 Waste mineral oils unfit for their originally intended use ,,9,H12,Ecotoxic,77.25,"FR,BE,DE,AT,HU,RO",BG,,R9,United Kingdom of Great Britain and Northern Ireland,2015
+300,Y8,"A4060 Waste oils/water, hydrocarbons/water mixtures, emulsions ",,9,H12,Ecotoxic,375.3,,FR,,R3,United Kingdom of Great Britain and Northern Ireland,2015
+301,"Y8,Y9",A3020 Waste mineral oils unfit for their originally intended use ,,9,H12,Ecotoxic,246.33,"AT,RO,DE,FR,BE",BG,,R9,United Kingdom of Great Britain and Northern Ireland,2015
+302,"Y8,Y9,Y31,Y36","Vessels - Landing craft Arakan and Ardennes, coastguard vessel Lorna, torpedo recovery vessels Torch and Torrent",,"3,4.1,5.1,8,11","H3,H4.1,H5.1,H8,H11","Inflammable liquids
+Inflammable solids
+Oxidizing
+Corrosives
+Toxic(delayed or chronic)",2723.3,NL,BE,,"R4,R12",United Kingdom of Great Britain and Northern Ireland,2015
+303,Y9,A3020 Waste mineral oils unfit for their originally intended use ,,9,H12,Ecotoxic,29617.86,,DK,,R9,United Kingdom of Great Britain and Northern Ireland,2015
+304,Y9,"A4060 Waste oils/water, hydrocarbons/water mixtures, emulsions ",,9,H12,Ecotoxic,1035.76,,FR,,R3,United Kingdom of Great Britain and Northern Ireland,2015
+305,Y9,"A4060 Waste oils/water, hydrocarbons/water mixtures, emulsions ",,9,,,495.42,,IE,,R9,United Kingdom of Great Britain and Northern Ireland,2015
+306,Y9,"A4060 Waste oils/water, hydrocarbons/water mixtures, emulsions ",,,H14,,78.68,,IE,,R9,United Kingdom of Great Britain and Northern Ireland,2015
+307,Y9,"A4060 Waste oils/water, hydrocarbons/water mixtures, emulsions ",,,H7,Carcinogenic,733.37,,DE,,R3,United Kingdom of Great Britain and Northern Ireland,2015
+308,Y9,"A4060 Waste oils/water, hydrocarbons/water mixtures, emulsions ",,,H7,Carcinogenic,1597.4,,DE,,R3,United Kingdom of Great Britain and Northern Ireland,2015
+309,Y9,"Wiping rags, absorbent, filter materials containing oil",,,,Not applicable,3807.66,,NL,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+310,Y9,"Wiping rags, absorbent, filter materials containing oil (10-20% oil)",,,,Not applicable,672.54,,DE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+311,"Y9,Y10,Y20,Y26,Y29,Y31,Y36",Ex-warships,,"3,5.1,6,6.1,9","H3,H5.1,H6.1,H11,H12","Inflammable liquids
+Oxidizing
+Poisonous(acute)
+Toxic(delayed or chronic)
+Ecotoxic",11634.0,,TR,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+312,"Y9,Y12","Filter cakes, filter media and sludges containing metals, phosphates, paint, oil, grease and water",,,"H7,H12","Carcinogenic
+Ecotoxic",81.08,BE,DE,,"R1,R4,R12",United Kingdom of Great Britain and Northern Ireland,2015
+313,Y2,Redundant Pharmaceuticals,,,H5,,619.0,,NL,,R3,United Kingdom of Great Britain and Northern Ireland,2015
+314,Y13,Adhesive Sludge,,,H3,,89.0,,NL,,"R1,R4",United Kingdom of Great Britain and Northern Ireland,2015
+315,Y9,Waste Oil,,,H12,,2912.0,,IE,,R9,United Kingdom of Great Britain and Northern Ireland,2015
+316,Y18,Contaminated rags & Absorbents,,,"H4.1,H3",,511.0,,NL,,"R3,R4",United Kingdom of Great Britain and Northern Ireland,2015
+317,Y18,Contaminated rags & Absorbents,,,"H4.1,H3",,185.0,,DE,,"R3,R4",United Kingdom of Great Britain and Northern Ireland,2015
+318,Y35,Kevlar Polymer,,,H8,,593.0,,NL,,"R1,R4",United Kingdom of Great Britain and Northern Ireland,2015
+319,Y_,Dry Mixed Recyclates (Shred It),,,H4.1,,6.7,,IE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+320,Y31,CRT's,,,H12,,618.0,,NL,,"R5,R12",United Kingdom of Great Britain and Northern Ireland,2015
+321,Y_,Tank Bottom Sludge,,,H4.1,,44.0,,BE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+322,Y12,Waste Paint Thinner,,,H4.1,,89.0,,BE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+323,Y12,Waste Paint Thinner,,,H4.1,,266.0,,NL,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+324,Y18,Healthcare waste,,,,,5507.0,,IE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+325,Y46,Treated wood,,,,,3578.0,,SE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+326,11B,"DISCARDED EQUIPMENT CONTAINING CHOLOFLUOROCARDONS, HCFC, HFC",,,,,37.94,,ES,,"R4,R5,R13",United Kingdom of Great Britain and Northern Ireland,2015
+327,11B,"DISCARDED EQUIPMENT CONTAINING HAZARDOUS COMPONENTS OTHER THAN THOSE MENTIONED IN 16 02 03  TO 16 02 12, EWL 16 02 13*",,,,,130.75,,ES,,"R4,R5,R13",United Kingdom of Great Britain and Northern Ireland,2015
+328,11B,Organic wastes containing dangerous substances,,,,,4.45,,ES,,R13,United Kingdom of Great Britain and Northern Ireland,2015
+329,11B,ABSORBENTS,,,,,1.46,,ES,,R12,United Kingdom of Great Britain and Northern Ireland,2015
+330,11B,OTHER SOLVENTS & SOLVENT MIXTURES,,,,,156.0,,ES,,R12,United Kingdom of Great Britain and Northern Ireland,2015
+331,11B,Other fuels (including mixtures),,,,,0.698999,,ES,,R12,United Kingdom of Great Britain and Northern Ireland,2015
+332,11B,WASTE OIL WITH WATER,,,,,46.5,,ES,,R3,United Kingdom of Great Britain and Northern Ireland,2015
+333,11B,Bilge oils,,,,,204.0,,ES,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+334,11B,Sodium and potassium hydroxide,,,,,4.49,,ES,D9,,United Kingdom of Great Britain and Northern Ireland,2015
+335,11B,"Absorbents, filter materials (including oil filters not otherwise specified), wiping cloths, protective clothing contaminated by dangerous substances",,,,,15.48,,ES,D5,,United Kingdom of Great Britain and Northern Ireland,2015
+336,11B,Fly ash containing dangerous substances,,,,,5.05,,ES,D9,,United Kingdom of Great Britain and Northern Ireland,2015
+337,11B,Bottom ash and slag containing dangerous substances,,,,,12.0,,ES,D9,,United Kingdom of Great Britain and Northern Ireland,2015
+338,11B,Sludges from oil/water separators,,,,,8.0,,ES,D9,,United Kingdom of Great Britain and Northern Ireland,2015
+339,11B,Other halogenated solvents and solvent mixtures,,,,,1.0,,ES,D9,,United Kingdom of Great Britain and Northern Ireland,2015
+340,11B,Other acids,,,,,1.891999,,ES,D9,,United Kingdom of Great Britain and Northern Ireland,2015
+341,11B,Soild salts and solutions containing heavy metals,,,,,1.0,,ES,D9,,United Kingdom of Great Britain and Northern Ireland,2015
+342,11B,Other fuels (including mixtures),,,,,3304.67,,ES,,R9,United Kingdom of Great Britain and Northern Ireland,2015
+343,11B,"Bilge oils from jetty sewers, bilge oils from other navigation",,,,,6052.85,,ES,,R3,United Kingdom of Great Britain and Northern Ireland,2015
+344,11B,Construction materials containing asbestos,,,,,210.8,,ES,"D5,D9",,United Kingdom of Great Britain and Northern Ireland,2015
+345,11B,Waste paint and varnish containing organic solvents or other dangerous substances,,,,,20.57,,ES,"D15,D9",,United Kingdom of Great Britain and Northern Ireland,2015
+346,11B,Wastes whose collection and disposal is subject to special requirements in order to prevent infection 18 01 03*,,,,,116.0,,ES,D9,,United Kingdom of Great Britain and Northern Ireland,2015
+347,11B,Waste printing toner containing dangerous substances waste ink containing dangerous substances,,,,,1.2,,ES,,"R12,R5",United Kingdom of Great Britain and Northern Ireland,2015
+348,11B,Discarded electrical and electronic equipment other than those mentioned in 20 01 21 and 20 01 23 containing hazardous components,,,,,40.06199,,ES,,"R13,R5",United Kingdom of Great Britain and Northern Ireland,2015
+349,11B,Fluorescent tubes and other mercury-containing waste,,,,,1.569,,ES,,"R13,R5",United Kingdom of Great Britain and Northern Ireland,2015
+350,11B,"Batteries and accumulators included in 16 06 01, 16 06 02 or 16 06 03 and unsorted batteries and accumulators containing these batteries",,,,,0.632,,ES,,"R13,R5",United Kingdom of Great Britain and Northern Ireland,2015
+351,11B,Discarded equipment containing chlorofluorocarbons,,,,,0.32,,ES,,"R13,R4,R5",United Kingdom of Great Britain and Northern Ireland,2015
+352,11B,Soil and stones containing dangerous substances,,,,,221.86,,ES,D9,,United Kingdom of Great Britain and Northern Ireland,2015
+353,11B,Construction materials containing asbestos,,,,,48.0,,ES,D5,,United Kingdom of Great Britain and Northern Ireland,2015
+354,11B,Waste paint and varnish containing organic solvents or other dangerous substances,,,,,5.96,,ES,,"R13,R12",United Kingdom of Great Britain and Northern Ireland,2015
+355,11B,Gases in pressure containers (including halons) containing dangerous substances,,,,,0.56,,ES,,"R13,R4",United Kingdom of Great Britain and Northern Ireland,2015
+356,11B,Oil filters,,,,,1.34,,ES,,"R13,R4",United Kingdom of Great Britain and Northern Ireland,2015
+357,11B,Lead batteries,,,,,32.32,,ES,,"R4,R5,R6",United Kingdom of Great Britain and Northern Ireland,2015
+358,11B,Sludges containing dangerous substances from biological treatment of industrial waste water,,,,,38.5,,ES,D9,,United Kingdom of Great Britain and Northern Ireland,2015
+359,11B,"Absorbents, filter materials (including oil filters not otherwise specified), wiping cloths, protective clothing contaminated by dangerous substances",,,,,3.174999,,ES,,R12,United Kingdom of Great Britain and Northern Ireland,2015
+360,11B,Oil filters,,,,,0.562999,,ES,,R12,United Kingdom of Great Britain and Northern Ireland,2015
+361,11B,Packaging containing residues of or contaminated by dangerous substance,,,,,4.2,,ES,,R3,United Kingdom of Great Britain and Northern Ireland,2015
+362,11B,Waste blasting material containing dangerous substances,,,,,3351.57,,ES,"D9,D5",,United Kingdom of Great Britain and Northern Ireland,2015
+363,11B,Construction materials containing asbestos,,,,,12.0,,ES,D5,,United Kingdom of Great Britain and Northern Ireland,2015
+364,11B,"Absorbents, filter materials (including oil filters not otherwise specified), wiping cloths, protective clothing contaminated by dangerous substances",,,,,2.15,,ES,,"R13,R7",United Kingdom of Great Britain and Northern Ireland,2015
+365,11B,Other solvents and solvent mixtures,,,,,0.8,,ES,,"R13,R2",United Kingdom of Great Britain and Northern Ireland,2015
+366,11B,Other fuels (including mixtures),,,,,3.3,,ES,,"R13,R1",United Kingdom of Great Britain and Northern Ireland,2015
+367,11B,Waste blasting material containing dangerous substances,,,,,0.6,,ES,D9,,United Kingdom of Great Britain and Northern Ireland,2015
+368,11B,Bottom ash and slag containing dangerous substances,,,,,0.7,,ES,D9,,United Kingdom of Great Britain and Northern Ireland,2015
+369,11B,Waste paint and varnish containing organic solvents or other dangerous substances,,,,,3.7,,ES,,"R13,R12",United Kingdom of Great Britain and Northern Ireland,2015
+370,11B,"Laboratory chemicals, consisting of or containing dangerous substances, including mixtures of laboratory chemicals",,,,,0.45,,ES,"D15,D10",,United Kingdom of Great Britain and Northern Ireland,2015
+371,11B,BILGE OILS,,,,,70.5,,ES,,R3,United Kingdom of Great Britain and Northern Ireland,2015
+372,11B,Discarded equipment containing hazardous components (16) other than those mentioned in,,,,,242.57,,ES,,"R4,R5,R13",United Kingdom of Great Britain and Northern Ireland,2015
+373,11B,"Discarded equipment containing chlorofluorocarbons, HCFC, HFC 16 02 09 to 16 02 12",,,,,54.08,,ES,,"R4,R5,R13",United Kingdom of Great Britain and Northern Ireland,2015
+374,11B,Lead Batteries,,,,,45.86,,ES,,"R4,R13",United Kingdom of Great Britain and Northern Ireland,2015
+375,11B,"Absorbents, filter materials (including oil filters not otherwise specified), wiping cloths protective clothing contaminated by dangerous substances",,,,,6.16,,ES,D5,,United Kingdom of Great Britain and Northern Ireland,2015
+376,11B,Sludges from oil/water separators,,,,,6.0,,ES,D9,,United Kingdom of Great Britain and Northern Ireland,2015
+377,11B,Packaging containing residues of or contaminated by dangerous substances,,,,,0.54,,ES,,"R13,R3,R4",United Kingdom of Great Britain and Northern Ireland,2015
+378,11B,Sodium and potassium hydroxide,,,,,2.06,,ES,D9,,United Kingdom of Great Britain and Northern Ireland,2015
+379,11B,Fly ash containing dangerous substances,,,,,1.45,,ES,D9,,United Kingdom of Great Britain and Northern Ireland,2015
+380,11B,Bottom ash and slag containing dangerous substances,,,,,8.4,,ES,D9,,United Kingdom of Great Britain and Northern Ireland,2015
+381,11B,Waste Ink & Toner,,,,,0.6,,ES,,R12,United Kingdom of Great Britain and Northern Ireland,2015
+382,11B,Construction materials containing asbestos,,,,,61.04,,ES,D5,,United Kingdom of Great Britain and Northern Ireland,2015
+383,11B,Waste Paint & Varnish containing organis solvents or other dangerous substances,,,,,40.2,,ES,D9,,United Kingdom of Great Britain and Northern Ireland,2015
+384,11B,Physio-chemical treatment not specified on list,,,,,24.0,,ES,D9,,United Kingdom of Great Britain and Northern Ireland,2015
+385,11B,Fluorescent tubes and other mercury-containing waste,,,,,0.603999,,ES,,"R13,R5",United Kingdom of Great Britain and Northern Ireland,2015
+386,11B,Discarded electrical equiptment other than those mentioned in 20 01,,,,,2.29,,ES,,"R13,R4,R5",United Kingdom of Great Britain and Northern Ireland,2015
+387,11B,Discarded equiptment containing chlorofluorocarbons,,,,,1.2,,ES,,"R13,R4,R5",United Kingdom of Great Britain and Northern Ireland,2015
+388,11B,"BILGE OILS FROM JETTY SEWERS, BILGE OILS FROM OTHER NAVIGATION",,,,,3059.92,,ES,,R3,United Kingdom of Great Britain and Northern Ireland,2015
+389,11B,Soil & Stones containing dangerous substances,,,,,37.4,,ES,D9,,United Kingdom of Great Britain and Northern Ireland,2015
+390,11B,Construction materials containing asbestos,,,,,2.6,,ES,D5,,United Kingdom of Great Britain and Northern Ireland,2015
+391,11B,Water Based Offset plate developer solutions,,,,,0.5,,ES,"D15,D9",,United Kingdom of Great Britain and Northern Ireland,2015
+392,11B,Waste Paint & Varnish containing organis solvents or other dangerous substances,,,,,4.599999,,ES,,"R13,R12,R1",United Kingdom of Great Britain and Northern Ireland,2015
+393,Y46,Refuse derived fuel,,,,,30052.83,,NL,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+394,Y46,Refuse derived fuel,,,,,25764.57,,SE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+395,Y46,Refuse derived fuel,,,,,6266.78,,DK,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+396,11B,Discarded electrical and electronic equipment,,,,,781.77,NL,DE,,"R12,R4",United Kingdom of Great Britain and Northern Ireland,2015
+397,11B,Mixtures from mechanical treatment of waste,,,"H7,H14",,1113.52,,NL,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+398,11B,Spent catalysts,,4.2,"H4.2,H12",,870.0,,FR,,"R4,R8",United Kingdom of Great Britain and Northern Ireland,2015
+399,Y46,Combustable Waste,,,,,17816.0,DE,SE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+400,Y46,Combustible Waste,,,,,1624.6,,PT,,R3,United Kingdom of Great Britain and Northern Ireland,2015
+401,11B,FES 3000 DPR Silicon Gels,,,H12,,1031.8,FR,BE,,"R12,R1",United Kingdom of Great Britain and Northern Ireland,2015
+402,Y46,Technology Employed Furnace Combustion,,,,,2985.9,,PT,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+403,Y46,Combined Heat & Power,,,,,7395.1,DE,SE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+404,Y46,Combustible Waste,,,,,11500.0,DE,DK,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+405,Y31,CRT Dismantling ,,,H13,,2656.8,,NL,,"R12,R5",United Kingdom of Great Britain and Northern Ireland,2015
+406,11B,FES 3000 DPR Silicon Gels,,,H12,,2553.3,"FR,BE,NL",DE,,"R12,R1",United Kingdom of Great Britain and Northern Ireland,2015
+407,Y46,Waste Wood Chip for Bioenergy based electricity Generation,,,,,27280.2,,NL,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+408,Y34,Spent Sulphuric Acid (liquid),,,"H3,H6.1,H8",,401.3,"FR,BE,NL",DE,,R6,United Kingdom of Great Britain and Northern Ireland,2015
+409,Y34,Incinerable Chlorosilane Waste,,,H4,,74.0,NL,DE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+410,Y46,Refuse Derived Fuel (Furnace Combustion),,,,,13423.4,,DK,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+411,Y23,Electric Arc Furnace dust,,,H12,,12172.5,,IT,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+412,Y46,Refuse Derived Fuel,,,,,10346.0,DE,DK,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+413,Y46,Combusible Waste,,,,,13854.1,DE,SE,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+414,Y46,Waste Wood Chip ,,,,,9516.0,DE,FI,,R1,United Kingdom of Great Britain and Northern Ireland,2015
+415,11B,Copper Rich Silicon,,,H12,,2562.6,FR,BE,,R4,United Kingdom of Great Britain and Northern Ireland,2015
+416,Y31,Chemical Stabilisation and Blending Granular Furnace Slag,,,H6,,1962.1,NL,NO,,R11,United Kingdom of Great Britain and Northern Ireland,2015
+417,11B,"Renewal of GB0004000010, FES 3000 DPR Silcone Gels",,,H12,,137.0,FR,BE,,"R12,R1",United Kingdom of Great Britain and Northern Ireland,2015
+418,Y31,Glass from CRT dismantling,,,H13,,435.5,"FR,BE",NL,,"R12,R5",United Kingdom of Great Britain and Northern Ireland,2015

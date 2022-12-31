@@ -1,8 +1,0 @@
-,annex_2_8_9_code,annex_1_code,national_code,type_of_waste,annex_3_code,amount,countries_of_transit ,country_of_destination,annex_4_a_code,annex_4_b_code,country,year
-0,A4010,Y3,,expired pharmaceutical,"H6.1,H11",25.0,,CY,"D8,D9",,Lebanon,2020
-1,A4010,Y3,,expired pharmaceuticals,"H6.1,H11",14.5,,FR,D10,,Lebanon,2020
-2,A4130,Y9,,packaging waste contaminated with hazardous substances,H12,3.48,,CY,,R12,Lebanon,2020
-3,A3180,Y10,,transformers and capacitors contaminated with PCB,H11,308.0,,FR,D10,,Lebanon,2020
-4,A4060,Y8,,oily sludge,H11,20.0,,GR,,"R1,R12",Lebanon,2020
-5,A4060,Y9,,drillings and cuttings contaminated with oils,H12,399.0,,CY,,"R3,R5,R12",Lebanon,2020
-6,A4060,Y9,,cuttings and slops contaminated with oils,H12,1262.0,,CY,,"R3,R5,R12",Lebanon,2020
