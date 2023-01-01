@@ -115,7 +115,7 @@ def get_dfs(url, driver, dl_folder, country, year, count, maxi):
             with warnings.catch_warnings(record=True):
                 warnings.simplefilter("always")
                 temp_df = pd.read_excel(f"{dl_folder}/{f}")
-        except Exception as e:
+        except Exception as err:
             msg = "".join(traceback.format_exception(type(err), err, err.__traceback__))
             dct["error"] = msg
             results.append(dct)
