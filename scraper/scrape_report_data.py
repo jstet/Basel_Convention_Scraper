@@ -51,7 +51,7 @@ op.add_argument('--headless')
 # using selenium to automate clicking on the right parts of the navbar and downloading excel file
 
 
-def get_dfs(url, driver, dl_folder, country, year, count, maxi):
+def get_dfs(driver, url, dl_folder, country, year, count, maxi):
     console.log(
         f"Trying national report {count}/{maxi}. \n Url: {url} \n belonging to {country} in year {year} \n")
 
@@ -60,7 +60,16 @@ def get_dfs(url, driver, dl_folder, country, year, count, maxi):
     
     for i in ["Export", "Import"]:
         console.log(f"Downloading {i}s")
-        driver.get(url)
+       
+        try:
+            driver.get(url)
+        except Exception as err:
+            msg = "".join(traceback.format_exception(type(err), err, err.__traceback__))
+            dct["error"] = msg
+            results.append(dct)
+            console.log(msg)
+            continue
+        
         driver.implicitly_wait(2)
 
         dct = {}
@@ -188,7 +197,6 @@ def get_dfs(url, driver, dl_folder, country, year, count, maxi):
 def download(reports):
     # initializing chrome driver
     chromedriver_autoinstaller.install()
-    driver = webdriver.Chrome(options=op)
     failed = []
     frames_exports = []
     frames_imports = []
@@ -196,10 +204,11 @@ def download(reports):
         year = reports.loc[i, "year"]
         country = reports.loc[i, "country"]
         link = reports.loc[i, "report_link"]
+        driver = webdriver.Chrome(options=op)
 
         try:
-            exports, imports = get_dfs(
-                link, driver, dl_folder, country, year, i+1, len(reports))
+            exports, imports = get_dfs(driver,
+                link, dl_folder, country, year, i+1, len(reports))
 
         except NoData as e:
             failed.append(
