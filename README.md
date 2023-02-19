@@ -1,5 +1,3 @@
-## data info
-Different columns starting 2015
 
 ## Helpful and other data sources
 - https://ewastemonitor.info/wp-content/uploads/2022/06/Global-TBM_webversion_june_2_pages.pdf p.22
