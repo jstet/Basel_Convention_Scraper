@@ -111,4 +111,8 @@ wsproto==1.2.0
 pypopulation
 sklearn
 scipy
+shapely
+geopandas
+matplotlib
+xlrd
 
